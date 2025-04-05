@@ -1,0 +1,225 @@
+KO'ed<#>Нокаут
+has fallen!<#>был повержен!
+is out!<#>вышел из строя!
+revives!<#>встаёт на ноги
+Poison<#>Отравление
+is poisoned!<#>отравлен!
+is freed of poison!<#>оправился от яда!
+Blind<#>Слепота
+becomes blind!<#>ослепает!
+is blinded!<#>ослеплен!
+is no longer blinded!<#>больше не слеп!
+Silence<#>Заглушение
+doesn't feel worthwhile.<#>не чувствует себя стоящим.
+wants to do cool moves again!<#>снова хочет делать крутые действия!
+Confusion<#>Замешательство
+became very confused...<#>глубоко замешан...
+is confused...<#>замешан...
+is no longer confused!<#>больше не замешан!
+Sleep<#>Сон
+falls asleep!<#>впадает в сон!
+is sleeping...<#>спит...
+wakes up!<#>пробуждается!
+Scared<#>Страх
+is scared...<#>напуган...
+is scared stiff.<#>сильно напуган.
+is no longer afraid!<#>больше не боится!
+Stun<#>Оглушение
+is stunned!<#>оглушён!
+regains focus!<#>собирается с силами!
+Guard<#>Защита
+Alive<#>Жив
+Cover<#>Защитить
+Rage<#>Гнев
+became enraged!<#>впадает в гнев!
+is enraged!<#>в гневе!
+calmed down.<#>успокоился.
+Hide<#>Прячется
+is hiding.<#>прячется.
+was found!<#>был найден!
+Bottle<#>Бутылка
+Broken Bones<#>Сломанные кости
+got some bones shattered!<#>получил пару переломов!
+feels the crunch!<#>слышит хруст!
+'s bones are mended!<#>восстановил кости!
+Ironbody<#>Железное тело
+is buffed up!<#>подкачался!
+Counterattack<#>Контр-атака
+Speedy<#>Скорость
+Solid<#>Твёрдость
+assumes a firm stance!<#>принимает крепкую стойку!
+is immovable!<#>непоколебим!
+lost his footing.<#>потерял равновесие.
+Fire Force<#>Сила огня
+acquires the power of fire!<#>обуздывает силу огня!
+Ice Force<#>Сила льда
+acquires the power of ice!<#>обуздывает силу льда!
+Geared Up<#>Снаряжён
+Ailment Guard<#>Защита от недугов
+MP Cost Down<#>Понижение стоимости ОН
+Burning<#>Горение
+is on fire!<#>горит!
+'s flames went out!<#>затушил огонь!
+Deep Poison<#>Сильное отравление
+is poisoned badly!<#>сильно отравлен!
+Wary<#>Беспокойство
+is on the edge!<#>на грани!
+is stressed!<#>боится!
+is stressing out!<#>боится!
+gets a grip!<#>берет себя в руки!
+Crying<#>Плач
+is tearing up.<#>разражается слезами.
+is crying<#>плачет.
+stopped crying<#>прекратил плакать.
+Paralysis<#>Паралич
+becomes paralyzed!<#>был парализован!
+is paralyzed!<#>парализован!
+is unable to move!<#>неспособен двигаться!
+is no longer paralyzed!<#>больше не парализован!
+Weird<#>Странность
+starts to feel weird...<#>чувствует себя странно...
+feels weird...<#>чувствует себя странно...
+feels relieved.<#>чувствует облегчение.
+Bleed<#>Кровотечение
+'s been cut open!<#>получил открытую рану!
+is bleeding out!<#>истекает кровью!
+stopped bleeding!<#>остановил кровотечение!
+Hungover<#>Похмелье
+is hungover.<#>с похмелья.
+sobered up.<#>протрезвел.
+Drunk<#>Опьянение
+is drunk.<#>пьян.
+Stink<#>Вонь
+Pissed<#>Ярость
+is pissed!<#>в ярости!
+is a lunatic! Watch out!<#>безумствует! Осторожно!
+Taunt<#>Насмешка
+is attracting attention!<#>привлекает внимание!
+lost everyone's attention.<#>потерял чужое внимание.
+Withdrawal<#>Ломка
+is craving Joy.<#>жаждет Джой.
+fought off his craving.<#>поборол жажду.
+Joyed<#>Радость
+is over Joyed.<#>вне себя от радости.
+is no longer happy...<#>больше не радостен...
+Fallen<#>Падение
+has fallen down!<#>упал!
+is trying to get up!<#>пытается встать!
+is back to their feet!<#>снова на ногах!
+Cool<#>Крутость
+Super Cool<#>Супер-крутость
+Defend<#>Защита
+Extorted<#>Вымогание
+is being extorted!<#>подвергается вымоганию!
+stood up for it's beliefs.<#>отстоял свои убеждения.
+Oiled Up<#>В масле
+is covered in oil!<#>покрыт маслом!
+is oiled up!<#>весь в масле!
+is no longer oiled up!<#>больше не в масле!
+Party Mode<#>Вечеринка
+is now in party mode!<#>теперь настроен на веселье!
+is partying hard!<#>сильно веселится!
+lost the desire to party...<#>потерял желание веселится...
+Depression<#>Расстроенность
+is depressed.<#>расстроен.
+Dead<#>Смерть
+is dead!<#>мёртв!
+Flustered<#>возрождён!
+becomes flustered!<#>Возбуждение
+is flustered!<#>возбуждён!
+is no longer flustered!<#>теряет возбуждение!
+Tired<#>Утомление
+is tired.<#>утомлён.
+is waking up.<#>отдохнул.
+Empowered<#>Усиление
+is empowered.<#>чувствует силу.
+Rupture<#>Разрыв
+is painting the environment red!<#>окрашивает стены в красный!
+just popped!<#>был выпотрошен!
+is leak free.<#>остановил кровотечение.
+Presence<#>Присутствие
+'s got a dominating aura.<#>обретает сильную ауру.
+is sinister.<#>зловещий.
+looms menacingly.<#>угрожающе нависает.
+lost relevance.<#>потерял черту.
+Fire Powered<#>Усиление огнём
+lost his powers!<#>потерял свои силы!
+is empowered!<#>чувствует силу!
+Immortal<#>Бессмертие
+Wet<#>Промокание
+Nauseous<#>Тошнота
+feels nauseous.<#>чувствует тошноту.
+isn't alright...<#>не в порядке...
+no longer feels nauseous.<#>избавился от тошноты.
+Blue<#>Синева
+is blue<#>синий.
+is no longer blue.<#>больше не синий.
+Nasty<#>Омерзение
+is oooh so filthy!<#>ооочень грязный!
+soaks in the filth.<#>погружается в грязь.
+can't scrub it off.<#>не может отмыться.
+no longer feels dirty.<#>отмылся.
+Bullied<#>Задирание
+is picked on!<#>подвергается задиранию!
+Levitate<#>Левитация
+is ascending.<#>возвышается.
+has been shot DOWN!<#>был СБИТ!
+Winded<#>Одышка
+lost his breath!<#>с трудом дышит!
+is gasping for air!<#>задыхается!
+regained tempo.<#>восстановил темп дыхания.
+Spooked<#>Напуган
+Twisted<#>Искажение
+contorts.<#>искажается.
+loosens up.<#>возвращает форму.
+Off Balance<#>Потеря равновесия
+has regained balance.<#>восстановил равновесие.
+Armed<#>Вооружён
+is packing!<#>вооружён!
+was disarmed.<#>был обезоружен.
+Disarmed<#>Безоружен
+Untouchable<#>Неприкасаемость
+Deafened<#>Потеря слуха
+has been deafened!<#>был оглушён!
+is deaf.<#>потерял слух.
+'s hearing comes back!<#>вернул слух!
+Dodged<#>Уклонение
+is out of the way.<#>уклонился от атаки.
+rejoins the fray!<#>вновь сражается!
+Tense<#>Напряжённость
+'s eyes dart around.<#>мечется глазами.
+lost concentration.<#>потерял концентрацию.
+Lung Cancer<#>Рак лёгких
+Armored<#>Бронирование
+Cursed<#>Проклятие
+Amphibious<#>Дыхание под водой
+Damage Up<#>Повышение урона
+Lucky bastard<#>Везучий ублюдок
+Goldenbody<#>Золотое тело
+Satiated<#>Насыщение
+Hypnotized<#>Гипноз
+was hypnotized!<#>был загипнотизирован!
+is hypnotized! Watch out!<#>загипнотизирован! Осторожно!
+came to his senses.<#>вернулся в чувство.
+Dangerous<#>Опасность
+will kill.<#>будет убивать.
+Shell-shocked<#>Контузия
+has gotten shellshocked!<#>был контужен!
+is shellshocked!<#>контужен!
+is getting his senses back!<#>возвращается в чувство!
+Heart Attack<#>Сердечный приступ
+'s heart stopped beating.<#>испытал сердечный приступ.
+'s ol' ticker is back in force!<#>вновь обрёл рабочие часы!
+Regeneration<#>Регенерация
+Jackpot Mark<#>Отметка джекпота
+Deep Hungover<#>Сильное похмелье
+Dissipating<#>Рассеивание
+is losing mud!<#>теряет грязь!
+is no longer losing mud.<#>больше не теряет грязь.
+Plan<#>План
+Plan B<#>План Б
+Mud Covered<#>Покрытие грязью
+has been covered in mud!<#>был покрыт грязью!
+is covered in mud!<#>покрыт грязью!
+is trying to get rid of the mud!<#>пытается избавиться от грязи!
+gor rid of the mud!<#>избавился от грязи!

@@ -1,0 +1,135 @@
+\nblt{Batis}Got you!<#>\nblt{Батис}Попался!
+\nblt{???}Gotcha, dumbass!<#>\nblt{???}Попался, придурок!
+\nblt{???}You are going to pay for\#those mags, Killington!<#>\nblt{???}Ты заплатишь за те журналы,\#Киллингтон!
+\nblt{Batis}You are either getting the hell outta there,<#>\nblt{Батис}Ты либо убираешься отсюда к чёрту,
+\nblt{Batis}or your corpse will\#be pecked by crows!<#>\nblt{Батис}либо твой труп будут\#доедать вороны!
+\nblt{Quint}I have no regrets.<#>\nblt{Квинт}Я ни о чём не жалею.
+\nblt{Batis}Just like in that nightmare...<#>\nblt{Батис}Прямо как в том кошмаре...
+\nblt{Quint}Now it's your turn, bitches!<#>\nblt{Квинт}Ваш ход, шлюшки!
+\nblt{Crocco}Get your ass back here,\#Fight like a man!<#>\nblt{Крокко}Тащи свой зад обратно,\#сражайся как мужчина!
+Your knees are shaking?\#That's right!<#>Колени трясутся?\#Так и должно быть!
+Fear me!<#>Бойся меня!
+That's enough.<#>Достаточно.
+\nblt{Crocco}Now face me,\#the almighty Ripper!<#>\nblt{Крокко}Теперь столкнись\#со мной к лицу, со всемогущей\#Смертью!
+\nblt{Crocco}The Prince of the Universe!<#>\nblt{Крокко}С владыкой вселенной!
+\nblt{Crocco}The Destroyer of Evil!<#>\nblt{Крокко}Разрушителем миров!
+\nblt{Crocco}The Trainer of Heroes!<#>\nblt{Крокко}Учителем героев!
+\nblt{Crocco}The Creator of Spoon!<#>\nblt{Крокко}Создателем ложки!
+\nblt{Crocco}The Sex-symbol of Olathe!<#>\nblt{Крокко}Секс-символом Олейта!
+\nblt{Crocco}The Killer of Hitler!<#>\nblt{Крокко}Убийцей Гитлера!
+\nblt{Crocco}The youngest man\#in the world!...<#>\nblt{Крокко}Самым молодым\#человеком в мире!
+\nblt{Crocco}...and of course the unrecognized\#headman of the Gatormen!<#>\nblt{Крокко}...и конечно же, непризнанным\#главой Аллигаторов!
+\nblt{Crocco}Your knees are shaking?\#That's right!<#>\nblt{Крокко}Колени трясутся?\#Они и должны!
+\nblt{Crocco}Fear the Gatormen!<#>\nblt{Крокко}Бойся Аллигаторов!
+\nblt{Crocco}Enough, enough!<#>\nblt{Крокко}Хватит, хватит!
+\nblt{Lon}Your mags - my last chance to survive...<#>\nblt{Лон}Твои журналы - мой последний шанс\#на выживание...
+\nblt{Lon}Don't take it amiss.<#>\nblt{Лон}Не пойми меня неправильно.
+\nblt{Lon}Ouch!<#>\nblt{Лон}Ой!
+\nblt{Jett}No remorse!<#>\nblt{Джетт}Никакой пощады!
+\nblt{Jett}I just wanted to work at crematorium.<#>\nblt{Джетт}Я просто хотел работать в\#крематории.
+You got a Potato Liquor!<#>Вы получили картофельный ликёр!
+You got a nugget!<#>Вы получили самородок!
+You got a Quadruple Horror Whiskey!<#>Вы получили виски "Четвертной ужас"!
+You got a Jackpot!<#>Вы получили джекпот!
+The Slot Machine's defense decreased!<#>Защита слот-машины понижена!
+\nblt{Leighton}You're next, Four-Eyes!<#>\nblt{Лейтон}Ты следующий, очкарик!
+\nblt{Leighton}Get out of my river!<#>\nblt{Лейтон}Выметайтесь с моей реки!
+\nblt{Leighton}Die already you moronic vagrant!<#>\nblt{Лейтон}Умри уже, слабоумный бродяга!
+\nblt{Leighton}You used fire in water.\#What did you think was gonna happen?<#>\nblt{Лейтон}Ты использовал огонь в воде.\#Чего ты ожидал?
+\nblt{Leighton}Don't lose your glasses\#in the water now, you clumsy schmuck.<#>\nblt{Лейтон}Не потеряй очки в воде,\#неуклюжий болван.
+\nblt{Leighton}I'll pierce your heart, old man!<#>\nblt{Лейтон}Я насажу твоё сердце на\#своё копьё, старик!
+\nblt{Leighton}Shit.<#>\nblt{Лейтон}Дерьмо.
+Mending Trash joins the battle!<#>Целебная мусорка вступает в бой!
+\nblt{Smith}Hey Joe! Why aren't you helping?<#>\nblt{Смит}Эй, Джо! Почему ты не помогаешь?
+\nblt{Joe}Uuughh...<#>\nblt{Джо}Уууфф...
+\nblt{Smith}Your luck runs out!<#>\nblt{Смит}Ваша удача иссякает!
+\nblt{Smith}Get up again. I dare you!<#>\nblt{Смит}Поднимайся. Рискни!
+\nblt{Smith}When you get to hell, tell em' to save\#a seat for me at the bingo table!<#>\nblt{Смит}Когда попадёшь в ад, скажи, чтобы\#мне освободили место у стола для бинго!
+You give old men like me a bad name!<#>Из-за тебя, у таких стариков, как я, дурная слава!
+You're a disgrace to old timers everywhere!<#>Ты - позор для стариков по всему миру!
+Should've stuck to golf!<#>Тебе нужно было продолжить заниматься\#гольфом!
+\nblt{Smith}At this rate, you're gonna\#run out of teeth to spit up!<#>\nblt{Смит}В таком темпе, ты выплюнешь\#все зубы!
+\nblt{Smith}Are you even trying?!<#>\nblt{Смит}Ты вообще пытаешься?!
+\nblt{Smith}I believe in overkill!<#>\nblt{Смит}Я знаю, что могу надрать зад любому!
+\nblt{Smith}I dont need no stupid magic to kick your ass!<#>\nblt{Смит}Мне не нужна никакая глупая магия,\#чтобы надрать тебе зад!
+\nblt{Smith}You've got finger beams.\#And I've got a knuckle sandwich!<#>\nblt{Смит}У тебя есть пальцевые лучи,\#а у меня есть кулачный сэндвич!
+\nblt{Smith}You cannot burn me, I'm already on fire!<#>\nblt{Смит}Ты не можешь меня сжечь, я уже -\#огонь!
+\nblt{Joe}Fuck this...<#>\nblt{Джо}Нахуй это...
+The monster's mud is dissipating!<#>Грязь слезает с монстра!
+Lunatic Trash joins the battle!<#>Безумная мусорка вступает в бой!
+\nblt{Steven}OUTTATHEWAYFOUREYES.<#>\nblt{Стивен}СДОРОГИОЧКАРИК.
+Berny temporarily left your party.<#>Бёрни временно покинул вашу группу.
+\nblt{Steven}SOAREWEGONNALEARN\#GATORCLAMPINGHERE?<#>\nblt{Стивен}ТАКМЫЗДЕСЬИЗУЧАЕМ\#ЗАЖИМАЛЛИГАТОРА?
+\nblt{Elton}No, I'm here to learn\#dodging.<#>\nblt{Элтон}Нет, я хочу изучить уклонение.
+\nblt{Steven}SHIT...\| THISISSOMEBORINGSHIT!<#>\nblt{Стивен}ЧЁРТ...\| ЭТОТАКОЕСКУЧНОЕДЕРЬМО!
+\nblt{Steven}BUTANYWAY... I'LLGIVEYOU\#SOMETURNSTODODGEGRANDPA.<#>\nblt{Стивен}НОВЛЮБОМСЛУЧАЕ... ЯДАМТЕБЕ\#ПАРУХОДОВЧТОБЫУКЛОНИТЬСЯДЕДУЛЯ.
+\nblt{Steven}USETHESETURNSTODODGE,NOBULLSHIT.<#>\nblt{Стивен}УКЛОНЯЙСЯ,ЯНЕШУЧУ.
+Elton is asked to dodge.<#>Элтона попросили уклониться.
+New skill learned.<#>Новый навык изучен.
+\nblt{Steven}MMMMM!HEREICOME!<#>\nblt{Стивен}МММММ!НАПАДАЮ!
+\nblt{Steven}\{OOOOOOOOOOOOOOOOOOOOOOOOOOOO<#>\nblt{Стивен}\{ОООООООООООООООООООООООООООО
+\nblt{Steven}OOPS!HE'SOUT!MMMMM!<#>\nblt{Стивен}УПС!ОНБЕЗСОЗНАНИЯ!МММММ!
+\nblt{Master}Give him some food.<#>\nblt{Магистр}Дай ему немного еды.
+\nblt{Steven}YESMASTER!<#>\nblt{Стивен}ДАМАГИСТР!
+\nblt{Elton}AAAARGH!<#>\nblt{Элтон}ААААРГХ!
+\nblt{Steven}STOPSCREAMINGYOUDUMMY!<#>\nblt{Стивен}ПЕРЕСТАНЬОРАТЬИДИОТ!
+\nblt{Steven}YOU'REDOINGTHEDODGINGWRONG!<#>\nblt{Стивен}ТЫУКЛОНЯЕШЬСЯНЕПРАВИЛЬНО!
+\nblt{Steven}TRYTOACTUALLYDODGENOW.MMMMM!<#>\nblt{Стивен}ПОПЫТАЙСЯУКЛОНИТЬСЯСЕЙЧАС.МММММ!
+\nblt{Steven}LIKELIKE...JUMPOUTOFMYWAY!<#>\nblt{Стивен}ТИПАТИПА...ОТПРЫГНИОТМОЕЙ\#АТАКИ!
+\nblt{Steven}YOUGETWHATIMEAN?MMMMM?<#>\nblt{Стивен}ПОНИМАЕШЬОЧЁМЯ?МММММ?
+\nblt{Elton}AARGH!<#>\nblt{Элтон}ААРГХ!
+Elton is asked to actually dodge.<#>Элтона попросили уклониться по-настоящему.
+Dodge skill updated.<#>Навык уклонения улучшен.
+\nblt{Steven}YYYYEEEEEEEEEEEEEEEEAAAAHHHHHHH<#>\nblt{Стивен}ДААААААААААААААААААААААА
+\nblt{Steven}\{WAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA<#>\nblt{Стивен}\{УАААААААААААААААААААААААААААААААААААААААААА
+\nblt{Steven}GOODJOB!YOUDODGEDALLMYATTACKSMMMM!<#>\nblt{Стивен}ОТЛИЧНАЯРАБОТА!ТЫУКЛОНИЛСЯОТВСЕХ\#МОИХАТАКМММММ!
+\nblt{Steven}NOWBRINGYOURRACCOONPELTFRIEND!<#>\nblt{Стивен}ТЕПЕРЬТАЩИСВОЕГОДРУГАСОШКУРОЙ\#ЕНОТА!
+\nblt{Elton}Berny.<#>\nblt{Элтон}Бёрни.
+\nblt{Berny}Aye.<#>\nblt{Бёрни}Ага.
+Berny joined your party!<#>Бёрни вступил в вашу группу!
+\nblt{Steven}IT'STIMEFORMYFINALATTACK!<#>\nblt{Стивен}ВРЕМЯДЛЯМОЕЙПОСЛЕДНЕЙАТАКИ!
+\nblt{Steven}BONEBREAKING!<#>\nblt{Стивен}КОСТОЛОМКА!
+\nblt{Steven}YOU,GRANDPA,TELLYOURFRIENDTO\#LOOKOUT!<#>\nblt{Стивен}ТЫ,ДЕДУЛЯ,СКАЖИСВОЕМУДРУГУ\#ПРИГОТОВИТЬСЯ!
+\nblt{Elton}Look out?<#>\nblt{Элтон}Приготовиться?
+\nblt{Steven}YES!LOOKOUT.MMMMM.<#>\nblt{Стивен}ДА!ПРИГОТОВИТЬСЯ.МММММ.
+\nblt{Steven}YOURFRIENDATTACKSANDTHEN\#YOUBOTHDODGEINTHESAMEMOMENT.\#UNDERSTOOD?<#>\nblt{Стивен}ТВОЙДРУГАТАКУЕТИЗАТЕМВЫОБА\#УВОРАЧИВАЕТЕСЬВОДИНИТОТЖЕМОМЕНТ.\#ЯСНО?
+Incoming Dangerous attack.<#>Приближается опасная атака.
+You must dodge.<#>Вы должны уклониться.
+Look Out! skill learned.<#>Навык "Приготовься!" изучен.
+\nblt{Steven}\{TIMETOMEETYOURMAKER!<#>\nblt{Стивен}\{НАСТАЛОТЕБЕВРЕМЯВСТРЕТИТЬСЯ\#СОСВОИМСОЗДАТЕЛЕМ!
+\nblt{Steven}\{\{OOOOOOOOOOOOOOOOOOOO<#>\nblt{Стивен}\{\{ОООООООООООООООООООО
+A long debuff has been inflicted on Elton.<#>На Элтона было наложено перманентное ранение.
+You've failed to dodge.<#>Вам не удалось уклониться.
+A long debuff has been inflicted on Berny.<#>На Бёрни было наложено перманентное ранение.
+You've successfully dodged a dangerous attack!<#>Вы успешно уклонились от опасной атаки!
+\nblt{Frank}You're tougher\#than you look.<#>\nblt{Фрэнк}Ты крепче, чем выглядишь.
+\nblt{Frank}But I know better than\#to let my guard down.<#>\nblt{Фрэнк}Но я никогда никого не\#недооцениваю.
+You lost your Chair.<#>Вы потеряли свой стул.
+You lost your Champion Chair.<#>Вы потеряли свой стул чемпиона.
+\nblt{Frank}Grr...\.\. where's my\#walkie talkie?<#>\nblt{Фрэнк}Грр...\.\. где моя рация?
+\nblt{Frank}How the hell are\#you still standing?!<#>\nblt{Фрэнк}Какого чёрта ты всё ещё\#стоишь на ногах?!
+\nblt{Frank}You...\| old...\. bastard...<#>\nblt{Фрэнк}Ты...\| старый...\. ублюдок...
+\nblt{Frank}I'm not going down!<#>\nblt{Фрэнк}Я не собираюсь умирать!
+\nblt{Frank}Not yet...<#>\nblt{Фрэнк}Не сейчас...
+\nblt{Frank}All you had to do...\| was\#walk the other way...<#>\nblt{Фрэнк}Всё, что вам нужно было сделать...\|\#пойти своей дорогой...
+\nblt{Ted}Uh oh!<#>\nblt{Тэд}Ой-ой!
+\nblt{Ted}Time to get outta here!<#>\nblt{Тэд}Пора убираться отсюда!
+\nblt{Ted}Aa-a-ah!<#>\nblt{Тэд}Аа-а-а!
+\nblt{Ted}Retreat!<#>\nblt{Тэд}Отступаю!
+\nblt{Edward}Who's that?<#>\nblt{Эдвард}Кто это?
+\nblt{Berny Connorfold}The hell's your problem,\#ganging up on a man like that?!<#>\nblt{Бёрни Коннорфолд}Что, чёрт возьми, с вами не так -\#толпой нападать на человека?!
+\nblt{Berny Connorfold}Let's clobber this punk, Elton!<#>\nblt{Бёрни Коннорфолд}Давай зададим этому\#подонку, Элтон!
+Berny Connorfold has joined your party!<#>Бёрни Коннорфолд вступил в вашу\#группу!
+Tinder Box skill updated.<#>Навык "Спичечный коробок" был обновлён.
+\nblt{Brad}Guess it's all up to me now.<#>\nblt{Брэд}Похоже, теперь всё зависит от меня.
+\nblt{Brad}Time to get serious!<#>\nblt{Брэд}Пора серьёзно взяться за это!
+\nblt{Brad}I'm proud of myself.<#>\nblt{Брэд}Я горжусь собой.
+\nblt{Brad}What about you?<#>\nblt{Брэд}А вы?
+\nblt{Andre}Ooh! My back!<#>\nblt{Андре}Оох! Моя спина!
+\nblt{Juan}I'll show you!<#>\nblt{Хуан}Я тебе покажу!
+\nblt{Juan}I've been crushed...<#>\nblt{Хуан}Я был разбит...
+\nblt{Kirk}I will bury you!<#>\nblt{Кирк}Я тебя закопаю!
+\nblt{Kirk}Now this ain't what I expected.<#>\nblt{Кирк}А вот этого я не ожидал.
+\nblt{Flint}I just...<#>\nblt{Флинт}Я только что...
+\nblt{Flint}...was defeated...<#>\nblt{Флинт}...был побеждён...
+\nblt{Flint}...by an old pushover with a chair...<#>\nblt{Флинт}...старым придурком со стулом...

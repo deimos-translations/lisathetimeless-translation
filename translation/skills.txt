@@ -1,0 +1,300 @@
+Attack<#>Атака
+Damages the enemy.<#>Наносит врагу урон.
+attacks!<#>атакует!
+Guard<#>Защита
+Protects user and reduces damage taken.<#>Защищает и снижает входящий урон.
+guards.<#>защищается.
+Fireball<#>Огненный шар
+Jolly Fireball<#>Славный огненный шар
+Blast of Berny's flaming emotions.<#>Взрыв пылающих эмоций Бёрни.
+throws a fireball!<#>бросает огненный шар!
+Finger Beam 1<#>Пальцевый луч 1
+A concentration of energy blasted from the finger.\#Gains 4-5 TP.<#>Сконцентрированная энергия, выплеснутая из пальца.\#Даёт 4-5 ОТ.
+fires a beam!<#>стреляет лучом!
+Boulder Toss<#>Бросок валуна
+Toss a modest boulder at the enemy's head.\#Inflicts Fallen and Weird.<#>Бросьте тяжёлый валун на голову врага.\#Вызывает у врага падение и странность.
+throws a boulder!<#>бросает валун!
+Flaming Mittens<#>Пылающие ладони
+The user accesses to the fire based attacks and\#recover 250 HP.<#>Использующий получает доступ к огненным\#атакам и восстанавливает 250 ОЗ.
+charges his fists with fire!<#>пробуждает пламя в ладонях!
+Finger Beam 2<#>Пальцевый луч 2
+A powerful concentration of energy blasted\#from the finger. Makes you fall. Gains 25-30 TP.<#>Сконцентрированная энергия, выплеснутая из пальца.\#Даёт 25-30 ОТ.
+Weak Defence<#>Защита от слабостей
+Ready everyone for any hard hits. [Magic resistance,\#immunity to certain debuffs such as Fallen.]<#>Подготовьте всех к мощным атакам. (Сопротивление магии,\#иммунитет к некоторым негативным статусам, как падение.)
+takes a stance.<#>Принимает стойку.
+Pass Out<#>Вздремнуть
+Pass out and regain HP over time.<#>Вздремните и восстановите ОЗ за время сна.
+falls asleep...<#>засыпает...
+Cap Toss<#>Бросок крышки
+tosses a cap into the eyes.<#>бросает крышку прямо в глаза.
+gets motivated by a clean shot!<#>обретает уверенность от точного попадания!
+Tinder Box<#>Спичечный коробок
+Gives Berny access to fire-based attacks. If he's\#unable to act, Elton does a defensive attack.<#>Даёт Бёрни доступ к огненным атакам. Если он\#не может ходить, Элтон делает защитную атаку.
+Light a match and let your emotions out.<#>Подожгите спичку и выпустите свои эмоции.
+screams with fire!<#>кричит огнём!
+lights a match.<#>поджигает спичку.
+receives some aid from Elton!<#>получает помощь от Элтона!
+Look Out!<#>Приготовтесь!
+Warn your allies of an incoming attack.\#Applies dodge to everyone.<#>Предупредите своих союзников о приближающейся атаке.\#Применяет уклонение ко всем союзникам.
+sounds the alarm!<#>бьёт тревогу!
+Groin Kick<#>Удар в пах
+A trick as dirty as it is effective. May cause stun,\#crying, and sterility. Damages Elton by 90.<#>Трюк, настолько же грязный, насколько и эффективный. Может вызвать\#оглушение, плач, и бесплодие. Наносит Элтону 90 урона.
+delivers a kick to the groin!<#>наносит удар прямо в пах!
+Disarming Strikes<#>Обезоруживающие удары
+Knock off the armed enemy's weapon. Damages\#Elton by 50 hp.<#>Выбейте оружие у вооружённого врага. Наносит\#Элтону 50 урона.
+swings at the hand!<#>выбивает оружие из рук!
+Get a Bottle<#>Выхватить бутылку
+Grab a fragile bottle from your pocket. If you hold\#it for too long, you throw it at a random enemy.<#>Выхватите хрупкую бутылку из кармана. Если вы будете\#держать её слишком долго, вы выбросите её в случайного врага.
+grabs his bottle.<#>выхватывает бутылку.
+Cool Pose<#>Крутая поза
+Make a cool pose, recover SP.<#>Встаньте в крутую позу и восстановите ОН.
+strikes a pose!<#>встаёт в позу!
+Glassing Attack<#>Атака розочкой
+Break your bottle and stab the enemy right\#into the stomach.<#>Сломайте свою бутылку и ударьте врага\#прямо в живот.
+perfroms a glassing attack!<#>проводит атаку розочкой!
+Break Bottle<#>Сломать бутылку
+Break your bottle with a swift head for\#a devious weapon. Drains less HP while drunk.<#>Сломайте свою бутылку быстрым движением головы, чтобы\#получить грозное оружие. Отнимает меньше ОЗ при опьянении.
+uses his head.<#>работает головой.
+Dodge<#>Уклонение
+Drunken Barage<#>Пьяный барраж
+A mix of Lucha Libre and being totally shit faced.<#>Смесь знаний лучадоров и запредельного пьянства.
+is ready to rumble!<#>готов разносить!
+Slap<#>Шлепок
+gives 'em a slap!<#>шлепает его!
+(Not So) Direct Hit<#>(Не такой уж и) прямой удар
+does a headbutt!<#>ударяет головой!
+Uppercut<#>Апперкот
+uppercuts that fool!<#>ломает этого идиота апперкотом!
+uppercuts!<#>ударяет апперкотом!
+Shove<#>Толчок
+gets pushy!<#>толкается!
+Beatdown<#>Избиение
+(ASA) An uncoordinated assault on an enemy.<#>(ASA) Беспорядочное нападение на врага.
+flails his arms!<#>размахивает руками!
+Balloon Fist<#>Воздушный кулак
+Blow your fist to boost your ATK. Such power comes\#at a cost: when the boost ends, everyone gets hurt.<#>Пошлите свою руку в полёт, чтобы увеличить АТК. За такую мощь\#приходится платить: когда усиление закончится, все получат урон.
+inflates his fist! Impossible!<#>посылает свой кулак! Невозможно!
+Bite<#>Укус
+Bite M.atk<#>Укус
+bites down hard!<#>делает мощный укус!
+Gator Clamp<#>Зажим аллигатора
+does a Gator Clamp!<#>использует зажим аллигатора!
+Grope<#>Лапание
+strokes you...<#>сжимает вас...
+Roar<#>Рёв
+roars in your ear.<#>ревёт в ваши уши.
+Groin kick<#>Удар в пах
+ruins your day.<#>портит вам этот день.
+Dropkick<#>Удар в полёте
+dropkicks!<#>ударяет в полёте!
+Punch<#>Удар
+flails!<#>размахивает!
+Scratch<#>Царапание
+scratches!<#>царапается!
+Dirt Kick<#>Пинок грязи
+kicks up dirt!<#>пинается грязью!
+Back Rub<#>Массаж
+gives a massage...<#>делает массаж...
+Grin<#>Ухмылка
+is grinning at you.<#>ухмыляется вам.
+Taste<#>Попробовать
+licks you...<#>лижет вас...
+Cry<#>Плач
+Is crying deeply.<#>горько плачет.
+Blood cough<#>Кашель кровью
+coughed up blood!<#>кашляет кровью!
+Give me your mags<#>Дай мне свои журналы
+begs for your mags.<#>умоляет вас отдать свои журналы.
+Firebomb<#>Огненная бомба
+threw a firebomb!<#>бросил бомбу!
+Glare<#>Взгляд
+is glaring at you...<#>глядит на вас...
+Spraying the Eyes<#>Опрыскивание глаз
+sprays your eyes!<#>опрыскивает ваши глаза!
+Pick weapon up<#>Подбор оружия
+gets his mojo back!<#>возвращает свой инструмент!
+Big Swing<#>Широкий взмах
+swings with full force!<#>взмахивает с полной силой!
+Solid Punch<#>Твёрдый удар
+unleashes a direct hit!<#>обрушивает прямой удар!
+Stomp<#>Растаптывание
+stomps you out!<#>растаптывает вас!
+Tank<#>Танк
+Block<#>Блок
+is defending himself...<#>защищается...
+Sweep<#>Подсечка
+sweeps at your legs!<#>подсекает вас!
+Stiff Arm<#>Жёсткая рука
+gives a stiff arm!<#>напрягает руку!
+Trash Talk<#>Оскорбление
+is talking serious trash!<#>высыпает на вас мусор!
+Piledriver<#>Прогиб
+performs a Piledriver!<#>бросает прогибом!
+Chop<#>Разрубание
+chops!<#>разрубает!
+Battlecry<#>Боевой клич
+vibrates with rage!<#>содрогается яростью!
+Body Drop<#>Падение телом
+comes crashing down!<#>обрушивается на противника!
+Bottle Throw M.atk<#>Бросок бутылки
+Bottle Throw<#>Бросок бутылки
+threw a bottle!<#>бросил бутылку!
+Geyser of Garbage<#>Гейзер мусора
+unleashes The Geyser!<#>обрушивает гейзер!
+Hook Kick<#>Удар крюком
+hook kicks!<#>ударяет крюком!
+Deer Horn<#>Олений рог
+Wizard Poke<#>Тычок мага
+pokes at the vital points!<#>делает тычок в жизненно-важные органы!
+Eat<#>Еда
+stuffs something in his mouth.<#>что-то запихивает в рот.
+Kick<#>Пинок
+kicks!<#>пинает!
+Smoke Bomb<#>Дымовая бомба
+is shrouded in smoke!<#>окутан дымом!
+Brain Chop<#>Удар по мозгу
+performs a brain chop!<#>ударяет по мозгам!
+Headbutt<#>Удар головой
+headbutts!<#>ударяет головой!
+Yell<#>Крик
+screams.<#>кричит.
+Demoralising Puke<#>Деморализующая рвота
+vomits on you!<#>блюёт на вас!
+Banging head<#>Битьё головой
+bangs his head against the ground!<#>бьётся головой о землю!
+Big slice<#>Широкий порез
+Slice<#>Порез
+swings!<#>взмахивает оружием!
+Triple Attack<#>Тройная атака
+goes buck wild!<#>идёт вразнос!
+Shove<#>Толчок
+is pushy.<#>толкается.
+Drink beer<#>Выпить пива
+kills his liver.<#>убивает свою печень.
+Flaming Tubiteika<#>Пылающая тюбитейка
+charges himself with fire!<#>поджигает самого себя!
+Persecution<#>Травля
+incites!<#>провоцирует!
+Cough<#>Кашель
+coughs.<#>кашляет.
+Club Strike<#>Удар битой
+clubs at you!<#>ударяет битой!
+Growling Tackle<#>Громовой толчок
+charges you!<#>бежит на вас!
+Double punch<#>Двойной удар
+unleashes direct hits!<#>обрушивает прямые удары!
+Realization<#>Осознание
+realized he's outnumbered!<#>осознаёт, что он в меньшинстве!
+Scruff Throw<#>Бросок за шиворот
+throws you at the wall!<#>бросает вас в стену!
+Power Fist<#>Кулак силы
+is handling real power!<#>обретает истинную силу!
+Bombard's combo<#>Комбо Бомбарда
+tears you down!<#>разрывает вас!
+Elbow strike<#>Удар локтем
+strikes with his elbow!<#>ударяет вас локтем!
+Tiger Suplex<#>Суплес тигра
+performs a Tiger Suplex!<#>использует суплес тигра!
+Steel Chair<#>Железный стул
+has a foreign object!<#>взял сторонний объект!
+Rage build!<#>Озверение!
+vibrates with rage!<#>содрогается яростью!
+Mud Cannon<#>Грязевая пушка
+shoots mud out of the hand!<#>стреляет грязью из руки!
+Edge Closer<#>Приближение
+gets closer to you.<#>приближается к вам.
+SP drain<#>Высасывание ОН
+drains your energy!<#>высасывает вашу энергию!
+Mud Vomit<#>Рвота грязью
+vomits on you.<#>блюёт на вас.
+Torpedo<#>Торпеда
+fires a torpedo!<#>выпускает торпеду!
+Releasing Harpoon<#>Вытаскивание гарпуна
+draws its harpoon!<#>вытаскивает свой гарпун!
+Aim<#>Прицеливание
+tries to aim...<#>пытается прицелиться...
+Harpoon<#>Гарпун
+fires its harpoon!<#>стреляет из гарпуна!
+Hypnosis<#>Гипноз
+hypnotises you!<#>гипнотизирует вас!
+Fly near Ear<#>Пролёт мимо уха
+flies past your ear.<#>пролетает мимо вашего уха.
+Ironbody<#>Железное тело
+is flexing hard!<#>сильно напрягается!
+Defend Friend<#>Защита друга
+is trying to defend his friend.<#>пытается защитить своего друга.
+Seriously?<#>Серьёзно?
+is astounded by your stupidity.<#>ошеломлён вашей тупостью.
+Devastating Chomp<#>Уничтожающий укус
+bites your head!<#>откусывает вашу голову!
+Bash with weapon<#>Удар оружием
+bashes you with his weapon!<#>ударяет вас своим оружием!
+Cannon Jam<#>Клин пушки
+'s cannon is jamming.<#>испытывает проблемы с пушкой.
+Mongolian Chop<#>Монгольское разрубание
+performs a Mongolian Chop!<#>разрубает по-монгольски!
+Claw Attack<#>Удар когтями
+slashes!<#>разрубает!
+Hide<#>Спрятан
+hides behind a bush.<#>прячется в кустах.
+Jackpot discharge<#>Разряд джекпота
+discharges electricity!<#>разряжает электричество!
+Bite and tear<#>Рвать и метать
+tears you in pieces!<#>Разрывает вас на кусочки!
+AntiBuff<#>Анти-бонусы
+Weird Gas<#>Странный газ
+blew a weird gas at you.<#>навеял на вас странный газ.
+Unnerving Energy<#>Пугающая энергия
+unnerves you.<#>пугает вас.
+Exhaust<#>Выхлоп
+blew forth exhaust!<#>газанул!
+Knife Hand<#>Рука-нож
+chops like a knife!<#>разрубает рукой, словно ножом!
+Water Bottle Throw<#>Бросок бутылки с водой
+threw a bottle of water!<#>бросил бутылку воды!
+Bombard's Rage<#>Гнев Бомбарда
+Hard stomp<#>Сильное растаптывание
+stomps at your chest.<#>растаптывает вашу грудь.
+Weaker combo<#>Слабое комбо
+Gearing up for Bonebreak<#>Приготовление к костолому
+spreads his hands strangely.<#>странно распахивает руки.
+Diving into the chest<#>Нырок в грудь
+concentrates on your chest...<#>концентрируется на вашей груди...
+Heart Squeeze<#>Выжимание сердца
+squeezes your heart!<#>выжимает ваше сердце!
+Bone Break<#>Костолом
+breaks your bones!<#>ломает ваши кости!
+Nausea<#>Тоншота
+feels nauseous.<#>чувствует тошноту.
+Bully [MALTEN]<#>Задирание
+bullies you.<#>задирает вас.
+Pump Up<#>Подкачка
+is going crazy.<#>безумствует.
+Puke<#>Рвота
+pukes!<#>вырывает!
+Combo 1<#>Комбо 1
+rumbles!<#>разносит!
+Cue Joust<#>Удар кием
+rams you with his cue!<#>пронзает вас своим кием!
+Strike<#>Удар
+bashes you with a crowbar!<#>ударяет вас монтировкой!
+Shred<#>Разрывание
+swings at full force!<#>бьёт с полной силой!
+Sharp strike<#>Острый удар
+strikes with crowbar's claw!<#>наносит удар колом монтировки!
+Fast Sandwich<#>Быстрый перекус
+stuffs a sandwich in his mouth.<#>запихивает сэндвич себе в рот.
+sweeps at your legs with a crowbar.<#>подсекает вас ударом монтировки.
+Dirt sweep<#>Бросок грязи
+sweeps up dirt!<#>бросает грязь!
+Club Joust<#>Удар битой
+rams you with his bat!<#>ударяет вас своей битой!
+Club Combo<#>Комбо битой
+clubs lke mad!<#>размахивает, как безумец!
+Beretta jab<#>Беретта-джеб
+throws jabs!<#>ударяет джебом!
+Lunatic trash Slam 1<#>Удар безумной мусорки 1
+Lunatic trash Slam 2<#>Удар безумной мусорки 2
+jumps at you!<#>напрыгивает на вас!
+QUINT FF<#>КВИНТ ФФ
+is preparing to attack!<#>готовится к атаке!

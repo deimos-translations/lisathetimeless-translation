@@ -1,0 +1,46 @@
+Skills<#>Умения
+Powers<#>Силы
+Magic<#>Магия
+MaxHP<#>Макс. ОЗ
+MaxSP<#>Макс. ОН
+ATK<#>АТК
+DEF<#>ЗЩТ
+S.ATK<#>СП. АТК
+S.DEF<#>СП. ЗЩТ
+AGI<#>СКОР
+LUCK<#>УДЧ
+Weapon<#>Оружие
+Shield<#>Щит
+Head<#>Голова
+Body<#>Тело
+Accessory<#>Аксессуар
+Fight<#>Сражаться
+Escape<#>Бежать
+Attack<#>Атака
+Guard<#>Защита
+Items<#>Предметы
+Equipment<#>Экипировка
+Status<#>Статус
+Formation<#>Построение
+Save<#>Сохранить
+Quit<#>Выйти
+Weapons<#>Оружие
+Armours<#>Броня
+Key Items<#>Ключ. пред.
+Change<#>Изменить
+Optimize<#>Оптимиз.
+Clear<#>Очистить
+New Game<#>Новая игра
+Continue<#>Продолжить
+To Title<#>В меню
+Cancel<#>Отменить
+Level<#>Уровень
+LV<#>УР
+Health Points<#>Очки здоровья
+HP<#>ОЗ
+Skill Points<#>Очки навыков
+SP<#>ОН
+Tech Points<#>Очки техники
+TP<#>ОТ
+Mags<#>Журналы
+Lisa the Timeless<#>LISA: The Timeless

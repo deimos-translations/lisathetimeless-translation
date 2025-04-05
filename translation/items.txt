@@ -1,0 +1,234 @@
+Mystery Jerky<#>Неизвестное мясо
+Dried meat of common Olathian animals.\#Recovers 300 HP.<#>Вяленое мясо распространенных Олейтских\#животных. Восстанавливает 300 ОЗ.
+Domestic Jerky<#>Домашнее мясо
+Recovers 1000 HP.<#>Восстанавливает 1000 ОЗ.
+Horse Jerky<#>Лошадиное мясо
+Dried meat of a horse.\#Recovers all HP.<#>Вяленое лошадиное мясо.\#Восстанавливет все ОЗ.
+Diet Cocola Cola<#>Диетическая Кокола-кола
+If you throw this can at someone it won't\#hurt, it's a soft drink! Recovers 200 SP.<#>Если кинуть эту банку в человека, ему не будет горько,\#ведь это сладкий напиток! Восстанавливает 200 ОН.
+Cocola Cola<#>Кокола-кола
+If you throw this can at someone it won't\#hurt, it's a soft drink! Recovers 400 SP.<#>Если кинуть эту банку в человека, ему не будет горько,\#ведь это сладкий напиток! Восстанавливает 400 ОН.
+Creamy Cocola<#>Ванильная Кокола
+If you throw this can at someone it won't\#hurt, it's a soft drink! Recovers 800 SP.<#>Если кинуть эту банку в человека, ему не будет горько,\#ведь это сладкий напиток! Восстанавливает 800 ОН.
+Real Sugar Cocola Cola<#>Кокола-кола с настоящим сахаром
+If you throw this can at someone it won't\#hurt, it's a soft drink! Recovers all SP.<#>Если кинуть эту банку в человека, ему не будет горько,\#ведь это сладкий напиток! Восстанавливает все ОН.
+Iced Coffee<#>Холодный кофе
+Restores all HP and SP.<#>Восстанавливает все ОЗ и ОН.
+Perfume<#>Духи
+The sweet scent revives an ally.<#>Сладкий запах поднимает союзников на ноги.
+Fancy Perfume<#>Изысканные духи
+The sweet scent revives an ally fully.<#>Сладкий запах поднимает союзников на ноги\#и полностью исцеляет.
+Bottle of Soup<#>Бутылка супа
+Recovers 500 HP.<#>Восстанавливает 500 ОЗ.
+Bottle of Water<#>Бутылка воды
+An extremely refreshing drink.\#Cures many aliments.<#>Чрезвычайно освежает. Излечивает множество недугов.
+Potato Liquor<#>Картофельный ликёр
+Capable of getting you drunk.\#Recovers 200 HP.<#>Способен опьянить.\#Восстанавливает 200 ОЗ.
+Bottle of Dirty Water<#>Бутылка грязной воды
+Contaminated water. Try throwing it at your\#enemies. Removes fire powers.<#>Загрязнённая вода. Попробуйте бросить её\#во врагов. Снимает огненные способности.
+Luck Up<#>Удача
+Increases LUK by 3.<#>Повышает УДЧ на 3.
+Bicycle<#>Велосипед
+Press the SHIFT key to dismount.<#>Нажмите SHIFT, чтобы слезть.
+Empty Bottle<#>Пустая бутылка
+An empty glass bottle.<#>Пустая стеклянная бутылка.
+Doner<#>Донер
+Recovers 450 HP, temporarily increasing max.\#HP by 33% and decreasing max. SP by 33%.<#>Восстанавливает 450 ОЗ, временно увеличивает макс.\#ОЗ на 33% и снижает макс. ОН на 33%. Даёт вам странное чувство.
+Soup<#>Суп
+Recovers 120 HP. Makes you drunk.<#>Восстанавливает 120 ОЗ. Опьяняет.
+Psychic Services Poster<#>Плакат об экстрасенсорных услугах
+A paper advertising the gypsies' psychic services\#that Berny gave to you. (Inspectable)<#>Бумага с рекламой услуг цыганских экстрасенсов,\#которую вам дал Бёрни. (Можно осмотреть)
+The Infamous Nugget<#>Печально известный самородок
+Smells like intestinal pressure and pain but looks\#like a glittering gold nugget. Truly one of a kind.<#>Пахнет кишечным давлением и болью, но на вид -\#это сверкающий золотой самородок. Он такой один.
+Superdoner<#>Супер-донер
+A doner with pineapples and mayo.\#Probably the last of its kind.<#>Донер с ананасами и майонезом.\#Наверное, он такой последний.
+Jovn's Mayyonaise<#>Майонез Джоввна
+It's hard to find quality condiments these days.\#This is not one of them but it'll do.<#>В эти дни, тяжело найти качественные продукты.\#Он не из таких, но всё равно сойдёт.
+Canned Pinapples<#>Консервированные ананасы
+It probably still has SOME pineapple taste to it.<#>Может, в них остался хоть КАКОЙ-ТО вкус\#ананасов.
+Rando Ration<#>Рацион Рандо
+A high quality  meal.\#Restores all HP and SP.<#>Высококачественный паёк.\#Восстанавливает все ОЗ и ОН.
+Diving Helmet<#>Шлем для ныряния
+An old, or rather, an ancient diving helmet.\#Wearing it gives access to underwater locations.<#>Старый, даже древний шлем для ныряния.\#Его ношение даёт доступ к подводным локациям.
+Remove Diving Helmet<#>Снять шлем для ныряния
+Sleep Tea<#>Сонный чай
+Recovers 500 HP. Makes you sleep.<#>Восстанавливает 500 ОЗ. Усыпляет.
+Obscure Key<#>Загадочный ключ
+An obscure key to an obscure place.\#"Turbine Facility" is engraved on it.<#>Загадочный ключ к загадочному месту.\#На нём выгравировано: "Турбинный комплекс".
+Rusted 18-shot Revolver<#>Ржавый 18-зарядный револьвер
+A useful tool that requires bullets. Has 3 barrels.\#Can be used only by Elton.<#>Полезный инструмент, требующий боеприпасов.\#Трёхствольный. Доступен только Элтону.
+Old Revolver<#>Старый револьвер
+A dark blue revolver with a slim barrel. (Crafting\#Material)<#>Тёмно-синий револьвер с коротким стволом.\#(Материал для изготовления)
+Alan Bostaph's Portrait<#>Портрет Алана Бостафа
+An ugly sketched portrait of Alan Bostaph.\#(Inspectable)<#>Уродливый набросок портрета Алана Бостафа.\#(Можно осмотреть)
+Fried Egg<#>Жареное яйцо
+A nutritious meal that took years to cook.\#Hope you like em' Sunny Side Up. Recovers 50 HP.<#>Питательное блюдо, на приготовление которого\#ушли годы. Наслаждайтесь "солнечной стороной".
+Monstrous Eye<#>Монструозный глаз
+It's real. (Barter Item)<#>Он реален. (Предмет для обмена)
+Nothing<#>Ничто
+Stimulant<#>Стимулятор
+Recovers ally from death.<#>Спасает союзника от смерти.
+Antidote<#>Антидот
+Treats poison.<#>Исцеляет яд.
+Flower Shop Key<#>Ключ от цветочного магазина
+A key to the invaded flower shop.<#>Ключ от захваченного цветочного магазина.
+Swamp Goby<#>Болотный бычок
+A common Olathian fish that is caught in the swamps.\#Recovers 50 HP, making you regenerate HP.<#>Распространённая Олейтская рыба, водящаяся в болотах.\#Восстанавливает 60 ОЗ, даёт регенерацию.
+Weird Diving Helmet<#>Странный шлем для ныряния
+A diving helmet for berny.<#>Шлем для ныряния, для Бёрни.
+Diving Helmets<#>Шлемы для ныряния
+Old, or it's better to say, ancient diving helmets.\#Wearing them give access to underwater locations.<#>Старые, даже древние шлемы для ныряния.\#Их ношение даёт доступ к подводным локациям.
+Remove Diving Helmets<#>Убрать шлемы для ныряния
+Truck Keys<#>Ключи от грузовика
+Bail to a safer place.<#>Отступить в безопасное место.
+Lucrative Tea<#>Хлебный чай
+An unsafe blend of tea.\#Revives TP and SP.<#>Нездоровая чайная смесь.\#Восстанавливает ОТ и ОН.
+Green Paste<#>Зелёная паста
+A strange mossy paste...\#I wouldn't drink this...<#>Странная моховая паста...\#Я бы не стал это пить...
+TNT<#>Динамит
+An explosive capable of destroying\#certain objects.<#>Взрывчатка, способная разрушать\#определенные объекты.
+Nugget<#>Самородок
+Try rubbing it on yourself in battle.\#Makes you stink.<#>Попробуйте растереть его на себе во время боя.\#Вы будете вонять.
+Joy<#>Джой
+This drug makes you feel nothing.\#Use it in a pinch.<#>Наркотик, от которого вы ничего не чувствуете.\#Используйте в крайнем случае.
+Compressed Garbage<#>Спресованный мусор
+A big bundle of trash. (Barter ltem)<#>Большая куча мусора. (Предмет для обмена)
+Rusty Gears<#>Ржавые шестерни
+A fistful of grey rusted gears. (Barter Item)<#>Горсть серых ржавых шестеренок. (Предмет для обмена)
+Old Shoe<#>Старый ботинок
+A disgusting soaked through shoe. (Barter Item)<#>Отвратительный ботинок, промокший с ног до головы.\#(Предмет для обмена)
+Old Record<#>Старая запись
+A strange record.<#>Странная запись.
+Party Liquor<#>Вечериночный ликёр
+Capable of getting you drunk.\#Recovers 200 HP of each party member.<#>Способен опьянить.\#Восстанавливает 200 ОЗ каждому члену группы.
+Onion Vodka<#>Луковая водка
+Capable of getting you drunk.\#Recovers 300 HP.<#>Способна опьянить.\#Восстанавливает 300 ОЗ.
+Olathian Whiskey<#>Олейтский виски
+Capable of getting you drunk.\#Recovers 500 HP of each party member.<#>Способен опьянить.\#Восстанавливает 500 ОЗ каждому члену группы.
+Pepperoni<#>Пепперони
+Recovers 60 HP.<#>Восстанавливает 60 ОЗ.
+Rag Blanket<#>Тряпичное одеяло
+A blanket made out of dense rags.<#>Одеяло, сшитое из плотных тряпок.
+Triple Horror Whiskey<#>Виски "Тройной ужас"
+Capable of getting you drunk and making you rage.\#Recovers 150 HP.<#>Способен опьянить и ввести вас в гнев.\#Восстанавливает 150 ОЗ.
+Degrading Dress<#>Унизительное платье
+This makes you feel... Different.\#(Falls off when jumping or climbing.)<#>Оно заставляет вас чувствовать себя... Странно.\#(Убирается, когда вы прыгаете и карабкаетесь)
+Tissue<#>Платок
+The ultimate for drying your tears... When you have\#an issue. Cures Blind, Crying, Oiled Up.<#>Идеальное средство для вытирания слёз... Когда у вас\#проблемы. Убирает слепоту, плач, и маслянность.
+Chocolate Bar<#>Шоколадка
+An opened bar of chocolate. Recovers 280 HP.<#>Открытая шоколадка. Восстанавливает 280 ОЗ.
+99 Perfumes<#>99 духов
+A piece of paper with 99 perfumes drawn on it...\#What a disappointment...<#>Бумажка, на которой нарисовано 99 видов духов...\#Какое разочарование...
+Duffel Bag<#>Спортивная сумка
+It has "Duffie" etched on the side of it.<#>На боку выгравировано: "Даффи".
+Firebomb<#>Огненная бомба
+A firebomb, can cause burning.<#>Огненная бомба, может поджечь.
+Diesel F. Bomb<#>Дизельная бомба
+A beefed up firebomb, can cause burning.<#>Мощная огненная бомба, может поджечь.
+Ace of Spades<#>Пиковый туз
+Double up or quit, the devil does splits. (Barter Item)<#>Удвой или уйди, дьявол сделал сплит.\#(Предмет для обмена)
+Quadruple Horror Whiskey<#>Виски "Четвертной ужас"
+Whiskey so good, it can bring back the dead.\#Revives for 400 HP, gets you drunk and enraged.<#>Настолько хороший виски, что может оживлять мёртвых.\#Возрождает и даёт 400 ОЗ, гнев и опьянение.
+Keys<#>Ключи
+The tag reads "Mike."<#>На них написано: "Майк".
+Cigarette<#>Сигарета
+Light another cigarette and let yourself go.\#Cures wary, poison and depression.<#>Закурите ещё одну и расслабтесь.\#Исцеляет беспокойство, отравление и расстроенность.
+Red Skull Mask<#>Маска с красным черепом
+The mask worn by Rando.<#>Маска, носимая Рандо.
+Remove Mask<#>Снять маску
+Remove any masks worn.<#>Снять надетую маску.
+Revolver<#>Револьвер
+A useful tool that requires bullets.<#>Полезный инструмент, которому требуются пули.
+Bullet<#>Пуля
+Ammunition for a gun.<#>Боеприпас для оружия.
+Hint Mask<#>Подсказочная маска
+A cheap mask for Terry cosplay.\#He must have made it himself.<#>Дешёвая маска для косплея Терри.\#Он, наверное, сам её сделал.
+Exclusive Cigar<#>Особая сигара
+Cures wary, poison and depression. Makes you look\#Super Cool, but might make you winded.<#>Исцеляет беспокойство, отравление и расстроенность. Пробуждает\#в вас супер-крутость, но из-за курения возникает одышка.
+Poison bomb<#>Ядовитая бомба
+Gasoline can<#>Канистра с бензином
+Filled with liquefied dinosaur. Makes an enemy\#Oiled Up, making him vulnerable to fire damage.<#>Наполнена сжиженным динозавром. Делает врага маслянным,\#а следовательно уязвимым к огню.
+Chair<#>Стул
+A small wooden chair. Deals mediocre damage to\#an enemy. Can be used 3 times.<#>Маленький деревянный стул. Наносит средний урон.\#Может быть использован 3 раза.
+A small wooden chair. Deals mediocre damage to\#an enemy. Can be used 2 times.<#>Маленький деревянный стул. Наносит средний урон.\#Может быть использован 2 раза.
+A small wooden chair. Deals mediocre damage to\#an enemy. Can be used only a time.<#>Маленький деревянный стул. Наносит средний урон.\#Может быть использован лишь один раз.
+Taser<#>Шокер
+A rare electroshock weapon. Paralyses an enemy.<#>Редкое электрошоковое оружие. Парализует врага.
+Boot cocktail<#>Ботиночный коктейль
+Boot<#>Ботинок
+Tube of Salt<#>Тюбик соли
+Other than being used in salting of meat,\#it is also a common substitute for bullets.<#>Помимо использования для засолки мяса, также\#является распространённой заменой боевым патронам.
+Champion Chair<#>Стул чемпиона
+A dense steel chair. Deals mediocre damage to\#an enemy. Can be used 5 times.<#>Прочный стальной стул. Наносит средний урон.\#Может быть использован 5 раз.
+A dense steel chair. Deals mediocre damage to\#an enemy. Can be used 4 times.<#>Прочный стальной стул. Наносит средний урон.\#Может быть использован 4 раза.
+A dense steel chair. Deals mediocre damage to\#an enemy. Can be used 3 times.<#>Прочный стальной стул. Наносит средний урон.\#Может быть использован 3 раза.
+A dense steel chair. Deals mediocre damage to\#an enemy. Can be used 2 times.<#>Прочный стальной стул. Наносит средний урон.\#Может быть использован 2 раза.
+A dense steel chair. Deals mediocre damage to\#an enemy. Can be used 1 time.<#>Прочный стальной стул. Наносит средний урон.\#Может быть использован 1 раз.
+Lito - Die To Sexualize<#>Lito - Die To Sexualize
+A song about a man overcoming it all and becoming\#the best of the best. Said to be Lito's greatest hit.<#>Песня о человеке, преодолевающим всё это и становящемся\#лучшим из лучших. Считается величайшим хитом Lites.
+Touchfield - Orange Lights<#>Touchfield - Orange Lights
+To heal your soul and put your mind at ease.\#Know what it feels like to be a sunset.<#>Исцеляет душу и успокаивает разум.\#Узнайте, каково это - быть закатом.
+W2D - Welcome Home<#>W2D - Welcome Home
+A popular choice of background noise\#for men taking a load off after a hard day's work.<#>Популярный мужской выбор в качестве фонового\#шума после тяжелого рабочего дня.
+W2D - Creepy Sax<#>W2D - Creepy Sax
+A song based on the artists childhood nightmares.<#>Песня, основанная на детских кошмарах артистов.
+UFODs - Boneyard March<#>UFODs - Boneyard March
+Michael - Springer. Has that signature UFODs'\#"Made in a garage and with a limited budget" feel<#>Michael - Springer. Имеет это фирменное чувство "Сделана\#в гараже, да ещё и с ограниченным бюджетом" от UFODs.
+UFODs - Fighting with Sticks and Stones<#>UFODs - Fighting with Sticks and Stones
+Springer - Harris. A song perfect for every occasion!\#(As long as that occasion is a vintage ass-whoopin')<#>Springer - Harris. Песня, идеально подходящая для любого случая!\#(До тех пор, пока это событие - старомодная драка)
+W2D - Work Harder<#>W2D - Work Harder
+No words can ever properly articulate\#just how manly this song makes you feel.<#>Словами не выразить, настолько мужественно\#вы чувствуете себя от этого трека.
+UFODs - Stillwater<#>UFODs - Stillwater
+Michael - Springer. An experimental track from\#UFO Drivers. Everyone preferred their earlier works.<#>Michael - Springer. Экспериментальный трек от\#UFO Drivers. Все любят их ранние работы.
+W2D - Satan's Call<#>W2D - Satan's Call
+Ever wondered what a piano with depression\#sounds like?<#>Когда-нибудь задумывались, как звучит пианино\#с депрессией?
+Good - Allsides<#>Good - Allsides
+Nothing will ever be the same. Nor can they ever\#return to normal. So go cry about it to this song.<#>Ничего никогда не будет прежним. И никогда не сможет снова\#стать нормальным. Теперь, иди поплачь об этом под эту песню.
+Good - Scum of the Earth<#>Good - Scum of the Earth
+Hate the planet with the help\#of this funky fresh track.<#>Ненавидьте планету под этот обалденный\#свежий трек.
+Henderson - Goin' Back to Kansas<#>Henderson - Goin' Back to Kansas
+The old road home just gets\#a little longer each day, doesn't it?<#>Старая дорога домой с каждым днём становится\#чуть длиннее, не так ли?
+Pickle of Agility<#>Огурец скорости
+A dainty consisting of buckwheat and a pickle.\#Increases AGI by 10.<#>Лакомство, состоящее из гречки и маринованного\#огурчика. Увеличивает СКОР на 10.
+Cutlet of Strength<#>Котлета силы
+A dainty consisting of buckwheat and a cutlet.\#Increases ATK and MAT by 10.<#>Лакомство, состоящее из гречки и котлеты.\#Увеличивает АТК и СП. АТК на 10.
+Cheese of Endurance<#>Сыр выносливости
+A dainty consisting of buckwheat and cheese.\#Increases MHP by 10.<#>Лакомство, состоящее из гречки и сыра.\#Увеличивает МОЗ на 75.
+Pearl of Trash<#>Мусорная жемчужина
+A pearl formed from centuries of trash juices\#condensing around each other. (Barter Item)<#>Жемчужина, образовавшаяся из вековых скоплений\#мусора. (Предмет для обмена)
+Crab<#>Краб
+An angry crab that is dissatisfied with its being\#in your inventory. (Barter Item)<#>Сердитый краб, недовольный нахождением в\#вашем инвентаре. (Предмет для обмена)
+Flaccid Revolver<#>Вялый револьвер
+No matter how you shoot, you always hit your feet.\#(Barter Item)<#>Как бы вы не стреляли, вы всегда будете стрелять\#себе в ногу. (Предмет для обмена)
+Phone Book<#>Записная книжка
+Even though most conversations are physical,\#\#these yellow pages can still be of use. (Barter Item)<#>Даже несмотря на то, что все разговоры проводятся при встрече,\#эти пожелтевшие страницы всё ещё могут быть полезны. (Предмет для обмена)
+Plan B<#>План Б
+A blast of flaming emotion. (WARNING: Does exactly\#what you think it does.) (Barter Item)<#>Всплеск пылающих эмоций. (ПРЕДУПРЕЖДЕНИЕ: Делает\#в точности то, о чём вы думаете.) (Предмет для обмена)
+Bag of Drinking Straws<#>Сумка с соломинками
+Useful for drinking sodas and other beverages.\#Useless for just about anything else. (Barter Item)<#>Полезна для употребления газированных и других напитков.\#Бесполезна для любой другой вещи. (Предмет для обмена)
+Exclamation Flag<#>Восклицательный флаг
+Lets everyone know that something is happening.\#(Crafting Material)<#>Даёт всем понять, что что-то происходит.\#(Материал для изготовления)
+Revolver with a Flag<#>Револьвер с флагом
+Scare the shit out of the enemy with\#this classic ruse.\#Can be used only by Elton.<#>Пусть враги обосрутся от этой классической уловки.\#Может быть использован только Элтоном.
+Left Snake Wristband<#>Браслет левой змеи
+1 snake was harmed in the making of this wristband.\#(Crafting Material)<#>При изготовлении этого браслета пострадала 1 змея.\#(Материал для изготовления)
+Right Snake Wristband<#>Браслет правой змеи
+Potato Chips<#>Картофельные чипсы
+Recover 1000 HP.<#>Восстанавливают 1000 ОЗ.
+Soviet Flag<#>Советский флаг
+A USSR flag given to you by Lenin himself to help\#spread Communism. How the fuck. (Barter Item)<#>Флаг СССР, выданный вам самим Лениным, чтобы распространять\#коммунизм. Каким блять образом? (Предмет для обмена)
+Mixed Drink<#>Смешанный напиток
+An unsafe blend of alcohol drinks. Recovers 1200 HP.\#Makes you Deeply Hungover, Pissed and Oiled Up.<#>Небезопасная смесь алкогольных напитков. Восстанавливает\#1200 ОЗ. Вызывает сильное похмелье, ярость, и маслянность.
+The Chosen Doner<#>Избранный донер
+A doner that is chosen to become a superdoner.\#(Unusable; Crafting Material)<#>Донер, избранный, чтобы стать супердонером.\#(Неиспользуемый; Материал для изготовления)
+Worrying Pickle<#>Тревожный огурец
+A pickle that makes you nervous. Recovers 70 HP.<#>Огурец, который вызывает у вас тревогу.\#Восстанавливает 70 ОЗ.
+Pickle with Chocolate<#>Огурец с шоколадом
+A result of your diceased imagination degrading more\#and more. Makes you emotional.<#>Результат вашего больного воображения, деградирующего\#с каждым днём. Сильно расстраивает.
+Gift Bag<#>Подарочный мешок
+Elton's Journal<#>Журнал Элтона
+A journal based on Elton's experiences. Includes\#a state manual and list of axioms. (Inspectable)<#>Журнал, основанный на опыте Элтона. Включает\#в себя руководство по состояниям и список аксиом.
+Rusted Pipe<#>Ржавая труба
+A rusted metal pipe.<#>Ржавая железная труба.
+Cocaine<#>Кокаин
+Speed<#>Спиды

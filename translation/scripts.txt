@@ -1,0 +1,123 @@
+Buy<#>Купить
+Sell<#>Продать
+Cancel<#>Отмена
+Possession<#>Во владении
+Current Exp<#>Текущий опыт
+To Next %s<#>До следующего уровня
+Save to which file?<#>В какой файл сохранить?
+Load which file?<#>Какой файл загрузить?
+File<#>Файл
+%s's Party<#>Группа %s
+%s emerged!<#>%s появился!
+%s got the upper hand!<#>%s получил преимущество!
+%s was surprised!<#>%s был удивлён!
+%s has started to escape!<#>%s начал убегать!
+You can't escape!<#>Вы не можете сбежать!
+%s was victorious!<#>%s одержал победу!
+%s was defeated.<#>%s был повержен.
+%s EXP received!<#>%s ОПЫТА получено!
+%s\\Mags found!<#>%s\\журналов найдено!
+%s found!<#>Предмет %s найден!
+%s is now %s %s!<#>%s теперь %s %s!
+%s learned!<#>Навык %s выучен!
+%s uses %s!<#>%s использует %s!
+An excellent hit!!<#>Прекрасный удар!!
+A painful blow!!<#>Болезненный удар!!
+%s took %s damage!<#>%s получил %s урона!
+%s recovered %s %s!<#>%s восстановил %s %s!
+%s gained %s %s!<#>%s получил %s %s!
+%s lost %s %s!<#>%s потерял %s %s!
+%s was drained of %s %s!<#>Высосано %s %s из %s!
+%s took no damage!<#>%s не получил урона!
+Miss! %s took no damage!<#>Промах! %s не получил урона!
+Drained %s %s from %s!<#>Высосано %s %s из %s!
+Missed! %s took no damage!<#>Промах! %s не получил урона!
+%s evaded the attack!<#>%s уклонился от атаки!
+%s nullified the power!<#>%s развеял силу!
+%s reflected the power!<#>%s отразил силу!
+%s counterattacked!<#>%s контратаковал!
+%s protected %s!<#>%s защитил %s!
+%s's %s went up!<#>%s %s выросло!
+%s's %s went down!<#>%s %s упало!
+%s's %s returned to normal.<#>%s %s вернулось в нормальное состояние.
+There was no effect on %s!<#>Это не оказало эффекта на %s!
+All Foes<#>Все враги
+One Random Foe<#>Один случаный враг
+%d Random Foes<#>%d случайных врагов
+All Allies<#>Все союзники
+All Dead Allies<#>Все мёртвые союзники
+One Random Ally<#>Один случайный союзник
+%d Random Allies<#>%d случайных союзников
+-%s SP<#>-%s ОН
++%s SP<#>+%s ОН
+-%s TP<#>-%s ОТ
++%s TP<#>+%s ОТ
+DRAIN<#>ВЫСОСАНО
+CRITICAL!<#>КРИТ!
+MISS<#>ПРОМАХ
+EVADE!<#>УКЛОНЕНИЕ!
+FAILED<#>НЕУДАЧА
+WEAKPOINT<#>СЛАБОСТЬ
+RESIST<#>СОПРОТИВЛЕНИЕ
+IMMUNE<#>ИММУНИТЕТ
+ABSORB<#>ПОГЛОЩЕНИЕ
+Execute<#>Исполнить
+Input Attacks<#>Ввод атак
+Change<#>Изменить
+Remove<#>Убрать
+Revert<#>Отменить
+Finish<#>Завершить
+-Empty-<#>- Пусто -
+-Remove-<#>- Убрать -
+- No Data -<#>- Нет данных -
+Equipment<#>Снаряжение
+New Skills<#>Новые навыки
+You<#>Вы
+%s won the battle.<#>%s одержал победу.
+%s has leveled up!<#>%s получил новый уровень!
+Leftovers<#>Останки
++%sEXP<#>+%s ОПЫТА
+LEVEL UP!<#>НОВЫЙ УРОВЕНЬ!
+MAX LEVEL<#>МАКС. УРОВЕНЬ
+"We won! What an exciting fight!"<#> "Мы выиграли! Какая захватывающая битва!"
+"I didn\'t even break a sweat."<#> "Я даже не вспотел."
+"That wasn\'t so tough."<#> "Это было не так тяжело."
+"Let\'s fight something harder!"<#> "Мне нужен бой потяжелее!"
+"Yes! Level up!"<#> "Да! Новый уровень!"
+"I\'ve gotten stronger!"<#> "Я стал сильнее!"
+"Try to keep up with me!"<#> "Поспевайте за мной!"
+"I\'ve grown again!"<#> "Я снова вырос!"
+"I\'ll be taking these."<#> "Я это заберу."
+"To the victor goes the spoils."<#> "Остатки достаются победителю."
+"The enemies dropped something!"<#> "Они что-то уронили!"
+"Hey, what\'s this?"<#> "Эй, что это?"
+ NOW<#> СТАЛО
+Options/Quit<#>Настройки/Выход
+OFF<#>ВЫКЛ
+ON<#>ВКЛ
+None<#>Нет
+Window Red<#>Красный цвет окна
+Change the red colour tone for windows.\n<#>Изменить красный тон цвета окна.\n
+Hold SHIFT to change increment by 10.<#>Удерживайте SHIFT, чтобы изменять по 10.
+Window Green<#>Зелёный цвет окна
+Change the green colour tone for windows.\n<#>Изменить зелёный тон цвета окна.\n
+Window Blue<#>Синий цвет окна
+Change the blue colour tone for windows.\n<#>Изменить синий тон цвета окна.\n
+BGM Volume<#>Громкость музыки
+Change the volume used for background music.\n<#>Изменить громкость фоновой музыки.\n
+BGS Volume<#>Громкость звуков
+Change the volume used for background sound.\n<#>Изменить громкость фоновых звуков.\n
+SFX Volume<#>Громкость эффектов
+Change the volume used for sound effects.\n<#>Изменить громкость эффектов.\n
+Instant Text<#>Мгновенный текст
+Normal<#>Нормальный
+Instant<#>Мгновенный
+Set message text to appear one-by-one or instantly.<#>Показывать текст в диалогах по буквам или мгновенно.
+Battle Animations<#>Анимации в бою
+Hide<#>Спрятать
+Show<#>Показать
+Hide animations during battle to speed up battles?<#>Прятать анимации в боях, чтобы ускорить бои?
+Return to Title Screen<#>Вернуться в меню
+Go back to the title screen.<#>Вернуться в меню.
+Quit Game<#>Выйти из игры
+Quit the game.<#>Выйти из игры.

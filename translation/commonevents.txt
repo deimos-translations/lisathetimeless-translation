@@ -1,0 +1,118 @@
+You got an empty bottle.<#>Вы получили пустую бутылку.
+You dumped out the dirty water.<#>Вы вылили грязную воду.
+You can't inspect this right now.<#>Вы не можете изучить его прямо сейчас.
+Close<#>Закрыть
+You can't take off your helmet underwater.<#>Ты не можешь снять свой шлем под водой.
+Dumbass.<#>Придурок.
+Trust for Suckers:<#>Доверие для сосунков:
+You're an idiot.<#>Вы идиоты.
+The End.<#>Конец.
+Never give up.<#>Никогда не сдавайся.
+You can't go here without\#diving equipment.<#>Вы не можете пойти туда без экипировки\#для ныряния.
+A member of your gang has passed...<#>Член вашей группы погиб...
+Cancel.<#>Отмена.
+4\I[348] - \I[70]Mystery Jerky<#>4\I[348] - \I[70]Неизвестное мясо
+3\I[348] - \I[375]Tube of Salt<#>3\I[348] - \I[375]Тюбик соли
+6\I[348] - \I[064]Fancy Perfume<#>6\I[348] - \I[064]Изысканные духи
+9\I[348] - \I[009]Lucrative Tea<#>9\I[348] - \I[009]Хлебный чай
+\nblt{\I[70]Mystery Jerky}Dried meat of common Olathian\#animals. Recovers 300 HP.<#>\nblt{\I[70]Неизвестное мясо}Вяленое мясо\#распространённых Олейтских животных.\#Восстанавливает 300 ОЗ.
+Buy<#>Купить
+Cancel<#>Отмена
+You got a Mystery Jerky!<#>Вы получили неизвестное мясо!
+You don't have enough items.<#>У вас недостаточно предметов.
+\nblt{\I[375]Tube of Salt}Other than being used in salting\#of meat, it is also a common substitute\#for bullets.<#>\nblt{\I[375]Тюбик соли}Помимо использования для\#засолки мяса, также является распространённой\#заменой боевым патронам.
+You got a Tube of Salt!<#>Вы получили тюбик соли!
+\nblt{\I[064]Fancy Perfume}The sweet scent revives\#an ally fully.<#>\nblt{\I[064]Изысканные духи}Сладкий запах поднимает\#союзников на ноги и полностью исцеляет.
+You got a Fancy Perfume!<#>Вы получили изысканные духи!
+\nblt{\I[009]Lucrative Tea}An unsafe blend of tea.\#Revives TP and SP.<#>\nblt{\I[009]Хлебный чай}Нездоровая чайная смесь.\#Восстанавливает ОТ и ОН.
+You got a Lucrative Tea.<#>Вы получили хлебный чай.
+12\I[348] - \I[377]Dangerous, too?<#>12\I[348] - \I[377]Тоже опасен?
+12\I[348] - \I[376]Pencil Behind an Ear<#>12\I[348] - \I[376]Карандаш за ухом
+\nblt{\I[377]Dangerous, too?}With glasses this stupid,\#how can you not feel cool?<#>\nblt{\I[377]Тоже опасен?}С такими дурацкими\#очками, как вы можете не чувствовать себя крутым?
+You got the "Dangerous, too?" eyewear.<#>Вы получили очки "Тоже опасен?".
+\nblt{\I[376]Dangerous, too?}With glasses this stupid,\#how can you not feel cool?<#>\nblt{\I[376]Карандаш за ухом}Так, вы выглядите как\#настоящий ботан. Вы - он и есть. Аксессуар.
+You got the "Pencil behind an Ear" accessory.<#>Вы получили аксессуар "Карандаш за ухом".
+A Mystery Jerky has been stolen from\#your inventory.<#>Из вашего инвентаря было украдено\#неизвестное мясо.
+Your party feels stressed now.<#>Ваша группа встревожена.
+Your mags have been stolen.<#>Ваши журналы были украдены.
+Your party feels weird now.<#>Ваша группа чувствует себя странно.
+A Perfume has been stolen from\#your inventory.<#>Из вашего инвентаря были украдены духи.
+Your party has been confused.<#>Ваша группа находится в замешательстве.
+Your party feels depressed now.<#>Ваша группа расстроена.
+Your party has been hypnotized.<#>Ваша группа загипнотизирована.
+The revolver's jamming...<#>Револьвер клинит...
+You don't have any bullets.<#>У вас нет патронов.
+1\I[479] - \I[453]Ace of Spades<#>1\I[479] - \I[453]Пиковый туз
+1\I[463] - \I[366]Rusted 18-shot Revolver<#>1\I[463] - \I[366]Ржавый 18-зарядный револьвер
+\nblt{\I[453]Ace of Spades}Double up or quit,\#the devil does splits.<#>\nblt{\I[453]Пиковый туз}Удвой или уйди,\#дьявол сделал сплит.
+1\I[070] 1\I[003] - \I[069]Domestic Jerky<#>1\I[070] 1\I[003] - \I[069]Домашнее мясо
+1\I[003] - - - \I[009]Lucrative Tea<#>1\I[003] - - - \I[009]Хлебный чай
+1\I[70] 1\I[04] - \I[511]Potato Chips<#>1\I[70] 1\I[04] - \I[511]Картофельные чипсы
+1\I[11] 1\I[04] - \I[70]Mystery Jerky<#>1\I[11] 1\I[04] - \I[70]Неизвестное мясо
+\nblt{\I[069]Domestic Jerky}Recovers 1000 HP.<#>\nblt{\I[069]Домашнее мясо}Восстанавливает 1000 ОЗ.
+You got a Domestic Jerky!<#>Вы получили домашнее мясо!
+You got a Lucrative Tea!<#>Вы получили хлебный чай!
+\nblt{\I[511]Potato Chips}Recover 1000 hp. (Sold\#for a Mystery Jerky and\#a Potato Liquor.)<#>\nblt{\I[511]Картофельные чипсы}Восстанавливают\#1000 ОЗ. (Продаются за неизвестное мясо и\#картофельный ликёр.)
+You got Potato chips!<#>Вы получили картофельные чипсы!
+\nblt{\I[70]Mystery Jerky}Dried meat of common Olathian\#animals. Recovers 300 HP. (Sold for\#a Bottle of Dirty Water and an\#Empty Bottle.)<#>\nblt{\I[70]Неизвестное мясо}Вяленое мясо\#распространённых Олейтских животных.\#Восстанавливает 300 ОЗ. (Продаётся за бутылку\#грязной воды и за пустую бутылку.)
+1\I[004] 1\I[003] - \I[000]Perfume<#>1\I[004] 1\I[003] - \I[000]Духи
+1\I[11] - - - \I[004]Onion Vodka<#>1\I[11] - - - \I[004]Луковая водка
+1\I[004] 1\I[003] - \I[091]Party Liquor<#>1\I[004] 1\I[003] - \I[091]Вечериночный ликёр
+1\I[004] - - - \I[507]Chocolate Bar<#>1\I[004] - - - \I[507]Шоколадка
+\nblt{\I[000]Perfume}The sweet scent revives an ally.\#(Sold for an Onion Vodka and a Diet\#Cocola Cola.)<#>\nblt{\I[000]Духи}Сладкий запах поднимает\#союзников на ноги.\#(Продаются за луковую водку и диетическую\#Кокола-колу.)
+You got a Perfume!<#>Вы получили духи!
+\nblt{\I[004]Onion Vodka}Capable of getting you drunk.\#Recovers 300 HP. (Sold for a Bottle\#of Dirty Water.)<#>\nblt{\I[004]Луковая водка}Способна опьянить.\#Восстанавливает 300 ОЗ. (Продаётся за\#бутылку грязной воды.)
+You got an Onion Vodka!<#>Вы получили луковую водку!
+\nblt{\I[091]Party Liquor}Capable of getting you drunk. Recovers\#200 HP of each party member.\#(Sold for an Empty Bottle and a Diet\#Cocola Cola.)<#>\nblt{\I[091]Вечериночный ликёр}Способен опьянить.\#Восстанавливает 200 ОЗ каждому члену группы.\#(Продаётся за пустую бутылку и диетическую\#Кокола-колу.)
+You got a Party Liquor!<#>Вы получили вечериночный ликёр!
+\nblt{\I[507]Chocolate Bar}An opened bar of chocolate. Recovers\#280 HP. (Crafting Material.)\#(Sold for a Potato Liquor.)<#>\nblt{\I[507]Шоколадка}Открытая шоколадка.\#Восстанавливает 280 ОЗ. (Материал для создания.)\#(Продаётся за картофельный ликёр.)
+You got a Chocolate Bar!<#>Вы получили шоколадку!
+1\I[419] 8\I[018] - \I[064]Fancy Perfume<#>1\I[419] 8\I[018] - \I[064]Изысканные духи
+1\I[003] 10\I[018] - \I[299]Doner<#>1\I[003] 10\I[018] - \I[299]Донер
+1\I[003] - - - 2\I[396]Tasers<#>1\I[003] - - - 2\I[396]Шокеры
+\nblt{\I[064]Fancy Perfume}The sweet scent revives an ally Fully.\#(Sold for a Triple Horror Whiskey and\#8 Mags.)<#>\nblt{\I[064]Изысканные духи}Сладкий запах поднимает\#союзников на ноги и полностью исцеляет.\#(Продаётся за виски "Тройной ужас" и 8 журналов.)
+\nblt{\I[299]Doner}Recovers 450 HP, temporarily\#increasing max. HP by 33% and decreasing max.\#SP by 33%. Makes you feel weird.\#(Sold for a Diet Cocola Cola and 10 Mags.)<#>\nblt{\I[299]Донер}Восстанавливает 450 ОЗ,\#временно увеличивает макс. ОЗ на 33% и снижает\#макс. ОН на 33%. Даёт вам странное чувство.\#(Продаётся за диет. Кокола-колу и 10 журналов.)
+You got a Doner!<#>Вы получили Донер!
+\nblt{2\I[396]Tasers}A rare electroshock weapon.\#Paralyses the enemy.\#(Sold for a Cocola Cola.)<#>\nblt{2\I[396]Шокеры}Редкое электрошоковое оружие.\#Парализует врага.\#(Продаётся за Кокола-колу.)
+You got 2 Tasers!<#>Вы получили 2 шокера!
+1\I[463] 8\I[018] - \I[032]Old Revolver<#>1\I[463] 8\I[018] - \I[032]Старый револьвер
+2\I[000] - - - \I[064]Fancy Perfume<#>2\I[000] - - - \I[064]Изысканные духи
+\nblt{\I[064]Fancy Perfume}Sweet scent revives\#an ally fully.<#>\nblt{\I[064]Изысканные духи}Сладкий запах\#поднимает союзников на ноги и полностью\#исцеляет.
+1\I[446] - - - \I[005]Gift Bag<#>1\I[446] - - - \I[005]Подарочный мешок
+\nblt{\I[005]Gift Bag}(Contains a pair of "Dangerous, too? glasses,\#a Mystery Jerky and 10 mags.) With \I[377] glasses\#this stupid, how can you not feel cool?<#>\nblt{\I[005]Подарочный мешок} (Состоит из пары очков\#"Тоже опасен?", неизвестного мяса и 10\#журналов.) С такими \I[377] дурацкими очками, как вы можете\#не чувствовать себя крутым?
+You got a "Dangerous, too?", a Mystery\#Jerky and 10 mags!<#>Вы получили очки "Тоже опасен?", неизвестное\#мясо и 10 журналов!
+3\I[011] - - - \I[011]Bottle of Water<#>3\I[011] - - - \I[011]Бутылка воды
+\nblt{\I[11]Bottle of Water}An extremely refreshing drink.\#Cures many aliments, including Scared,\#Weird and Hangover. (Sold for 3 Bottles\#of Dirty Water.)<#>\nblt{\I[11]Бутылка воды}Чрезвычайно освежает.\#Исцеляет многие недуги, включая испуг,\#странность и похмелье. (Продаётся\#за 3 бутылки грязной воды.)
+You got a Bottle of Water!<#>Вы получили бутылку воды!
+Tastes like shit...<#>На вкус как дерьмо.
+Absolutely disgusting.<#>Совершенно отвратительно.
+Even shit probably tastes better.<#>Даже у дерьма вкус наверное лучше.
+*Sounds of pain*<#>*Звуки боли*
+\I[299] + \I[330] + \I[331] = \I[329]Superdoner<#>\I[299] + \I[330] + \I[331] = \I[329]Супер-донер
+\nblt{\I[329]Superdoner}A doner with pineapples and mayo.\#Probably the last one of its kind.<#>\nblt{\I[329]Супер-донер}Донер с ананасами и майонезом.\#Наверное, он такой последний.
+You got a Superdoner!<#>Вы получили супер-донер!
+\I[430] + \I[382] = \I[431]Revolver with a Flag<#>\I[430] + \I[382] = \I[431]Револьвер с флагом
+\nblt{\I[431]Revolver with a Flag}Scare the shit out of the enemy with\#this classic ruse.\#Can be used only by Elton.<#>\nblt{\I[431]Револьвер с флагом}Пусть враги обосрутся от\#этой классической уловки. Может быть использован\#только Элтоном.
+You got a Revolver with a Flag!<#>Вы получили револьвер с флагом!
+\I[004] * 4 = \I[010]Mixed Drink<#>\I[004] * 4 = \I[010]Смешанный напиток
+\nblt{\I[010]Mixed Drink}An unsafe blend of alcohol drinks. Recovers 1200 HP.\#Makes you Deeply Hungover, Pissed and Oiled Up.\#(Requires a Potato Liquor, an Onion Vodka, a Party\#Liquor and an Olathian Whiskey to craft)<#>\nblt{\I[010]Смешанный напиток}Небезопасная смесь алкогольных\#напитков. Восстанавливает 1200 ОЗ. Вызывает сильное\#похмелье, ярость, и маслянность. (Требуется картоф.\#ликёр, луковая водка, вечер. ликёр и Олейт. виски.)
+You got a Mixed Drink!<#>Вы получили смешанный напиток!
+\I[507] + \I[509] = \I[508]Pickle with Chocolate<#>\I[507] + \I[509] = \I[508]Огурец с шоколадом
+\nblt{\I[508]Pickle with Chocolate}A result of your diseased imagination\#degrading more and more. Makes you emotional.<#>\nblt{\I[508]Огурец с шоколадом}Результат вашего больного\#воображения, деградирующего с каждым днём. Сильно\#расстраивает.
+You got a Pickle with Chocolate.<#>Вы получили огурец с шоколадом.
+State Manual<#>Руководство по состояниям
+Pages 1, 2<#>Страницы 1-2
+Pages 3, 4<#>Страницы 3-4
+Pages 5, 6<#>Страницы 5-6
+Axioms<#>Аксиомы
+"Never trust those "There's a girl" posters."<#>"Никогда не доверяй этим постерам 'У нас\#есть девушка!'"
+"Never trust guys in masks."<#>"Никогда не доверяй людям в масках."
+"Never trust signs that say "Not a cliff.""<#>"Никогда не доверяй табличкам, на которых\#написано 'не обрыв'."
+"Never trust eye doctors."<#>"Никогда не доверяй окулистам."
+"All liquor, no matter how cheap."<#>"Алкоголь есть алкоголь, каким бы дешёвым он\#ни был."
+"Never trust fish."<#>"Никогда не доверяй рыбам."
+"Trust your eyes."<#>"Доверяй своим глазам."
+"Never trust gypsies."<#>"Никогда не доверяй цыганам."
+"If all else fails, kick em' in the groin."<#>"Если остальное не действует, бей прямо в пах."
+"You don't need to be young to kick some ass."<#>"Не нужно быть молодым, чтобы надрать\#кому-то зад."
+Added to the Journal.<#>Добавлено в журнал.

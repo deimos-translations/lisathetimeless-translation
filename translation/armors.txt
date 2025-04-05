@@ -1,0 +1,124 @@
+Bare Chest<#>Голый торс
+This makes a very bold statement.<#>Очень смелое заявление.
+Blue Floral Shirt<#>Синяя гавайка
+You've had this wrinkley bastard\#for over 35 years now...<#>Вы носите этого скомканного ублюдка\#уже более 35-ти лет...
+Darker Blue Floral Shirt<#>Тёмно-синяя гавайка
+You feel gross just looking at it... Increases Health\#and Target Rate.<#>Вам тошно от одного лишь её вида...\#Увеличивает здоровье и шанс быть атакованным.
+Leather Jacket<#>Кожаная куртка
+Makes you feel protected. And cool as hell.<#>Даёт чувство безопасности. И чертовски\#крута.
+Leather Guards<#>Кожаные наплечники
+A popular choice amongst muggers and raiders.\#They also chafe a bit.<#>Популярный выбор среди грабителей и\#налетчиков. Они немного неудобные.
+Biker's goggles<#>Байкерские очки
+You have the sudden urge to rev up a Harley.\#Immunity to Blind and resistance to Fire<#>У вас возникает внезапное желание поднажать\#на своём Харли. Иммунитет к слепоте и горению.
+Dangerous, too?<#>Тоже опасен?
+With glasses this stupid, how can you not feel cool?<#>С такими дурацкими очками, как вы можете\#не чувствовать себя крутым?
+Tight Belt<#>Тугой ремень
+Those pants ain't going nowhere now. Resistance to Stun.<#>Этим штанам никуда не деться. Даёт сопротивление\#к оглушению.
+Small Belt<#>Маленький ремень
+A long peice of fabric. Barely ties around your waist.\#Increases TP Charge Rate and Target Rate.<#>Длинный кусок ткани. Ядва затягивается на поясе.\#Повышает скорость зарядки ОН и шанс быть атакованым.
+Grey Belt<#>Серый ремень
+A belt so average the color changed to match its blandness.\#Decreases TP Charge Rate and Target Rate<#>Настолько обычный ремень, что его цвет изменился подстать его постности.\#Понижает скорость заполнения ОН и шанс быть атакованным.
+Snake Belt<#>Змеиный ремень
+A snake was harmed in the making of this belt.\#Resistance to Poison but weak to Fire.<#>При изготовлении этого ремня пострадала змея.\#Даёт устойчивость к яду и слабость к огню.
+Brass Buckle<#>Латунная пряжка
+Become a BAMF with this bad boy. Resistance to Fallen, but\#weak to Stun.<#>Станьте настоящим подонком с этим плохишом.\#Даёт сопротивление к падению, и слабость к оглушению.
+Pencil Behind the Ear<#>Карандаш за ухом
+Makes you look like a complete nerd. You nerd.\#Increases agility.<#>Так, вы выглядите как настоящий ботан. Вы - он и\#есть. Аксессуар.
+Grey Beanie<#>Серая шапка
+A beanie made from 100% real imitation cotton.<#>Шапка, сделанная из 100%-ного натурального\#искусственного хлопка.
+Blue Shirt<#>Синяя футболка
+A shirt that is blue. Not much else to say.<#>Футболка, которая синяя. Больше ничего\#не скажешь.
+Sports Jersey<#>Спортивная майка
+Show your team support with this brown jersey.<#>Поддержите свою команду этой коричневой\#майкой.
+Blobfish hat<#>Маска в виде рыбы-капли
+Not only it's a fish hat, it's a blobfish hat.\#But is it really a hat?<#>Это не просто рыбомаска, это каплемаска.\#Но маска ли это на самом деле?
+Jack of Clubs<#>Трефовый валет
+Decreases the physical damage received by 10%.<#>Понижает получаемый физический урон на\#10%.
+Black Belt<#>Чёрный пояс
+An authentic combat belt!<#>Аутентичный боевой пояс!
+Two of Diamonds<#>Бубновая двойка
+Pocket With Pencils<#>Карман карандашей
+It's always good to have some pencils on hand.\#They increase max. SP by 20.<#>Всегда полезно иметь пару карандашей под\#рукой. Они увеличивают макс. ОН на 20.
+Nerd's glasses<#>Ботанские очки
+A pretty bland looking pair of glasses. Prevents the\#user from blinding. It's impossible to look cool with these on.<#>Довольно безвкусные очки. Защищают от\#ослепления. В них невозможно выглядеть круто.
+Racoon cloak<#>Енотовая маска
+The Spirit of the Raccoon is with you.\#(In the form of this taxidermy pelt.)<#>Дух Енотов с вами.\#(В виде этой таксидермической шкурки.)
+Comb<#>Расчёска
+An effective tool for hair care. Resistance to\#Weird and Wary.<#>Эффективный инструмент для ухода за волосами.\#Даёт сопротивление к странности и беспокойству.
+Rando Poncho<#>Пончо Рандо
+A very well made poncho.<#>Отлично сшитое пончо.
+Silk Poncho<#>Шёлковое пончо
+A very rare fabric in today's day and age.\#Who did this belong to?<#>Очень редкая ткань в наши дни.\#Кому оно принадлежало?
+USA Flag<#>Флаг США
+It's rather disrespectful to be wearing\#this like a shirt...<#>Довольно неуважительно носить его вместо\#майки...
+Nipple Patch<#>Повязка на сосок
+Probably the only one ever made.\#Who loses a nipple?<#>Наверное, она такая единственная в своём роде.\#Как можно потерять сосок?
+Lucky Feather<#>Счастливое перо
+Putting this in your cap makes you look\#super smart!<#>Надев его на свою шляпу, вы будете выглядеть\#супер умно!
+Locket<#>Кулон
+A woman's picture is inside the locket.<#>Внутри кулона лежит фотография женщины.
+Worn Helmet<#>Поношенный шлем
+Give it the old college try with this\#bad boy.<#>Вернитесь во времена колледжа с этим плохишом.
+Horrace's Hardhat<#>Каска Хорраса
+There is something written on it: "Dear son,\#don't drive bulldozers, you'll never succeed."<#>На ней что-то написано: "Дорогой сын, не води\#бульдозеры, у тебя никогда не получится."
+Diary Entries<#>Записи в дневнике
+An assortment of motivational quotes to help\#Terry get through the day...<#>Подборка мотивирующих цитат, которые помогут\#Терри пережить этот день...
+Old Sock<#>Старый носок
+Super comfy, but super smelly.<#>Супер удобный, но супер вонючий.
+Stench<#>Вонь
+A stench so strong, you can\#physically carry it around.<#>Настолько сильная вонь, что вы можете\#физически носить её вокруг.
+Dead Flower<#>Погибший цветок
+A personal keepsake.<#>Личный подарок на память.
+Cape<#>Капюшон
+It's really just an old towel...<#>Это, на самом деле, лишь старое полотенце...
+Cat Paw<#>Кошачья лапа
+Many people love cats...\#Many hate them...<#>Многие люди любят кошек...\#Многие ненавидят...
+Denim Jeans<#>Джинсы из денима
+Denim never goes out of style.<#>Деним никогда не выйдет из моды.
+Badass Belt Buckle<#>Пряжка крутого ублюдка
+This mother fucker keeps those fucking\#pants secure as fuck.<#>Этот плохиш охуеть как мощно удерживает\#штаны.
+Glasses<#>Очки
+Helps you hit things better. Reduces your coolness,\#regardless of your opinion on fashion.<#>Увеличивает шанс попадания. Снижает вашу крутость,\#независимо от вашего вкуса в моде.
+Cheetah Jersey<#>Леопардовая майка
+A very loud sports jersey.<#>Очень яркая спортивная майка.
+Drab Tank Top<#>Серая майка
+An earthly colored tank top.<#>Майка земного цвета.
+Show your team support with this\#over priced jersey.<#>Поддержите свою команду с этой майкой, цену\#на которую явно завысили.
+Cutoff Sweatshirt<#>Обрезанная футболка
+Ideal for people with nice abs.\#Gives you a good chance at looking cool.<#>Идеальна для людей с крутыми кубиками.\#Даёт вам большой шанс выглядеть круто.
+Floral Shirt<#>Рубашка в цветочек
+The coolest type of shirt ever.\#Only few can pull it off.<#>Крутейшая рубашка на свете.\#Немногие могут носить её на себе.
+Grandpa's Shirt<#>Дедовская рубашка
+The legendary blouse of a retiree.\#This shirt has seen many games of golf...<#>Легендарная рубашка пенсионера.\#Она видела бесчисленное количество матчей в гольф...
+Lab Coat<#>Лабораторный халат
+A dirty lab coat.<#>Грязный лабораторный халат.
+Sweaty Shirt<#>Потная футболка
+This shirt is covered in cologne to mask\#the sweat smell.<#>Эта рубашка пропитана одеколоном, чтобы замаскировать\#запах пота.
+Turban<#>Тюрбан
+Headwear created by cloth winding.<#>Головной убор, созданный путём сворачивания\#тряпок.
+Odd Helmet<#>Странный шлем
+Origins unknown.<#>Происхождение неизвестно.
+Bird Mask<#>Птичья маска
+Quack, quack? What is this?<#>Кря, кря? Что это?
+Straw Hat<#>Соломенная шляпа
+Something Grandmother would\#wear.<#>Что-то, что носила бы ваша бабушка.
+Businessy Hat<#>Бизнес-шляпа
+This hat increases your office productivity.<#>Эта шляпа повышает вашу продуктивность в офисе.
+Fisherman's Hat<#>Шляпа рыбака
+This has no style whatsoever.\#It's impossible to look cool with this.<#>В этой шляпе вообще нет никакого стиля.\#В ней невозможно выглядеть круто.
+Dandy Hat<#>Модная шляпа
+The ultimate in Southern headwear.<#>Непревзойденный южный головной убор.
+Paint Can<#>Банка из-под краски
+A paint can with a hole in it.<#>Банка из-под краски с дырой в ней.
+Harvey<#>Харви
+Sonny's best friend. The only one Sonny\#feels comfortable talking to...<#>Лучший друг Сонни. Единственный, с кем Сонни\#чувствует себя комфортно...
+Winter Cap<#>Зимняя шапка
+A tiny hat made for Winter. Worn all year\#by homeless people.<#>Маленькая шляпа, сшитая для зимы. Как правило,\#носится бездомными круглогодично.
+Fish Head<#>Шляпа-рыба
+Is this a real fish head?\#Is this a real fishman?!<#>Это шляпа из реальной рыбы?\#Это реальный рыбовек?!
+Mid-Life Crisis Hat<#>Шляпа кризиса среднего возраста
+It's something we all go through at some point.<#>Мы все через это пройдём.
+Oiled Chest<#>Маслянная грудь
+Makes you all slippery and sexy!<#>Делает вас скользким и сексуальным!
+Football Helmet<#>Футбольный шлем
+Hike! Your way into proper safety!<#>Надевай! Он обеспечит надлежащую безопасность!

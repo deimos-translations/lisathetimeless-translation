@@ -1,0 +1,6 @@
+Conjurer<#>Фокусник
+Walking Corpse<#>Ходячий труп
+Cart Master<#>Мастер по тележкам
+Ern Himself<#>Эрн, собственной персоной
+Aged Vagrant<#>Престарелый бродяга
+Unassuming Warrior<#>Непритязательный воин
