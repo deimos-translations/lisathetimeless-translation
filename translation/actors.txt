@@ -1,17 +1,92 @@
+<!-- Event ID --><#>1
+<!-- Event Name --><#>Elton
 Elton<#>Элтон
 Broll<#>Бролл
-An aged vagabond just trying to live out what\#little time he has left.<#>Престарелый бродяга, пытающийся прожить то\#немногое время, что у него осталось.
-<win quotes>\#\elb Serves ya right!\#[new quote]\#\elb My back is killing me...\#[new quote]\#\elb Ugh.. I need a drink...\#</win quotes>\#<level quotes>\#\elb I've still got it.\#[new quote]\#\elb Hey! My knees\#stopped popping!\#[new quote]\#\elb Tch, "past your\#prime" my ass...\#</level quotes>\#</drops quotes>\#\elb Back on the\#road again.\#[new quote]\#\elb Any Liqueur?\#[new quote]\#\elb Oh good, more\#crap to carry...\#</drops quotes><#><win quotes>\#\elb Так тебе и надо!\#[new quote]\#\elb Моя спина убивает меня...\#[new quote]\#\elb Ух... Мне нужно выпить...\#</win quotes>\#<level quotes>\#\elb Ещё остался порох в пороховницах.\#[new quote]\#\elb Эй! Хруст в коленях прекратился!\#[new quote]\#\elb Тц, "твой расцвет миновал", чёрт возьми...\#</level quotes>\#</drops quotes>\#\elb Снова в путь.\#[new quote]\#\elb Что-нибудь спиртное?\#[new quote]\#\elb О чёрт, нужно носить всё больше дерьма...\#</drops quotes>
+An aged vagabond just trying to live out what\#little time he has left.<#>Пожилой бродяга, пытающийся пережить то\#немногое время, которое у него осталось.
+<win quotes>\#\elb Serves ya right!\#[new quote]\#\elb My back is killing me...\#[new quote]\#\elb Ugh.. I need a drink...\#</win quotes>\#<level quotes>\#\elb I've still got it.\#[new quote]\#\elb Hey! My knees\#stopped popping!\#[new quote]\#\elb Tch, "past your\#prime" my ass...\#</level quotes>\#</drops quotes>\#\elb Back on the\#road again.\#[new quote]\#\elb Any Liqueur?\#[new quote]\#\elb Oh good, more\#crap to carry...\#</drops quotes><#><win quotes>\#\elb Так тебе и надо!\#[new quote]\#\elb Моя спина умирает...\#[new quote]\#\elb Ох... мне надо выпить...\#</win quotes>\#<level quotes>\#\elb Есть ещё порох в пороховницах.\#[new quote]\#\elb Эй! Мои колени перестали\#хрустеть!\#[new quote]\#\elb Тц, я ещё нахрен\#не "отжил своё"...\#</level quotes>\#</drops quotes>\#\elb Снова в путь.\#[new quote]\#\elb Есть выпивка?\#[new quote]\#\elb Господи, теперь\#носить ещё хлам...\#</drops quotes>
+<!-- Event ID --><#>2
+<!-- Event Name --><#>Berny
 Berny<#>Бёрни
 Connorfold<#>Коннорфолд
-Boring accountant turned aspiring mystic.\#His soul now burns bright as ever!<#>Скучный бухгалтер превратился в целеустремленного\#мага. Огонь в его глазах горит так ярко, как никогда!
-<win quotes>\#\elb Hurrah!\#[new quote]\#\elb If you come back,\#I won't go easy on you!\#[new quote]\#\elb Bet you weren't\#expectin' that, eh?\#</win quotes>\#<level quotes>\#\elb Practice makes perfect.\#[new quote]\#\elb Getting better and better!\#[new quote]\#\elb I feel all tingly.\#</level quotes>\#<drops quotes>\#\elb What do have?\#[new quote]\#\elb Is this useful?\#[new quote]\#\elb I'll just... nab some of this...\#</drops quotes><#><win quotes>\#\elb Ура!\#[new quote]\#\elb Если ты вернёшься, я не буду поддаваться!\#[new quote]\#\elb Ставлю, что ты не ожидал этого, а?\#</win quotes>\#<level quotes>\#\elb Терпение и труд всё перетрут.\#[new quote]\#\elb Становлюсь лучше и лучше!\#[new quote]\#\elb Всё тело покалывает.\#</level quotes>\#<drops quotes>\#\elb Что тут у нас?\#[new quote]\#\elb Полезная вещь?\#[new quote]\#\elb Я просто... позаимствую пару вещей...\#</drops quotes>
+Boring accountant turned aspiring mystic.\#His soul now burns bright as ever!<#>Скучный бухгалтер стал воодушевлённым мистиком.\#Его душа теперь горит так ярко, как никогда!
+<win quotes>\#\elb Hurrah!\#[new quote]\#\elb If you come back,\#I won't go easy on you!\#[new quote]\#\elb Bet you weren't\#expectin' that, eh?\#</win quotes>\#<level quotes>\#\elb Practice makes perfect.\#[new quote]\#\elb Getting better and better!\#[new quote]\#\elb I feel all tingly.\#</level quotes>\#<drops quotes>\#\elb What do have?\#[new quote]\#\elb Is this useful?\#[new quote]\#\elb I'll just... nab some of this...\#</drops quotes><#><win quotes>\#\elb Ура!\#[new quote]\#\elb Если ещё раз увижу,\#не поздоровится!\#[new quote]\#\elb Ставлю, ты такого\#не ожидал, а?\#</win quotes>\#<level quotes>\#\elb Повторение - мать учения.\#[new quote]\#\elb Становлюсь лучше и лучше!\#[new quote]\#\elb У меня мурашки.\#</level quotes>\#<drops quotes>\#\elb Что тут у нас?\#[new quote]\#\elb Это пригодится?\#[new quote]\#\elb Я... позаимствую это...\#</drops quotes>
+<!-- Event ID --><#>3
+<!-- Event Name --><#>John
 John<#>Джон
 Spin<#>Спин
-A WW1 vet with over 10 decades of regret weighing\#on his shoulders. Do not deny him his redemption.<#>Ветеран Первой мировой, несущий на себе сотню\#лет сожалений. Дайте ему шанс на искупление.
-<win quotes>\#\elb ...\#</win quotes>\#<level quotes>\#\elb ...\#</level quotes>\#<drops quotes>\#\elb ...\#</drops quotes><#><win quotes>\#\elb ...\#</win quotes>\#<level quotes>\#\elb ...\#</level quotes>\#<drops quotes>\#\elb ...\#</drops quotes>
+A WW1 vet with over 10 decades of regret weighing\#on his shoulders. Do not deny him his redemption.<#>Ветеран первой мировой, который несёт за собой\#сотню лет сожалений. Не отказывайте ему в его мести.
+<win quotes>\#\elb ...\#</win quotes>\#<level quotes>\#\elb ...\#</level quotes>\#<drops quotes>\#\elb ...\#</drops quotes><#>
+<!-- Event ID --><#>4
+<!-- Event Name --><#>Ern
 Ern<#>Эрн
 Popwell<#>Попуэлл
-A bummy bum willing to help his friends in need.\#Known for his killer drunken haymaker.<#>Бомже-бомж, всегда готовый помочь друзьям в\#беде. Известен за свой стиль пьяного сенокосца.
-<win quotes>\#\elb Huh? Is.. is it over..?\#[new quote]\#\elb ...we won? We won!\#[new quote]\#\elb You guys sure do get in alot of fights.\#</win quotes>\#<level quotes>\#\elb I'll sock em' real good next time!\#[new quote]\#\elb Good thing I've been doing my stretches.\#[new quote]\#\elb My callus thickens!\#</level quotes>\#<drops quotes>\#\elb So uhh... what now?\#[new quote]\#\elb You fellas mind if I keep some stuff for myself?\#[new quote]\#\elb Can't wait to tell the boys at the bar about this!\#</drops quotes><#><win quotes>\#\elb А? Всё... Всё закончилось...?\#[new quote]\#\elb ...мы победили? Мы победили!\#[new quote]\#\elb Вы, ребята, точно любите подраться.\#</win quotes>\#<level quotes>\#\elb В следующий раз, я им хорошенько всыплю!\#[new quote]\#\elb Хорошо, что я занимался упражнениями по растяжению.\#[new quote]\#\elb Мозолей всё больше!\#</level quotes>\#<drops quotes>\#\elb Так, эээ... И что теперь?\#[new quote]\#\elb Вы, ребята, не возражаете, если я\#приберу пару вещей себе?\#[new quote]\#\elb Не терпится рассказать парням в\#баре об этом!\#</drops quotes>
-<win quotes>\#\elb Hurrah!\#[new quote]\#\elb If you come back, I won't\#go easy on you!\#[new quote]\#\elb Bet you weren't expectin\#that, did ya?\#[new quote]\#</win quotes>\#<level quotes>\#\elb Practice makes perfect.\#[new quote]\#\elb Getting better and better!\#[new quote]\#\elb I feel all tingly.\#[new quote]\#</level quotes>\#<drops quotes>\#\elb What do have?\#[new quote]\#\elb Is this useful?\#[new quote]\#\elb I'll just... nab some of this...\#[new quote]\#</drops quotes><#><win quotes>\#\elb Ура!\#[new quote]\#\elb Если ты вернёшься, я\#поддаваться не буду!\#[new quote]\#\elb Ставлю, ты этого не ожидал\#да?\#[new quote]\#</win quotes>\#<level quotes>\#\elb Практика - залог успеха.\#[new quote]\#\elb Становлюсь лучше и лучше!\#[new quote]\#\elb У меня мурашки по коже.\#[new quote]\#</level quotes>\#<drops quotes>\#\elb Что у нас здесь?\#[new quote]\#\elb Это пригодиться?\#[new quote]\#\elb Я просто... прикарманю немного вещей...\#[new quote]\#</drops quotes>
+A bummy bum willing to help his friends in need.\#Known for his killer drunken haymaker.<#>Бомжеватый бомж, который желает помочь своим\#друзьям в беде. Известен за свой стиль пьяного сенокосца.
+<win quotes>\#\elb Huh? Is.. is it over..?\#[new quote]\#\elb ...we won? We won!\#[new quote]\#\elb You guys sure do get in alot of fights.\#</win quotes>\#<level quotes>\#\elb I'll sock em' real good next time!\#[new quote]\#\elb Good thing I've been doing my stretches.\#[new quote]\#\elb My callus thickens!\#</level quotes>\#<drops quotes>\#\elb So uhh... what now?\#[new quote]\#\elb You fellas mind if I keep some stuff for myself?\#[new quote]\#\elb Can't wait to tell the boys at the bar about this!\#</drops quotes><#><win quotes>\#\elb А? Всё... кончилось...?\#[new quote]\#\elb ...мы победили? Мы победили!\#[new quote]\#\elb Вы, ребята, ввязываетесь в кучу драк.\#</win quotes>\#<level quotes>\#\elb В следующий раз я им хорошенько всыплю!\#[new quote]\#\elb Хорошо, что я занимаюсь растяжками.\#[new quote]\#\elb Мозолей всё больше!\#</level quotes>\#<drops quotes>\#\elb Иии... что теперь?\#[new quote]\#\elb Ребята, не возражаете, если я кое-что себе заберу?\#[new quote]\#\elb Жду не дождусь рассказать об этом парням в баре!\#</drops quotes>
+<!-- Event ID --><#>5
+<!-- Event Name --><#>
+<!-- Event ID --><#>6
+<!-- Event Name --><#>
+<!-- Event ID --><#>7
+<!-- Event Name --><#>
+<!-- Event ID --><#>8
+<!-- Event Name --><#>
+<!-- Event ID --><#>9
+<!-- Event Name --><#>
+<!-- Event ID --><#>10
+<!-- Event Name --><#>
+<!-- Event ID --><#>11
+<!-- Event Name --><#>
+<!-- Event ID --><#>12
+<!-- Event Name --><#>
+<!-- Event ID --><#>13
+<!-- Event Name --><#>
+<!-- Event ID --><#>14
+<!-- Event Name --><#>
+<!-- Event ID --><#>15
+<!-- Event Name --><#>
+<!-- Event ID --><#>16
+<!-- Event Name --><#>
+<!-- Event ID --><#>17
+<!-- Event Name --><#>
+<!-- Event ID --><#>18
+<!-- Event Name --><#>
+<!-- Event ID --><#>19
+<!-- Event Name --><#>
+<!-- Event ID --><#>20
+<!-- Event Name --><#>
+<!-- Event ID --><#>21
+<!-- Event Name --><#>
+<!-- Event ID --><#>22
+<!-- Event Name --><#>
+<!-- Event ID --><#>23
+<!-- Event Name --><#>
+<!-- Event ID --><#>24
+<!-- Event Name --><#>
+<!-- Event ID --><#>25
+<!-- Event Name --><#>
+<!-- Event ID --><#>26
+<!-- Event Name --><#>
+<!-- Event ID --><#>27
+<!-- Event Name --><#>
+<!-- Event ID --><#>28
+<!-- Event Name --><#>
+<!-- Event ID --><#>29
+<!-- Event Name --><#>
+<!-- Event ID --><#>30
+<!-- Event Name --><#>
+<!-- Event ID --><#>31
+<!-- Event Name --><#>Berny
+Berny<#>Бёрни
+Connorfold<#>Коннорфолд
+Boring accountant turned aspiring mystic.\#His soul now burns bright as ever!<#>Скучный бухгалтер стал воодушевлённым мистиком.\#Его душа теперь горит так ярко, как никогда!
+<win quotes>\#\elb Hurrah!\#[new quote]\#\elb If you come back, I won't\#go easy on you!\#[new quote]\#\elb Bet you weren't expectin\#that, did ya?\#[new quote]\#</win quotes>\#<level quotes>\#\elb Practice makes perfect.\#[new quote]\#\elb Getting better and better!\#[new quote]\#\elb I feel all tingly.\#[new quote]\#</level quotes>\#<drops quotes>\#\elb What do have?\#[new quote]\#\elb Is this useful?\#[new quote]\#\elb I'll just... nab some of this...\#[new quote]\#</drops quotes><#><win quotes>\#\elb Ура!\#[new quote]\#\elb Если ещё раз увижу,\#не поздоровится!\#[new quote]\#\elb Ставлю, ты такого\#не ожидал, а?\#</win quotes>\#<level quotes>\#\elb Повторение - мать учения.\#[new quote]\#\elb Становлюсь лучше и лучше!\#[new quote]\#\elb У меня мурашки.\#</level quotes>\#<drops quotes>\#\elb Что тут у нас?\#[new quote]\#\elb Это пригодится?\#[new quote]\#\elb Я... позаимствую это...\#</drops quotes>
+<!-- Event ID --><#>32
+<!-- Event Name --><#>
+<!-- Event ID --><#>33
+<!-- Event Name --><#>
+<!-- Event ID --><#>34
+<!-- Event Name --><#>
+<!-- Event ID --><#>35
+<!-- Event Name --><#>
+<!-- Event ID --><#>36
+<!-- Event Name --><#>

@@ -1,118 +1,633 @@
+<!-- Event ID --><#>1
+<!-- Event Name --><#>Bike
+<!-- Event ID --><#>2
+<!-- Event Name --><#>Immortal
+<!-- Event ID --><#>3
+<!-- Event Name --><#>Rope
+<!-- Event ID --><#>4
+<!-- Event Name --><#>Sleep Hungover
+<!-- Event ID --><#>5
+<!-- Event Name --><#>Headbutt
+<!-- Event ID --><#>6
+<!-- Event Name --><#>+paralysis
+<!-- Event ID --><#>7
+<!-- Event Name --><#>Add Bottle
 You got an empty bottle.<#>Вы получили пустую бутылку.
+<!-- Event ID --><#>8
+<!-- Event Name --><#>break bottle
+<!-- Event ID --><#>9
+<!-- Event Name --><#>Dirty water
 You dumped out the dirty water.<#>Вы вылили грязную воду.
-You can't inspect this right now.<#>Вы не можете изучить его прямо сейчас.
+<!-- Event ID --><#>10
+<!-- Event Name --><#>get firebombs
+<!-- Event ID --><#>11
+<!-- Event Name --><#>Alan Bostaph paper
+You can't inspect this right now.<#>Сейчас вы не можете осмотреть её.
 Close<#>Закрыть
-You can't take off your helmet underwater.<#>Ты не можешь снять свой шлем под водой.
-Dumbass.<#>Придурок.
+<!-- Event ID --><#>12
+<!-- Event Name --><#>Gypsy paper
+You can't inspect this right now.<#>Сейчас вы не можете осмотреть её.
+Close<#>Закрыть
+<!-- Event ID --><#>13
+<!-- Event Name --><#>-90
+<!-- Event ID --><#>14
+<!-- Event Name --><#>Stranger
+<!-- Event ID --><#>15
+<!-- Event Name --><#>Diving helmet
+You can't take off your helmet underwater.<#>Ты не можешь снять шлем под водой.
+Dumbass.<#>Дурак.
+<!-- Event ID --><#>16
+<!-- Event Name --><#>Blanket Bouncer
+<!-- Event ID --><#>17
+<!-- Event Name --><#>FF Quint
+<!-- Event ID --><#>18
+<!-- Event Name --><#>Gun1
+<!-- Event ID --><#>19
+<!-- Event Name --><#>Gun2
+<!-- Event ID --><#>20
+<!-- Event Name --><#>Gun3
+<!-- Event ID --><#>21
+<!-- Event Name --><#>Garbage Map
+\et[021]Is that a map?\#Or chart...? Whatever\#it's called?<#>
+\et[021]It is!<#>
+\et[021]Whoa, it smells...<#>
+\et[021]Garbage Island, huh?<#>
+\et[021]Well, I can\#take you to\#this island.<#>
+\et[021]What do\#you say?<#>
+Go to Garbage Island?<#>
+Stay here.<#>
+\et[021]Saddle up!<#>
+\et[001]To Garbage Island!<#>
+\et[021]Okay.<#>
+You can't use this right now.<#>
+<!-- Event ID --><#>22
+<!-- Event Name --><#>Roulette off
+<!-- Event ID --><#>23
+<!-- Event Name --><#>MENU GRAPHIC FIX
+<!-- Event ID --><#>24
+<!-- Event Name --><#>Magic Hat
+<!-- Event ID --><#>25
+<!-- Event Name --><#>Magic Hat 2
+<!-- Event ID --><#>26
+<!-- Event Name --><#>Magic Hat 3
+<!-- Event ID --><#>27
+<!-- Event Name --><#>Kat Throw
+<!-- Event ID --><#>28
+<!-- Event Name --><#>Critter Throw
+<!-- Event ID --><#>29
+<!-- Event Name --><#>Trust Manual
 Trust for Suckers:<#>Доверие для сосунков:
 You're an idiot.<#>Вы идиоты.
 The End.<#>Конец.
+<!-- Event ID --><#>30
+<!-- Event Name --><#>Creed
 Never give up.<#>Никогда не сдавайся.
-You can't go here without\#diving equipment.<#>Вы не можете пойти туда без экипировки\#для ныряния.
-A member of your gang has passed...<#>Член вашей группы погиб...
-Cancel.<#>Отмена.
+<!-- Event ID --><#>31
+<!-- Event Name --><#>sexy dress
+<!-- Event ID --><#>32
+<!-- Event Name --><#>Dismal Map
+\et[021]Is that a map?\#Or chart...? Whatever\#it's called?<#>
+\et[021]It is!<#>
+\et[021]Dismal Island, huh?<#>
+\et[021]Sounds scary...<#>
+\et[021]Well, I can\#take you to\#this island.<#>
+\et[021]What do\#you say?<#>
+Go to Dismal Island?<#>
+Stay here.<#>
+\et[021]Saddle up!<#>
+\et[001]To Dismal Island!<#>
+\et[021]Okay.<#>
+You can't use this right now.<#>
+<!-- Event ID --><#>33
+<!-- Event Name --><#>trauma
+<!-- Event ID --><#>34
+<!-- Event Name --><#>Diving helmet2
+You can't take off your helmet underwater.<#>Ты не можешь снять шлем под водой.
+Dumbass.<#>Дурак.
+<!-- Event ID --><#>35
+<!-- Event Name --><#>
+<!-- Event ID --><#>36
+<!-- Event Name --><#>Can't Dive
+You can't go here without\#diving equipment.<#>Сюда не выйдет попасть без\#снаряжения для плавания.
+<!-- Event ID --><#>37
+<!-- Event Name --><#>+Amph
+<!-- Event ID --><#>38
+<!-- Event Name --><#>
+<!-- Event ID --><#>39
+<!-- Event Name --><#>
+<!-- Event ID --><#>40
+<!-- Event Name --><#>
+<!-- Event ID --><#>41
+<!-- Event Name --><#>
+<!-- Event ID --><#>42
+<!-- Event Name --><#>
+<!-- Event ID --><#>43
+<!-- Event Name --><#>
+<!-- Event ID --><#>44
+<!-- Event Name --><#>
+<!-- Event ID --><#>45
+<!-- Event Name --><#>Sub Trash Nerf2
+<!-- Event ID --><#>46
+<!-- Event Name --><#>CarrotExplode
+<!-- Event ID --><#>47
+<!-- Event Name --><#>Climb
+<!-- Event ID --><#>48
+<!-- Event Name --><#>
+<!-- Event ID --><#>49
+<!-- Event Name --><#>John spin dies
+<!-- Event ID --><#>50
+<!-- Event Name --><#>Shit happens
+<!-- Event ID --><#>51
+<!-- Event Name --><#>Sub Trash Nerf
+<!-- Event ID --><#>52
+<!-- Event Name --><#>Tracking shot
+<!-- Event ID --><#>53
+<!-- Event Name --><#>Tracking shot2
+<!-- Event ID --><#>54
+<!-- Event Name --><#>TRAP
+<!-- Event ID --><#>55
+<!-- Event Name --><#>Tracking shot3
+<!-- Event ID --><#>56
+<!-- Event Name --><#>Climb
+<!-- Event ID --><#>57
+<!-- Event Name --><#>
+<!-- Event ID --><#>58
+<!-- Event Name --><#>DEATH
+A member of your gang has passed...<#>
+<!-- Event ID --><#>59
+<!-- Event Name --><#>Party Joyed
+<!-- Event ID --><#>60
+<!-- Event Name --><#>Red mask
+<!-- Event ID --><#>61
+<!-- Event Name --><#>Remove Mask
+<!-- Event ID --><#>62
+<!-- Event Name --><#>Revolver
+<!-- Event ID --><#>63
+<!-- Event Name --><#>hint mask
+<!-- Event ID --><#>64
+<!-- Event Name --><#>joy mask
+<!-- Event ID --><#>65
+<!-- Event Name --><#>RANDO Truck
+Travel to the list?<#>
+Let's go.<#>
+Cancel.<#>
+<!-- Event ID --><#>66
+<!-- Event Name --><#>BUTTERFLY KICK: Second kick
+<!-- Event ID --><#>67
+<!-- Event Name --><#>BUTTERFLY KICK: Second kick
+<!-- Event ID --><#>68
+<!-- Event Name --><#>+fallen
+<!-- Event ID --><#>69
+<!-- Event Name --><#>Presence
+<!-- Event ID --><#>70
+<!-- Event Name --><#>Chair degrade 1
+<!-- Event ID --><#>71
+<!-- Event Name --><#>Chair degrade 2
+<!-- Event ID --><#>72
+<!-- Event Name --><#>Push
+<!-- Event ID --><#>73
+<!-- Event Name --><#>Wary index 1
+<!-- Event ID --><#>74
+<!-- Event Name --><#>Wary index 3
+<!-- Event ID --><#>75
+<!-- Event Name --><#>-100
+<!-- Event ID --><#>76
+<!-- Event Name --><#>
+<!-- Event ID --><#>77
+<!-- Event Name --><#>
+<!-- Event ID --><#>78
+<!-- Event Name --><#>
+<!-- Event ID --><#>79
+<!-- Event Name --><#>Get off the rope
+<!-- Event ID --><#>80
+<!-- Event Name --><#>do not take it off
+<!-- Event ID --><#>81
+<!-- Event Name --><#>
+<!-- Event ID --><#>82
+<!-- Event Name --><#>Paralysis
+<!-- Event ID --><#>83
+<!-- Event Name --><#>safe
+<!-- Event ID --><#>84
+<!-- Event Name --><#>Team up
+<!-- Event ID --><#>85
+<!-- Event Name --><#>Flash random
+<!-- Event ID --><#>86
+<!-- Event Name --><#>Team up Dodge
+<!-- Event ID --><#>87
+<!-- Event Name --><#>
+<!-- Event ID --><#>88
+<!-- Event Name --><#>DEV: Give all Equip
+<!-- Event ID --><#>89
+<!-- Event Name --><#>pumpkin BOOM
+<!-- Event ID --><#>90
+<!-- Event Name --><#>Jumping Trash1
+<!-- Event ID --><#>91
+<!-- Event Name --><#>Jumping Trash2
+<!-- Event ID --><#>92
+<!-- Event Name --><#>
+<!-- Event ID --><#>93
+<!-- Event Name --><#>Oil damage
+<!-- Event ID --><#>94
+<!-- Event Name --><#>
+<!-- Event ID --><#>95
+<!-- Event Name --><#>
+<!-- Event ID --><#>96
+<!-- Event Name --><#>Heat Up drop
+<!-- Event ID --><#>97
+<!-- Event Name --><#>
+<!-- Event ID --><#>98
+<!-- Event Name --><#>GarbageTrade
 4\I[348] - \I[70]Mystery Jerky<#>4\I[348] - \I[70]Неизвестное мясо
 3\I[348] - \I[375]Tube of Salt<#>3\I[348] - \I[375]Тюбик соли
 6\I[348] - \I[064]Fancy Perfume<#>6\I[348] - \I[064]Изысканные духи
-9\I[348] - \I[009]Lucrative Tea<#>9\I[348] - \I[009]Хлебный чай
-\nblt{\I[70]Mystery Jerky}Dried meat of common Olathian\#animals. Recovers 300 HP.<#>\nblt{\I[70]Неизвестное мясо}Вяленое мясо\#распространённых Олейтских животных.\#Восстанавливает 300 ОЗ.
+9\I[348] - \I[009]Lucrative Tea<#>9\I[348] - \I[009]Дешёвый чай
+{\I[70]Mystery Jerky}Dried meat of common Olathian\#animals. Recovers 300 HP.<#>{\I[70]Неизвестное мясо}Вяленое мясо распространённых\#олейтских животных. Восстанавливает 300 ОЗ.
 Buy<#>Купить
 Cancel<#>Отмена
 You got a Mystery Jerky!<#>Вы получили неизвестное мясо!
 You don't have enough items.<#>У вас недостаточно предметов.
-\nblt{\I[375]Tube of Salt}Other than being used in salting\#of meat, it is also a common substitute\#for bullets.<#>\nblt{\I[375]Тюбик соли}Помимо использования для\#засолки мяса, также является распространённой\#заменой боевым патронам.
+{\I[375]Tube of Salt}Other than being used in salting\#of meat, it is also a common substitute\#for bullets.<#>{\I[375]Тюбик соли}Кроме применения в засолке мяса,\#также иногда используется в качестве замены пулям.
 You got a Tube of Salt!<#>Вы получили тюбик соли!
-\nblt{\I[064]Fancy Perfume}The sweet scent revives\#an ally fully.<#>\nblt{\I[064]Изысканные духи}Сладкий запах поднимает\#союзников на ноги и полностью исцеляет.
+{\I[064]Fancy Perfume}The sweet scent revives\#an ally fully.<#>{\I[064]Изысканные духи}Приятный запах поднимает союзников\#на ноги и полностью исцеляет.
 You got a Fancy Perfume!<#>Вы получили изысканные духи!
-\nblt{\I[009]Lucrative Tea}An unsafe blend of tea.\#Revives TP and SP.<#>\nblt{\I[009]Хлебный чай}Нездоровая чайная смесь.\#Восстанавливает ОТ и ОН.
-You got a Lucrative Tea.<#>Вы получили хлебный чай.
+{\I[009]Lucrative Tea}An unsafe blend of tea.\#Revives TP and SP.<#>{\I[009]Дешёвый чай}Нездоровая чайная смесь.\#Полностью восстанавливает ОТ и ОН.
+You got a Lucrative Tea.<#>Вы получили дешёвый чай.
 12\I[348] - \I[377]Dangerous, too?<#>12\I[348] - \I[377]Тоже опасен?
 12\I[348] - \I[376]Pencil Behind an Ear<#>12\I[348] - \I[376]Карандаш за ухом
-\nblt{\I[377]Dangerous, too?}With glasses this stupid,\#how can you not feel cool?<#>\nblt{\I[377]Тоже опасен?}С такими дурацкими\#очками, как вы можете не чувствовать себя крутым?
+{\I[377]Dangerous, too?}With glasses this stupid,\#how can you not feel cool?<#>{\I[377]Тоже опасен?}С такими тупыми очками, как можно\#не считать себя крутым?
 You got the "Dangerous, too?" eyewear.<#>Вы получили очки "Тоже опасен?".
-\nblt{\I[376]Dangerous, too?}With glasses this stupid,\#how can you not feel cool?<#>\nblt{\I[376]Карандаш за ухом}Так, вы выглядите как\#настоящий ботан. Вы - он и есть. Аксессуар.
+{\I[376]Dangerous, too?}With glasses this stupid,\#how can you not feel cool?<#>{\I[376]Тоже опасен?}С такими тупыми очками, как можно\#не считать себя крутым?
 You got the "Pencil behind an Ear" accessory.<#>Вы получили аксессуар "Карандаш за ухом".
-A Mystery Jerky has been stolen from\#your inventory.<#>Из вашего инвентаря было украдено\#неизвестное мясо.
-Your party feels stressed now.<#>Ваша группа встревожена.
-Your mags have been stolen.<#>Ваши журналы были украдены.
-Your party feels weird now.<#>Ваша группа чувствует себя странно.
-A Perfume has been stolen from\#your inventory.<#>Из вашего инвентаря были украдены духи.
-Your party has been confused.<#>Ваша группа находится в замешательстве.
-Your party feels depressed now.<#>Ваша группа расстроена.
-Your party has been hypnotized.<#>Ваша группа загипнотизирована.
-The revolver's jamming...<#>Револьвер клинит...
-You don't have any bullets.<#>У вас нет патронов.
-1\I[479] - \I[453]Ace of Spades<#>1\I[479] - \I[453]Пиковый туз
+<!-- Event ID --><#>99
+<!-- Event Name --><#>Debug guy
+Player<#>
+Mags<#>
+States<#>
+Items<#>
+Change Speed<#>
+Change Opacity<#>
+Change Player's Graphic<#>
+Cancel<#>
+1 (8x Slower)<#>
+2 (4x Slower)<#>
+3 (2x Slower)<#>
+4 (Normal)<#>
+5 (2x Faster)<#>
+6 (4x Faster)<#>
+60 (Quarter)<#>
+120 (Half)<#>
+255 (Full)<#>
+Elton<#>
+Berny<#>
+Regular<#>
+Darkened<#>
+Dark<#>
+With covered nose<#>
+With Racoon cloak<#>
+Increase by 750<#>
+Reduce to 0<#>
+<!-- Event ID --><#>100
+<!-- Event Name --><#>Lunatic trash fall 1
+<!-- Event ID --><#>101
+<!-- Event Name --><#>Lunatic trash fall 2
+<!-- Event ID --><#>102
+<!-- Event Name --><#>
+<!-- Event ID --><#>103
+<!-- Event Name --><#>
+<!-- Event ID --><#>104
+<!-- Event Name --><#>
+<!-- Event ID --><#>105
+<!-- Event Name --><#>CAS Die to sexualize 
+You can't use this right now.<#>Вы не можете использовать её сейчас.
+<!-- Event ID --><#>106
+<!-- Event Name --><#>CAS Orange LIghts 
+You can't use this right now.<#>Вы не можете использовать её сейчас.
+<!-- Event ID --><#>107
+<!-- Event Name --><#>CAS Welcome Home
+You can't use this right now.<#>Вы не можете использовать её сейчас.
+<!-- Event ID --><#>108
+<!-- Event Name --><#>CAS Sax
+You can't use this right now.<#>Вы не можете использовать её сейчас.
+<!-- Event ID --><#>109
+<!-- Event Name --><#>CAS BMarch
+You can't use this right now.<#>Вы не можете использовать её сейчас.
+<!-- Event ID --><#>110
+<!-- Event Name --><#>CAS Back to Kansas
+You can't use this right now.<#>Вы не можете использовать её сейчас.
+<!-- Event ID --><#>111
+<!-- Event Name --><#>CAS Sticks n stones 
+You can't use this right now.<#>Вы не можете использовать её сейчас.
+<!-- Event ID --><#>112
+<!-- Event Name --><#>CAS uh huh
+You can't use this right now.<#>Вы не можете использовать её сейчас.
+<!-- Event ID --><#>113
+<!-- Event Name --><#>CAS Stillwater
+You can't use this right now.<#>Вы не можете использовать её сейчас.
+<!-- Event ID --><#>114
+<!-- Event Name --><#>CAS Satan call
+You can't use this right now.<#>Вы не можете использовать её сейчас.
+<!-- Event ID --><#>115
+<!-- Event Name --><#>CAS Shardy
+You can't use this right now.<#>Вы не можете использовать её сейчас.
+<!-- Event ID --><#>116
+<!-- Event Name --><#>CAS Scum of the Earth
+You can't use this right now.<#>Вы не можете использовать её сейчас.
+<!-- Event ID --><#>117
+<!-- Event Name --><#>Flash
+A Mystery Jerky has been stolen from\#your inventory.<#>
+Your party feels stressed now.<#>
+Your mags have been stolen.<#>
+Your party feels weird now.<#>
+A Perfume has been stolen from\#your inventory.<#>
+Your party has been confused.<#>
+Your party feels depressed now.<#>
+Your party has been hypnotized.<#>
+<!-- Event ID --><#>118
+<!-- Event Name --><#>Crab
+<!-- Event ID --><#>119
+<!-- Event Name --><#>No TP
+<!-- Event ID --><#>120
+<!-- Event Name --><#>IsEltonUsing Revolver
+The revolver's jamming...<#>Револьвер заклинил...
+<!-- Event ID --><#>121
+<!-- Event Name --><#>
+<!-- Event ID --><#>122
+<!-- Event Name --><#>IsEltonUsing ERevolver
+You don't have any bullets.<#>У вас нет пуль.
+<!-- Event ID --><#>123
+<!-- Event Name --><#>GunDealer
+1\I[479] - \I[453]Ace of Spades<#>1\I[479] - \I[453]Туз пик
 1\I[463] - \I[366]Rusted 18-shot Revolver<#>1\I[463] - \I[366]Ржавый 18-зарядный револьвер
-\nblt{\I[453]Ace of Spades}Double up or quit,\#the devil does splits.<#>\nblt{\I[453]Пиковый туз}Удвой или уйди,\#дьявол сделал сплит.
+{\I[453]Ace of Spades}Double up or quit,\#the devil does splits.<#>{\I[453]Туз пик}Ставь или вали,\#мы ж не сосунки. (Предмет для обмена)
+Buy<#>Купить
+Cancel<#>Отмена
+You got a Mystery Jerky!<#>Вы получили неизвестное мясо!
+You don't have enough items.<#>У вас недостаточно предметов.
+{\I[375]Tube of Salt}Other than being used in salting\#of meat, it is also a common substitute\#for bullets.<#>{\I[375]Тюбик соли}Кроме применения в засолке мяса,\#также иногда используется в качестве замены пулям.
+You got a Tube of Salt!<#>Вы получили тюбик соли!
+<!-- Event ID --><#>124
+<!-- Event Name --><#>
+<!-- Event ID --><#>125
+<!-- Event Name --><#>move again
+<!-- Event ID --><#>126
+<!-- Event Name --><#>TrADE
 1\I[070] 1\I[003] - \I[069]Domestic Jerky<#>1\I[070] 1\I[003] - \I[069]Домашнее мясо
-1\I[003] - - - \I[009]Lucrative Tea<#>1\I[003] - - - \I[009]Хлебный чай
+1\I[003] - - - \I[009]Lucrative Tea<#>1\I[003] - - - \I[009]Дешёвый чай
 1\I[70] 1\I[04] - \I[511]Potato Chips<#>1\I[70] 1\I[04] - \I[511]Картофельные чипсы
 1\I[11] 1\I[04] - \I[70]Mystery Jerky<#>1\I[11] 1\I[04] - \I[70]Неизвестное мясо
-\nblt{\I[069]Domestic Jerky}Recovers 1000 HP.<#>\nblt{\I[069]Домашнее мясо}Восстанавливает 1000 ОЗ.
+{\I[069]Domestic Jerky}Recovers 1000 HP.<#>{\I[069]Домашнее мясо}Восстанавливает 1000 ОЗ.
+Buy<#>Купить
+Cancel<#>Отмена
 You got a Domestic Jerky!<#>Вы получили домашнее мясо!
-You got a Lucrative Tea!<#>Вы получили хлебный чай!
-\nblt{\I[511]Potato Chips}Recover 1000 hp. (Sold\#for a Mystery Jerky and\#a Potato Liquor.)<#>\nblt{\I[511]Картофельные чипсы}Восстанавливают\#1000 ОЗ. (Продаются за неизвестное мясо и\#картофельный ликёр.)
+You don't have enough items.<#>У вас недостаточно предметов.
+{\I[009]Lucrative Tea}An unsafe blend of tea.\#Revives TP and SP.<#>{\I[009]Дешёвый чай}Нездоровая чайная смесь.\#Полностью восстанавливает ОТ и ОН.
+You got a Lucrative Tea!<#>Вы получили дешёвый чай!
+{\I[511]Potato Chips}Recover 1000 hp. (Sold\#for a Mystery Jerky and\#a Potato Liquor.)<#>{\I[511]Картофельные чипсы}Восстанавливают 1000 ОЗ.\#(Продаются за неизвестное мясо и картофельный ликёр.)
 You got Potato chips!<#>Вы получили картофельные чипсы!
-\nblt{\I[70]Mystery Jerky}Dried meat of common Olathian\#animals. Recovers 300 HP. (Sold for\#a Bottle of Dirty Water and an\#Empty Bottle.)<#>\nblt{\I[70]Неизвестное мясо}Вяленое мясо\#распространённых Олейтских животных.\#Восстанавливает 300 ОЗ. (Продаётся за бутылку\#грязной воды и за пустую бутылку.)
+{\I[70]Mystery Jerky}Dried meat of common Olathian\#animals. Recovers 300 HP. (Sold for\#a Bottle of Dirty Water and an\#Empty Bottle.)<#>{\I[70]Неизвестное мясо}Вяленое мясо распространённых\#олейтских животных. Восстанавливает 300 ОЗ.\#(Продаётся за бутылку грязной воды и пустую бутылку.)
+You got a Mystery Jerky!<#>Вы получили неизвестное мясо!
+<!-- Event ID --><#>127
+<!-- Event Name --><#>Trade2
 1\I[004] 1\I[003] - \I[000]Perfume<#>1\I[004] 1\I[003] - \I[000]Духи
 1\I[11] - - - \I[004]Onion Vodka<#>1\I[11] - - - \I[004]Луковая водка
-1\I[004] 1\I[003] - \I[091]Party Liquor<#>1\I[004] 1\I[003] - \I[091]Вечериночный ликёр
-1\I[004] - - - \I[507]Chocolate Bar<#>1\I[004] - - - \I[507]Шоколадка
-\nblt{\I[000]Perfume}The sweet scent revives an ally.\#(Sold for an Onion Vodka and a Diet\#Cocola Cola.)<#>\nblt{\I[000]Духи}Сладкий запах поднимает\#союзников на ноги.\#(Продаются за луковую водку и диетическую\#Кокола-колу.)
+1\I[004] 1\I[003] - \I[091]Party Liquor<#>1\I[004] 1\I[003] - \I[091]Праздничный ликёр
+1\I[004] - - - \I[507]Chocolate Bar<#>1\I[004] - - - \I[507]Шоколадный батончик
+{\I[000]Perfume}The sweet scent revives an ally.\#(Sold for an Onion Vodka and a Diet\#Cocola Cola.)<#>{\I[000]Духи}Приятный запах поднимает союзников на ноги.\#(Продаются за луковую водку и диетическую\#Кокола-колу.)
+Buy<#>Купить
+Cancel<#>Отмена
 You got a Perfume!<#>Вы получили духи!
-\nblt{\I[004]Onion Vodka}Capable of getting you drunk.\#Recovers 300 HP. (Sold for a Bottle\#of Dirty Water.)<#>\nblt{\I[004]Луковая водка}Способна опьянить.\#Восстанавливает 300 ОЗ. (Продаётся за\#бутылку грязной воды.)
+You don't have enough items.<#>У вас недостаточно предметов.
+{\I[004]Onion Vodka}Capable of getting you drunk.\#Recovers 300 HP. (Sold for a Bottle\#of Dirty Water.)<#>{\I[004]Луковая водка}Способна опьянить.\#Восстанавливает 300 ОЗ.\#(Продаётся за бутылку грязной воды.)
 You got an Onion Vodka!<#>Вы получили луковую водку!
-\nblt{\I[091]Party Liquor}Capable of getting you drunk. Recovers\#200 HP of each party member.\#(Sold for an Empty Bottle and a Diet\#Cocola Cola.)<#>\nblt{\I[091]Вечериночный ликёр}Способен опьянить.\#Восстанавливает 200 ОЗ каждому члену группы.\#(Продаётся за пустую бутылку и диетическую\#Кокола-колу.)
-You got a Party Liquor!<#>Вы получили вечериночный ликёр!
-\nblt{\I[507]Chocolate Bar}An opened bar of chocolate. Recovers\#280 HP. (Crafting Material.)\#(Sold for a Potato Liquor.)<#>\nblt{\I[507]Шоколадка}Открытая шоколадка.\#Восстанавливает 280 ОЗ. (Материал для создания.)\#(Продаётся за картофельный ликёр.)
-You got a Chocolate Bar!<#>Вы получили шоколадку!
+{\I[091]Party Liquor}Capable of getting you drunk. Recovers\#200 HP of each party member.\#(Sold for an Empty Bottle and a Diet\#Cocola Cola.)<#>{\I[091]Праздничный ликёр}Способен опьянить.\#Восстанавливает 200 ОЗ всем членам вашей группы.\#(Продаётся за пустую бутылку и диетическую\#Кокола-колу.)
+You got a Party Liquor!<#>Вы получили праздничный ликёр!
+{\I[507]Chocolate Bar}An opened bar of chocolate. Recovers\#280 HP. (Crafting Material.)\#(Sold for a Potato Liquor.)<#>{\I[507]Шоколадный батончик}Открытый шоколадный батончик.\#Восстанавливает 280 ОЗ.\#(Предмет для создания, продаётся за картофельный ликёр.)
+You got a Chocolate Bar!<#>Вы получили шоколадный батончик!
+<!-- Event ID --><#>128
+<!-- Event Name --><#>Trade3
 1\I[419] 8\I[018] - \I[064]Fancy Perfume<#>1\I[419] 8\I[018] - \I[064]Изысканные духи
 1\I[003] 10\I[018] - \I[299]Doner<#>1\I[003] 10\I[018] - \I[299]Донер
-1\I[003] - - - 2\I[396]Tasers<#>1\I[003] - - - 2\I[396]Шокеры
-\nblt{\I[064]Fancy Perfume}The sweet scent revives an ally Fully.\#(Sold for a Triple Horror Whiskey and\#8 Mags.)<#>\nblt{\I[064]Изысканные духи}Сладкий запах поднимает\#союзников на ноги и полностью исцеляет.\#(Продаётся за виски "Тройной ужас" и 8 журналов.)
-\nblt{\I[299]Doner}Recovers 450 HP, temporarily\#increasing max. HP by 33% and decreasing max.\#SP by 33%. Makes you feel weird.\#(Sold for a Diet Cocola Cola and 10 Mags.)<#>\nblt{\I[299]Донер}Восстанавливает 450 ОЗ,\#временно увеличивает макс. ОЗ на 33% и снижает\#макс. ОН на 33%. Даёт вам странное чувство.\#(Продаётся за диет. Кокола-колу и 10 журналов.)
-You got a Doner!<#>Вы получили Донер!
-\nblt{2\I[396]Tasers}A rare electroshock weapon.\#Paralyses the enemy.\#(Sold for a Cocola Cola.)<#>\nblt{2\I[396]Шокеры}Редкое электрошоковое оружие.\#Парализует врага.\#(Продаётся за Кокола-колу.)
+1\I[003] - - - 2\I[396]Tasers<#>1\I[003] - - - 2\I[396]шокера
+{\I[064]Fancy Perfume}The sweet scent revives an ally Fully.\#(Sold for a Triple Horror Whiskey and\#8 Mags.)<#>{\I[064]Изысканные духи}Приятный запах поднимает союзников\#на ноги и полностью исцеляет.\#(Продаются за виски "Тройной ужас" и 8 журналов.)
+Buy<#>Купить
+Cancel<#>Отмена
+You got a Fancy Perfume!<#>Вы получили изысканные духи!
+You don't have enough items.<#>У вас недостаточно предметов.
+{\I[299]Doner}Recovers 450 HP, temporarily\#increasing max. HP by 33% and decreasing max.\#SP by 33%. Makes you feel weird.\#(Sold for a Diet Cocola Cola and 10 Mags.)<#>{\I[299]Донер}Recovers 450 HP, temporarily\#increasing max. HP by 33% and decreasing max.\#SP by 33%. Makes you feel weird.\#(Продаётся за диетическую Кокола-колу и 10 журналов.)
+You got a Doner!<#>Вы получили донер!
+{2\I[396]Tasers}A rare electroshock weapon.\#Paralyses the enemy.\#(Sold for a Cocola Cola.)<#>{2\I[396]Шокера}\#(Продаётся за Кокола-колу.)
 You got 2 Tasers!<#>Вы получили 2 шокера!
+<!-- Event ID --><#>129
+<!-- Event Name --><#>GunTrade
 1\I[463] 8\I[018] - \I[032]Old Revolver<#>1\I[463] 8\I[018] - \I[032]Старый револьвер
-2\I[000] - - - \I[064]Fancy Perfume<#>2\I[000] - - - \I[064]Изысканные духи
-\nblt{\I[064]Fancy Perfume}Sweet scent revives\#an ally fully.<#>\nblt{\I[064]Изысканные духи}Сладкий запах\#поднимает союзников на ноги и полностью\#исцеляет.
+{\I[064]Fancy Perfume}The sweet scent revives an ally Fully.\#(Sold for a Triple Horror Whiskey and\#8 Mags.)<#>{\I[064]Изысканные духи}\#(Продаются за виски "Тройной ужас" и 8 журналов.)
+Buy<#>Купить
+Cancel<#>Отмена
+You got a Fancy Perfume!<#>Вы получили изысканные духи!
+You don't have enough items.<#>У вас недостаточно предметов.
+<!-- Event ID --><#>130
+<!-- Event Name --><#>ItemTrade
+2\I[000] - - - \I[064]Fancy Perfume<#>2\I[000] - - - \I[064]Изысанные духи
+{\I[064]Fancy Perfume}Sweet scent revives\#an ally fully.<#>{\I[064]Изысканные духи}Приятный запах поднимает союзников\#на ноги и полностью исцеляет.
+Buy<#>Купить
+Cancel<#>Отмена
+You got a Fancy Perfume!<#>Вы получили изысканные духи!
+You don't have enough items.<#>У вас недостаточно предметов.
+1\I[070] 1\I[003] - \I[069]Domestic Jerky<#>1\I[070] 1\I[003] - \I[069]Домашнее мясо
+1\I[003] - - - \I[009]Lucrative Tea<#>1\I[003] - - - \I[009]Дешёвый чай
+1\I[70] 1\I[04] - \I[511]Potato Chips<#>1\I[70] 1\I[04] - \I[511]Картофельные чипсы
+1\I[11] 1\I[04] - \I[70]Mystery Jerky<#>1\I[11] 1\I[04] - \I[70]Неизвестное мясо
+{\I[069]Domestic Jerky}Recovers 1000 HP.<#>{\I[069]Домашнее мясо}Recovers 1000 HP.
+You got a Domestic Jerky!<#>Вы получили домашнее мясо!
+{\I[009]Lucrative Tea}An unsafe blend of tea.\#Revives TP and SP.<#>{\I[009]Дешёвый чай}An unsafe blend of tea.\#Revives TP and SP.
+You got a Lucrative Tea!<#>Вы получили дешёвый чай!
+{\I[511]Potato Chips}Recover 1000 hp. (Sold\#for a Mystery Jerky and\#a Potato Liquor.)<#>{\I[511]Картофельные чипсы}Recover 1000 hp. \#(Продаются за неизвестное мясо и\#картофельный ликёр.)
+You got Potato chips!<#>Вы получили картофельные чипсы!
+{\I[70]Mystery Jerky}Dried meat of common Olathian\#animals. Recovers 300 HP. (Sold for\#a Bottle of Dirty Water and an\#Empty Bottle.)<#>{\I[70]Неизвестное мясо}Вяленое мясо распространённых\#олейтских животных. Восстанавливает 300 ОЗ. (Продаётся\#за бутылку грязной воды и пустую бутылку.)
+You got a Mystery Jerky!<#>Вы получили неизвестное мясо!
 1\I[446] - - - \I[005]Gift Bag<#>1\I[446] - - - \I[005]Подарочный мешок
-\nblt{\I[005]Gift Bag}(Contains a pair of "Dangerous, too? glasses,\#a Mystery Jerky and 10 mags.) With \I[377] glasses\#this stupid, how can you not feel cool?<#>\nblt{\I[005]Подарочный мешок} (Состоит из пары очков\#"Тоже опасен?", неизвестного мяса и 10\#журналов.) С такими \I[377] дурацкими очками, как вы можете\#не чувствовать себя крутым?
+{\I[005]Gift Bag}(Contains a pair of "Dangerous, too? glasses,\#a Mystery Jerky and 10 mags.) With \I[377] glasses\#this stupid, how can you not feel cool?<#>{\I[005]Подарочный мешок}(Содержит пару очков "Тоже опасен?",\#неизвестное мясо и 10 журналов.) С такими \I[377] тупыми очками,\#как можно не считать себя крутым?
 You got a "Dangerous, too?", a Mystery\#Jerky and 10 mags!<#>Вы получили очки "Тоже опасен?", неизвестное\#мясо и 10 журналов!
 3\I[011] - - - \I[011]Bottle of Water<#>3\I[011] - - - \I[011]Бутылка воды
-\nblt{\I[11]Bottle of Water}An extremely refreshing drink.\#Cures many aliments, including Scared,\#Weird and Hangover. (Sold for 3 Bottles\#of Dirty Water.)<#>\nblt{\I[11]Бутылка воды}Чрезвычайно освежает.\#Исцеляет многие недуги, включая испуг,\#странность и похмелье. (Продаётся\#за 3 бутылки грязной воды.)
+{\I[11]Bottle of Water}An extremely refreshing drink.\#Cures many aliments, including Scared,\#Weird and Hangover. (Sold for 3 Bottles\#of Dirty Water.)<#>{\I[11]Бутылка воды}Чрезвычайно освежающая жидкость.\#Исцеляет множество недугов, включая страх, странность,\#и похмелье. (Продаётся за 3 бутылки грязной воды.)
 You got a Bottle of Water!<#>Вы получили бутылку воды!
-Tastes like shit...<#>На вкус как дерьмо.
-Absolutely disgusting.<#>Совершенно отвратительно.
-Even shit probably tastes better.<#>Даже у дерьма вкус наверное лучше.
+<!-- Event ID --><#>131
+<!-- Event Name --><#>Disgusting
+Tastes like shit...<#>На вкус как дерьмо...
+Absolutely disgusting.<#>Отвратительно.
+Even shit probably tastes better.<#>Дерьмо наверное повкуснее.
 *Sounds of pain*<#>*Звуки боли*
+<!-- Event ID --><#>132
+<!-- Event Name --><#>Craft
 \I[299] + \I[330] + \I[331] = \I[329]Superdoner<#>\I[299] + \I[330] + \I[331] = \I[329]Супер-донер
-\nblt{\I[329]Superdoner}A doner with pineapples and mayo.\#Probably the last one of its kind.<#>\nblt{\I[329]Супер-донер}Донер с ананасами и майонезом.\#Наверное, он такой последний.
+{\I[329]Superdoner}A doner with pineapples and mayo.\#Probably the last one of its kind.<#>{\I[329]Супер-донер}Донер с ананасом и майонезом.\#Наверное, он такой один.
+Buy<#>Купить
+Cancel<#>Отмена
 You got a Superdoner!<#>Вы получили супер-донер!
-\I[430] + \I[382] = \I[431]Revolver with a Flag<#>\I[430] + \I[382] = \I[431]Револьвер с флагом
-\nblt{\I[431]Revolver with a Flag}Scare the shit out of the enemy with\#this classic ruse.\#Can be used only by Elton.<#>\nblt{\I[431]Револьвер с флагом}Пусть враги обосрутся от\#этой классической уловки. Может быть использован\#только Элтоном.
-You got a Revolver with a Flag!<#>Вы получили револьвер с флагом!
-\I[004] * 4 = \I[010]Mixed Drink<#>\I[004] * 4 = \I[010]Смешанный напиток
-\nblt{\I[010]Mixed Drink}An unsafe blend of alcohol drinks. Recovers 1200 HP.\#Makes you Deeply Hungover, Pissed and Oiled Up.\#(Requires a Potato Liquor, an Onion Vodka, a Party\#Liquor and an Olathian Whiskey to craft)<#>\nblt{\I[010]Смешанный напиток}Небезопасная смесь алкогольных\#напитков. Восстанавливает 1200 ОЗ. Вызывает сильное\#похмелье, ярость, и маслянность. (Требуется картоф.\#ликёр, луковая водка, вечер. ликёр и Олейт. виски.)
-You got a Mixed Drink!<#>Вы получили смешанный напиток!
-\I[507] + \I[509] = \I[508]Pickle with Chocolate<#>\I[507] + \I[509] = \I[508]Огурец с шоколадом
-\nblt{\I[508]Pickle with Chocolate}A result of your diseased imagination\#degrading more and more. Makes you emotional.<#>\nblt{\I[508]Огурец с шоколадом}Результат вашего больного\#воображения, деградирующего с каждым днём. Сильно\#расстраивает.
-You got a Pickle with Chocolate.<#>Вы получили огурец с шоколадом.
-State Manual<#>Руководство по состояниям
-Pages 1, 2<#>Страницы 1-2
-Pages 3, 4<#>Страницы 3-4
-Pages 5, 6<#>Страницы 5-6
+You don't have enough items.<#>У вас недостаточно предметов.
+\I[430] + \I[382] = \I[431]Revolver with a Flag<#>\I[430] + \I[382] = \I[431]Револьвер с флажком
+{\I[431]Revolver with a Flag}Scare the shit out of the enemy with\#this classic ruse.\#Can be used only by Elton.<#>{\I[431]Револьвер с флажком}Напугайте врагов до усрачки этой\#классической уловкой. Может быть использован лишь Элтоном.
+You got a Revolver with a Flag!<#>Вы получили револьвер с флажком!
+\I[004] * 4 = \I[010]Mixed Drink<#>\I[004] * 4 = \I[010]Смешанный коктейль
+{\I[010]Mixed Drink}An unsafe blend of alcohol drinks. Recovers 1200 HP.\#Makes you Deeply Hungover, Pissed and Oiled Up.\#(Requires a Potato Liquor, an Onion Vodka, a Party\#Liquor and an Olathian Whiskey to craft)<#>{\I[010]Смешанный коктейль}Нездоровая смесь алкогольных напитков.\#Восстанавливает 1200 ОЗ. За ней последует сильное похмелье, гнев\#и маслянность. (Для создания необходимы: картофельный ликёр,\#луковая водка, праздничный ликёр и олейтский виски.)
+You got a Mixed Drink!<#>Вы получили смешанный коктейль!
+\I[507] + \I[509] = \I[508]Pickle with Chocolate<#>\I[507] + \I[509] = \I[508]Огурчик с шоколадом
+{\I[508]Pickle with Chocolate}A result of your diseased imagination\#degrading more and more. Makes you emotional.<#>{\I[508]Огурчик с шоколадом}Результат вашей поехавшей кукушки,\#деградирующей всё дальше и дальше. Расстраивает вас.
+You got a Pickle with Chocolate.<#>Вы получили огурчик с шоколадом.
+<!-- Event ID --><#>133
+<!-- Event Name --><#>
+<!-- Event ID --><#>134
+<!-- Event Name --><#>
+<!-- Event ID --><#>135
+<!-- Event Name --><#>Journal
+You can't inspect this right now.<#>Вы не можете осмотреть его сейчас.
+State Manual<#>Руководство по статусам
+Pages 1, 2<#>Страницы 1, 2
+Pages 3, 4<#>Страницы 3, 4
+Pages 5, 6<#>Страницы 5, 6
+Close<#>Закрыть
 Axioms<#>Аксиомы
-"Never trust those "There's a girl" posters."<#>"Никогда не доверяй этим постерам 'У нас\#есть девушка!'"
-"Never trust guys in masks."<#>"Никогда не доверяй людям в масках."
-"Never trust signs that say "Not a cliff.""<#>"Никогда не доверяй табличкам, на которых\#написано 'не обрыв'."
+"Never trust those "There's a girl" posters."<#>"Никогда не доверяй постерам о том, что есть девушка."
+"Never trust guys in masks."<#>"Никогда не доверяй парням в масках."
+"Never trust signs that say "Not a cliff.""<#>
 "Never trust eye doctors."<#>"Никогда не доверяй окулистам."
-"All liquor, no matter how cheap."<#>"Алкоголь есть алкоголь, каким бы дешёвым он\#ни был."
+"All liquor, no matter how cheap."<#>"Выпивка есть выпивка, независимо от палёности."
 "Never trust fish."<#>"Никогда не доверяй рыбам."
 "Trust your eyes."<#>"Доверяй своим глазам."
 "Never trust gypsies."<#>"Никогда не доверяй цыганам."
-"If all else fails, kick em' in the groin."<#>"Если остальное не действует, бей прямо в пах."
-"You don't need to be young to kick some ass."<#>"Не нужно быть молодым, чтобы надрать\#кому-то зад."
+"If all else fails, kick em' in the groin."<#>"Если ничего не работает, бей в пах."
+"You don't need to be young to kick some ass."<#>"Не нужно быть молодым, чтобы надрать кому-то зад."
+<!-- Event ID --><#>136
+<!-- Event Name --><#>Journal Look Out!
+"Trust your eyes."<#>"Доверяй своим глазам."
 Added to the Journal.<#>Добавлено в журнал.
+<!-- Event ID --><#>137
+<!-- Event Name --><#>
+<!-- Event ID --><#>138
+<!-- Event Name --><#>Journal Kick
+"If all else fails, kick em' in the groin."<#>"Если ничего не работает, бей в пах."
+Added to the Journal.<#>Добавлено в журнал.
+<!-- Event ID --><#>139
+<!-- Event Name --><#>
+<!-- Event ID --><#>140
+<!-- Event Name --><#>Cap recover
+<!-- Event ID --><#>141
+<!-- Event Name --><#>ChampChair1 degrade
+<!-- Event ID --><#>142
+<!-- Event Name --><#>ChampChair2 degrade
+<!-- Event ID --><#>143
+<!-- Event Name --><#>ChampChair3 degrade
+<!-- Event ID --><#>144
+<!-- Event Name --><#>ChampChair4 degrade
+<!-- Event ID --><#>145
+<!-- Event Name --><#>
+<!-- Event ID --><#>146
+<!-- Event Name --><#>
+<!-- Event ID --><#>147
+<!-- Event Name --><#>
+<!-- Event ID --><#>148
+<!-- Event Name --><#>
+<!-- Event ID --><#>149
+<!-- Event Name --><#>
+<!-- Event ID --><#>150
+<!-- Event Name --><#>
+<!-- Event ID --><#>151
+<!-- Event Name --><#>
+<!-- Event ID --><#>152
+<!-- Event Name --><#>
+<!-- Event ID --><#>153
+<!-- Event Name --><#>
+<!-- Event ID --><#>154
+<!-- Event Name --><#>
+<!-- Event ID --><#>155
+<!-- Event Name --><#>
+<!-- Event ID --><#>156
+<!-- Event Name --><#>
+<!-- Event ID --><#>157
+<!-- Event Name --><#>
+<!-- Event ID --><#>158
+<!-- Event Name --><#>
+<!-- Event ID --><#>159
+<!-- Event Name --><#>
+<!-- Event ID --><#>160
+<!-- Event Name --><#>
+<!-- Event ID --><#>161
+<!-- Event Name --><#>
+<!-- Event ID --><#>162
+<!-- Event Name --><#>
+<!-- Event ID --><#>163
+<!-- Event Name --><#>
+<!-- Event ID --><#>164
+<!-- Event Name --><#>
+<!-- Event ID --><#>165
+<!-- Event Name --><#>
+<!-- Event ID --><#>166
+<!-- Event Name --><#>
+<!-- Event ID --><#>167
+<!-- Event Name --><#>
+<!-- Event ID --><#>168
+<!-- Event Name --><#>
+<!-- Event ID --><#>169
+<!-- Event Name --><#>
+<!-- Event ID --><#>170
+<!-- Event Name --><#>
+<!-- Event ID --><#>171
+<!-- Event Name --><#>
+<!-- Event ID --><#>172
+<!-- Event Name --><#>
+<!-- Event ID --><#>173
+<!-- Event Name --><#>
+<!-- Event ID --><#>174
+<!-- Event Name --><#>
+<!-- Event ID --><#>175
+<!-- Event Name --><#>
+<!-- Event ID --><#>176
+<!-- Event Name --><#>
+<!-- Event ID --><#>177
+<!-- Event Name --><#>
+<!-- Event ID --><#>178
+<!-- Event Name --><#>
+<!-- Event ID --><#>179
+<!-- Event Name --><#>
+<!-- Event ID --><#>180
+<!-- Event Name --><#>
+<!-- Event ID --><#>181
+<!-- Event Name --><#>
+<!-- Event ID --><#>182
+<!-- Event Name --><#>
+<!-- Event ID --><#>183
+<!-- Event Name --><#>
+<!-- Event ID --><#>184
+<!-- Event Name --><#>
+<!-- Event ID --><#>185
+<!-- Event Name --><#>
+<!-- Event ID --><#>186
+<!-- Event Name --><#>
+<!-- Event ID --><#>187
+<!-- Event Name --><#>
+<!-- Event ID --><#>188
+<!-- Event Name --><#>
+<!-- Event ID --><#>189
+<!-- Event Name --><#>
+<!-- Event ID --><#>190
+<!-- Event Name --><#>
+<!-- Event ID --><#>191
+<!-- Event Name --><#>
+<!-- Event ID --><#>192
+<!-- Event Name --><#>
+<!-- Event ID --><#>193
+<!-- Event Name --><#>
+<!-- Event ID --><#>194
+<!-- Event Name --><#>
+<!-- Event ID --><#>195
+<!-- Event Name --><#>Get up
+<!-- Event ID --><#>196
+<!-- Event Name --><#>Fall
+<!-- Event ID --><#>197
+<!-- Event Name --><#>Cocaine
+<!-- Event ID --><#>198
+<!-- Event Name --><#>
+<!-- Event ID --><#>199
+<!-- Event Name --><#>
+<!-- Event ID --><#>200
+<!-- Event Name --><#>

@@ -1,0 +1,414 @@
+<!-- Event ID --><#>1
+<!-- Event Name --><#>Grandpa's Arsenal
+Grandpa's Arsenal<#>Дедовский арсенал
+An arsenal containing an endless amount of bottle\#caps and old bottles. Increases max. SP by 60.<#>Арсенал, содержащий бесконечное количество бутылочных\#крышек и старых бутылок. Повышает макс. ОН на 60.
+<!-- Event ID --><#>2
+<!-- Event Name --><#>Dry Stick
+Dry Stick<#>
+Often used to poke at lifeless bodies.<#>
+<!-- Event ID --><#>3
+<!-- Event Name --><#>Chopping Axe
+Chopping Axe<#>
+Good for chopping.<#>
+<!-- Event ID --><#>4
+<!-- Event Name --><#>Wooden Bat
+Wooden Bat<#>
+Meant for hitting balls... But you're going to\#use it for violence... Aren't you?<#>
+<!-- Event ID --><#>5
+<!-- Event Name --><#>Metal Bat
+Metal Bat<#>
+Makes a satisfactory noise upon contact\#with a skull.<#>
+<!-- Event ID --><#>6
+<!-- Event Name --><#>Big Zinger
+Big Zinger<#>
+This bat swings so fast it sizzles upon contact!\#That's hot baby!<#>
+<!-- Event ID --><#>7
+<!-- Event Name --><#>Head Rocker
+Head Rocker<#>
+This baby will blast your brain hardcore.\#Can cause stunning.<#>
+<!-- Event ID --><#>8
+<!-- Event Name --><#>Nail Bat
+Nail Bat<#>
+Not ideal for major league play.<#>
+<!-- Event ID --><#>9
+<!-- Event Name --><#>Sluginator
+Sluginator<#>
+A cool name for a cool bat.<#>
+<!-- Event ID --><#>10
+<!-- Event Name --><#>The Homer
+The Homer<#>
+Belonged to the legendary\#Babe Doof...<#>
+<!-- Event ID --><#>11
+<!-- Event Name --><#>Wet Stick
+Wet Stick<#>
+A damp... Limp... Stick.<#>
+<!-- Event ID --><#>12
+<!-- Event Name --><#>Sweaty Wristbands
+Sweaty Wristbands<#>
+Sweaty from years of balling.<#>
+<!-- Event ID --><#>13
+<!-- Event Name --><#>Bare Fists
+Bare Fists<#>
+Your bare goddamn fists.\#Callused up from years of sockin' and rockin'.<#>
+<!-- Event ID --><#>14
+<!-- Event Name --><#>
+<!-- Event ID --><#>15
+<!-- Event Name --><#>Snake Wristbands
+Snake Wristbands<#>
+2 snakes were harmed in the making of these\#wristbands. Gives one extra TP point every turn.<#>
+<!-- Event ID --><#>16
+<!-- Event Name --><#>Studded Bands
+Studded Bands<#>
+Makes you look badass when shaking hands.<#>
+<!-- Event ID --><#>17
+<!-- Event Name --><#>Grandpa's Bag
+Grandpa's Bag<#>Дедовский мешок
+A light bag able to carry an endless amount of\#bottle caps and bottles. Increases max. SP by 100.<#>Лёгкий мешок, в котором можно переносить бесконечное\#количество крышек и бутылок. Повышает макс. ОН на 100.
+<!-- Event ID --><#>18
+<!-- Event Name --><#>
+<!-- Event ID --><#>19
+<!-- Event Name --><#>
+<!-- Event ID --><#>20
+<!-- Event Name --><#>Rusty Knife
+Rusty Knife<#>
+Don't use this on your dinner,\#you'll get sick. Can cause poison.<#>
+<!-- Event ID --><#>21
+<!-- Event Name --><#>Butter Knife
+Butter Knife<#>
+Works great for spreading butter\#on toast.<#>
+<!-- Event ID --><#>22
+<!-- Event Name --><#>Machete
+Machete<#>
+Once used by the great Dolph Luggage.<#>
+<!-- Event ID --><#>23
+<!-- Event Name --><#>Switchblade
+Switchblade<#>
+You'll look like a badass greaser with this.<#>
+<!-- Event ID --><#>24
+<!-- Event Name --><#>Combat Knife
+Combat Knife<#>
+Designed for combat.<#>
+<!-- Event ID --><#>25
+<!-- Event Name --><#>Eastern Blade
+Eastern Blade<#>
+If things aren't working out,\#commit suicide with this.<#>
+<!-- Event ID --><#>26
+<!-- Event Name --><#>Zanbatou
+Zanbatou<#>
+Excellent sword with destructive power.<#>
+<!-- Event ID --><#>27
+<!-- Event Name --><#>Toratouru
+Toratouru<#>
+A short sword tempered with frost.<#>
+<!-- Event ID --><#>28
+<!-- Event Name --><#>Reigin no Tachi
+Reigin no Tachi<#>
+Magic katana made of the magic mineral.<#>
+<!-- Event ID --><#>29
+<!-- Event Name --><#>Shichishitou
+Shichishitou<#>
+An ancient sword with hidden power.<#>
+<!-- Event ID --><#>30
+<!-- Event Name --><#>BOWS------------------
+<!-- Event ID --><#>31
+<!-- Event Name --><#>Wooden Bow
+Wooden Bow<#>
+Nothing special about this bow.<#>
+<!-- Event ID --><#>32
+<!-- Event Name --><#>Longbow
+Longbow<#>
+This bow provides greater range.<#>
+<!-- Event ID --><#>33
+<!-- Event Name --><#>Hunting Bow
+Hunting Bow<#>
+Designed specifically to end animal life.<#>
+<!-- Event ID --><#>34
+<!-- Event Name --><#>Smoky Bow
+Smoky Bow<#>
+This bow is so dirty, it causes blindness.<#>
+<!-- Event ID --><#>35
+<!-- Event Name --><#>Gwyn's Bow
+Gwyn's Bow<#>
+Holding this feels like the body of a woman.<#>
+<!-- Event ID --><#>36
+<!-- Event Name --><#>Bone Bow
+Bone Bow<#>
+A bow made from the rib of a jaguar.<#>
+<!-- Event ID --><#>37
+<!-- Event Name --><#>Blood Bow
+Blood Bow<#>
+The bowstring is coated in human blood.\#That's very cool.<#>
+<!-- Event ID --><#>38
+<!-- Event Name --><#>Christmas Day
+Christmas Day<#>
+A seasonal bow... Why anyone would make a\#weapon designed for Christmas is beyond me.<#>
+<!-- Event ID --><#>39
+<!-- Event Name --><#>Martlo Bow
+Martlo Bow<#>
+This bow could only be obtained from the\#Martlo Cigarette Catalogue for 1,000 points.<#>
+<!-- Event ID --><#>40
+<!-- Event Name --><#>Martlo Bow
+Martlo Bow<#>
+This bow could only be obtained from the\#Martlo Cigarette Catalogue for 1,000 points.<#>
+<!-- Event ID --><#>41
+<!-- Event Name --><#>Broken Boomerang
+Broken Boomerang<#>
+This one doesn't come back...<#>
+<!-- Event ID --><#>42
+<!-- Event Name --><#>Wooden Boomerang
+Wooden Boomerang<#>
+Nothing special about this rang.<#>
+<!-- Event ID --><#>43
+<!-- Event Name --><#>Spiked Bat
+Spiked Bat<#>
+Not really used for regulation baseball.<#>
+<!-- Event ID --><#>44
+<!-- Event Name --><#>Decent Boomerang
+Decent Boomerang<#>
+Alligator Diddly's old rang.<#>
+<!-- Event ID --><#>45
+<!-- Event Name --><#>War Hammer
+War Hammer<#>
+A steel hammer made for battle.<#>
+<!-- Event ID --><#>46
+<!-- Event Name --><#>Mithril Mace
+Mithril Mace<#>
+Mithril mace made of the magic mineral.<#>
+<!-- Event ID --><#>47
+<!-- Event Name --><#>Ground Breaker
+Ground Breaker<#>
+The earth can crack from this magical hammer.<#>
+<!-- Event ID --><#>48
+<!-- Event Name --><#>Mourner Hammer
+Mourner Hammer<#>
+The "Crusher" is what the God of War nicknamed this.<#>
+<!-- Event ID --><#>49
+<!-- Event Name --><#>Wood Staff
+Wood Staff<#>
+Sturdy staff made of oak.<#>
+<!-- Event ID --><#>50
+<!-- Event Name --><#>Magic Staff
+Magic Staff<#>
+An orb attached to this staff helps with casting magic.<#>
+<!-- Event ID --><#>51
+<!-- Event Name --><#>Force Wand
+Force Wand<#>
+Silver amplifies the magic cast from this wand.<#>
+<!-- Event ID --><#>52
+<!-- Event Name --><#>Mithril Rod
+Mithril Rod<#>
+Mithril rod made of the magic mineral.<#>
+<!-- Event ID --><#>53
+<!-- Event Name --><#>Spirit Staff
+Spirit Staff<#>
+A cane made from an old tree of mistletoe.<#>
+<!-- Event ID --><#>54
+<!-- Event Name --><#>Magic Wand Azert
+Magic Wand Azert<#>
+A magic wand embedded with the Philosopher's Stone.<#>
+<!-- Event ID --><#>55
+<!-- Event Name --><#>Flint Lock
+Flint Lock<#>
+Antique pistol with a funky brace.<#>
+<!-- Event ID --><#>56
+<!-- Event Name --><#>Musket
+Musket<#>
+A gun used by musketeers.<#>
+<!-- Event ID --><#>57
+<!-- Event Name --><#>Dragoon
+Dragoon<#>
+Used by the cavalry.<#>
+<!-- Event ID --><#>58
+<!-- Event Name --><#>GUN--------------------------
+<!-- Event ID --><#>59
+<!-- Event Name --><#>Revolver
+Revolver<#>
+Bullets usually put ends to lives.<#>
+<!-- Event ID --><#>60
+<!-- Event Name --><#>Pea Shooter
+Pea Shooter<#>
+These peas are non-nutritious.<#>
+<!-- Event ID --><#>61
+<!-- Event Name --><#>Show Stopper
+Show Stopper<#>
+You'll be dead at the end of this show.<#>
+<!-- Event ID --><#>62
+<!-- Event Name --><#>Nosey
+Nosey<#>
+You got a problem? I have a problem solver,\#his name is long nose revolver.<#>
+<!-- Event ID --><#>63
+<!-- Event Name --><#>Peacemaker
+Peacemaker<#>
+Peace is absolutley not what this gun makes.<#>
+<!-- Event ID --><#>64
+<!-- Event Name --><#>The Ruler
+The Ruler<#>
+You can measure a man's worth by the\#size of his gun.<#>
+<!-- Event ID --><#>65
+<!-- Event Name --><#>Sunsetter
+Sunsetter<#>
+The gold standard of fancy weaponry.<#>
+<!-- Event ID --><#>66
+<!-- Event Name --><#>Snubby
+Snubby<#>
+It's not the size that counts, it's the contents.<#>
+<!-- Event ID --><#>67
+<!-- Event Name --><#>UZI----------------------------
+<!-- Event ID --><#>68
+<!-- Event Name --><#>Suzi
+Suzi<#>
+A cute little machine gun.<#>
+<!-- Event ID --><#>69
+<!-- Event Name --><#>Potato Peeler
+Potato Peeler<#>
+Not popular in kitchens.<#>
+<!-- Event ID --><#>70
+<!-- Event Name --><#>Pissler
+Pissler<#>
+This thing just pisses bullets.<#>
+<!-- Event ID --><#>71
+<!-- Event Name --><#>Luckluster
+Luckluster<#>
+The black cat of guns.<#>
+<!-- Event ID --><#>72
+<!-- Event Name --><#>Tuesday Morning
+Tuesday Morning<#>
+A high powered sub machine gun.<#>
+<!-- Event ID --><#>73
+<!-- Event Name --><#>Crimson Tide
+Crimson Tide<#>
+Parting your head like the sea.<#>
+<!-- Event ID --><#>74
+<!-- Event Name --><#>Grenada 9
+Grenada 9<#>
+An oddly colored gun.<#>
+<!-- Event ID --><#>75
+<!-- Event Name --><#>Dandy Boy
+Dandy Boy<#>
+A powerful gun... For weak men.<#>
+<!-- Event ID --><#>76
+<!-- Event Name --><#>WRISTBANDS MORE------------------
+<!-- Event ID --><#>77
+<!-- Event Name --><#>Hint Lord Sweatbands
+Hint Lord Sweatbands<#>
+Terry's childhood sweatbands.<#>
+<!-- Event ID --><#>78
+<!-- Event Name --><#>
+<!-- Event ID --><#>79
+<!-- Event Name --><#>
+<!-- Event ID --><#>80
+<!-- Event Name --><#>
+<!-- Event ID --><#>81
+<!-- Event Name --><#>
+<!-- Event ID --><#>82
+<!-- Event Name --><#>
+<!-- Event ID --><#>83
+<!-- Event Name --><#>
+<!-- Event ID --><#>84
+<!-- Event Name --><#>
+<!-- Event ID --><#>85
+<!-- Event Name --><#>
+<!-- Event ID --><#>86
+<!-- Event Name --><#>
+<!-- Event ID --><#>87
+<!-- Event Name --><#>GUITARS---------------------
+<!-- Event ID --><#>88
+<!-- Event Name --><#>Guitar
+Guitar<#>
+A one stringed guitar.<#>
+<!-- Event ID --><#>89
+<!-- Event Name --><#>
+<!-- Event ID --><#>90
+<!-- Event Name --><#>
+<!-- Event ID --><#>91
+<!-- Event Name --><#>
+<!-- Event ID --><#>92
+<!-- Event Name --><#>
+<!-- Event ID --><#>93
+<!-- Event Name --><#>
+<!-- Event ID --><#>94
+<!-- Event Name --><#>
+<!-- Event ID --><#>95
+<!-- Event Name --><#>
+<!-- Event ID --><#>96
+<!-- Event Name --><#>SWORD-------------------------
+<!-- Event ID --><#>97
+<!-- Event Name --><#>Sword Bundle
+Sword Bundle<#>
+A collection of katanas. Crisp refuses to\#let them go.<#>
+<!-- Event ID --><#>98
+<!-- Event Name --><#>Sabre
+Sabre<#>
+Sabre means "to cut."<#>
+<!-- Event ID --><#>99
+<!-- Event Name --><#>Foam Stick
+Foam Stick<#>
+The strongest weapon a warrior could ever\#want. *wink*<#>
+<!-- Event ID --><#>100
+<!-- Event Name --><#>Katana
+Katana<#>
+East meets West, baby!<#>
+<!-- Event ID --><#>101
+<!-- Event Name --><#>Big Blade
+Big Blade<#>
+A large sword. Effective, but\#boring.<#>
+<!-- Event ID --><#>102
+<!-- Event Name --><#>
+<!-- Event ID --><#>103
+<!-- Event Name --><#>
+<!-- Event ID --><#>104
+<!-- Event Name --><#>
+<!-- Event ID --><#>105
+<!-- Event Name --><#>
+<!-- Event ID --><#>106
+<!-- Event Name --><#>
+<!-- Event ID --><#>107
+<!-- Event Name --><#>SPEAR-------------------------
+<!-- Event ID --><#>108
+<!-- Event Name --><#>Wushu Spear
+Wushu Spear<#>
+A dull tipped spear with a flexible shaft.\#It's poorly made.<#>
+<!-- Event ID --><#>109
+<!-- Event Name --><#>Sharpened Curtain Rod
+Sharpened Curtain Rod<#>
+Somebody's home is really missing this...<#>
+<!-- Event ID --><#>110
+<!-- Event Name --><#>Mighty Spear
+Mighty Spear<#>
+No jokes... It's a good spear.<#>
+<!-- Event ID --><#>111
+<!-- Event Name --><#>
+<!-- Event ID --><#>112
+<!-- Event Name --><#>
+<!-- Event ID --><#>113
+<!-- Event Name --><#>GIMMICKS-----------------
+<!-- Event ID --><#>114
+<!-- Event Name --><#>Playing Cards
+Playing Cards<#>
+A great resource in the apocalypse.<#>
+<!-- Event ID --><#>115
+<!-- Event Name --><#>Pencil
+Pencil<#>
+A rare tool in this climate...<#>
+<!-- Event ID --><#>116
+<!-- Event Name --><#>Whip
+Whip<#>
+Use for animals. Not for perversion.<#>
+<!-- Event ID --><#>117
+<!-- Event Name --><#>Extension Cord
+Extension Cord<#>
+This hurts like Hell to get whipped with!<#>
+<!-- Event ID --><#>118
+<!-- Event Name --><#>Adventure Whip
+Adventure Whip<#>
+Pried from Ethiopia Jones' cold dead hands.<#>
+<!-- Event ID --><#>119
+<!-- Event Name --><#>Duffel Bag
+Duffel Bag<#>
+Who knows what the Hell is in here...<#>
+<!-- Event ID --><#>120
+<!-- Event Name --><#>
+<!-- Event ID --><#>121
+<!-- Event Name --><#>
+<!-- Event ID --><#>122
+<!-- Event Name --><#>

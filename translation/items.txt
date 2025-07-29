@@ -1,234 +1,655 @@
+<!-- Event ID --><#>1
+<!-- Event Name --><#>Mystery Jerky
 Mystery Jerky<#>Неизвестное мясо
-Dried meat of common Olathian animals.\#Recovers 300 HP.<#>Вяленое мясо распространенных Олейтских\#животных. Восстанавливает 300 ОЗ.
+Dried meat of common Olathian animals.\#Recovers 300 HP.<#>Вяленое мясо распространённых олейтских животных.\#Восстанавливает 300 ОЗ.
+<!-- Event ID --><#>2
+<!-- Event Name --><#>Domestic Jerky
 Domestic Jerky<#>Домашнее мясо
 Recovers 1000 HP.<#>Восстанавливает 1000 ОЗ.
+<!-- Event ID --><#>3
+<!-- Event Name --><#>Horse Jerky
 Horse Jerky<#>Лошадиное мясо
-Dried meat of a horse.\#Recovers all HP.<#>Вяленое лошадиное мясо.\#Восстанавливет все ОЗ.
+Dried meat of a horse.\#Recovers all HP.<#>Вяленое мясо лошади.\#Восстанавливает все ОЗ.
+<!-- Event ID --><#>4
+<!-- Event Name --><#>Diet Cocola Cola
 Diet Cocola Cola<#>Диетическая Кокола-кола
-If you throw this can at someone it won't\#hurt, it's a soft drink! Recovers 200 SP.<#>Если кинуть эту банку в человека, ему не будет горько,\#ведь это сладкий напиток! Восстанавливает 200 ОН.
+If you throw this can at someone it won't\#hurt, it's a soft drink! Recovers 200 SP.<#>Если эту банку кинуть в кого-нибудь, ему не будет\#горько, ведь это сладкий напиток! Восстанавливает 200 ОН.
+<!-- Event ID --><#>5
+<!-- Event Name --><#>Cocola Cola
 Cocola Cola<#>Кокола-кола
-If you throw this can at someone it won't\#hurt, it's a soft drink! Recovers 400 SP.<#>Если кинуть эту банку в человека, ему не будет горько,\#ведь это сладкий напиток! Восстанавливает 400 ОН.
-Creamy Cocola<#>Ванильная Кокола
-If you throw this can at someone it won't\#hurt, it's a soft drink! Recovers 800 SP.<#>Если кинуть эту банку в человека, ему не будет горько,\#ведь это сладкий напиток! Восстанавливает 800 ОН.
-Real Sugar Cocola Cola<#>Кокола-кола с настоящим сахаром
-If you throw this can at someone it won't\#hurt, it's a soft drink! Recovers all SP.<#>Если кинуть эту банку в человека, ему не будет горько,\#ведь это сладкий напиток! Восстанавливает все ОН.
+If you throw this can at someone it won't\#hurt, it's a soft drink! Recovers 400 SP.<#>Если эту банку кинуть в кого-нибудь, ему не будет\#горько, ведь это сладкий напиток! Восстанавливает 400 ОН.
+<!-- Event ID --><#>6
+<!-- Event Name --><#>Creamy Cocola
+Creamy Cocola<#>Кремовая Кокола
+If you throw this can at someone it won't\#hurt, it's a soft drink! Recovers 800 SP.<#>Если эту банку кинуть в кого-нибудь, ему не будет\#горько, ведь это сладкий напиток! Восстанавливает 800 ОН.
+<!-- Event ID --><#>7
+<!-- Event Name --><#>Real Sugar Cocola Cola
+Real Sugar Cocola Cola<#>Кокола с настоящим сахаром
+If you throw this can at someone it won't\#hurt, it's a soft drink! Recovers all SP.<#>Если эту банку кинуть в кого-нибудь, ему не будет\#горько, ведь это сладкий напиток! Восстанавливает все ОН.
+<!-- Event ID --><#>8
+<!-- Event Name --><#>Iced Coffee
 Iced Coffee<#>Холодный кофе
 Restores all HP and SP.<#>Восстанавливает все ОЗ и ОН.
+<!-- Event ID --><#>9
+<!-- Event Name --><#>Perfume
 Perfume<#>Духи
-The sweet scent revives an ally.<#>Сладкий запах поднимает союзников на ноги.
+The sweet scent revives an ally.<#>Приятный запах поднимает союзников на ноги.
+<!-- Event ID --><#>10
+<!-- Event Name --><#>Fancy Perfume
 Fancy Perfume<#>Изысканные духи
-The sweet scent revives an ally fully.<#>Сладкий запах поднимает союзников на ноги\#и полностью исцеляет.
+The sweet scent revives an ally fully.<#>Приятный запах поднимает союзников на ноги и\#полностью исцеляет.
+<!-- Event ID --><#>11
+<!-- Event Name --><#>gfff
+gfff<#>
+An empty glass bottle.<#>Пустая стеклянная бутылка.
+<!-- Event ID --><#>12
+<!-- Event Name --><#>Bottle of Soup
 Bottle of Soup<#>Бутылка супа
 Recovers 500 HP.<#>Восстанавливает 500 ОЗ.
+<!-- Event ID --><#>13
+<!-- Event Name --><#>Bottle of Water
 Bottle of Water<#>Бутылка воды
-An extremely refreshing drink.\#Cures many aliments.<#>Чрезвычайно освежает. Излечивает множество недугов.
+An extremely refreshing drink.\#Cures many aliments.<#>Чрезвычайно освежающая жидкость.\#Исцеляет множество недугов.
+<!-- Event ID --><#>14
+<!-- Event Name --><#>Potato Liquor
 Potato Liquor<#>Картофельный ликёр
 Capable of getting you drunk.\#Recovers 200 HP.<#>Способен опьянить.\#Восстанавливает 200 ОЗ.
+<!-- Event ID --><#>15
+<!-- Event Name --><#>Bottle of Dirty Water
 Bottle of Dirty Water<#>Бутылка грязной воды
-Contaminated water. Try throwing it at your\#enemies. Removes fire powers.<#>Загрязнённая вода. Попробуйте бросить её\#во врагов. Снимает огненные способности.
+Contaminated water. Try throwing it at your\#enemies. Removes fire powers.<#>Загрязнённая вода. Попробуйте кинуть её во\#врага. Мешает использованию огненных сил.
+<!-- Event ID --><#>16
+<!-- Event Name --><#>Luck Up
 Luck Up<#>Удача
-Increases LUK by 3.<#>Повышает УДЧ на 3.
-Bicycle<#>Велосипед
-Press the SHIFT key to dismount.<#>Нажмите SHIFT, чтобы слезть.
+Increases LUK by 3.<#>Повышает удачу на 3.
+<!-- Event ID --><#>17
+<!-- Event Name --><#>Bicycle
+Bicycle<#>
+Press the SHIFT key to dismount.<#>
+<!-- Event ID --><#>18
+<!-- Event Name --><#>Empty Bottle
 Empty Bottle<#>Пустая бутылка
-An empty glass bottle.<#>Пустая стеклянная бутылка.
+An empty glass bottle.<#>
+<!-- Event ID --><#>19
+<!-- Event Name --><#>Doner
 Doner<#>Донер
-Recovers 450 HP, temporarily increasing max.\#HP by 33% and decreasing max. SP by 33%.<#>Восстанавливает 450 ОЗ, временно увеличивает макс.\#ОЗ на 33% и снижает макс. ОН на 33%. Даёт вам странное чувство.
+Recovers 450 HP, temporarily increasing max.\#HP by 33% and decreasing max. SP by 33%.<#>Восстанавливает 450 ОЗ, временно повышает макс.\#ОЗ на 33% и снижает макс. ОН на 33%.
+<!-- Event ID --><#>20
+<!-- Event Name --><#>Soup
 Soup<#>Суп
 Recovers 120 HP. Makes you drunk.<#>Восстанавливает 120 ОЗ. Опьяняет.
-Psychic Services Poster<#>Плакат об экстрасенсорных услугах
-A paper advertising the gypsies' psychic services\#that Berny gave to you. (Inspectable)<#>Бумага с рекламой услуг цыганских экстрасенсов,\#которую вам дал Бёрни. (Можно осмотреть)
-The Infamous Nugget<#>Печально известный самородок
-Smells like intestinal pressure and pain but looks\#like a glittering gold nugget. Truly one of a kind.<#>Пахнет кишечным давлением и болью, но на вид -\#это сверкающий золотой самородок. Он такой один.
-Superdoner<#>Супер-донер
-A doner with pineapples and mayo.\#Probably the last of its kind.<#>Донер с ананасами и майонезом.\#Наверное, он такой последний.
-Jovn's Mayyonaise<#>Майонез Джоввна
-It's hard to find quality condiments these days.\#This is not one of them but it'll do.<#>В эти дни, тяжело найти качественные продукты.\#Он не из таких, но всё равно сойдёт.
-Canned Pinapples<#>Консервированные ананасы
-It probably still has SOME pineapple taste to it.<#>Может, в них остался хоть КАКОЙ-ТО вкус\#ананасов.
+<!-- Event ID --><#>21
+<!-- Event Name --><#>Psychic Services Poster
+Psychic Services Poster<#>Плакат экстрасенсорных услуг
+A paper advertising the gypsies' psychic services\#that Berny gave to you. (Inspectable)<#>Бумага, рекламирующая экстрасенсорные услуги\#цыган, которую вам дал Бёрни. (Изучаемая)
+<!-- Event ID --><#>22
+<!-- Event Name --><#>The Infamous Nugget
+The Infamous Nugget<#>Скандальный самородок
+Smells like intestinal pressure and pain but looks\#like a glittering gold nugget. Truly one of a kind.<#>Пахнет как диарея и боль, но выглядит как блестящий\#золотой самородок. Воистину уникальный.
+<!-- Event ID --><#>23
+<!-- Event Name --><#>Superdoner
+Superdoner<#>Супердонер
+A doner with pineapples and mayo.\#Probably the last of its kind.<#>Донер с ананасом и майонезом.\#Наверное, он такой один.
+<!-- Event ID --><#>24
+<!-- Event Name --><#>Jovn's Mayyonaise
+Jovn's Mayyonaise<#>Майонез Джовна
+It's hard to find quality condiments these days.\#This is not one of them but it'll do.<#>В наши дни трудно найти качественные соусы.\#Он не из таких, но пойдёт.
+<!-- Event ID --><#>25
+<!-- Event Name --><#>Canned Pinapples
+Canned Pinapples<#>Консервированный ананас
+It probably still has SOME pineapple taste to it.<#>Возможно, в нём остался ХОТЬ КАКОЙ-ТО вкус ананаса.
+<!-- Event ID --><#>26
+<!-- Event Name --><#>Rando Ration
 Rando Ration<#>Рацион Рандо
-A high quality  meal.\#Restores all HP and SP.<#>Высококачественный паёк.\#Восстанавливает все ОЗ и ОН.
+A high quality  meal.\#Restores all HP and SP.<#>Высококачественный рацион.\#Восстанавливает все ОЗ и ОН.
+<!-- Event ID --><#>27
+<!-- Event Name --><#>Diving Helmet
 Diving Helmet<#>Шлем для ныряния
-An old, or rather, an ancient diving helmet.\#Wearing it gives access to underwater locations.<#>Старый, даже древний шлем для ныряния.\#Его ношение даёт доступ к подводным локациям.
+An old, or rather, an ancient diving helmet.\#Wearing it gives access to underwater locations.<#>Старый, или даже древний шлем для ныряния.\#Даёт доступ к подводным локациям.
+<!-- Event ID --><#>28
+<!-- Event Name --><#>Remove Diving Helmet
 Remove Diving Helmet<#>Снять шлем для ныряния
+An old, or rather, an ancient diving helmet.\#Wearing it gives access to underwater locations.<#>Старый, или даже древний шлем для ныряния.\#Даёт доступ к подводным локациям.
+<!-- Event ID --><#>29
+<!-- Event Name --><#>Sleep Tea
 Sleep Tea<#>Сонный чай
 Recovers 500 HP. Makes you sleep.<#>Восстанавливает 500 ОЗ. Усыпляет.
-Obscure Key<#>Загадочный ключ
-An obscure key to an obscure place.\#"Turbine Facility" is engraved on it.<#>Загадочный ключ к загадочному месту.\#На нём выгравировано: "Турбинный комплекс".
+<!-- Event ID --><#>30
+<!-- Event Name --><#>Obscure Key
+Obscure Key<#>Странный ключ
+An obscure key to an obscure place.\#"Turbine Facility" is engraved on it.<#>Странный ключ к странному месту.\#На нём выгравировано: "турбинный цех".
+<!-- Event ID --><#>31
+<!-- Event Name --><#>Rusted 18-shot Revolver
 Rusted 18-shot Revolver<#>Ржавый 18-зарядный револьвер
-A useful tool that requires bullets. Has 3 barrels.\#Can be used only by Elton.<#>Полезный инструмент, требующий боеприпасов.\#Трёхствольный. Доступен только Элтону.
+A useful tool that requires bullets. Has 3 barrels.\#Can be used only by Elton.<#>Полезный инструмент, который нуждается в пулях.\#Имеет 3 ствола. Может быть использован только Элтоном.
+<!-- Event ID --><#>32
+<!-- Event Name --><#>Old Revolver
 Old Revolver<#>Старый револьвер
-A dark blue revolver with a slim barrel. (Crafting\#Material)<#>Тёмно-синий револьвер с коротким стволом.\#(Материал для изготовления)
+A dark blue revolver with a slim barrel. (Crafting\#Material)<#>Тёмносиний револьвер с коротким стволом.\#(Предмет для создания)
+<!-- Event ID --><#>33
+<!-- Event Name --><#>Alan Bostaph's Portrait
 Alan Bostaph's Portrait<#>Портрет Алана Бостафа
-An ugly sketched portrait of Alan Bostaph.\#(Inspectable)<#>Уродливый набросок портрета Алана Бостафа.\#(Можно осмотреть)
+An ugly sketched portrait of Alan Bostaph.\#(Inspectable)<#>Грубый потрет Алана Бостафа.\#(Осматриваемый предмет)
+<!-- Event ID --><#>34
+<!-- Event Name --><#>Fried Egg
 Fried Egg<#>Жареное яйцо
-A nutritious meal that took years to cook.\#Hope you like em' Sunny Side Up. Recovers 50 HP.<#>Питательное блюдо, на приготовление которого\#ушли годы. Наслаждайтесь "солнечной стороной".
-Monstrous Eye<#>Монструозный глаз
-It's real. (Barter Item)<#>Он реален. (Предмет для обмена)
-Nothing<#>Ничто
+A nutritious meal that took years to cook.\#Hope you like em' Sunny Side Up. Recovers 50 HP.<#>Питательное блюдо, которое готовилось несколько лет.\#Надеюсь, ты любишь целый желток. Восстанавливает 50 ОЗ.
+<!-- Event ID --><#>35
+<!-- Event Name --><#>Monstrous Eye
+Monstrous Eye<#>Глаз монстра
+It's real. (Barter Item)<#>Монстр реален. (Предмет для обмена)
+<!-- Event ID --><#>36
+<!-- Event Name --><#>Nothing
+Nothing<#>
+An empty glass bottle.<#>Пустая стеклянная бутылка.
+<!-- Event ID --><#>37
+<!-- Event Name --><#>Stimulant
 Stimulant<#>Стимулятор
 Recovers ally from death.<#>Спасает союзника от смерти.
+<!-- Event ID --><#>38
+<!-- Event Name --><#>Antidote
 Antidote<#>Антидот
-Treats poison.<#>Исцеляет яд.
+Treats poison.<#>Исцеляет отравление.
+<!-- Event ID --><#>39
+<!-- Event Name --><#>Flower Shop Key
 Flower Shop Key<#>Ключ от цветочного магазина
-A key to the invaded flower shop.<#>Ключ от захваченного цветочного магазина.
+A key to the invaded flower shop.<#>Ключ к захваченному цветочному магазину.
+<!-- Event ID --><#>40
+<!-- Event Name --><#>Swamp Goby
 Swamp Goby<#>Болотный бычок
-A common Olathian fish that is caught in the swamps.\#Recovers 50 HP, making you regenerate HP.<#>Распространённая Олейтская рыба, водящаяся в болотах.\#Восстанавливает 60 ОЗ, даёт регенерацию.
+A common Olathian fish that is caught in the swamps.\#Recovers 50 HP, making you regenerate HP.<#>Распространённая в Олейте рыба, обитающая в болотах.\#Восстанавливает 50 ОЗ, и даёт регенерацию ОЗ.
+<!-- Event ID --><#>41
+<!-- Event Name --><#>Weird Diving Helmet
 Weird Diving Helmet<#>Странный шлем для ныряния
-A diving helmet for berny.<#>Шлем для ныряния, для Бёрни.
+A diving helmet for berny.<#>Ныряльный шлем для Бёрни.
+<!-- Event ID --><#>42
+<!-- Event Name --><#>
+<!-- Event ID --><#>43
+<!-- Event Name --><#>Diving Helmets
 Diving Helmets<#>Шлемы для ныряния
-Old, or it's better to say, ancient diving helmets.\#Wearing them give access to underwater locations.<#>Старые, даже древние шлемы для ныряния.\#Их ношение даёт доступ к подводным локациям.
-Remove Diving Helmets<#>Убрать шлемы для ныряния
+Old, or it's better to say, ancient diving helmets.\#Wearing them give access to underwater locations.<#>Старые, или даже древние шлемы для ныряния.\#Дают доступ к подводным локациям.
+<!-- Event ID --><#>44
+<!-- Event Name --><#>Remove Diving Helmets
+Remove Diving Helmets<#>Снять шлемы для ныряния
+Old, or it's better to say, ancient diving helmets.\#Wearing them give access to underwater locations.<#>Старые, или даже древние шлемы для ныряния.\#Дают доступ к подводным локациям.
+<!-- Event ID --><#>45
+<!-- Event Name --><#>Truck Keys
 Truck Keys<#>Ключи от грузовика
-Bail to a safer place.<#>Отступить в безопасное место.
-Lucrative Tea<#>Хлебный чай
-An unsafe blend of tea.\#Revives TP and SP.<#>Нездоровая чайная смесь.\#Восстанавливает ОТ и ОН.
-Green Paste<#>Зелёная паста
-A strange mossy paste...\#I wouldn't drink this...<#>Странная моховая паста...\#Я бы не стал это пить...
+Bail to a safer place.<#>Отступите в безопасное место.
+<!-- Event ID --><#>46
+<!-- Event Name --><#>Lucrative Tea
+Lucrative Tea<#>Дешёвый чай
+An unsafe blend of tea.\#Revives TP and SP.<#>Нездоровая чайная смесь.\#Полностью восстанавливает ОТ и ОН.
+<!-- Event ID --><#>47
+<!-- Event Name --><#>
+<!-- Event ID --><#>48
+<!-- Event Name --><#>Green Paste
+Green Paste<#>
+A strange mossy paste...\#I wouldn't drink this...<#>
+<!-- Event ID --><#>49
+<!-- Event Name --><#>TNT
 TNT<#>Динамит
-An explosive capable of destroying\#certain objects.<#>Взрывчатка, способная разрушать\#определенные объекты.
+An explosive capable of destroying\#certain objects.<#>Взрывчатка, способная уничтожать\#определённый объекты.
+<!-- Event ID --><#>50
+<!-- Event Name --><#>Buddy's Mask
+Buddy's Mask<#>
+A mask you made for Buddy so you\#could take her on walks.<#>
+<!-- Event ID --><#>51
+<!-- Event Name --><#>Nugget
 Nugget<#>Самородок
-Try rubbing it on yourself in battle.\#Makes you stink.<#>Попробуйте растереть его на себе во время боя.\#Вы будете вонять.
+Try rubbing it on yourself in battle.\#Makes you stink.<#>Попробуйте потереть им себя в бою.\#Сделает вас вонючим.
+<!-- Event ID --><#>52
+<!-- Event Name --><#>Joy
 Joy<#>Джой
-This drug makes you feel nothing.\#Use it in a pinch.<#>Наркотик, от которого вы ничего не чувствуете.\#Используйте в крайнем случае.
-Compressed Garbage<#>Спресованный мусор
+This drug makes you feel nothing.\#Use it in a pinch.<#>Этот наркотик отнимает у вас все чувства.\#Используйте лишь в крайнем случае.
+<!-- Event ID --><#>53
+<!-- Event Name --><#>
+<!-- Event ID --><#>54
+<!-- Event Name --><#>Dismal Map
+Dismal Map<#>
+A map to Dismal Island.\#Show it to Shardy.<#>
+<!-- Event ID --><#>55
+<!-- Event Name --><#>Compressed Garbage
+Compressed Garbage<#>Спрессованный мусор
 A big bundle of trash. (Barter ltem)<#>Большая куча мусора. (Предмет для обмена)
+<!-- Event ID --><#>56
+<!-- Event Name --><#>Rusty Gears
 Rusty Gears<#>Ржавые шестерни
-A fistful of grey rusted gears. (Barter Item)<#>Горсть серых ржавых шестеренок. (Предмет для обмена)
+A fistful of grey rusted gears. (Barter Item)<#>Кучка серых ржавых шестерней. (Предмет для обмена)
+<!-- Event ID --><#>57
+<!-- Event Name --><#>Old Shoe
 Old Shoe<#>Старый ботинок
-A disgusting soaked through shoe. (Barter Item)<#>Отвратительный ботинок, промокший с ног до головы.\#(Предмет для обмена)
+A disgusting soaked through shoe. (Barter Item)<#>Отвратительный промокший ботинок.
+<!-- Event ID --><#>58
+<!-- Event Name --><#>Mystery Jerky
+Mystery Jerky<#>Неизвестное мясо
+Dried meat of common Olathian animals.\#Recovers 300 HP.<#>Вяленое мясо распространённых олейтских животных.\#Восстанавливает 300 ОЗ.
+<!-- Event ID --><#>59
+<!-- Event Name --><#>
+<!-- Event ID --><#>60
+<!-- Event Name --><#>Old Record
 Old Record<#>Старая запись
 A strange record.<#>Странная запись.
-Party Liquor<#>Вечериночный ликёр
-Capable of getting you drunk.\#Recovers 200 HP of each party member.<#>Способен опьянить.\#Восстанавливает 200 ОЗ каждому члену группы.
+<!-- Event ID --><#>61
+<!-- Event Name --><#>Party Liquor
+Party Liquor<#>Праздничный ликёр
+Capable of getting you drunk.\#Recovers 200 HP of each party member.<#>Способен опьянить.\#Восстанавливает 200 ОЗ всем членам вашей группы.
+<!-- Event ID --><#>62
+<!-- Event Name --><#>Onion Vodka
 Onion Vodka<#>Луковая водка
 Capable of getting you drunk.\#Recovers 300 HP.<#>Способна опьянить.\#Восстанавливает 300 ОЗ.
-Olathian Whiskey<#>Олейтский виски
-Capable of getting you drunk.\#Recovers 500 HP of each party member.<#>Способен опьянить.\#Восстанавливает 500 ОЗ каждому члену группы.
+<!-- Event ID --><#>63
+<!-- Event Name --><#>Olathian Whiskey
+Olathian Whiskey<#>Олейтское виски
+Capable of getting you drunk.\#Recovers 500 HP of each party member.<#>Способно опьянить.\#Восстанавливает 500 ОЗ всем членам вашей группы.
+<!-- Event ID --><#>64
+<!-- Event Name --><#>Pepperoni
 Pepperoni<#>Пепперони
 Recovers 60 HP.<#>Восстанавливает 60 ОЗ.
+<!-- Event ID --><#>65
+<!-- Event Name --><#>Rag Blanket
 Rag Blanket<#>Тряпичное одеяло
-A blanket made out of dense rags.<#>Одеяло, сшитое из плотных тряпок.
+A blanket made out of dense rags.<#>Одеяло, сотканное из плотных тряпок.
+<!-- Event ID --><#>66
+<!-- Event Name --><#>Triple Horror Whiskey
 Triple Horror Whiskey<#>Виски "Тройной ужас"
-Capable of getting you drunk and making you rage.\#Recovers 150 HP.<#>Способен опьянить и ввести вас в гнев.\#Восстанавливает 150 ОЗ.
-Degrading Dress<#>Унизительное платье
-This makes you feel... Different.\#(Falls off when jumping or climbing.)<#>Оно заставляет вас чувствовать себя... Странно.\#(Убирается, когда вы прыгаете и карабкаетесь)
+Capable of getting you drunk and making you rage.\#Recovers 150 HP.<#>Способен опьянить и ввергнуть в ярость.\#Восстанавливает 150 ОЗ.
+<!-- Event ID --><#>67
+<!-- Event Name --><#>Degrading Dress
+Degrading Dress<#>
+This makes you feel... Different.\#(Falls off when jumping or climbing.)<#>
+<!-- Event ID --><#>68
+<!-- Event Name --><#>Tissue
 Tissue<#>Платок
-The ultimate for drying your tears... When you have\#an issue. Cures Blind, Crying, Oiled Up.<#>Идеальное средство для вытирания слёз... Когда у вас\#проблемы. Убирает слепоту, плач, и маслянность.
-Chocolate Bar<#>Шоколадка
-An opened bar of chocolate. Recovers 280 HP.<#>Открытая шоколадка. Восстанавливает 280 ОЗ.
+The ultimate for drying your tears... When you have\#an issue. Cures Blind, Crying, Oiled Up.<#>Универсальное решение против слёз... Когда проблем впрок.\#Исцеляет слепоту, слёзы и масло.
+<!-- Event ID --><#>69
+<!-- Event Name --><#>Chocolate Bar
+Chocolate Bar<#>Шоколадный батончик
+An opened bar of chocolate. Recovers 280 HP.<#>Открытый шоколадный батончик. Восстанавливает 280 ОЗ.
+<!-- Event ID --><#>70
+<!-- Event Name --><#>99 Perfumes
 99 Perfumes<#>99 духов
-A piece of paper with 99 perfumes drawn on it...\#What a disappointment...<#>Бумажка, на которой нарисовано 99 видов духов...\#Какое разочарование...
-Duffel Bag<#>Спортивная сумка
-It has "Duffie" etched on the side of it.<#>На боку выгравировано: "Даффи".
+A piece of paper with 99 perfumes drawn on it...\#What a disappointment...<#>Бумага, на которой нарисовано 99 духов...\#Какое разочарование...
+<!-- Event ID --><#>71
+<!-- Event Name --><#>Duffel Bag
+Duffel Bag<#>
+It has "Duffie" etched on the side of it.<#>
+<!-- Event ID --><#>72
+<!-- Event Name --><#>Firebomb
 Firebomb<#>Огненная бомба
-A firebomb, can cause burning.<#>Огненная бомба, может поджечь.
-Diesel F. Bomb<#>Дизельная бомба
-A beefed up firebomb, can cause burning.<#>Мощная огненная бомба, может поджечь.
-Ace of Spades<#>Пиковый туз
-Double up or quit, the devil does splits. (Barter Item)<#>Удвой или уйди, дьявол сделал сплит.\#(Предмет для обмена)
+A firebomb, can cause burning.<#>Огненная бомба, может легко поджечь.
+<!-- Event ID --><#>73
+<!-- Event Name --><#>Diesel F. Bomb
+Diesel F. Bomb<#>Бензиновая бомба
+A beefed up firebomb, can cause burning.<#>Мощная огненная бомба, может легко поджечь.
+<!-- Event ID --><#>74
+<!-- Event Name --><#>Ace of Spades
+Ace of Spades<#>Туз пик
+Double up or quit, the devil does splits. (Barter Item)<#>"Double up or quit, the devil does splits."\#(Предмет для обмена)
+<!-- Event ID --><#>75
+<!-- Event Name --><#>Quadruple Horror Whiskey
 Quadruple Horror Whiskey<#>Виски "Четвертной ужас"
-Whiskey so good, it can bring back the dead.\#Revives for 400 HP, gets you drunk and enraged.<#>Настолько хороший виски, что может оживлять мёртвых.\#Возрождает и даёт 400 ОЗ, гнев и опьянение.
+Whiskey so good, it can bring back the dead.\#Revives for 400 HP, gets you drunk and enraged.<#>Настолько хорошее виски, что может оживить мёртвых.\#Поднимает на ноги с 400 ОЗ, опьяняет и ввергает в ярость.
+<!-- Event ID --><#>76
+<!-- Event Name --><#>Keys
 Keys<#>Ключи
-The tag reads "Mike."<#>На них написано: "Майк".
+The tag reads "Mike."<#>На брелке написано "Майк".
+<!-- Event ID --><#>77
+<!-- Event Name --><#>Cigarette
 Cigarette<#>Сигарета
-Light another cigarette and let yourself go.\#Cures wary, poison and depression.<#>Закурите ещё одну и расслабтесь.\#Исцеляет беспокойство, отравление и расстроенность.
-Red Skull Mask<#>Маска с красным черепом
-The mask worn by Rando.<#>Маска, носимая Рандо.
-Remove Mask<#>Снять маску
-Remove any masks worn.<#>Снять надетую маску.
+Light another cigarette and let yourself go.\#Cures wary, poison and depression.<#>Подожги сигаретку и пыхни.\#Исцеляет беспокойство, отравление и расстроенность.
+<!-- Event ID --><#>78
+<!-- Event Name --><#>Red Skull Mask
+Red Skull Mask<#>
+The mask worn by Rando.<#>
+<!-- Event ID --><#>79
+<!-- Event Name --><#>Remove Mask
+Remove Mask<#>
+Remove any masks worn.<#>
+<!-- Event ID --><#>80
+<!-- Event Name --><#>Revolver
 Revolver<#>Револьвер
-A useful tool that requires bullets.<#>Полезный инструмент, которому требуются пули.
-Bullet<#>Пуля
-Ammunition for a gun.<#>Боеприпас для оружия.
-Hint Mask<#>Подсказочная маска
-A cheap mask for Terry cosplay.\#He must have made it himself.<#>Дешёвая маска для косплея Терри.\#Он, наверное, сам её сделал.
+A useful tool that requires bullets.<#>Полезный инструмент, нуждающийся в патронах.
+<!-- Event ID --><#>81
+<!-- Event Name --><#>Bullet
+Bullet<#>Патрон
+Ammunition for a gun.<#>Для револьвера.
+<!-- Event ID --><#>82
+<!-- Event Name --><#>Hint Mask
+Hint Mask<#>
+A cheap mask for Terry cosplay.\#He must have made it himself.<#>
+<!-- Event ID --><#>83
+<!-- Event Name --><#>Exclusive Cigar
 Exclusive Cigar<#>Особая сигара
-Cures wary, poison and depression. Makes you look\#Super Cool, but might make you winded.<#>Исцеляет беспокойство, отравление и расстроенность. Пробуждает\#в вас супер-крутость, но из-за курения возникает одышка.
+Cures wary, poison and depression. Makes you look\#Super Cool, but might make you winded.<#>Исцеляет беспокойство, отравление и расстроенность.\#С ней вы выглядите супер-круто, но у вас появляется одышка.
+<!-- Event ID --><#>84
+<!-- Event Name --><#>
+<!-- Event ID --><#>85
+<!-- Event Name --><#>SINGLE USE--------------
+<!-- Event ID --><#>86
+<!-- Event Name --><#>
+<!-- Event ID --><#>87
+<!-- Event Name --><#>Poison bomb
 Poison bomb<#>Ядовитая бомба
+<!-- Event ID --><#>88
+<!-- Event Name --><#>Gasoline can
 Gasoline can<#>Канистра с бензином
-Filled with liquefied dinosaur. Makes an enemy\#Oiled Up, making him vulnerable to fire damage.<#>Наполнена сжиженным динозавром. Делает врага маслянным,\#а следовательно уязвимым к огню.
+Filled with liquefied dinosaur. Makes an enemy\#Oiled Up, making him vulnerable to fire damage.<#>Наполнена сжиженными останками динозавров. Накладывает\#масло на врагов, делая их уязвимыми к огню.
+<!-- Event ID --><#>89
+<!-- Event Name --><#>Chair
 Chair<#>Стул
-A small wooden chair. Deals mediocre damage to\#an enemy. Can be used 3 times.<#>Маленький деревянный стул. Наносит средний урон.\#Может быть использован 3 раза.
-A small wooden chair. Deals mediocre damage to\#an enemy. Can be used 2 times.<#>Маленький деревянный стул. Наносит средний урон.\#Может быть использован 2 раза.
-A small wooden chair. Deals mediocre damage to\#an enemy. Can be used only a time.<#>Маленький деревянный стул. Наносит средний урон.\#Может быть использован лишь один раз.
+A small wooden chair. Deals mediocre damage to\#an enemy. Can be used 3 times.<#>Маленький деревянный стул. Наносит средний урон\#по врагу. Может быть использован 3 раза.
+<!-- Event ID --><#>90
+<!-- Event Name --><#>Chair
+Chair<#>Стул
+A small wooden chair. Deals mediocre damage to\#an enemy. Can be used 2 times.<#>Маленький деревянный стул. Наносит средний урон\#по врагу. Может быть использован 2 раза.
+<!-- Event ID --><#>91
+<!-- Event Name --><#>Chair
+Chair<#>Стул
+A small wooden chair. Deals mediocre damage to\#an enemy. Can be used only a time.<#>Маленький деревянный стул. Наносит средний урон\#по врагу. Может быть использован лишь раз.
+<!-- Event ID --><#>92
+<!-- Event Name --><#>Taser
 Taser<#>Шокер
 A rare electroshock weapon. Paralyses an enemy.<#>Редкое электрошоковое оружие. Парализует врага.
-Boot cocktail<#>Ботиночный коктейль
+<!-- Event ID --><#>93
+<!-- Event Name --><#>Boot cocktail
+Boot cocktail<#>Коктейль из ботинок
+<!-- Event ID --><#>94
+<!-- Event Name --><#>Boot
 Boot<#>Ботинок
+<!-- Event ID --><#>95
+<!-- Event Name --><#>Tube of Salt
 Tube of Salt<#>Тюбик соли
-Other than being used in salting of meat,\#it is also a common substitute for bullets.<#>Помимо использования для засолки мяса, также\#является распространённой заменой боевым патронам.
-Champion Chair<#>Стул чемпиона
-A dense steel chair. Deals mediocre damage to\#an enemy. Can be used 5 times.<#>Прочный стальной стул. Наносит средний урон.\#Может быть использован 5 раз.
-A dense steel chair. Deals mediocre damage to\#an enemy. Can be used 4 times.<#>Прочный стальной стул. Наносит средний урон.\#Может быть использован 4 раза.
-A dense steel chair. Deals mediocre damage to\#an enemy. Can be used 3 times.<#>Прочный стальной стул. Наносит средний урон.\#Может быть использован 3 раза.
-A dense steel chair. Deals mediocre damage to\#an enemy. Can be used 2 times.<#>Прочный стальной стул. Наносит средний урон.\#Может быть использован 2 раза.
-A dense steel chair. Deals mediocre damage to\#an enemy. Can be used 1 time.<#>Прочный стальной стул. Наносит средний урон.\#Может быть использован 1 раз.
-Lito - Die To Sexualize<#>Lito - Die To Sexualize
-A song about a man overcoming it all and becoming\#the best of the best. Said to be Lito's greatest hit.<#>Песня о человеке, преодолевающим всё это и становящемся\#лучшим из лучших. Считается величайшим хитом Lites.
-Touchfield - Orange Lights<#>Touchfield - Orange Lights
-To heal your soul and put your mind at ease.\#Know what it feels like to be a sunset.<#>Исцеляет душу и успокаивает разум.\#Узнайте, каково это - быть закатом.
-W2D - Welcome Home<#>W2D - Welcome Home
-A popular choice of background noise\#for men taking a load off after a hard day's work.<#>Популярный мужской выбор в качестве фонового\#шума после тяжелого рабочего дня.
-W2D - Creepy Sax<#>W2D - Creepy Sax
-A song based on the artists childhood nightmares.<#>Песня, основанная на детских кошмарах артистов.
-UFODs - Boneyard March<#>UFODs - Boneyard March
-Michael - Springer. Has that signature UFODs'\#"Made in a garage and with a limited budget" feel<#>Michael - Springer. Имеет это фирменное чувство "Сделана\#в гараже, да ещё и с ограниченным бюджетом" от UFODs.
-UFODs - Fighting with Sticks and Stones<#>UFODs - Fighting with Sticks and Stones
-Springer - Harris. A song perfect for every occasion!\#(As long as that occasion is a vintage ass-whoopin')<#>Springer - Harris. Песня, идеально подходящая для любого случая!\#(До тех пор, пока это событие - старомодная драка)
-W2D - Work Harder<#>W2D - Work Harder
-No words can ever properly articulate\#just how manly this song makes you feel.<#>Словами не выразить, настолько мужественно\#вы чувствуете себя от этого трека.
-UFODs - Stillwater<#>UFODs - Stillwater
-Michael - Springer. An experimental track from\#UFO Drivers. Everyone preferred their earlier works.<#>Michael - Springer. Экспериментальный трек от\#UFO Drivers. Все любят их ранние работы.
-W2D - Satan's Call<#>W2D - Satan's Call
-Ever wondered what a piano with depression\#sounds like?<#>Когда-нибудь задумывались, как звучит пианино\#с депрессией?
-Good - Allsides<#>Good - Allsides
-Nothing will ever be the same. Nor can they ever\#return to normal. So go cry about it to this song.<#>Ничего никогда не будет прежним. И никогда не сможет снова\#стать нормальным. Теперь, иди поплачь об этом под эту песню.
-Good - Scum of the Earth<#>Good - Scum of the Earth
-Hate the planet with the help\#of this funky fresh track.<#>Ненавидьте планету под этот обалденный\#свежий трек.
-Henderson - Goin' Back to Kansas<#>Henderson - Goin' Back to Kansas
-The old road home just gets\#a little longer each day, doesn't it?<#>Старая дорога домой с каждым днём становится\#чуть длиннее, не так ли?
-Pickle of Agility<#>Огурец скорости
-A dainty consisting of buckwheat and a pickle.\#Increases AGI by 10.<#>Лакомство, состоящее из гречки и маринованного\#огурчика. Увеличивает СКОР на 10.
+Other than being used in salting of meat,\#it is also a common substitute for bullets.<#>Кроме применения в засолке мяса, также иногда\#используется в качестве замены пулям.
+<!-- Event ID --><#>96
+<!-- Event Name --><#>
+<!-- Event ID --><#>97
+<!-- Event Name --><#>!Kill
+!Kill<#>
+<!-- Event ID --><#>98
+<!-- Event Name --><#>HIT. SELF. -100
+HIT. SELF. -100<#>
+<!-- Event ID --><#>99
+<!-- Event Name --><#>HIT. SELF. -200
+HIT. SELF. -200<#>
+<!-- Event ID --><#>100
+<!-- Event Name --><#>Champion Chair
+Champion Chair<#>Чемпионский стул
+A dense steel chair. Deals mediocre damage to\#an enemy. Can be used 5 times.<#>Крепкий железный стул. Наносит средний урон\#по врагу. Может быть использован 5 раз.
+<!-- Event ID --><#>101
+<!-- Event Name --><#>Champion Chair
+Champion Chair<#>Чемпионский стул
+A dense steel chair. Deals mediocre damage to\#an enemy. Can be used 4 times.<#>Крепкий железный стул. Наносит средний урон\#по врагу. Может быть использован 4 раза.
+<!-- Event ID --><#>102
+<!-- Event Name --><#>Champion Chair
+Champion Chair<#>Чемпионский стул
+A dense steel chair. Deals mediocre damage to\#an enemy. Can be used 3 times.<#>Крепкий железный стул. Наносит средний урон\#по врагу. Может быть использован 3 раза.
+<!-- Event ID --><#>103
+<!-- Event Name --><#>Champion Chair
+Champion Chair<#>Чемпионский стул
+A dense steel chair. Deals mediocre damage to\#an enemy. Can be used 2 times.<#>Крепкий железный стул. Наносит средний урон\#по врагу. Может быть использован 2 раза.
+<!-- Event ID --><#>104
+<!-- Event Name --><#>Champion Chair
+Champion Chair<#>Чемпионский стул
+A dense steel chair. Deals mediocre damage to\#an enemy. Can be used 1 time.<#>Крепкий железный стул. Наносит средний урон\#по врагу. Может быть использован 1 раз.
+<!-- Event ID --><#>105
+<!-- Event Name --><#>Lito - Die To Sexualize
+Lito - Die To Sexualize<#>
+A song about a man overcoming it all and becoming\#the best of the best. Said to be Lito's greatest hit.<#>Песня про человека, превозмогающего всё это, и становящегося\#лучшим из лучших. Называют лучшим хитом Lito.
+<!-- Event ID --><#>106
+<!-- Event Name --><#>Touchfield - Orange Lights
+Touchfield - Orange Lights<#>
+To heal your soul and put your mind at ease.\#Know what it feels like to be a sunset.<#>Лечит душу и очищает разум.\#Познайте, каково это быть заходящим солнцем.
+<!-- Event ID --><#>107
+<!-- Event Name --><#>W2D - Welcome Home
+W2D - Welcome Home<#>
+A popular choice of background noise\#for men taking a load off after a hard day's work.<#>Популярный выбор в качестве песни на фон для мужчин,\#пытающихся расслабится после тяжёлого рабочего дня.
+<!-- Event ID --><#>108
+<!-- Event Name --><#>W2D - Creepy Sax
+W2D - Creepy Sax<#>
+A song based on the artists childhood nightmares.<#>Песня, основанная на детских кошмарах автора.
+<!-- Event ID --><#>109
+<!-- Event Name --><#>UFODs - Boneyard March
+UFODs - Boneyard March<#>
+Michael - Springer. Has that signature UFODs'\#"Made in a garage and with a limited budget" feel<#>Michael - Springer. Обладает тем самым фирменным\#чувством "гаража с маленьким бюджетом" группы UFODs.
+<!-- Event ID --><#>110
+<!-- Event Name --><#>UFODs - Fighting with Sticks and Stones
+UFODs - Fighting with Sticks and Stones<#>
+Springer - Harris. A song perfect for every occasion!\#(As long as that occasion is a vintage ass-whoopin')<#>Springer - Harris. Песня, идеальная для любого случая!\#(Пока этот случай состоит из старинного мордобоя.)
+<!-- Event ID --><#>111
+<!-- Event Name --><#>W2D - Work Harder
+W2D - Work Harder<#>
+No words can ever properly articulate\#just how manly this song makes you feel.<#>Пером не описать, как мужественно вы ощущаете\#себя, слушая эту песню.
+<!-- Event ID --><#>112
+<!-- Event Name --><#>UFODs - Stillwater
+UFODs - Stillwater<#>
+Michael - Springer. An experimental track from\#UFO Drivers. Everyone preferred their earlier works.<#>Michael - Springer. Экспериментальный трек от пилотов\#НЛО. Всем нравились их старые работы.
+<!-- Event ID --><#>113
+<!-- Event Name --><#>W2D - Satan's Call
+W2D - Satan's Call<#>
+Ever wondered what a piano with depression\#sounds like?<#>Когда-нибудь задумывались, как звучит растроенное\#пианино?
+<!-- Event ID --><#>114
+<!-- Event Name --><#>Good - Allsides
+Good - Allsides<#>
+Nothing will ever be the same. Nor can they ever\#return to normal. So go cry about it to this song.<#>Ничто больше не будет прежним. И никогда больше не\#будет нормальным. Так что пустите слезу под эту песню.
+<!-- Event ID --><#>115
+<!-- Event Name --><#>Good - Scum of the Earth
+Good - Scum of the Earth<#>
+Hate the planet with the help\#of this funky fresh track.<#>Возненавидьте эту планету под этот свежий\#фанковый тречок.
+<!-- Event ID --><#>116
+<!-- Event Name --><#>Henderson - Goin' Back to Kansas
+Henderson - Goin' Back to Kansas<#>
+The old road home just gets\#a little longer each day, doesn't it?<#>Старая дорога домой лишь становится длиннее\#с каждым днём, не так ли?
+<!-- Event ID --><#>117
+<!-- Event Name --><#>
+<!-- Event ID --><#>118
+<!-- Event Name --><#>Pickle of Agility
+Pickle of Agility<#>Огурчик ловкости
+A dainty consisting of buckwheat and a pickle.\#Increases AGI by 10.<#>Деликатес, состоящий из гречки на огурце.\#Повышает ловкость на 10.
+<!-- Event ID --><#>119
+<!-- Event Name --><#>Cutlet of Strength
 Cutlet of Strength<#>Котлета силы
-A dainty consisting of buckwheat and a cutlet.\#Increases ATK and MAT by 10.<#>Лакомство, состоящее из гречки и котлеты.\#Увеличивает АТК и СП. АТК на 10.
+A dainty consisting of buckwheat and a cutlet.\#Increases ATK and MAT by 10.<#>Деликатес, состоящий из гречки с котлетой.\#Повышает атаку и маг. атаку на 10.
+<!-- Event ID --><#>120
+<!-- Event Name --><#>Cheese of Endurance
 Cheese of Endurance<#>Сыр выносливости
-A dainty consisting of buckwheat and cheese.\#Increases MHP by 10.<#>Лакомство, состоящее из гречки и сыра.\#Увеличивает МОЗ на 75.
+A dainty consisting of buckwheat and cheese.\#Increases MHP by 10.<#>Деликатес, состоящий из гречки на сыре.\#Повышает макс. ОЗ на 10.
+<!-- Event ID --><#>121
+<!-- Event Name --><#>Pearl of Trash
 Pearl of Trash<#>Мусорная жемчужина
-A pearl formed from centuries of trash juices\#condensing around each other. (Barter Item)<#>Жемчужина, образовавшаяся из вековых скоплений\#мусора. (Предмет для обмена)
+A pearl formed from centuries of trash juices\#condensing around each other. (Barter Item)<#>Жемчужина, сформированная из-за многовековой\#концентрации мусорного сока в одном месте. (Предмет для обмена)
+<!-- Event ID --><#>122
+<!-- Event Name --><#>Crab
 Crab<#>Краб
-An angry crab that is dissatisfied with its being\#in your inventory. (Barter Item)<#>Сердитый краб, недовольный нахождением в\#вашем инвентаре. (Предмет для обмена)
+An angry crab that is dissatisfied with its being\#in your inventory. (Barter Item)<#>Злой краб, недовольный тем, что находится\#в вашем инвентаре. (Предмет для обмена)
+<!-- Event ID --><#>123
+<!-- Event Name --><#>Flaccid Revolver
 Flaccid Revolver<#>Вялый револьвер
-No matter how you shoot, you always hit your feet.\#(Barter Item)<#>Как бы вы не стреляли, вы всегда будете стрелять\#себе в ногу. (Предмет для обмена)
-Phone Book<#>Записная книжка
-Even though most conversations are physical,\#\#these yellow pages can still be of use. (Barter Item)<#>Даже несмотря на то, что все разговоры проводятся при встрече,\#эти пожелтевшие страницы всё ещё могут быть полезны. (Предмет для обмена)
+No matter how you shoot, you always hit your feet.\#(Barter Item)<#>Как не стреляй, всё полетит в ноги.\#(Предмет для обмена)
+<!-- Event ID --><#>124
+<!-- Event Name --><#>Phone Book
+Phone Book<#>Телефонная книга
+Even though most conversations are physical,\#\#these yellow pages can still be of use. (Barter Item)<#>Хотя большинство разговоров сейчас ведутся вживую, этим жёлтым\#страницам ещё можно найти применение. (Предмет для обмена) 
+<!-- Event ID --><#>125
+<!-- Event Name --><#>Plan B
 Plan B<#>План Б
-A blast of flaming emotion. (WARNING: Does exactly\#what you think it does.) (Barter Item)<#>Всплеск пылающих эмоций. (ПРЕДУПРЕЖДЕНИЕ: Делает\#в точности то, о чём вы думаете.) (Предмет для обмена)
-Bag of Drinking Straws<#>Сумка с соломинками
-Useful for drinking sodas and other beverages.\#Useless for just about anything else. (Barter Item)<#>Полезна для употребления газированных и других напитков.\#Бесполезна для любой другой вещи. (Предмет для обмена)
+A blast of flaming emotion. (WARNING: Does exactly\#what you think it does.) (Barter Item)<#>Взрыв пылающих эмоций. ПРЕДУПРЕЖДЕНИЕ: Делает в точности то,\#что вы думаете. (Предмет для обмена)
+<!-- Event ID --><#>126
+<!-- Event Name --><#>Bag of Drinking Straws
+Bag of Drinking Straws<#>Сумка с трубочками
+Useful for drinking sodas and other beverages.\#Useless for just about anything else. (Barter Item)<#>Полезный набор для распития газировки и прочих напитков.\#Бесполезен для совершенно всего остального. (Предмет для обмена)
+<!-- Event ID --><#>127
+<!-- Event Name --><#>Exclamation Flag
 Exclamation Flag<#>Восклицательный флаг
-Lets everyone know that something is happening.\#(Crafting Material)<#>Даёт всем понять, что что-то происходит.\#(Материал для изготовления)
-Revolver with a Flag<#>Револьвер с флагом
-Scare the shit out of the enemy with\#this classic ruse.\#Can be used only by Elton.<#>Пусть враги обосрутся от этой классической уловки.\#Может быть использован только Элтоном.
-Left Snake Wristband<#>Браслет левой змеи
-1 snake was harmed in the making of this wristband.\#(Crafting Material)<#>При изготовлении этого браслета пострадала 1 змея.\#(Материал для изготовления)
-Right Snake Wristband<#>Браслет правой змеи
+Lets everyone know that something is happening.\#(Crafting Material)<#>Дайте всем знать, что что-то происходит.\#(Предмет для создания)
+<!-- Event ID --><#>128
+<!-- Event Name --><#>Revolver with a Flag
+Revolver with a Flag<#>Револьвер с флажком
+Scare the shit out of the enemy with\#this classic ruse.\#Can be used only by Elton.<#>Напугайте врагов до усрачки этой классической уловкой.\#Может быть использован лишь Элтоном.
+<!-- Event ID --><#>129
+<!-- Event Name --><#>Left Snake Wristband
+Left Snake Wristband<#>Левый змеиный браслет
+1 snake was harmed in the making of this wristband.\#(Crafting Material)<#>При создании этого браслета пострадала 1 змея.\#(Предмет для создания)
+<!-- Event ID --><#>130
+<!-- Event Name --><#>Right Snake Wristband
+Right Snake Wristband<#>Правый змеиный браслет
+1 snake was harmed in the making of this wristband.\#(Crafting Material)<#>При создании этого браслета пострадала 1 змея.\#(Предмет для создания)
+<!-- Event ID --><#>131
+<!-- Event Name --><#>Potato Chips
 Potato Chips<#>Картофельные чипсы
 Recover 1000 HP.<#>Восстанавливают 1000 ОЗ.
+<!-- Event ID --><#>132
+<!-- Event Name --><#>Soviet Flag
 Soviet Flag<#>Советский флаг
-A USSR flag given to you by Lenin himself to help\#spread Communism. How the fuck. (Barter Item)<#>Флаг СССР, выданный вам самим Лениным, чтобы распространять\#коммунизм. Каким блять образом? (Предмет для обмена)
-Mixed Drink<#>Смешанный напиток
-An unsafe blend of alcohol drinks. Recovers 1200 HP.\#Makes you Deeply Hungover, Pissed and Oiled Up.<#>Небезопасная смесь алкогольных напитков. Восстанавливает\#1200 ОЗ. Вызывает сильное похмелье, ярость, и маслянность.
+A USSR flag given to you by Lenin himself to help\#spread Communism. How the fuck. (Barter Item)<#>Флаг СССР, данный вам самим Лениным, чтобы распространять\#коммунизм. Каким нахуй образом. (Предмет для обмена)
+<!-- Event ID --><#>133
+<!-- Event Name --><#>Mixed Drink
+Mixed Drink<#>Смешанный коктейль
+An unsafe blend of alcohol drinks. Recovers 1200 HP.\#Makes you Deeply Hungover, Pissed and Oiled Up.<#>Нездоровая смесь алкогольных напитков. Восстанавливает\#1200 ОЗ. За ней последует сильное похмелье, гнев и масло.
+<!-- Event ID --><#>134
+<!-- Event Name --><#>The Chosen Doner
 The Chosen Doner<#>Избранный донер
-A doner that is chosen to become a superdoner.\#(Unusable; Crafting Material)<#>Донер, избранный, чтобы стать супердонером.\#(Неиспользуемый; Материал для изготовления)
-Worrying Pickle<#>Тревожный огурец
-A pickle that makes you nervous. Recovers 70 HP.<#>Огурец, который вызывает у вас тревогу.\#Восстанавливает 70 ОЗ.
+A doner that is chosen to become a superdoner.\#(Unusable; Crafting Material)<#>Донер, избранный стать супердонером.\#(Неиспользуемый, материал для создания)
+<!-- Event ID --><#>135
+<!-- Event Name --><#>Worrying Pickle
+Worrying Pickle<#>Тревожный огурчик
+A pickle that makes you nervous. Recovers 70 HP.<#>Огурчик, который тревожит вас. Восстанавливает 70 ОЗ.
+<!-- Event ID --><#>136
+<!-- Event Name --><#>Pickle with Chocolate
 Pickle with Chocolate<#>Огурец с шоколадом
-A result of your diceased imagination degrading more\#and more. Makes you emotional.<#>Результат вашего больного воображения, деградирующего\#с каждым днём. Сильно расстраивает.
+A result of your diceased imagination degrading more\#and more. Makes you emotional.<#>Результат вашей поехавшей кукушки, деградирующей\#всё дальше и дальше. Расстраивает вас.
+<!-- Event ID --><#>137
+<!-- Event Name --><#>Gift Bag
 Gift Bag<#>Подарочный мешок
+<!-- Event ID --><#>138
+<!-- Event Name --><#>Elton's Journal
 Elton's Journal<#>Журнал Элтона
-A journal based on Elton's experiences. Includes\#a state manual and list of axioms. (Inspectable)<#>Журнал, основанный на опыте Элтона. Включает\#в себя руководство по состояниям и список аксиом.
+A journal based on Elton's experiences. Includes\#a state manual and list of axioms. (Inspectable)<#>Журнал, основанный на опыте Элтона. Включает в себя\#руководство по статусам и список аксиом. (Изучаемый)
+<!-- Event ID --><#>139
+<!-- Event Name --><#>Rusted Pipe
 Rusted Pipe<#>Ржавая труба
 A rusted metal pipe.<#>Ржавая железная труба.
+<!-- Event ID --><#>140
+<!-- Event Name --><#>
+<!-- Event ID --><#>141
+<!-- Event Name --><#>
+<!-- Event ID --><#>142
+<!-- Event Name --><#>
+<!-- Event ID --><#>143
+<!-- Event Name --><#>
+<!-- Event ID --><#>144
+<!-- Event Name --><#>
+<!-- Event ID --><#>145
+<!-- Event Name --><#>
+<!-- Event ID --><#>146
+<!-- Event Name --><#>
+<!-- Event ID --><#>147
+<!-- Event Name --><#>
+<!-- Event ID --><#>148
+<!-- Event Name --><#>
+<!-- Event ID --><#>149
+<!-- Event Name --><#>
+<!-- Event ID --><#>150
+<!-- Event Name --><#>
+<!-- Event ID --><#>151
+<!-- Event Name --><#>
+<!-- Event ID --><#>152
+<!-- Event Name --><#>
+<!-- Event ID --><#>153
+<!-- Event Name --><#>
+<!-- Event ID --><#>154
+<!-- Event Name --><#>
+<!-- Event ID --><#>155
+<!-- Event Name --><#>
+<!-- Event ID --><#>156
+<!-- Event Name --><#>
+<!-- Event ID --><#>157
+<!-- Event Name --><#>
+<!-- Event ID --><#>158
+<!-- Event Name --><#>
+<!-- Event ID --><#>159
+<!-- Event Name --><#>
+<!-- Event ID --><#>160
+<!-- Event Name --><#>
+<!-- Event ID --><#>161
+<!-- Event Name --><#>
+<!-- Event ID --><#>162
+<!-- Event Name --><#>
+<!-- Event ID --><#>163
+<!-- Event Name --><#>
+<!-- Event ID --><#>164
+<!-- Event Name --><#>
+<!-- Event ID --><#>165
+<!-- Event Name --><#>
+<!-- Event ID --><#>166
+<!-- Event Name --><#>
+<!-- Event ID --><#>167
+<!-- Event Name --><#>
+<!-- Event ID --><#>168
+<!-- Event Name --><#>
+<!-- Event ID --><#>169
+<!-- Event Name --><#>
+<!-- Event ID --><#>170
+<!-- Event Name --><#>
+<!-- Event ID --><#>171
+<!-- Event Name --><#>
+<!-- Event ID --><#>172
+<!-- Event Name --><#>
+<!-- Event ID --><#>173
+<!-- Event Name --><#>
+<!-- Event ID --><#>174
+<!-- Event Name --><#>
+<!-- Event ID --><#>175
+<!-- Event Name --><#>
+<!-- Event ID --><#>176
+<!-- Event Name --><#>
+<!-- Event ID --><#>177
+<!-- Event Name --><#>
+<!-- Event ID --><#>178
+<!-- Event Name --><#>
+<!-- Event ID --><#>179
+<!-- Event Name --><#>
+<!-- Event ID --><#>180
+<!-- Event Name --><#>
+<!-- Event ID --><#>181
+<!-- Event Name --><#>
+<!-- Event ID --><#>182
+<!-- Event Name --><#>
+<!-- Event ID --><#>183
+<!-- Event Name --><#>
+<!-- Event ID --><#>184
+<!-- Event Name --><#>
+<!-- Event ID --><#>185
+<!-- Event Name --><#>
+<!-- Event ID --><#>186
+<!-- Event Name --><#>
+<!-- Event ID --><#>187
+<!-- Event Name --><#>
+<!-- Event ID --><#>188
+<!-- Event Name --><#>
+<!-- Event ID --><#>189
+<!-- Event Name --><#>
+<!-- Event ID --><#>190
+<!-- Event Name --><#>
+<!-- Event ID --><#>191
+<!-- Event Name --><#>
+<!-- Event ID --><#>192
+<!-- Event Name --><#>
+<!-- Event ID --><#>193
+<!-- Event Name --><#>
+<!-- Event ID --><#>194
+<!-- Event Name --><#>
+<!-- Event ID --><#>195
+<!-- Event Name --><#>
+<!-- Event ID --><#>196
+<!-- Event Name --><#>
+<!-- Event ID --><#>197
+<!-- Event Name --><#>
+<!-- Event ID --><#>198
+<!-- Event Name --><#>
+<!-- Event ID --><#>199
+<!-- Event Name --><#>
+<!-- Event ID --><#>200
+<!-- Event Name --><#>Cocaine
 Cocaine<#>Кокаин
 Speed<#>Спиды

@@ -1,124 +1,584 @@
-Bare Chest<#>Голый торс
-This makes a very bold statement.<#>Очень смелое заявление.
+<!-- Event ID --><#>1
+<!-- Event Name --><#>Bare Chest
+Bare Chest<#>
+This makes a very bold statement.<#>
+<!-- Event ID --><#>2
+<!-- Event Name --><#>
+<!-- Event ID --><#>3
+<!-- Event Name --><#>
+<!-- Event ID --><#>4
+<!-- Event Name --><#>Blue Floral Shirt
 Blue Floral Shirt<#>Синяя гавайка
-You've had this wrinkley bastard\#for over 35 years now...<#>Вы носите этого скомканного ублюдка\#уже более 35-ти лет...
+You've had this wrinkley bastard\#for over 35 years now...<#>Вы носите этот неглаженный ужас\#вот уже 35 лет...
+<!-- Event ID --><#>5
+<!-- Event Name --><#>Darker Blue Floral Shirt
 Darker Blue Floral Shirt<#>Тёмно-синяя гавайка
-You feel gross just looking at it... Increases Health\#and Target Rate.<#>Вам тошно от одного лишь её вида...\#Увеличивает здоровье и шанс быть атакованным.
+You feel gross just looking at it... Increases Health\#and Target Rate.<#>Вас тошнит от одного взгляда на неё...\#Повышает здоровье и шанс стать целью.
+<!-- Event ID --><#>6
+<!-- Event Name --><#>Leather Jacket
 Leather Jacket<#>Кожаная куртка
-Makes you feel protected. And cool as hell.<#>Даёт чувство безопасности. И чертовски\#крута.
-Leather Guards<#>Кожаные наплечники
-A popular choice amongst muggers and raiders.\#They also chafe a bit.<#>Популярный выбор среди грабителей и\#налетчиков. Они немного неудобные.
-Biker's goggles<#>Байкерские очки
-You have the sudden urge to rev up a Harley.\#Immunity to Blind and resistance to Fire<#>У вас возникает внезапное желание поднажать\#на своём Харли. Иммунитет к слепоте и горению.
+Makes you feel protected. And cool as hell.<#>Даёт вам чувство защищённости. И крутости.
+<!-- Event ID --><#>7
+<!-- Event Name --><#>Leather Guards
+Leather Guards<#>
+A popular choice amongst muggers and raiders.\#They also chafe a bit.<#>
+<!-- Event ID --><#>8
+<!-- Event Name --><#>Biker's goggles
+Biker's goggles<#>Очки байкера
+You have the sudden urge to rev up a Harley.\#Immunity to Blind and resistance to Fire<#>Вам внезапно хочется газануть на своём "Урале". Даёт иммунитет\#к слепоте и сопротивление к огню.
+<!-- Event ID --><#>9
+<!-- Event Name --><#>Dangerous, too?
 Dangerous, too?<#>Тоже опасен?
-With glasses this stupid, how can you not feel cool?<#>С такими дурацкими очками, как вы можете\#не чувствовать себя крутым?
-Tight Belt<#>Тугой ремень
-Those pants ain't going nowhere now. Resistance to Stun.<#>Этим штанам никуда не деться. Даёт сопротивление\#к оглушению.
+With glasses this stupid, how can you not feel cool?<#>С такими тупыми очками, как можно не считать себя крутым?
+<!-- Event ID --><#>10
+<!-- Event Name --><#>Tight Belt
+Tight Belt<#>Затянутый ремень
+Those pants ain't going nowhere now. Resistance to Stun.<#>Эти штаны никуда не денутся. Даёт сопротивление к\#оглушению.
+<!-- Event ID --><#>11
+<!-- Event Name --><#>Small Belt
 Small Belt<#>Маленький ремень
-A long peice of fabric. Barely ties around your waist.\#Increases TP Charge Rate and Target Rate.<#>Длинный кусок ткани. Ядва затягивается на поясе.\#Повышает скорость зарядки ОН и шанс быть атакованым.
+A long peice of fabric. Barely ties around your waist.\#Increases TP Charge Rate and Target Rate.<#>Длинная струна из ткани. Едва затягивается на вашем\#поясе. Повышает получаемые ОТ и шанс стать целью.
+<!-- Event ID --><#>12
+<!-- Event Name --><#>Grey Belt
 Grey Belt<#>Серый ремень
-A belt so average the color changed to match its blandness.\#Decreases TP Charge Rate and Target Rate<#>Настолько обычный ремень, что его цвет изменился подстать его постности.\#Понижает скорость заполнения ОН и шанс быть атакованным.
+A belt so average the color changed to match its blandness.\#Decreases TP Charge Rate and Target Rate<#>Настолько обыденный ремень, что обрёл цвет подстать\#своей постности. Понижает получаемые ОТ и шанс стать целью.
+<!-- Event ID --><#>13
+<!-- Event Name --><#>Snake Belt
 Snake Belt<#>Змеиный ремень
-A snake was harmed in the making of this belt.\#Resistance to Poison but weak to Fire.<#>При изготовлении этого ремня пострадала змея.\#Даёт устойчивость к яду и слабость к огню.
-Brass Buckle<#>Латунная пряжка
-Become a BAMF with this bad boy. Resistance to Fallen, but\#weak to Stun.<#>Станьте настоящим подонком с этим плохишом.\#Даёт сопротивление к падению, и слабость к оглушению.
-Pencil Behind the Ear<#>Карандаш за ухом
-Makes you look like a complete nerd. You nerd.\#Increases agility.<#>Так, вы выглядите как настоящий ботан. Вы - он и\#есть. Аксессуар.
-Grey Beanie<#>Серая шапка
-A beanie made from 100% real imitation cotton.<#>Шапка, сделанная из 100%-ного натурального\#искусственного хлопка.
-Blue Shirt<#>Синяя футболка
-A shirt that is blue. Not much else to say.<#>Футболка, которая синяя. Больше ничего\#не скажешь.
-Sports Jersey<#>Спортивная майка
-Show your team support with this brown jersey.<#>Поддержите свою команду этой коричневой\#майкой.
-Blobfish hat<#>Маска в виде рыбы-капли
-Not only it's a fish hat, it's a blobfish hat.\#But is it really a hat?<#>Это не просто рыбомаска, это каплемаска.\#Но маска ли это на самом деле?
+A snake was harmed in the making of this belt.\#Resistance to Poison but weak to Fire.<#>В процессе создания этого ремня пострадала одна змея.\#Даёт сопротивление к отравлению, но слабость к огню.
+<!-- Event ID --><#>14
+<!-- Event Name --><#>Brass Buckle
+Brass Buckle<#>Медная пряжка
+Become a BAMF with this bad boy. Resistance to Fallen, but\#weak to Stun.<#>Станьте ПЛОХИШОМ с этой дикой пряжкой. Даёт сопротивление\#к падению, но слабость к оглушению.
+<!-- Event ID --><#>15
+<!-- Event Name --><#>Pencil Behind the Ear
+Pencil Behind the Ear<#>Карандаш за ухом.
+Makes you look like a complete nerd. You nerd.\#Increases agility.<#>Превращает вас в тотального ботана. Вы и становитесь\#им. Повышает скорость.
+<!-- Event ID --><#>16
+<!-- Event Name --><#>Grey Beanie
+Grey Beanie<#>Серая шапочка
+A beanie made from 100% real imitation cotton.<#>Шапочка, сотканная на 100% из настоящей имитации хлопка.
+<!-- Event ID --><#>17
+<!-- Event Name --><#>Blue Shirt
+Blue Shirt<#>Синяя майка
+A shirt that is blue. Not much else to say.<#>Синяя майка. Больше нечего сказать.
+<!-- Event ID --><#>18
+<!-- Event Name --><#>Sports Jersey
+Sports Jersey<#>
+Show your team support with this brown jersey.<#>
+<!-- Event ID --><#>19
+<!-- Event Name --><#>Blobfish hat
+Blobfish hat<#>Маска рыбы-капли
+Not only it's a fish hat, it's a blobfish hat.\#But is it really a hat?<#>Это не просто маска рыбы, это маска рыбы-капли.\#Или это не маска?
+<!-- Event ID --><#>20
+<!-- Event Name --><#>Jack of Clubs
 Jack of Clubs<#>Трефовый валет
-Decreases the physical damage received by 10%.<#>Понижает получаемый физический урон на\#10%.
+Decreases the physical damage received by 10%.<#>Понижает получаемый физический урон на 10%.
+<!-- Event ID --><#>21
+<!-- Event Name --><#>
+<!-- Event ID --><#>22
+<!-- Event Name --><#>Black Belt
 Black Belt<#>Чёрный пояс
 An authentic combat belt!<#>Аутентичный боевой пояс!
+<!-- Event ID --><#>23
+<!-- Event Name --><#>Two of Diamonds
 Two of Diamonds<#>Бубновая двойка
-Pocket With Pencils<#>Карман карандашей
-It's always good to have some pencils on hand.\#They increase max. SP by 20.<#>Всегда полезно иметь пару карандашей под\#рукой. Они увеличивают макс. ОН на 20.
-Nerd's glasses<#>Ботанские очки
-A pretty bland looking pair of glasses. Prevents the\#user from blinding. It's impossible to look cool with these on.<#>Довольно безвкусные очки. Защищают от\#ослепления. В них невозможно выглядеть круто.
-Racoon cloak<#>Енотовая маска
-The Spirit of the Raccoon is with you.\#(In the form of this taxidermy pelt.)<#>Дух Енотов с вами.\#(В виде этой таксидермической шкурки.)
+<!-- Event ID --><#>24
+<!-- Event Name --><#>Pocket With Pencils
+Pocket With Pencils<#>Карандаши в кармане
+It's always good to have some pencils on hand.\#They increase max. SP by 20.<#>Всегда удобно носить с собой карандаши.\#Повышают макс. ОН на 20.
+<!-- Event ID --><#>25
+<!-- Event Name --><#>
+<!-- Event ID --><#>26
+<!-- Event Name --><#>Nerd's glasses
+Nerd's glasses<#>Очки ботана
+A pretty bland looking pair of glasses. Prevents the\#user from blinding. It's impossible to look cool with these on.<#>Довольно неприметная пара очков. Защищают владельца\#от слепоты. В них будет тяжело выглядеть крутым.
+<!-- Event ID --><#>27
+<!-- Event Name --><#>Racoon cloak
+Racoon cloak<#>Енотовый плащ
+The Spirit of the Raccoon is with you.\#(In the form of this taxidermy pelt.)<#>Да будет с вами дух енота.\#(В виде этой освежеванной шкуры.)
+<!-- Event ID --><#>28
+<!-- Event Name --><#>Comb
 Comb<#>Расчёска
 An effective tool for hair care. Resistance to\#Weird and Wary.<#>Эффективный инструмент для ухода за волосами.\#Даёт сопротивление к странности и беспокойству.
-Rando Poncho<#>Пончо Рандо
-A very well made poncho.<#>Отлично сшитое пончо.
-Silk Poncho<#>Шёлковое пончо
-A very rare fabric in today's day and age.\#Who did this belong to?<#>Очень редкая ткань в наши дни.\#Кому оно принадлежало?
-USA Flag<#>Флаг США
-It's rather disrespectful to be wearing\#this like a shirt...<#>Довольно неуважительно носить его вместо\#майки...
-Nipple Patch<#>Повязка на сосок
-Probably the only one ever made.\#Who loses a nipple?<#>Наверное, она такая единственная в своём роде.\#Как можно потерять сосок?
-Lucky Feather<#>Счастливое перо
-Putting this in your cap makes you look\#super smart!<#>Надев его на свою шляпу, вы будете выглядеть\#супер умно!
-Locket<#>Кулон
-A woman's picture is inside the locket.<#>Внутри кулона лежит фотография женщины.
-Worn Helmet<#>Поношенный шлем
-Give it the old college try with this\#bad boy.<#>Вернитесь во времена колледжа с этим плохишом.
-Horrace's Hardhat<#>Каска Хорраса
-There is something written on it: "Dear son,\#don't drive bulldozers, you'll never succeed."<#>На ней что-то написано: "Дорогой сын, не води\#бульдозеры, у тебя никогда не получится."
-Diary Entries<#>Записи в дневнике
-An assortment of motivational quotes to help\#Terry get through the day...<#>Подборка мотивирующих цитат, которые помогут\#Терри пережить этот день...
-Old Sock<#>Старый носок
-Super comfy, but super smelly.<#>Супер удобный, но супер вонючий.
-Stench<#>Вонь
-A stench so strong, you can\#physically carry it around.<#>Настолько сильная вонь, что вы можете\#физически носить её вокруг.
-Dead Flower<#>Погибший цветок
-A personal keepsake.<#>Личный подарок на память.
-Cape<#>Капюшон
-It's really just an old towel...<#>Это, на самом деле, лишь старое полотенце...
-Cat Paw<#>Кошачья лапа
-Many people love cats...\#Many hate them...<#>Многие люди любят кошек...\#Многие ненавидят...
-Denim Jeans<#>Джинсы из денима
-Denim never goes out of style.<#>Деним никогда не выйдет из моды.
-Badass Belt Buckle<#>Пряжка крутого ублюдка
-This mother fucker keeps those fucking\#pants secure as fuck.<#>Этот плохиш охуеть как мощно удерживает\#штаны.
-Glasses<#>Очки
-Helps you hit things better. Reduces your coolness,\#regardless of your opinion on fashion.<#>Увеличивает шанс попадания. Снижает вашу крутость,\#независимо от вашего вкуса в моде.
-Cheetah Jersey<#>Леопардовая майка
-A very loud sports jersey.<#>Очень яркая спортивная майка.
-Drab Tank Top<#>Серая майка
-An earthly colored tank top.<#>Майка земного цвета.
-Show your team support with this\#over priced jersey.<#>Поддержите свою команду с этой майкой, цену\#на которую явно завысили.
-Cutoff Sweatshirt<#>Обрезанная футболка
-Ideal for people with nice abs.\#Gives you a good chance at looking cool.<#>Идеальна для людей с крутыми кубиками.\#Даёт вам большой шанс выглядеть круто.
-Floral Shirt<#>Рубашка в цветочек
-The coolest type of shirt ever.\#Only few can pull it off.<#>Крутейшая рубашка на свете.\#Немногие могут носить её на себе.
-Grandpa's Shirt<#>Дедовская рубашка
-The legendary blouse of a retiree.\#This shirt has seen many games of golf...<#>Легендарная рубашка пенсионера.\#Она видела бесчисленное количество матчей в гольф...
-Lab Coat<#>Лабораторный халат
-A dirty lab coat.<#>Грязный лабораторный халат.
-Sweaty Shirt<#>Потная футболка
-This shirt is covered in cologne to mask\#the sweat smell.<#>Эта рубашка пропитана одеколоном, чтобы замаскировать\#запах пота.
-Turban<#>Тюрбан
-Headwear created by cloth winding.<#>Головной убор, созданный путём сворачивания\#тряпок.
-Odd Helmet<#>Странный шлем
-Origins unknown.<#>Происхождение неизвестно.
-Bird Mask<#>Птичья маска
-Quack, quack? What is this?<#>Кря, кря? Что это?
-Straw Hat<#>Соломенная шляпа
-Something Grandmother would\#wear.<#>Что-то, что носила бы ваша бабушка.
-Businessy Hat<#>Бизнес-шляпа
-This hat increases your office productivity.<#>Эта шляпа повышает вашу продуктивность в офисе.
-Fisherman's Hat<#>Шляпа рыбака
-This has no style whatsoever.\#It's impossible to look cool with this.<#>В этой шляпе вообще нет никакого стиля.\#В ней невозможно выглядеть круто.
-Dandy Hat<#>Модная шляпа
-The ultimate in Southern headwear.<#>Непревзойденный южный головной убор.
-Paint Can<#>Банка из-под краски
-A paint can with a hole in it.<#>Банка из-под краски с дырой в ней.
-Harvey<#>Харви
-Sonny's best friend. The only one Sonny\#feels comfortable talking to...<#>Лучший друг Сонни. Единственный, с кем Сонни\#чувствует себя комфортно...
-Winter Cap<#>Зимняя шапка
-A tiny hat made for Winter. Worn all year\#by homeless people.<#>Маленькая шляпа, сшитая для зимы. Как правило,\#носится бездомными круглогодично.
-Fish Head<#>Шляпа-рыба
-Is this a real fish head?\#Is this a real fishman?!<#>Это шляпа из реальной рыбы?\#Это реальный рыбовек?!
-Mid-Life Crisis Hat<#>Шляпа кризиса среднего возраста
-It's something we all go through at some point.<#>Мы все через это пройдём.
-Oiled Chest<#>Маслянная грудь
-Makes you all slippery and sexy!<#>Делает вас скользким и сексуальным!
-Football Helmet<#>Футбольный шлем
-Hike! Your way into proper safety!<#>Надевай! Он обеспечит надлежащую безопасность!
+<!-- Event ID --><#>29
+<!-- Event Name --><#>
+<!-- Event ID --><#>30
+<!-- Event Name --><#>Rando Poncho
+Rando Poncho<#>
+A very well made poncho.<#>
+<!-- Event ID --><#>31
+<!-- Event Name --><#>Silk Poncho
+Silk Poncho<#>
+A very rare fabric in today's day and age.\#Who did this belong to?<#>
+<!-- Event ID --><#>32
+<!-- Event Name --><#>MANLY---------------
+<!-- Event ID --><#>33
+<!-- Event Name --><#>USA Flag
+USA Flag<#>
+It's rather disrespectful to be wearing\#this like a shirt...<#>
+<!-- Event ID --><#>34
+<!-- Event Name --><#>Nipple Patch
+Nipple Patch<#>
+Probably the only one ever made.\#Who loses a nipple?<#>
+<!-- Event ID --><#>35
+<!-- Event Name --><#>Football Pads
+Football Pads<#>
+Signed by John Freeway, but it's a mass\#produced signature. It's nothing special.<#>
+<!-- Event ID --><#>36
+<!-- Event Name --><#>Elite Pads
+Elite Pads<#>
+Made from thick plastic. Thick like your skull.<#>
+<!-- Event ID --><#>37
+<!-- Event Name --><#>Spiked Pads
+Spiked Pads<#>
+If you don't have these in the apocalypse\#you're seriously doing it wrong.<#>
+<!-- Event ID --><#>38
+<!-- Event Name --><#>Meaty Pads
+Meaty Pads<#>
+These sure can take a beating.<#>
+<!-- Event ID --><#>39
+<!-- Event Name --><#>Turquoise Pads
+Turquoise Pads<#>
+Dope western style pads.<#>
+<!-- Event ID --><#>40
+<!-- Event Name --><#>Devil's Pads
+Devil's Pads<#>
+The football pads of the world's most evil\#quaterback... Satan Manning.<#>
+<!-- Event ID --><#>41
+<!-- Event Name --><#>Skate Pads
+Skate Pads<#>
+Bright colored pads for roller blading.<#>
+<!-- Event ID --><#>42
+<!-- Event Name --><#>Wood Shield
+Wood Shield<#>
+A stiff shield.<#>
+<!-- Event ID --><#>43
+<!-- Event Name --><#>Metal Shield
+Metal Shield<#>
+This really... STOPS attacks.<#>
+<!-- Event ID --><#>44
+<!-- Event Name --><#>
+<!-- Event ID --><#>45
+<!-- Event Name --><#>
+<!-- Event ID --><#>46
+<!-- Event Name --><#>
+<!-- Event ID --><#>47
+<!-- Event Name --><#>
+<!-- Event ID --><#>48
+<!-- Event Name --><#>
+<!-- Event ID --><#>49
+<!-- Event Name --><#>
+<!-- Event ID --><#>50
+<!-- Event Name --><#>
+<!-- Event ID --><#>51
+<!-- Event Name --><#>Karate Belt
+Karate Belt<#>
+An authentic combat belt!<#>
+<!-- Event ID --><#>52
+<!-- Event Name --><#>Trash Bag Poncho
+Trash Bag Poncho<#>
+A poncho made out of a trash bag.\#It produces a stench.<#>
+<!-- Event ID --><#>53
+<!-- Event Name --><#>Lucky Feather
+Lucky Feather<#>
+Putting this in your cap makes you look\#super smart!<#>
+<!-- Event ID --><#>54
+<!-- Event Name --><#>
+<!-- Event ID --><#>55
+<!-- Event Name --><#>Locket
+Locket<#>
+A woman's picture is inside the locket.<#>
+<!-- Event ID --><#>56
+<!-- Event Name --><#>
+<!-- Event ID --><#>57
+<!-- Event Name --><#>
+<!-- Event ID --><#>58
+<!-- Event Name --><#>
+<!-- Event ID --><#>59
+<!-- Event Name --><#>
+<!-- Event ID --><#>60
+<!-- Event Name --><#>
+<!-- Event ID --><#>61
+<!-- Event Name --><#>LUCHA MASKS-------------------
+<!-- Event ID --><#>62
+<!-- Event Name --><#>Red Skull Mask
+Red Skull Mask<#>
+A mask that represents the birth of Rando.<#>
+<!-- Event ID --><#>63
+<!-- Event Name --><#>Sparkly Mask
+Sparkly Mask<#>
+The glistening lets people know how\#cool you are.<#>
+<!-- Event ID --><#>64
+<!-- Event Name --><#>Worn Helmet
+Worn Helmet<#>
+Give it the old college try with this\#bad boy.<#>
+<!-- Event ID --><#>65
+<!-- Event Name --><#>Horrace's Hardhat
+Horrace's Hardhat<#>
+There is something written on it: "Dear son,\#don't drive bulldozers, you'll never succeed."<#>
+<!-- Event ID --><#>66
+<!-- Event Name --><#>ACCESORIES-----------
+<!-- Event ID --><#>67
+<!-- Event Name --><#>Diary Entries
+Diary Entries<#>
+An assortment of motivational quotes to help\#Terry get through the day...<#>
+<!-- Event ID --><#>68
+<!-- Event Name --><#>Old Sock
+Old Sock<#>
+Super comfy, but super smelly.<#>
+<!-- Event ID --><#>69
+<!-- Event Name --><#>Lucky Feather
+Lucky Feather<#>
+Putting this in your cap makes you look\#super smart!<#>
+<!-- Event ID --><#>70
+<!-- Event Name --><#>Stench
+Stench<#>
+A stench so strong, you can\#physically carry it around.<#>
+<!-- Event ID --><#>71
+<!-- Event Name --><#>Dead Flower
+Dead Flower<#>
+A personal keepsake.<#>
+<!-- Event ID --><#>72
+<!-- Event Name --><#>Cape
+Cape<#>
+It's really just an old towel...<#>
+<!-- Event ID --><#>73
+<!-- Event Name --><#>Cat Paw
+Cat Paw<#>
+Many people love cats...\#Many hate them...<#>
+<!-- Event ID --><#>74
+<!-- Event Name --><#>Denim Jeans
+Denim Jeans<#>
+Denim never goes out of style.<#>
+<!-- Event ID --><#>75
+<!-- Event Name --><#>Badass Belt Buckle
+Badass Belt Buckle<#>
+This mother fucker keeps those fucking\#pants secure as fuck.<#>
+<!-- Event ID --><#>76
+<!-- Event Name --><#>Glasses
+Glasses<#>
+Helps you hit things better. Reduces your coolness,\#regardless of your opinion on fashion.<#>
+<!-- Event ID --><#>77
+<!-- Event Name --><#>Eternal Title Belt
+Eternal Title Belt<#>
+The prestigious championship belt.<#>
+<!-- Event ID --><#>78
+<!-- Event Name --><#>Tag Team Title Belt
+Tag Team Title Belt<#>
+The prestigious tag team championship belt.<#>
+<!-- Event ID --><#>79
+<!-- Event Name --><#>Mike's Belt Buckle
+Mike's Belt Buckle<#>
+It's just a lonely trucker's belt...<#>
+<!-- Event ID --><#>80
+<!-- Event Name --><#>Nipple
+Nipple<#>
+A reminder of your choices.<#>
+<!-- Event ID --><#>81
+<!-- Event Name --><#>Old Sock
+Old Sock<#>
+Super comfy, but super smelly.<#>
+<!-- Event ID --><#>82
+<!-- Event Name --><#>Black Helmet
+Black Helmet<#>
+The official Black Ranger helmet.<#>
+<!-- Event ID --><#>83
+<!-- Event Name --><#>
+<!-- Event ID --><#>84
+<!-- Event Name --><#>
+<!-- Event ID --><#>85
+<!-- Event Name --><#>
+<!-- Event ID --><#>86
+<!-- Event Name --><#>
+<!-- Event ID --><#>87
+<!-- Event Name --><#>BLOUSES-------------
+<!-- Event ID --><#>88
+<!-- Event Name --><#>Cheetah Jersey   
+Cheetah Jersey<#>
+A very loud sports jersey.<#>
+<!-- Event ID --><#>89
+<!-- Event Name --><#>Drab Tank Top
+Drab Tank Top<#>
+An earthly colored tank top.<#>
+<!-- Event ID --><#>90
+<!-- Event Name --><#>Sports Jersey
+Sports Jersey<#>
+Show your team support with this\#over priced jersey.<#>
+<!-- Event ID --><#>91
+<!-- Event Name --><#>Cutoff Sweatshirt
+Cutoff Sweatshirt<#>
+Ideal for people with nice abs.\#Gives you a good chance at looking cool.<#>
+<!-- Event ID --><#>92
+<!-- Event Name --><#>Floral Shirt
+Floral Shirt<#>
+The coolest type of shirt ever.\#Only few can pull it off.<#>
+<!-- Event ID --><#>93
+<!-- Event Name --><#>Grandpa's Shirt
+Grandpa's Shirt<#>
+The legendary blouse of a retiree.\#This shirt has seen many games of golf...<#>
+<!-- Event ID --><#>94
+<!-- Event Name --><#>Lab Coat
+Lab Coat<#>
+A dirty lab coat.<#>
+<!-- Event ID --><#>95
+<!-- Event Name --><#>Sweaty Shirt
+Sweaty Shirt<#>
+This shirt is covered in cologne to mask\#the sweat smell.<#>
+<!-- Event ID --><#>96
+<!-- Event Name --><#>
+<!-- Event ID --><#>97
+<!-- Event Name --><#>
+<!-- Event ID --><#>98
+<!-- Event Name --><#>HEADWEAR--------
+<!-- Event ID --><#>99
+<!-- Event Name --><#>Turban
+Turban<#>
+Headwear created by cloth winding.<#>
+<!-- Event ID --><#>100
+<!-- Event Name --><#>Odd Helmet
+Odd Helmet<#>
+Origins unknown.<#>
+<!-- Event ID --><#>101
+<!-- Event Name --><#>Bird Mask
+Bird Mask<#>
+Quack, quack? What is this?<#>
+<!-- Event ID --><#>102
+<!-- Event Name --><#>Straw Hat
+Straw Hat<#>
+Something Grandmother would\#wear.<#>
+<!-- Event ID --><#>103
+<!-- Event Name --><#>Pink Helmet
+Pink Helmet<#>
+The official Pink Ranger helmet.<#>
+<!-- Event ID --><#>104
+<!-- Event Name --><#>Motorbike Helmet
+Motorbike Helmet<#>
+Belonged to the leader of the Gale\#Motorcycle Club.<#>
+<!-- Event ID --><#>105
+<!-- Event Name --><#>Businessy Hat
+Businessy Hat<#>
+This hat increases your office productivity.<#>
+<!-- Event ID --><#>106
+<!-- Event Name --><#>Fisherman's Hat
+Fisherman's Hat<#>
+This has no style whatsoever.\#It's impossible to look cool with this.<#>
+<!-- Event ID --><#>107
+<!-- Event Name --><#>Dandy Hat
+Dandy Hat<#>
+The ultimate in Southern headwear.<#>
+<!-- Event ID --><#>108
+<!-- Event Name --><#>Sunscreen
+Sunscreen<#>
+Ideal for bald heads.<#>
+<!-- Event ID --><#>109
+<!-- Event Name --><#>Deluxe Sunscreen
+Deluxe Sunscreen<#>
+The best sunscreen. Reduces burning.<#>
+<!-- Event ID --><#>110
+<!-- Event Name --><#>Hair-Gro
+Hair-Gro<#>
+A hair growth formula. These never\#work, but it helps to dream.<#>
+<!-- Event ID --><#>111
+<!-- Event Name --><#>Paint Can
+Paint Can<#>
+A paint can with a hole in it.<#>
+<!-- Event ID --><#>112
+<!-- Event Name --><#>Tiger Head
+Tiger Head<#>
+Is this even a mask...?<#>
+<!-- Event ID --><#>113
+<!-- Event Name --><#>Harvey
+Harvey<#>
+Sonny's best friend. The only one Sonny\#feels comfortable talking to...<#>
+<!-- Event ID --><#>114
+<!-- Event Name --><#>Winter Cap
+Winter Cap<#>
+A tiny hat made for Winter. Worn all year\#by homeless people.<#>
+<!-- Event ID --><#>115
+<!-- Event Name --><#>Hyper Hair-Gro
+Hyper Hair-Gro<#>
+A hair growth formula. These never\#work, but it helps to dream.<#>
+<!-- Event ID --><#>116
+<!-- Event Name --><#>Fish Head
+Fish Head<#>
+Is this a real fish head?\#Is this a real fishman?!<#>
+<!-- Event ID --><#>117
+<!-- Event Name --><#>Mid-Life Crisis Hat
+Mid-Life Crisis Hat<#>
+It's something we all go through at some point.<#>
+<!-- Event ID --><#>118
+<!-- Event Name --><#>NUDE-------------------------
+<!-- Event ID --><#>119
+<!-- Event Name --><#>Oiled Chest
+Oiled Chest<#>
+Makes you all slippery and sexy!<#>
+<!-- Event ID --><#>120
+<!-- Event Name --><#>Eye Patch
+Eye Patch<#>
+This looks boss as Hell.<#>
+<!-- Event ID --><#>121
+<!-- Event Name --><#>
+<!-- Event ID --><#>122
+<!-- Event Name --><#>
+<!-- Event ID --><#>123
+<!-- Event Name --><#>
+<!-- Event ID --><#>124
+<!-- Event Name --><#>
+<!-- Event ID --><#>125
+<!-- Event Name --><#>
+<!-- Event ID --><#>126
+<!-- Event Name --><#>PONCHOS
+PONCHOS<#>
+<!-- Event ID --><#>127
+<!-- Event Name --><#>Football Helmet
+Football Helmet<#>
+Hike! Your way into proper safety!<#>
+<!-- Event ID --><#>128
+<!-- Event Name --><#>
+<!-- Event ID --><#>129
+<!-- Event Name --><#>
+<!-- Event ID --><#>130
+<!-- Event Name --><#>
+<!-- Event ID --><#>131
+<!-- Event Name --><#>BUDDY MASKS-----------
+<!-- Event ID --><#>132
+<!-- Event Name --><#>Bandages
+Bandages<#>
+Bandages found to cover your wounds.\#Brad taught you how to apply them.<#>
+<!-- Event ID --><#>133
+<!-- Event Name --><#>
+<!-- Event ID --><#>134
+<!-- Event Name --><#>
+<!-- Event ID --><#>135
+<!-- Event Name --><#>
+<!-- Event ID --><#>136
+<!-- Event Name --><#>
+<!-- Event ID --><#>137
+<!-- Event Name --><#>
+<!-- Event ID --><#>138
+<!-- Event Name --><#>
+<!-- Event ID --><#>139
+<!-- Event Name --><#>
+<!-- Event ID --><#>140
+<!-- Event Name --><#>
+<!-- Event ID --><#>141
+<!-- Event Name --><#>
+<!-- Event ID --><#>142
+<!-- Event Name --><#>
+<!-- Event ID --><#>143
+<!-- Event Name --><#>
+<!-- Event ID --><#>144
+<!-- Event Name --><#>
+<!-- Event ID --><#>145
+<!-- Event Name --><#>
+<!-- Event ID --><#>146
+<!-- Event Name --><#>
+<!-- Event ID --><#>147
+<!-- Event Name --><#>
+<!-- Event ID --><#>148
+<!-- Event Name --><#>
+<!-- Event ID --><#>149
+<!-- Event Name --><#>
+<!-- Event ID --><#>150
+<!-- Event Name --><#>
+<!-- Event ID --><#>151
+<!-- Event Name --><#>
+<!-- Event ID --><#>152
+<!-- Event Name --><#>
+<!-- Event ID --><#>153
+<!-- Event Name --><#>
+<!-- Event ID --><#>154
+<!-- Event Name --><#>
+<!-- Event ID --><#>155
+<!-- Event Name --><#>
+<!-- Event ID --><#>156
+<!-- Event Name --><#>
+<!-- Event ID --><#>157
+<!-- Event Name --><#>
+<!-- Event ID --><#>158
+<!-- Event Name --><#>
+<!-- Event ID --><#>159
+<!-- Event Name --><#>
+<!-- Event ID --><#>160
+<!-- Event Name --><#>
+<!-- Event ID --><#>161
+<!-- Event Name --><#>
+<!-- Event ID --><#>162
+<!-- Event Name --><#>
+<!-- Event ID --><#>163
+<!-- Event Name --><#>
+<!-- Event ID --><#>164
+<!-- Event Name --><#>
+<!-- Event ID --><#>165
+<!-- Event Name --><#>
+<!-- Event ID --><#>166
+<!-- Event Name --><#>
+<!-- Event ID --><#>167
+<!-- Event Name --><#>
+<!-- Event ID --><#>168
+<!-- Event Name --><#>
+<!-- Event ID --><#>169
+<!-- Event Name --><#>
+<!-- Event ID --><#>170
+<!-- Event Name --><#>
+<!-- Event ID --><#>171
+<!-- Event Name --><#>
+<!-- Event ID --><#>172
+<!-- Event Name --><#>
+<!-- Event ID --><#>173
+<!-- Event Name --><#>
+<!-- Event ID --><#>174
+<!-- Event Name --><#>
+<!-- Event ID --><#>175
+<!-- Event Name --><#>
+<!-- Event ID --><#>176
+<!-- Event Name --><#>
+<!-- Event ID --><#>177
+<!-- Event Name --><#>
+<!-- Event ID --><#>178
+<!-- Event Name --><#>
+<!-- Event ID --><#>179
+<!-- Event Name --><#>
+<!-- Event ID --><#>180
+<!-- Event Name --><#>
+<!-- Event ID --><#>181
+<!-- Event Name --><#>
+<!-- Event ID --><#>182
+<!-- Event Name --><#>
+<!-- Event ID --><#>183
+<!-- Event Name --><#>
+<!-- Event ID --><#>184
+<!-- Event Name --><#>
+<!-- Event ID --><#>185
+<!-- Event Name --><#>
+<!-- Event ID --><#>186
+<!-- Event Name --><#>
+<!-- Event ID --><#>187
+<!-- Event Name --><#>
+<!-- Event ID --><#>188
+<!-- Event Name --><#>
+<!-- Event ID --><#>189
+<!-- Event Name --><#>
+<!-- Event ID --><#>190
+<!-- Event Name --><#>
+<!-- Event ID --><#>191
+<!-- Event Name --><#>
+<!-- Event ID --><#>192
+<!-- Event Name --><#>
+<!-- Event ID --><#>193
+<!-- Event Name --><#>
+<!-- Event ID --><#>194
+<!-- Event Name --><#>
+<!-- Event ID --><#>195
+<!-- Event Name --><#>
+<!-- Event ID --><#>196
+<!-- Event Name --><#>
+<!-- Event ID --><#>197
+<!-- Event Name --><#>
+<!-- Event ID --><#>198
+<!-- Event Name --><#>
+<!-- Event ID --><#>199
+<!-- Event Name --><#>
+<!-- Event ID --><#>200
+<!-- Event Name --><#>

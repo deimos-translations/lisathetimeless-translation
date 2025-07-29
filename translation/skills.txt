@@ -1,300 +1,4354 @@
+<!-- Event ID --><#>1
+<!-- Event Name --><#>Attack
 Attack<#>Атака
-Damages the enemy.<#>Наносит врагу урон.
+Damages the enemy.<#>
 attacks!<#>атакует!
+<!-- Event ID --><#>2
+<!-- Event Name --><#>Guard
 Guard<#>Защита
-Protects user and reduces damage taken.<#>Защищает и снижает входящий урон.
+Protects user and reduces damage taken.<#>
 guards.<#>защищается.
+Skill #2 will be used when you select\#the Guard command.<#>
+<!-- Event ID --><#>3
+<!-- Event Name --><#>Attack
+Attack<#>Атака
+Damages the enemy.<#>
+attacks!<#>атакует!
+<!-- Event ID --><#>4
+<!-- Event Name --><#>
+<!-- Event ID --><#>5
+<!-- Event Name --><#>
+<!-- Event ID --><#>6
+<!-- Event Name --><#>Escape
+Escape<#>Побег
+Enemy action. Causes enemy to flee from battle.<#>
+flees.<#>сбегает.
+<!-- Event ID --><#>7
+<!-- Event Name --><#>Wait
+Wait<#>Ожидание.
+Does nothing.<#>
+waits.<#>ожидает.
+<!-- Event ID --><#>8
+<!-- Event Name --><#>
+<!-- Event ID --><#>9
+<!-- Event Name --><#>===Crowbar
+===Crowbar<#>
+<!-- Event ID --><#>10
+<!-- Event Name --><#>Strike
+Strike<#>Удар
+bashes you with a crowbar!<#>бьёт вас монтировкой!
+<!-- Event ID --><#>11
+<!-- Event Name --><#>Shred
+Shred<#>
+swings at full force!<#>
+<!-- Event ID --><#>12
+<!-- Event Name --><#>Sweep
+Sweep<#>Подсечка
+sweeps at your legs with a crowbar.<#>бьёт по вашим ногам монтировкой.
+<!-- Event ID --><#>13
+<!-- Event Name --><#>Sharp strike
+Sharp strike<#>
+strikes with crowbar's claw!<#>
+<!-- Event ID --><#>14
+<!-- Event Name --><#>Dirt sweep
+Dirt sweep<#>
+sweeps up dirt!<#>
+<!-- Event ID --><#>15
+<!-- Event Name --><#>Geyser of Garbage
+Geyser of Garbage<#>
+unleashes The Geyser!<#>
+<!-- Event ID --><#>16
+<!-- Event Name --><#>Fast Sandwich
+Fast Sandwich<#>Быстрый перекус
+Restores HP to one ally.<#>
+stuffs a sandwich in his mouth.<#>закидывает в себя сэндвич.
+<!-- Event ID --><#>17
+<!-- Event Name --><#>Dodge
+Dodge<#>
+A dive and a roll.\#Prevents most forms of damage.<#>
+got outta there!<#>
+<!-- Event ID --><#>18
+<!-- Event Name --><#>
+<!-- Event ID --><#>19
+<!-- Event Name --><#>Taste Blood Knife
+Taste Blood Knife<#>
+Restores HP to one ally.<#>
+licks his blade...<#>
+<!-- Event ID --><#>20
+<!-- Event Name --><#>Bite
+Bite<#>
+A big chomp<#>
+bites down hard!<#>
+<!-- Event ID --><#>21
+<!-- Event Name --><#>Poison Bite
+Poison Bite<#>
+A big chomp<#>
+bites down hard!<#>
+<!-- Event ID --><#>22
+<!-- Event Name --><#>Bark
+Bark<#>
+Stuns all enemies.<#>
+barks at you!<#>
+<!-- Event ID --><#>23
+<!-- Event Name --><#>The Chainsaw
+The Chainsaw<#>
+Damages the enemy.<#>
+spins like a ballet dancer!<#>
+<!-- Event ID --><#>24
+<!-- Event Name --><#>Meditate
+Meditate<#>
+Recovers user's HP.<#>
+uses Meditate!<#>
+<!-- Event ID --><#>25
+<!-- Event Name --><#>Fire Ball
+Fire Ball<#>
+(WSD) A blast of flaming emotion.<#>
+blasts off!<#>
+<!-- Event ID --><#>26
+<!-- Event Name --><#>Roar
+Roar<#>
+roars in your ear.<#>
+<!-- Event ID --><#>27
+<!-- Event Name --><#>RealizationII
+RealizationII<#>
+Realize you're in a fight.<#>
+figured it out!<#>
+<!-- Event ID --><#>28
+<!-- Event Name --><#>Slap
+Slap<#>
+Literally scratch but not scratch<#>
+slaps!<#>
+<!-- Event ID --><#>29
+<!-- Event Name --><#>Cue Joust
+Cue Joust<#>
+Damages the enemy.<#>
+rams you with his cue!<#>
+<!-- Event ID --><#>30
+<!-- Event Name --><#>Club Joust
+Club Joust<#>
+Damages the enemy.<#>
+rams you with his bat!<#>
+<!-- Event ID --><#>31
+<!-- Event Name --><#>Gainer
+Gainer<#>
+An outstanding kick.<#>
+gainer kicks!<#>
+<!-- Event ID --><#>32
+<!-- Event Name --><#>Clap
+Clap<#>
+A two hand clap to the ears.<#>
+claps to the ears!<#>
+<!-- Event ID --><#>33
+<!-- Event Name --><#>Quadruple chomp
+Quadruple chomp<#>
+A big chomp<#>
+bites down repeatedly!<#>
+<!-- Event ID --><#>34
+<!-- Event Name --><#>Block
+Block<#>
+A tall guy shoves his hand into your face.\#You can't get close to him.<#>
+blocks!<#>
+<!-- Event ID --><#>35
+<!-- Event Name --><#>Power Fist II
+Power Fist II<#>
+Enemy prepares himself.<#>
+prepares to smack your shit.<#>
+<!-- Event ID --><#>36
+<!-- Event Name --><#>Tiger Toss
+Tiger Toss<#>
+Enemy grabs you and throws over himself.<#>
+throws you at full force!<#>
+<!-- Event ID --><#>37
+<!-- Event Name --><#>Palm Strike
+Palm Strike<#>
+does a palm strike!<#>
+<!-- Event ID --><#>38
+<!-- Event Name --><#>Australian chop
+Australian chop<#>
+Damages the enemy.<#>
+chops!<#>
+<!-- Event ID --><#>39
+<!-- Event Name --><#>Chop
+Chop<#>
+Damages the enemy.<#>
+chops!<#>
+<!-- Event ID --><#>40
+<!-- Event Name --><#>Trash can
+Trash can<#>
+throws a trash can!<#>
+<!-- Event ID --><#>41
+<!-- Event Name --><#>Blazing bark
+Blazing bark<#>
+barks at you!<#>
+<!-- Event ID --><#>42
+<!-- Event Name --><#>Beretta jab
+Beretta jab<#>
+Damages the enemy.<#>
+throws jabs!<#>
+<!-- Event ID --><#>43
+<!-- Event Name --><#>Odd tune
+Odd tune<#>
+An odd tune plays...<#>
+<!-- Event ID --><#>44
+<!-- Event Name --><#>Sleepy tune
+Sleepy tune<#>
+A soothing tune plays...<#>
+<!-- Event ID --><#>45
+<!-- Event Name --><#>Loud tune
+Loud tune<#>
+A loud noise hurts your ears.<#>
+<!-- Event ID --><#>46
+<!-- Event Name --><#>Healing tune
+Healing tune<#>
+A mending tune plays...<#>
+<!-- Event ID --><#>47
+<!-- Event Name --><#>Torpedo 
+Torpedo<#>
+fires a torpedo!<#>
+<!-- Event ID --><#>48
+<!-- Event Name --><#>Harpoon
+Harpoon<#>
+Damages the enemy.<#>
+fires its harpoon!<#>
+<!-- Event ID --><#>49
+<!-- Event Name --><#>Axe ram
+Axe ram<#>
+bashes with his axe!<#>
+<!-- Event ID --><#>50
+<!-- Event Name --><#>Axe attack
+Axe attack<#>
+cuts with his axe!<#>
+<!-- Event ID --><#>51
+<!-- Event Name --><#>non-lethal shoot 1
+non-lethal shoot 1<#>
+Damages the enemy.<#>
+shoots!<#>
+<!-- Event ID --><#>52
+<!-- Event Name --><#>non-lethal shoot 2
+non-lethal shoot 2<#>
+Damages the enemy.<#>
+shoots!<#>
+<!-- Event ID --><#>53
+<!-- Event Name --><#>Reload
+Reload<#>
+Space case<#>
+loads his gun.<#>
+<!-- Event ID --><#>54
+<!-- Event Name --><#>Club Combo
+Club Combo<#>
+Damages the enemy.<#>
+clubs lke mad!<#>
+<!-- Event ID --><#>55
+<!-- Event Name --><#>Groin kick
+Groin kick<#>
+Damages the enemy.<#>
+ruins your day.<#>
+<!-- Event ID --><#>56
+<!-- Event Name --><#>Uppercut
+Uppercut<#>
+Stomp a mudhole in your ass.<#>
+uppercuts!<#>
+<!-- Event ID --><#>57
+<!-- Event Name --><#>Claw Scratch
+Claw Scratch<#>
+Damages the enemy.<#>
+scratches!<#>
+<!-- Event ID --><#>58
+<!-- Event Name --><#>Revolver Shot
+Revolver Shot<#>
+shoots!<#>
+<!-- Event ID --><#>59
+<!-- Event Name --><#>Releasing Harpoon
+Releasing Harpoon<#>
+reloadin<#>
+draws its harpoon!<#>
+<!-- Event ID --><#>60
+<!-- Event Name --><#>Thunderball
+Thunderball<#>
+throws a thunderball!<#>
+<!-- Event ID --><#>61
+<!-- Event Name --><#>Thunder chain
+Thunder chain<#>
+creates a lightning!<#>
+<!-- Event ID --><#>62
+<!-- Event Name --><#>Demoralising Puke
+Demoralising Puke<#>
+A big chomp<#>
+vomits on you!<#>
+<!-- Event ID --><#>63
+<!-- Event Name --><#>Banging head
+Banging head<#>
+Banging<#>
+bangs his head against the ground!<#>
+<!-- Event ID --><#>64
+<!-- Event Name --><#>Lunatic trash Slam 1
+Lunatic trash Slam 1<#>
+jumps at you!<#>
+<!-- Event ID --><#>65
+<!-- Event Name --><#>Lunatic trash Slam 2
+Lunatic trash Slam 2<#>
+jumps at you!<#>
+<!-- Event ID --><#>66
+<!-- Event Name --><#>Harpoon
+Harpoon<#>
+Damages the enemy.<#>
+fires its harpoon!<#>
+<!-- Event ID --><#>67
+<!-- Event Name --><#>Bash with weapon
+Bash with weapon<#>
+bashes you with his weapon!<#>
+<!-- Event ID --><#>68
+<!-- Event Name --><#>Bite and tear
+Bite and tear<#>
+A big chomp<#>
+tears you in pieces!<#>
+<!-- Event ID --><#>69
+<!-- Event Name --><#>
+<!-- Event ID --><#>70
+<!-- Event Name --><#>Double Kick
+Double Kick<#>
+Damages the enemy.<#>
+delivers a dual kick!<#>
+<!-- Event ID --><#>71
+<!-- Event Name --><#>Knife foot
+Knife foot<#>
+Damages the enemy.<#>
+kicks like a knife!<#>
+<!-- Event ID --><#>72
+<!-- Event Name --><#>
+<!-- Event ID --><#>73
+<!-- Event Name --><#>Edge Closer
+Edge Closer<#>
+gets closer to you.<#>
+<!-- Event ID --><#>74
+<!-- Event Name --><#>Continuous attack
+Continuous attack<#>
+Attacks three random enemies.<#>
+goes buck wild!<#>
+<!-- Event ID --><#>75
+<!-- Event Name --><#>AntiBuff
+AntiBuff<#>
+Cancels all Buffs.<#>
+gets closer to you.<#>
+<!-- Event ID --><#>76
+<!-- Event Name --><#>Jackpot discharge
+Jackpot discharge<#>
+discharges electricity!<#>
+<!-- Event ID --><#>77
+<!-- Event Name --><#>Cough
+Cough<#>
+coughs.<#>
+<!-- Event ID --><#>78
+<!-- Event Name --><#>Flash
+Flash<#>
+A big smile.<#>
+shows you something awful!<#>
+<!-- Event ID --><#>79
+<!-- Event Name --><#>
+<!-- Event ID --><#>80
+<!-- Event Name --><#>Brown note attack!
+Brown note attack!<#>
+<!-- Event ID --><#>81
+<!-- Event Name --><#>Battlecry
+Battlecry<#>
+Enemy realizes he's outnumbered.<#>
+vibrates with rage!<#>
+<!-- Event ID --><#>82
+<!-- Event Name --><#>Hypnosis
+Hypnosis<#>
+Talk mad trash.<#>
+hypnotises you!<#>
+<!-- Event ID --><#>83
+<!-- Event Name --><#>
+<!-- Event ID --><#>84
+<!-- Event Name --><#>Flash: Crying
+Flash: Crying<#>
+A big smile.<#>
+made you cry!<#>
+<!-- Event ID --><#>85
+<!-- Event Name --><#>Flash: Blind
+Flash: Blind<#>
+A big smile.<#>
+made you blind!<#>
+<!-- Event ID --><#>86
+<!-- Event Name --><#>Flash: Paralize
+Flash: Paralize<#>
+A big smile.<#>
+paralized you!<#>
+<!-- Event ID --><#>87
+<!-- Event Name --><#>Flash: Damage
+Flash: Damage<#>
+A big smile.<#>
+damaged you!<#>
+<!-- Event ID --><#>88
+<!-- Event Name --><#>
+<!-- Event ID --><#>89
+<!-- Event Name --><#>Claw Dance
+Claw Dance<#>
+Claw Skill. Deals damage to one enemy twice.\#Ignores defense.<#>
+uses Claw Dance!<#>
+<!-- Event ID --><#>90
+<!-- Event Name --><#>Cover
+Cover<#>
+For 1 turn, protect allies with low HP.<#>
+uses Cover!<#>
+<!-- Event ID --><#>91
+<!-- Event Name --><#>Provoke
+Provoke<#>
+For 5 turns, user is more likely to be attacked.<#>
+uses Provoke!<#>
+<!-- Event ID --><#>92
+<!-- Event Name --><#>Super Guard
+Super Guard<#>
+For 3 turns, heavily reduce physical damage taken.<#>
+uses Super Guard!<#>
+<!-- Event ID --><#>93
+<!-- Event Name --><#>Restrengthen
+Restrengthen<#>
+For 5 turns, greatly boost DEF for party.<#>
+uses Restrengthen!<#>
+<!-- Event ID --><#>94
+<!-- Event Name --><#>Zero Storm
+Zero Storm<#>
+Spear Skill. Strong attack to 3 random enemies.<#>
+uses Zero Storm!<#>
+<!-- Event ID --><#>95
+<!-- Event Name --><#>Aura Blade
+Aura Blade<#>
+Sword Skill. Attacked enemy may be silenced.\#Damage is based off user's ATK and MAT.<#>
+uses Aura Blade!<#>
+<!-- Event ID --><#>96
+<!-- Event Name --><#>Dispel
+Dispel<#>
+Cancels enemy enchantments.<#>
+uses Dispel!<#>
+<!-- Event ID --><#>97
+<!-- Event Name --><#>Magic Barrier
+Magic Barrier<#>
+For 5 turns, greatly boost MDF for party.<#>
+casts Magic Barrier!<#>
+<!-- Event ID --><#>98
+<!-- Event Name --><#>Reinforce
+Reinforce<#>
+For 5 turns, grants user fire, ice, and lightning\#attributes.<#>
+uses Reinforce!<#>
+<!-- Event ID --><#>99
+<!-- Event Name --><#>Radiant Blade
+Radiant Blade<#>
+Sword Skill. Strong magical attack to all enemies.\#Damage is based on user's ATK and MAT.<#>
+uses Radiant Blade!<#>
+<!-- Event ID --><#>100
+<!-- Event Name --><#>Yoroidoshi
+Yoroidoshi<#>
+Deals defense ignoring damage to one enemy.<#>
+uses Yoroidoshi!<#>
+<!-- Event ID --><#>101
+<!-- Event Name --><#>Shintou Mekkyaku
+Shintou Mekkyaku<#>
+Increases a little bit of TP.<#>
+uses Shintou Mekkyaku!<#>
+<!-- Event ID --><#>102
+<!-- Event Name --><#>Hassou
+Hassou<#>
+For 5 turns, increase user's ATK and DEF.<#>
+uses Hassou!<#>
+<!-- Event ID --><#>103
+<!-- Event Name --><#>Tsubamekaeshi
+Tsubamekaeshi<#>
+Katana Skill. All out attack against all enemies.<#>
+uses Tsubamekaeshi!<#>
+<!-- Event ID --><#>104
+<!-- Event Name --><#>Ouka Mugen jin
+Ouka Mugen jin<#>
+Katana Skill. Attacks all enemies 4 times.<#>
+uses Ouka Mugen Ha!<#>
+<!-- Event ID --><#>105
+<!-- Event Name --><#>Weapon Break
+Weapon Break<#>
+Attacks enemy and lowers ATK.<#>
+uses Weapon Break!<#>
+<!-- Event ID --><#>106
+<!-- Event Name --><#>Armour Break
+Armour Break<#>
+Attacks enemy and lowers DEF.<#>
+uses Armour Break!<#>
+<!-- Event ID --><#>107
+<!-- Event Name --><#>Zero Shadow
+Zero Shadow<#>
+For 5 turns, greatly boost AGI for user.<#>
+uses Zero Shadow!<#>
+<!-- Event ID --><#>108
+<!-- Event Name --><#>Triple Shot
+Triple Shot<#>
+Bow Skill. Strong attack against 3 random enemies.\#Damage is based on user's ATK and AGI.<#>
+uses Triple Shot!<#>
+<!-- Event ID --><#>109
+<!-- Event Name --><#>Thousand Arrows
+Thousand Arrows<#>
+Bow Skill. Strong attack against all enemies 3 times.\#Damage is based on user's ATK and AGI.<#>
+uses Thousand Arrows!<#>
+<!-- Event ID --><#>110
+<!-- Event Name --><#>Vanish
+Vanish<#>
+For 5 turns, user is less likely to be attacked.<#>
+uses Vanish!<#>
+<!-- Event ID --><#>111
+<!-- Event Name --><#>Flare
+Flare<#>
+Blinds all enemies.<#>
+uses Flare!<#>
+<!-- Event ID --><#>112
+<!-- Event Name --><#>Thief's Luck
+Thief's Luck<#>
+For 8 turns, greatly boost LUK for user.<#>
+uses Thief's Luck!<#>
+<!-- Event ID --><#>113
+<!-- Event Name --><#>Assassin's Edge
+Assassin's Edge<#>
+Dagger Skill. Strong attack hits one enemy twice.\#Damage is based on user's ATK and LUK.<#>
+uses Assassin's Edge<#>
+<!-- Event ID --><#>114
+<!-- Event Name --><#>Valiant Edge
+Valiant Edge<#>
+Dagger Skill. Strong attack hits 4 random enemies.\#Damage is based on user's ATK and LUK.<#>
+uses Valiant Edge!<#>
+<!-- Event ID --><#>115
+<!-- Event Name --><#>Spirit's Blessing
+Spirit's Blessing<#>
+For 3 turns, party's DEF increases.<#>
+uses Holy Blessing!<#>
+<!-- Event ID --><#>116
+<!-- Event Name --><#>Fairy's Breath
+Fairy's Breath<#>
+For 4 turns, regenerate party's HP.<#>
+uses Fairy's Breath!<#>
+<!-- Event ID --><#>117
+<!-- Event Name --><#>God's Will
+God's Will<#>
+Holy damage against all enemies.<#>
+uses God's Will!<#>
+<!-- Event ID --><#>118
+<!-- Event Name --><#>Goddess' Embrace
+Goddess' Embrace<#>
+For 7 turns, greatly increase DEF and MDF for party.<#>
+uses Goddess' Embrace!<#>
+<!-- Event ID --><#>119
+<!-- Event Name --><#>Magic Reflect
+Magic Reflect<#>
+For 1 turn, reflect enemy magic attacks.<#>
+uses Magic Reflect!<#>
+<!-- Event ID --><#>120
+<!-- Event Name --><#>Enhance Spell
+Enhance Spell<#>
+For 5 turns, greatly increase user's MAT.<#>
+uses Enhance Spell!<#>
+<!-- Event ID --><#>121
+<!-- Event Name --><#>Nightmare
+Nightmare<#>
+Puts all enemies to sleep and greatly lower their MDF.<#>
+uses Nightmare!<#>
+<!-- Event ID --><#>122
+<!-- Event Name --><#>Magic Torrent
+Magic Torrent<#>
+Recovers 50% of MaxMP.<#>
+uses Magic Torrent!<#>
+<!-- Event ID --><#>123
+<!-- Event Name --><#>Magic Pulse
+Magic Pulse<#>
+For 4 turns, user has MP regen.<#>
+uses Magic Pulse!<#>
+<!-- Event ID --><#>124
+<!-- Event Name --><#>Spell Resistance
+Spell Resistance<#>
+For 3 turns, user evades all magic attacks.<#>
+uses Spell Resistance!<#>
+<!-- Event ID --><#>125
+<!-- Event Name --><#>Mana Barrier
+Mana Barrier<#>
+For 5 turns, party is immune to status ailments.<#>
+uses Mana Barrier!<#>
+<!-- Event ID --><#>126
+<!-- Event Name --><#>BRAD ARMSTRONG------
+<!-- Event ID --><#>127
+<!-- Event Name --><#> Armstrong Style
+Armstrong Style<#>
+Brad's very own brand of Martial Arts.\#Developed out of pain and self reflection.<#>
+Armstrong Family Style Karate!<#>
+<!-- Event ID --><#>128
+<!-- Event Name --><#>RICHARD WEEKS------------
+<!-- Event ID --><#>129
+<!-- Event Name --><#>Boomerang
+Boomerang<#>
+Toss your little boomerang<#>
+tossed a boomerang!<#>
+<!-- Event ID --><#>130
+<!-- Event Name --><#>Right Punch
+Right Punch<#>
+A swift right punch.<#>
+does a punch!<#>
+<!-- Event ID --><#>131
+<!-- Event Name --><#>Left Punch
+Left Punch<#>
+A swift left punch.<#>
+does a punch!<#>
+<!-- Event ID --><#>132
+<!-- Event Name --><#>PERCY MONSOON-------
+<!-- Event ID --><#>133
+<!-- Event Name --><#>Boomerang
+Boomerang<#>
+Toss your little boomerang<#>
+tossed a boomerang!<#>
+<!-- Event ID --><#>134
+<!-- Event Name --><#>Fire Ball
+Fire Ball<#>
+A blast of flaming emotion.<#>
+blasts off!<#>
+<!-- Event ID --><#>135
+<!-- Event Name --><#>Body Splash
+Body Splash<#>
+A flying body splash.<#>
+flies!<#>
+<!-- Event ID --><#>136
+<!-- Event Name --><#>Big Body Splash
+Big Body Splash<#>
+A fully commited flying body splash.<#>
+flies!<#>
+<!-- Event ID --><#>137
+<!-- Event Name --><#>Encourage
+Encourage<#>
+A thumbs up from the bottom of your heart.\#Recovers HP.<#>
+is being a nice guy.<#>
+<!-- Event ID --><#>138
+<!-- Event Name --><#>Big Fire Ball
+Big Fire Ball<#>
+A blast of flaming emotion.<#>
+blasts off!<#>
+<!-- Event ID --><#>139
+<!-- Event Name --><#>Encourage Greatly
+Encourage Greatly<#>
+An unquestionably genuine thumbs up.\#Recovers HP.<#>
+is being a nice guy.<#>
+<!-- Event ID --><#>140
+<!-- Event Name --><#>
+<!-- Event ID --><#>141
+<!-- Event Name --><#>
+<!-- Event ID --><#>142
+<!-- Event Name --><#>Launch with shovel
+Launch with shovel<#>
+Damages the enemy.<#>
+launches you in the air!<#>
+<!-- Event ID --><#>143
+<!-- Event Name --><#>Shovel blow
+Shovel blow<#>
+Damages the enemy.<#>
+clubs at you!<#>
+<!-- Event ID --><#>144
+<!-- Event Name --><#>
+<!-- Event ID --><#>145
+<!-- Event Name --><#>
+<!-- Event ID --><#>146
+<!-- Event Name --><#>Sweep
+Sweep<#>
+Damages the enemy.<#>
+sweeps at your legs!<#>
+<!-- Event ID --><#>147
+<!-- Event Name --><#>
+<!-- Event ID --><#>148
+<!-- Event Name --><#>
+<!-- Event ID --><#>149
+<!-- Event Name --><#>Fly near Ear
+Fly near Ear<#>
+flies past your ear.<#>пролетает мимо уха.
+<!-- Event ID --><#>150
+<!-- Event Name --><#>Drink beer
+Drink beer<#>
+kills his liver.<#>
+<!-- Event ID --><#>151
+<!-- Event Name --><#>Bite M.atk
+Bite M.atk<#>
+A big chomp<#>
+bites down hard!<#>сильно кусает!
+<!-- Event ID --><#>152
+<!-- Event Name --><#>Bottle Throw M.atk
+Bottle Throw M.atk<#>
+A strong attack against one enemy.<#>
+threw a bottle!<#>
+<!-- Event ID --><#>153
+<!-- Event Name --><#>ENEMY ATTACKS
+ENEMY ATTACKS<#>
+<!-- Event ID --><#>154
+<!-- Event Name --><#>Grin
+Grin<#>
+is grinning at you.<#>
+<!-- Event ID --><#>155
+<!-- Event Name --><#>Grope
+Grope<#>
+Grope the enemy<#>
+strokes you...<#>
+<!-- Event ID --><#>156
+<!-- Event Name --><#>Yell
+Yell<#>
+Enemy cries<#>
+screams.<#>
+<!-- Event ID --><#>157
+<!-- Event Name --><#>Cry
+Cry<#>
+Enemy cries<#>
+Is crying deeply.<#>
+<!-- Event ID --><#>158
+<!-- Event Name --><#>Glare
+Glare<#>
+Enemy realizes he's outnumbered.<#>
+is glaring at you...<#>
+<!-- Event ID --><#>159
+<!-- Event Name --><#>Blood cough
+Blood cough<#>
+Cough up blood<#>
+coughed up blood!<#>
+<!-- Event ID --><#>160
+<!-- Event Name --><#>Realization
+Realization<#>
+Enemy realizes he's outnumbered.<#>
+realized he's outnumbered!<#>
+<!-- Event ID --><#>161
+<!-- Event Name --><#>Punch
+Punch<#>
+Damages the enemy.<#>
+flails!<#>
+<!-- Event ID --><#>162
+<!-- Event Name --><#>Rage build!
+Rage build!<#>
+Enemy realizes he's outnumbered.<#>
+vibrates with rage!<#>
+<!-- Event ID --><#>163
+<!-- Event Name --><#>Bottle Throw
+Bottle Throw<#>
+A strong attack against one enemy.<#>
+threw a bottle!<#>
+<!-- Event ID --><#>164
+<!-- Event Name --><#>Firebomb
+Firebomb<#>
+Deals fire damage to all enemies.<#>
+threw a firebomb!<#>
+<!-- Event ID --><#>165
+<!-- Event Name --><#>Slice
+Slice<#>
+Damages the enemy.<#>
+swings!<#>
+<!-- Event ID --><#>166
+<!-- Event Name --><#>Solid Punch
+Solid Punch<#>
+Damages the enemy.<#>
+unleashes a direct hit!<#>
+<!-- Event ID --><#>167
+<!-- Event Name --><#>Big Swing
+Big Swing<#>
+Deals fire damage to all enemies.<#>
+swings with full force!<#>
+<!-- Event ID --><#>168
+<!-- Event Name --><#>TERRY HINTZ------------
+<!-- Event ID --><#>169
+<!-- Event Name --><#>Double punch
+Double punch<#>
+Damages the enemy.<#>
+unleashes direct hits!<#>
+<!-- Event ID --><#>170
+<!-- Event Name --><#>
+<!-- Event ID --><#>171
+<!-- Event Name --><#>Inform
+Inform<#>
+Tell your friend some of your favorite combat tips.\#Increases SP.<#>
+informs!<#>
+<!-- Event ID --><#>172
+<!-- Event Name --><#>Hair slick
+Hair slick<#>
+checks his hair!<#>
+<!-- Event ID --><#>173
+<!-- Event Name --><#>Slice
+Slice<#>
+Damages the enemy.<#>
+swings!<#>
+<!-- Event ID --><#>174
+<!-- Event Name --><#>Big slice
+Big slice<#>
+Damages the enemy.<#>
+swings!<#>
+<!-- Event ID --><#>175
+<!-- Event Name --><#>Fireball
+Fireball<#>
+Deals fire damage to one enemy.<#>
+throws a fireball!<#>
+<!-- Event ID --><#>176
+<!-- Event Name --><#>Club Strike
+Club Strike<#>
+Damages the enemy.<#>
+clubs at you!<#>
+<!-- Event ID --><#>177
+<!-- Event Name --><#>Shoot
+Shoot<#>
+Damages the enemy.<#>
+shoots at you!<#>
+<!-- Event ID --><#>178
+<!-- Event Name --><#>Cool Pose
+Cool Pose<#>Крутая поза
+Makes you feel like you're cool,\#but you're really not.<#>Заставит вас думать, что вы крутой,\#но это на самом деле не так.
+strikes a pose!<#>встаёт в позу!
+<!-- Event ID --><#>179
+<!-- Event Name --><#>Hair whip
+Hair whip<#>
+Damages the enemy.<#>
+The hair whips at you!<#>
+<!-- Event ID --><#>180
+<!-- Event Name --><#>Nailed club strike
+Nailed club strike<#>
+Damages the enemy.<#>
+clubs at you!<#>
+<!-- Event ID --><#>181
+<!-- Event Name --><#>
+<!-- Event ID --><#>182
+<!-- Event Name --><#>
+<!-- Event ID --><#>183
+<!-- Event Name --><#>Big Fireball
+Big Fireball<#>
+A strong emotional blast.<#>
+blasts off!<#>
+<!-- Event ID --><#>184
+<!-- Event Name --><#>Hellball
+Hellball<#>
+A strong emotional blast.<#>
+blasts off!<#>
+<!-- Event ID --><#>185
+<!-- Event Name --><#>Nail Comb
+Nail Comb<#>
+Drag the nails of your club across the face of your\#opponent.<#>
+rakes his club!<#>
+<!-- Event ID --><#>186
+<!-- Event Name --><#>Nail Rake
+Nail Rake<#>
+Drag the nails of your club across the face of your\#opponent.<#>
+rakes his club!<#>
+<!-- Event ID --><#>187
+<!-- Event Name --><#>Taunt
+Taunt<#>
+Cry out to gather TP and attract attention.<#>
+is calling out the enemy.<#>
+<!-- Event ID --><#>188
+<!-- Event Name --><#>
+<!-- Event ID --><#>189
+<!-- Event Name --><#>ROOSTER--------------------
+<!-- Event ID --><#>190
+<!-- Event Name --><#>Destroy Chair
+Destroy Chair<#>
+destroys one of your items!<#>
+<!-- Event ID --><#>191
+<!-- Event Name --><#>Destroy Chair
+Destroy Chair<#>
+destroys one of your items!<#>
+<!-- Event ID --><#>192
+<!-- Event Name --><#>Water Bottle Throw
+Water Bottle Throw<#>
+A strong attack against one enemy.<#>
+threw a bottle of water!<#>
+<!-- Event ID --><#>193
+<!-- Event Name --><#>Gearing up for Bonebreak
+Gearing up for Bonebreak<#>
+Open wide.<#>
+spreads his hands strangely.<#>
+<!-- Event ID --><#>194
+<!-- Event Name --><#>Cock Blast 4
+Cock Blast 4<#>
+A blast of pressure.<#>
+blasts off!<#>
+<!-- Event ID --><#>195
+<!-- Event Name --><#>Rolling Gale
+Rolling Gale<#>
+A front flipping headbutt. Capable of\#stunning your opponent.<#>
+rolls in!<#>
+<!-- Event ID --><#>196
+<!-- Event Name --><#>Rolling Hail
+Rolling Hail<#>
+A front flipping headbutt. Capable of\#stunning your opponent.<#>
+rolls in!<#>
+<!-- Event ID --><#>197
+<!-- Event Name --><#>Rolling Hurricane
+Rolling Hurricane<#>
+A front flipping headbutt. Capable of\#stunning your opponent.<#>
+rolls in!<#>
+<!-- Event ID --><#>198
+<!-- Event Name --><#>Rooster Storm
+Rooster Storm<#>
+Call forth a mighty flock of roosters.\#Strong, but unreliable.<#>
+summons his flock!<#>
+<!-- Event ID --><#>199
+<!-- Event Name --><#>Rooster Apocalypse
+Rooster Apocalypse<#>
+Call forth a mighty flock of roosters.\#Strong, but unreliable.<#>
+summons his flock!<#>
+<!-- Event ID --><#>200
+<!-- Event Name --><#>ORLANDO---------------------
+<!-- Event ID --><#>201
+<!-- Event Name --><#>Loose
+Loose<#>
+Damages the enemy.<#>
+attacks!<#>
+Skill #1 will be used when you select\#the Attack command.<#>
+<!-- Event ID --><#>202
+<!-- Event Name --><#>Big Shot
+Big Shot<#>
+A charged attack against one enemy.<#>
+looses off!<#>
+<!-- Event ID --><#>203
+<!-- Event Name --><#>Bomb Arrow
+Bomb Arrow<#>
+An explosive arrow.<#>
+blasts off!<#>
+<!-- Event ID --><#>204
+<!-- Event Name --><#>Big Bomb Arrow
+Big Bomb Arrow<#>
+An explosive arrow.<#>
+blasts off!<#>
+<!-- Event ID --><#>205
+<!-- Event Name --><#>Poison Arrow
+Poison Arrow<#>
+Chance to poison the enemy with this arrow.<#>
+looses a poison arrow!<#>
+<!-- Event ID --><#>206
+<!-- Event Name --><#>Deep Poison Arrow
+Deep Poison Arrow<#>
+Chance to deeply poison the enemy with this arrow.<#>
+looses a poison arrow!<#>
+<!-- Event ID --><#>207
+<!-- Event Name --><#>Mega Big Shot
+Mega Big Shot<#>
+A charged attack against one enemy.<#>
+looses off!<#>
+<!-- Event ID --><#>208
+<!-- Event Name --><#>Rapid Arrow
+Rapid Arrow<#>
+A volley of arrows<#>
+looses off!<#>
+<!-- Event ID --><#>209
+<!-- Event Name --><#>Mega Rapid Arrow
+Mega Rapid Arrow<#>
+A volley of arrows<#>
+looses off!<#>
+<!-- Event ID --><#>210
+<!-- Event Name --><#>Vantage Point
+Vantage Point<#>
+Retreat to a safer sniping spot.<#>
+hides away!<#>
+<!-- Event ID --><#>211
+<!-- Event Name --><#>
+<!-- Event ID --><#>212
+<!-- Event Name --><#>NERN----------------------
+<!-- Event ID --><#>213
+<!-- Event Name --><#>Shoot
+Shoot<#>
+Damages the enemy.<#>
+attacks!<#>
+Skill #1 will be used when you select\#the Attack command.<#>
+<!-- Event ID --><#>214
+<!-- Event Name --><#>Discuss Techniques
+Discuss Techniques<#>
+Tell your friend some of your favorite techniques.\#Increases TP of one ally.<#>
+discuses!<#>
+<!-- Event ID --><#>215
+<!-- Event Name --><#>Discuss Powers
+Discuss Powers<#>
+Tell your friend some of your Superhero moves.\#Increases SP of one ally.<#>
+discuses!<#>
+<!-- Event ID --><#>216
+<!-- Event Name --><#>Discuss Health
+Discuss Health<#>
+Tell your friends about the importance of health.\#Increases HP of one ally.<#>
+discuses!<#>
+<!-- Event ID --><#>217
+<!-- Event Name --><#>Insult
+Insult<#>
+Say something unsavory to induce a blind rage.<#>
+says something nasty!<#>
+<!-- Event ID --><#>218
+<!-- Event Name --><#>Bore
+Bore<#>
+Drone on about something no one cares about.\#Often puts people to sleep.<#>
+discuses!<#>
+<!-- Event ID --><#>219
+<!-- Event Name --><#>Really Bore
+Really Bore<#>
+Drone on about something REALLY dumb.\#Often puts people to sleep.<#>
+discuses!<#>
+<!-- Event ID --><#>220
+<!-- Event Name --><#>Finger Beam
+Finger Beam<#>
+A concentration of energy blasted from the finger.<#>
+fires a beam!<#>
+<!-- Event ID --><#>221
+<!-- Event Name --><#>Finger Beam 2
+Finger Beam 2<#>
+A concentration of energy blasted from the finger.<#>
+fires a beam!<#>
+<!-- Event ID --><#>222
+<!-- Event Name --><#>Finger Beam 3
+Finger Beam 3<#>
+A concentration of energy blasted from the finger.<#>
+fires a beam!<#>
+<!-- Event ID --><#>223
+<!-- Event Name --><#>Finger Beam 4
+Finger Beam 4<#>
+A concentration of energy blasted from the finger.<#>
+fires a beam!<#>
+<!-- Event ID --><#>224
+<!-- Event Name --><#>Finger Beam 5
+Finger Beam 5<#>
+A concentration of energy blasted from the finger.<#>
+fires a beam!<#>
+<!-- Event ID --><#>225
+<!-- Event Name --><#>RAGE------------------------
+<!-- Event ID --><#>226
+<!-- Event Name --><#>Lucha
+Lucha<#>
+Rage's very own brand of Lucha Libre.\#It focuses on style and headbutts.<#>
+is ready to rumble!<#>
+<!-- Event ID --><#>227
+<!-- Event Name --><#>Headbutt
+Headbutt<#>
+A swift headbutt<#>
+does a headbutt!<#>
+<!-- Event ID --><#>228
+<!-- Event Name --><#>Falling Tree Slam        
+Falling Tree Slam<#>
+A momentum based head slam.<#>
+comes crashing down!<#>
+<!-- Event ID --><#>229
+<!-- Event Name --><#>Rising Knee
+Rising Knee<#>
+A knee strike to the chin.<#>
+does a knee!<#>
+<!-- Event ID --><#>230
+<!-- Event Name --><#>Shoulder Tackle
+Shoulder Tackle<#>
+A rushing shoulder tackle.<#>
+tackles!<#>
+<!-- Event ID --><#>231
+<!-- Event Name --><#>Missle Headbutt
+Missle Headbutt<#>
+(WASD) A flying headbutt.<#>
+does a headbutt!<#>
+<!-- Event ID --><#>232
+<!-- Event Name --><#>Running Splash
+Running Splash<#>
+(ASSD) A flying body splash.<#>
+does a body splash!<#>
+<!-- Event ID --><#>233
+<!-- Event Name --><#>Running Geyser
+Running Geyser<#>
+(ASAW) A bigger flying body splash.<#>
+does a body splash!<#>
+<!-- Event ID --><#>234
+<!-- Event Name --><#>Running Typhoon
+Running Typhoon<#>
+(ASWS) The biggest flying body splash.<#>
+does a body splash!<#>
+<!-- Event ID --><#>235
+<!-- Event Name --><#>Head Rush
+Head Rush<#>
+(AAW) A series of headbutts.<#>
+rushes head first!<#>
+<!-- Event ID --><#>236
+<!-- Event Name --><#>Massive Head Rush  
+Massive Head Rush<#>
+(WWA) A series of headbutts.<#>
+rushes head first!<#>
+<!-- Event ID --><#>237
+<!-- Event Name --><#>Final Head Rush
+Final Head Rush<#>
+(WWWA) A series of headbutts.<#>
+rushes head first!<#>
+<!-- Event ID --><#>238
+<!-- Event Name --><#>Tackle Rush
+Tackle Rush<#>
+(SAWD) A big attempt at knocking the opponent\#over.<#>
+is mowing down!<#>
+<!-- Event ID --><#>239
+<!-- Event Name --><#>Meteor Elbow Drop
+Meteor Elbow Drop<#>
+(SWWAS) A huge elbow from the sky.<#>
+rushes head first!<#>
+<!-- Event ID --><#>240
+<!-- Event Name --><#>Astro Elbow Drop   
+Astro Elbow Drop<#>
+(SWWAD) A huge elbow from space.<#>
+rushes head first!<#>
+<!-- Event ID --><#>241
+<!-- Event Name --><#>BUCKETS---------------------
+<!-- Event ID --><#>242
+<!-- Event Name --><#>
+<!-- Event ID --><#>243
+<!-- Event Name --><#>
+<!-- Event ID --><#>244
+<!-- Event Name --><#>
+<!-- Event ID --><#>245
+<!-- Event Name --><#>
+<!-- Event ID --><#>246
+<!-- Event Name --><#>
+<!-- Event ID --><#>247
+<!-- Event Name --><#>
+<!-- Event ID --><#>248
+<!-- Event Name --><#>
+<!-- Event ID --><#>249
+<!-- Event Name --><#>
+<!-- Event ID --><#>250
+<!-- Event Name --><#>
+<!-- Event ID --><#>251
+<!-- Event Name --><#>
+<!-- Event ID --><#>252
+<!-- Event Name --><#>
+<!-- Event ID --><#>253
+<!-- Event Name --><#>TIGER-------------------
+<!-- Event ID --><#>254
+<!-- Event Name --><#>Double Swipe
+Double Swipe<#>
+A double spear swat<#>
+swipes!<#>
+Skill #1 will be used when you select\#the Attack command.<#>
+<!-- Event ID --><#>255
+<!-- Event Name --><#>Intimate Stab
+Intimate Stab<#>
+A close up piercing move.<#>
+gets up close!<#>
+Skill #1 will be used when you select\#the Attack command.<#>
+<!-- Event ID --><#>256
+<!-- Event Name --><#>Poke
+Poke<#>
+A simple poke.<#>
+pokes!<#>
+Skill #1 will be used when you select\#the Attack command.<#>
+<!-- Event ID --><#>257
+<!-- Event Name --><#>Uppercut
+Uppercut<#>
+A slashing uppercut.<#>
+uppercuts!<#>
+Skill #1 will be used when you select\#the Attack command.<#>
+<!-- Event ID --><#>258
+<!-- Event Name --><#>Beast Slash
+Beast Slash<#>
+A slashing uppercut.<#>
+uppercuts!<#>
+Skill #1 will be used when you select\#the Attack command.<#>
+<!-- Event ID --><#>259
+<!-- Event Name --><#>Big Scratch
+Big Scratch<#>
+Damages the enemy.<#>
+scratches!<#>
+<!-- Event ID --><#>260
+<!-- Event Name --><#>
+<!-- Event ID --><#>261
+<!-- Event Name --><#>Eat
+Eat<#>
+Restores HP to one ally.<#>
+stuffs something in his mouth.<#>
+<!-- Event ID --><#>262
+<!-- Event Name --><#>Consume Joy
+Consume Joy<#>
+Restores HP to one ally.<#>
+stuffs something in his mouth.<#>
+<!-- Event ID --><#>263
+<!-- Event Name --><#>Eat Doner
+Eat Doner<#>
+Restores HP to one ally.<#>
+stuffs something in your mouth.<#>
+<!-- Event ID --><#>264
+<!-- Event Name --><#>Drink (small)
+Drink (small)<#>
+Restores HP to one ally.<#>
+drinks something<#>
+<!-- Event ID --><#>265
+<!-- Event Name --><#>ENEMY ATTACKS!!!!
+ENEMY ATTACKS!!!!<#>
+<!-- Event ID --><#>266
+<!-- Event Name --><#>Tiger Suplex
+Tiger Suplex<#>
+A fearful belly to back slam!<#>
+performs a Tiger Suplex!<#>
+<!-- Event ID --><#>267
+<!-- Event Name --><#>Mongolian Chop
+Mongolian Chop<#>
+A double chop to the neck<#>
+performs a Mongolian Chop!<#>
+<!-- Event ID --><#>268
+<!-- Event Name --><#>Wizard Poke
+Wizard Poke<#>
+A poke at your vitals.<#>
+pokes at the vital points!<#>
+<!-- Event ID --><#>269
+<!-- Event Name --><#>Pray
+Pray<#>
+Restores HP to one ally.<#>
+prays...<#>
+<!-- Event ID --><#>270
+<!-- Event Name --><#>Eat
+Eat<#>
+Restores HP to one ally.<#>
+stuffs something in his mouth.<#>
+<!-- Event ID --><#>271
+<!-- Event Name --><#>Stomp
+Stomp<#>
+Stomp a mudhole in your ass.<#>
+stomps you out!<#>
+<!-- Event ID --><#>272
+<!-- Event Name --><#>Kick
+Kick<#>
+Damages the enemy.<#>
+kicks!<#>
+<!-- Event ID --><#>273
+<!-- Event Name --><#>Gator Clamp
+Gator Clamp<#>
+A big hand clamp<#>
+does a Gator Clamp!<#>
+<!-- Event ID --><#>274
+<!-- Event Name --><#>Chop
+Chop<#>
+Damages the enemy.<#>
+chops!<#>
+<!-- Event ID --><#>275
+<!-- Event Name --><#>Smoke Bomb
+Smoke Bomb<#>
+smoke bomb<#>
+is shrouded in smoke!<#>
+<!-- Event ID --><#>276
+<!-- Event Name --><#>Scratch
+Scratch<#>
+Damages the enemy.<#>
+scratches!<#>
+<!-- Event ID --><#>277
+<!-- Event Name --><#>Exhuast
+Exhuast<#>
+Blow some exhuast in your enemies\#face, it can be painful to the eyes.<#>
+blew forth exhuast!<#>
+<!-- Event ID --><#>278
+<!-- Event Name --><#>Ram
+Ram<#>
+Slam into the enemy.<#>
+rams full speed ahead!<#>
+<!-- Event ID --><#>279
+<!-- Event Name --><#>Out of Control!
+Out of Control!<#>
+Deals fire damage to all enemies.<#>
+loses control of the bulldozer!<#>
+<!-- Event ID --><#>280
+<!-- Event Name --><#>Stall Out
+Stall Out<#>
+Stomp a mudhole in your ass.<#>
+stalls his bulldozer!<#>
+<!-- Event ID --><#>281
+<!-- Event Name --><#>Confused?
+Confused?<#>
+is fidgeting with the controls...<#>
+<!-- Event ID --><#>282
+<!-- Event Name --><#>Apologizes
+Apologizes<#>
+apologizes profusely!<#>
+<!-- Event ID --><#>283
+<!-- Event Name --><#>Exhaust
+Exhaust<#>
+Blow some exhaust in your enemies\#face, it can be painful to the eyes.<#>
+blew forth exhaust!<#>
+<!-- Event ID --><#>284
+<!-- Event Name --><#>Grasp
+Grasp<#>
+A big hand clamp<#>
+Whales on you!<#>
+<!-- Event ID --><#>285
+<!-- Event Name --><#>Laugh
+Laugh<#>
+is grinning at you.<#>
+<!-- Event ID --><#>286
+<!-- Event Name --><#>Ramble
+Ramble<#>
+is begging Wally for forgiveness.<#>
+<!-- Event ID --><#>287
+<!-- Event Name --><#>Hide
+Hide<#>
+Protects user and reduces damage taken.<#>
+hides behind a bush.<#>
+<!-- Event ID --><#>288
+<!-- Event Name --><#>Cross Chop
+Cross Chop<#>
+A double chop to the neck<#>
+flys at you with a Cross Chop!<#>
+<!-- Event ID --><#>289
+<!-- Event Name --><#>Tsunami Driver
+Tsunami Driver<#>
+A fearful belly to back slam!<#>
+performs a Tsunami Driver!<#>
+<!-- Event ID --><#>290
+<!-- Event Name --><#>Peer
+Peer<#>
+A glare<#>
+is gathering strength...<#>
+<!-- Event ID --><#>291
+<!-- Event Name --><#>Knife Hand
+Knife Hand<#>
+Damages the enemy.<#>
+chops like a knife!<#>
+<!-- Event ID --><#>292
+<!-- Event Name --><#>Hook Kick
+Hook Kick<#>
+Damages the enemy.<#>
+hook kicks!<#>
+<!-- Event ID --><#>293
+<!-- Event Name --><#>Sweep
+Sweep<#>
+Damages the enemy.<#>
+sweeps at your legs!<#>
+<!-- Event ID --><#>294
+<!-- Event Name --><#>Deer Horn
+Deer Horn<#>
+A poke at your vitals.<#>
+pokes at the vital points!<#>
+<!-- Event ID --><#>295
+<!-- Event Name --><#>Heaven's Fist
+Heaven's Fist<#>
+A raining fist from above.<#>
+fist from above!<#>
+<!-- Event ID --><#>296
+<!-- Event Name --><#>QUEEN ROGER--------------
+<!-- Event ID --><#>297
+<!-- Event Name --><#>Bash
+Bash<#>
+A strong attack against one enemy.<#>
+swings for the fences!<#>
+<!-- Event ID --><#>298
+<!-- Event Name --><#>Homerun KO
+Homerun KO<#>
+A big swing capable of stunning.<#>
+swings for the fences!<#>
+<!-- Event ID --><#>299
+<!-- Event Name --><#>Beatdown
+Beatdown<#>
+A brutal assault.<#>
+goes nuts!<#>
+<!-- Event ID --><#>300
+<!-- Event Name --><#>Big Beatdown
+Big Beatdown<#>
+A very brutal assault.<#>
+goes nuts!<#>
+<!-- Event ID --><#>301
+<!-- Event Name --><#>Final Beatdown
+Final Beatdown<#>
+THE brutal assault.<#>
+goes nuts!<#>
+<!-- Event ID --><#>302
+<!-- Event Name --><#>Threaten
+Threaten<#>
+Threaten the enemy into leaving more\#magazines at the end of the battle.<#>
+is demanding!<#>
+<!-- Event ID --><#>303
+<!-- Event Name --><#>Spraying the Eyes
+Spraying the Eyes<#>
+kick dirt in the eyes of the enemy<#>
+sprays your eyes!<#>
+<!-- Event ID --><#>304
+<!-- Event Name --><#>Weird Gas
+Weird Gas<#>
+Blow some exhaust in your enemies\#face, it can be painful to the eyes.<#>
+blew a weird gas at you.<#>
+<!-- Event ID --><#>305
+<!-- Event Name --><#>Unnerving Energy
+Unnerving Energy<#>
+Blow some exhaust in your enemies\#face, it can be painful to the eyes.<#>
+unnerves you.<#>
+<!-- Event ID --><#>306
+<!-- Event Name --><#>
+<!-- Event ID --><#>307
+<!-- Event Name --><#>Slash
+Slash<#>
+A sneaky slash.<#>
+slashes!<#>
+<!-- Event ID --><#>308
+<!-- Event Name --><#>Fever River
+Fever River<#>
+A wild combo.<#>
+slashes wildly!<#>
+<!-- Event ID --><#>309
+<!-- Event Name --><#>Raging Sprinkle
+Raging Sprinkle<#>
+A flurry of cuts.<#>
+slashes wildly!<#>
+<!-- Event ID --><#>310
+<!-- Event Name --><#>Poison Mist
+Poison Mist<#>
+Spit out a posion cloud.<#>
+sprays mist!<#>
+<!-- Event ID --><#>311
+<!-- Event Name --><#>Deep Poison Mist
+Deep Poison Mist<#>
+Spit out a posion cloud.<#>
+sprays mist!<#>
+<!-- Event ID --><#>312
+<!-- Event Name --><#>Wrist Slash
+Wrist Slash<#>
+A direct cut to the wrists. Reduces enemy\#strength.<#>
+slashes wildly!<#>
+<!-- Event ID --><#>313
+<!-- Event Name --><#>Ankle Slash
+Ankle Slash<#>
+A direct cut to the ankles. Reduces enemy\#agility.<#>
+slashes wildly!<#>
+<!-- Event ID --><#>314
+<!-- Event Name --><#>Hectic Waver
+Hectic Waver<#>
+A serious flurry of cuts.<#>
+slashes wildly!<#>
+<!-- Event ID --><#>315
+<!-- Event Name --><#>Power Bomb CertainHit
+Power Bomb CertainHit<#>
+A fearful slam!<#>
+performs a Power Bomb!<#>
+<!-- Event ID --><#>316
+<!-- Event Name --><#>Whisper
+Whisper<#>
+Carefully breathe fun secrets into his ear...<#>
+whispers...<#>
+<!-- Event ID --><#>317
+<!-- Event Name --><#>Back Rub
+Back Rub<#>
+A loving back massage...<#>
+gives a massage...<#>
+<!-- Event ID --><#>318
+<!-- Event Name --><#>Scratch
+Scratch<#>
+Claw your partner like a little kitty cat...<#>
+lashes out...<#>
+<!-- Event ID --><#>319
+<!-- Event Name --><#>Fever River 2
+Fever River 2<#>
+A wild combo.<#>
+slashes wildly!<#>
+<!-- Event ID --><#>320
+<!-- Event Name --><#>Fever River 3
+Fever River 3<#>
+A wild combo.<#>
+slashes wildly!<#>
+<!-- Event ID --><#>321
+<!-- Event Name --><#>Tackle
+Tackle<#>
+Enemy tackles and bashes you<#>
+charges you!<#>
+<!-- Event ID --><#>322
+<!-- Event Name --><#>Steel Chair
+Steel Chair<#>
+A fearful chair slam!<#>
+has a foreign object!<#>
+<!-- Event ID --><#>323
+<!-- Event Name --><#>Brain Chop
+Brain Chop<#>
+brain chop<#>
+performs a brain chop!<#>
+<!-- Event ID --><#>324
+<!-- Event Name --><#>Power Bomb
+Power Bomb<#>
+A fearful slam!<#>
+performs a Power Bomb!<#>
+<!-- Event ID --><#>325
+<!-- Event Name --><#>Cosmic Chop
+Cosmic Chop<#>
+brain chop<#>
+performs a Cosmic Chop!<#>
+<!-- Event ID --><#>326
+<!-- Event Name --><#>Poison Mist
+Poison Mist<#>
+a spit of mist.<#>
+sprays a mist!<#>
+<!-- Event ID --><#>327
+<!-- Event Name --><#>Cinderblock
+Cinderblock<#>
+A fearful chair slam!<#>
+swings his cinderblock!<#>
+<!-- Event ID --><#>328
+<!-- Event Name --><#>ENEMY ATTACKS 3---------
+<!-- Event ID --><#>329
+<!-- Event Name --><#>Howling Gyser
+Howling Gyser<#>
+The wolfs blast<#>
+strikes into your soul!<#>
+<!-- Event ID --><#>330
+<!-- Event Name --><#>Growling Tackle
+Growling Tackle<#>
+Enemy tackles and growls<#>
+charges you!<#>
+<!-- Event ID --><#>331
+<!-- Event Name --><#>Stiff Arm
+Stiff Arm<#>
+A stiff push<#>
+gives a stiff arm!<#>
+<!-- Event ID --><#>332
+<!-- Event Name --><#>Brust Fire
+Brust Fire<#>
+A burst of bullets<#>
+unloads into you!<#>
+<!-- Event ID --><#>333
+<!-- Event Name --><#>Smile
+Smile<#>
+A big smile.<#>
+flashes a disingenuous smile...<#>
+<!-- Event ID --><#>334
+<!-- Event Name --><#>Wild Strike!
+Wild Strike!<#>
+a lame looking slap type thing.<#>
+strikes oddly!<#>
+<!-- Event ID --><#>335
+<!-- Event Name --><#>Woo!
+Woo!<#>
+Yeeeeeaoh!!!<#>
+<!-- Event ID --><#>336
+<!-- Event Name --><#>Hollywood Hustle
+Hollywood Hustle<#>
+A series of wild strikes.<#>
+is showing off!<#>
+<!-- Event ID --><#>337
+<!-- Event Name --><#>Lost in thought
+Lost in thought<#>
+Space case<#>
+is lost...<#>
+<!-- Event ID --><#>338
+<!-- Event Name --><#>Seriously?
+Seriously?<#>
+Space case<#>
+is astounded by your stupidity.<#>
+<!-- Event ID --><#>339
+<!-- Event Name --><#>Think
+Think<#>
+Space case<#>
+is thinking...<#>
+<!-- Event ID --><#>340
+<!-- Event Name --><#>Piledriver
+Piledriver<#>
+A fearsome slam!<#>
+performs a Piledriver!<#>
+<!-- Event ID --><#>341
+<!-- Event Name --><#>Dirt Kick
+Dirt Kick<#>
+kick dirt in the eyes of the enemy<#>
+kicks up dirt!<#>
+<!-- Event ID --><#>342
+<!-- Event Name --><#>Holiday Slam
+Holiday Slam<#>
+A fearful slam!<#>
+performs his Holiday Slam!<#>
+<!-- Event ID --><#>343
+<!-- Event Name --><#>Atlanta Slam
+Atlanta Slam<#>
+A fearful slam!<#>
+performs his Atlanta Slam!<#>
+<!-- Event ID --><#>344
+<!-- Event Name --><#>Trash Talk
+Trash Talk<#>
+Talk mad trash.<#>
+is talking serious trash!<#>
+<!-- Event ID --><#>345
+<!-- Event Name --><#>Block
+Block<#>
+Defend yourself<#>
+is defending himself...<#>
+<!-- Event ID --><#>346
+<!-- Event Name --><#>Block
+Block<#>
+Defend yourself<#>
+is defending herself...<#>
+<!-- Event ID --><#>347
+<!-- Event Name --><#>Arrow
+Arrow<#>
+A swift arrow<#>
+looses an arrow!<#>
+<!-- Event ID --><#>348
+<!-- Event Name --><#>TERRY HINTZ-------------
+<!-- Event ID --><#>349
+<!-- Event Name --><#>Big Cheer!
+Big Cheer!<#>
+Gives a more enthusiastic restorative chant.<#>
+cheers you on!<#>
+<!-- Event ID --><#>350
+<!-- Event Name --><#>Strongly Inform          
+Strongly Inform<#>
+Tell your friend some of your secret combat tips.\#Increases SP.<#>
+Informs!<#>
+<!-- Event ID --><#>351
+<!-- Event Name --><#>Sailing Knuckle      
+Sailing Knuckle<#>
+A Knuckle Drop from above.<#>
+flys in!<#>
+Skill #1 will be used when you select\#the Attack command.<#>
+<!-- Event ID --><#>352
+<!-- Event Name --><#>Soaring Knuckle     
+Soaring Knuckle<#>
+A heavier Knuckle Drop from above.<#>
+flys in!<#>
+Skill #1 will be used when you select\#the Attack command.<#>
+<!-- Event ID --><#>353
+<!-- Event Name --><#>Knuckle Voyage
+Knuckle Voyage<#>
+Terry puts forth his best effort\#with this Knuckle Drop from above.<#>
+flys in!<#>
+Skill #1 will be used when you select\#the Attack command.<#>
+<!-- Event ID --><#>354
+<!-- Event Name --><#>The Last Cheer!
+The Last Cheer!<#>
+A cheer that is so enthusiastically restorative,\#it brings tears to the recipient's eyes.<#>
+cheers you on!<#>
+<!-- Event ID --><#>355
+<!-- Event Name --><#>Knuckle Drop
+Knuckle Drop<#>
+A momentum based fist punch.\#A poor maneuver.<#>
+falls with the force of gravity!<#>
+Skill #1 will be used when you select\#the Attack command.<#>
+<!-- Event ID --><#>356
+<!-- Event Name --><#>Big Knuckle Drop   
+Big Knuckle Drop<#>
+A momentum based fist punch.\#Still a poor maneuver.<#>
+falls with the force of gravity!<#>
+Skill #1 will be used when you select\#the Attack command.<#>
+<!-- Event ID --><#>357
+<!-- Event Name --><#>Big Bad Knuckle Drop
+Big Bad Knuckle Drop<#>
+A momentum based fist punch.\#It will never not be a poor maneuver.<#>
+falls with the force of gravity!<#>
+Skill #1 will be used when you select\#the Attack command.<#>
+<!-- Event ID --><#>358
+<!-- Event Name --><#>Verbal Bash
+Verbal Bash<#>
+Use disparaging words to upset the opponent.\#This can either make them cry or get pissed.<#>
+is being hurtful...<#>
+<!-- Event ID --><#>359
+<!-- Event Name --><#>Hot Dance
+Hot Dance<#>
+A mysterious attack, it's hard to decipher\#what is going on...<#>
+performs his Hot Dance!<#>
+<!-- Event ID --><#>360
+<!-- Event Name --><#>The Hottest Dance          
+The Hottest Dance<#>
+What is this?! This POWER!<#>
+performs the Hottest Dance!<#>
+<!-- Event ID --><#>361
+<!-- Event Name --><#>Super Cool Pose       
+Super Cool Pose<#>
+Makes you feel like you're super cool,\#but you're really not.<#>
+strikes a nice pose!<#>
+<!-- Event ID --><#>362
+<!-- Event Name --><#>Hype Up!
+Hype Up!<#>
+Send raging vibes to your friend with\#these awesome words! Increases CRITs.<#>
+is pumping up!<#>
+<!-- Event ID --><#>363
+<!-- Event Name --><#>Weather Alert
+Weather Alert<#>
+Terry hints that a storm is coming.\#Tricks enemies into hitting the deck.<#>
+hints at the impending doom!<#>
+<!-- Event ID --><#>364
+<!-- Event Name --><#>FARDY----------------------------
+<!-- Event ID --><#>365
+<!-- Event Name --><#>Truck Slam
+Truck Slam<#>
+Peel out hard.<#>
+peels out!<#>
+<!-- Event ID --><#>366
+<!-- Event Name --><#>Truck Slam 2
+Truck Slam 2<#>
+Peel out hard as Heck.<#>
+peels out!<#>
+<!-- Event ID --><#>367
+<!-- Event Name --><#>Truck Slam 3
+Truck Slam 3<#>
+Peel out hard as Hell.<#>
+peels out!<#>
+<!-- Event ID --><#>368
+<!-- Event Name --><#>Truck Slam 4
+Truck Slam 4<#>
+Peel out hard as fuck.<#>
+peels out!<#>
+<!-- Event ID --><#>369
+<!-- Event Name --><#>Weep
+Weep<#>
+Sometimes you just have to cry it out...<#>
+weeps.<#>
+<!-- Event ID --><#>370
+<!-- Event Name --><#>
+<!-- Event ID --><#>371
+<!-- Event Name --><#>
+<!-- Event ID --><#>372
+<!-- Event Name --><#>X Chop
+X Chop<#>
+A fearful X chop<#>
+performs a devilish chop!<#>
+<!-- Event ID --><#>373
+<!-- Event Name --><#>Joyous Fist
+Joyous Fist<#>
+A raining fist from above.<#>
+wrecks you.<#>
+<!-- Event ID --><#>374
+<!-- Event Name --><#>PICK UP----------------------
+<!-- Event ID --><#>375
+<!-- Event Name --><#>Finger Beam 6
+Finger Beam 6<#>
+A concentration of energy blasted from the finger.<#>
+fires a beam!<#>
+<!-- Event ID --><#>376
+<!-- Event Name --><#>Ghost Story
+Ghost Story<#>
+Tell a spooky tale to induce fear...<#>
+tells a tale...<#>
+<!-- Event ID --><#>377
+<!-- Event Name --><#>True Ghost Story        
+True Ghost Story<#>
+Tell a very spooky tale to induce fear...<#>
+tells a tale...<#>
+<!-- Event ID --><#>378
+<!-- Event Name --><#>Dirty Insult
+Dirty Insult<#>
+Say something very unsavory to induce a blind rage.<#>
+says something hurtful!<#>
+<!-- Event ID --><#>379
+<!-- Event Name --><#>Rustle Dropkick      
+Rustle Dropkick<#>
+A missle dropkick propelled by the flapping\#of your arms. It's a high speed attack.<#>
+does a dropkick!<#>
+<!-- Event ID --><#>380
+<!-- Event Name --><#>Hustle Dropkick      
+Hustle Dropkick<#>
+A missle dropkick propelled by the flapping\#of your arms. It's a high speed attack.<#>
+does a dropkick!<#>
+<!-- Event ID --><#>381
+<!-- Event Name --><#>Bustle Dropkick      
+Bustle Dropkick<#>
+A missle dropkick propelled by the flapping\#of your arms. It's a high speed attack.<#>
+does a dropkick!<#>
+<!-- Event ID --><#>382
+<!-- Event Name --><#>Little Cheer
+Little Cheer<#>
+Gives an enthusiastic chant.<#>
+cheers you on!<#>
+<!-- Event ID --><#>383
+<!-- Event Name --><#>Aim
+Aim<#>
+Space case.<#>
+tries to aim...<#>
+<!-- Event ID --><#>384
+<!-- Event Name --><#>Claw Attack
+Claw Attack<#>
+Slice you up.<#>
+slashes!<#>
+<!-- Event ID --><#>385
+<!-- Event Name --><#>Taste Blood
+Taste Blood<#>
+Restores HP to one ally.<#>
+licks his claws...<#>
+<!-- Event ID --><#>386
+<!-- Event Name --><#>Taste
+Taste<#>
+Lick<#>
+licks you...<#>
+<!-- Event ID --><#>387
+<!-- Event Name --><#>Ironbody
+Ironbody<#>
+Defend yourself<#>
+is flexing hard!<#>
+<!-- Event ID --><#>388
+<!-- Event Name --><#>Familiar Song
+Familiar Song<#>
+plays a tune.<#>
+<!-- Event ID --><#>389
+<!-- Event Name --><#>Scared
+Scared<#>
+Talk mad trash.<#>
+is scared of you...<#>
+<!-- Event ID --><#>390
+<!-- Event Name --><#>Run away
+Run away<#>
+ran away in fear.<#>
+<!-- Event ID --><#>391
+<!-- Event Name --><#>Horrified
+Horrified<#>
+is horrified...<#>
+<!-- Event ID --><#>392
+<!-- Event Name --><#>Tackle
+Tackle<#>
+a tackle<#>
+charges at you!<#>
+<!-- Event ID --><#>393
+<!-- Event Name --><#>Pump Up
+Pump Up<#>
+Hit yourself and go nuts!<#>
+is going crazy.<#>
+<!-- Event ID --><#>394
+<!-- Event Name --><#>Defend Friend
+Defend Friend<#>
+defend a pal.<#>
+is trying to defend his friend.<#>
+<!-- Event ID --><#>395
+<!-- Event Name --><#>Yoke up
+Yoke up<#>
+Defend yourself<#>
+is getting yoked!<#>
+<!-- Event ID --><#>396
+<!-- Event Name --><#>Graveyard Bomb
+Graveyard Bomb<#>
+Send him to Hell!<#>
+sends you to Hell!<#>
+<!-- Event ID --><#>397
+<!-- Event Name --><#>Decapitate
+Decapitate<#>
+Chop his head off.<#>
+chopped your head off.<#>
+<!-- Event ID --><#>398
+<!-- Event Name --><#>AJEET MANDEEP---------
+<!-- Event ID --><#>399
+<!-- Event Name --><#>Gouge
+Gouge<#>
+A grizzly finger stab to the eye.\#Causes blinding.<#>
+pokes!<#>
+<!-- Event ID --><#>400
+<!-- Event Name --><#>Needle
+Needle<#>
+A calculated poke to the back.\#Causes weirdness.<#>
+pokes!<#>
+<!-- Event ID --><#>401
+<!-- Event Name --><#>Sear
+Sear<#>
+A sizzling hot poke through the chest.\#Causes burning.<#>
+pokes!<#>
+<!-- Event ID --><#>402
+<!-- Event Name --><#>Hush
+Hush<#>
+A soft finger press to the lips.\#Causes wariness.<#>
+pokes!<#>
+<!-- Event ID --><#>403
+<!-- Event Name --><#>Rocket Piercer
+Rocket Piercer<#>
+A high-speed missile dropkick.<#>
+dropkicks!<#>
+<!-- Event ID --><#>404
+<!-- Event Name --><#>Rocket Skewer
+Rocket Skewer<#>
+A high-speed missile dropkick.<#>
+dropkicks!<#>
+<!-- Event ID --><#>405
+<!-- Event Name --><#>Rocket Impaler
+Rocket Impaler<#>
+A high-speed missile dropkick.<#>
+dropkicks!<#>
+<!-- Event ID --><#>406
+<!-- Event Name --><#>Finger Beam
+Finger Beam<#>
+A concentration of energy blasted from the finger.<#>
+fires a beam!<#>
+<!-- Event ID --><#>407
+<!-- Event Name --><#>Finger Beam 2
+Finger Beam 2<#>
+A concentration of energy blasted from the finger.<#>
+fires a beam!<#>
+<!-- Event ID --><#>408
+<!-- Event Name --><#>Finger Beam 3
+Finger Beam 3<#>
+A concentration of energy blasted from the finger.<#>
+fires a beam!<#>
+<!-- Event ID --><#>409
+<!-- Event Name --><#>Falling Tree
+Falling Tree<#>
+A momentum based elbow drop.<#>
+falls hard.<#>
+<!-- Event ID --><#>410
+<!-- Event Name --><#>Space Hammer
+Space Hammer<#>
+A huge elbow drop with the power\#of the cosmos! Tends to miss.<#>
+soars!<#>
+<!-- Event ID --><#>411
+<!-- Event Name --><#>Universe Hammer
+Universe Hammer<#>
+A huge elbow drop with the power\#of the cosmos! Tends to miss.<#>
+soars!<#>
+<!-- Event ID --><#>412
+<!-- Event Name --><#>Abyssal Hammer
+Abyssal Hammer<#>
+A huge elbow drop with the power\#of the cosmos! Tends to miss.<#>
+soars!<#>
+<!-- Event ID --><#>413
+<!-- Event Name --><#>BO WYATT-------------
+<!-- Event ID --><#>414
+<!-- Event Name --><#>Jam Out
+Jam Out<#>
+Play sweet, sweet music.<#>
+is strumming.<#>
+<!-- Event ID --><#>415
+<!-- Event Name --><#>Note 1
+Note 1<#>
+Play sweet, sweet music.<#>
+strums away.<#>
+<!-- Event ID --><#>416
+<!-- Event Name --><#>Note 2
+Note 2<#>
+Play sweet, sweet music.<#>
+strums away.<#>
+<!-- Event ID --><#>417
+<!-- Event Name --><#>Note 3
+Note 3<#>
+Play sweet, sweet music.<#>
+strums away.<#>
+<!-- Event ID --><#>418
+<!-- Event Name --><#>Note 4
+Note 4<#>
+Play sweet, sweet music.<#>
+strums away.<#>
+<!-- Event ID --><#>419
+<!-- Event Name --><#>Siren's Call
+Siren's Call<#>
+(WAWDS) A soothing song that cures\#your party of all aliments.<#>
+<!-- Event ID --><#>420
+<!-- Event Name --><#>Muscle Call
+Muscle Call<#>
+(WWS) An uplifting song that seeps\#iron into your soul. Gives ironbody.<#>
+<!-- Event ID --><#>421
+<!-- Event Name --><#>Dullard's Call
+Dullard's Call<#>
+(DDDDD) A very dull boring tune...\#Puts people to sleep.<#>
+<!-- Event ID --><#>422
+<!-- Event Name --><#>Hell's Call
+Hell's Call<#>
+(WAWDS) A demonic tune that summons\#miserable thoughts. Causes Fear.<#>
+<!-- Event ID --><#>423
+<!-- Event Name --><#>God's Call
+God's Call<#>
+(DWWA) A moving piece.\#Heals HP.<#>
+<!-- Event ID --><#>424
+<!-- Event Name --><#>Unhearable Call
+Unhearable Call<#>
+(WSD) The weirdest song ever.\#Makes people feel weird. Always.<#>
+<!-- Event ID --><#>425
+<!-- Event Name --><#>Screeching Call
+Screeching Call<#>
+(SSD) A piercing song.\#Causes ears to bleed.<#>
+<!-- Event ID --><#>426
+<!-- Event Name --><#>
+<!-- Event ID --><#>427
+<!-- Event Name --><#>
+<!-- Event ID --><#>428
+<!-- Event Name --><#>
+<!-- Event ID --><#>429
+<!-- Event Name --><#>
+<!-- Event ID --><#>430
+<!-- Event Name --><#>NO SHIRT 1 ARM-------------------
+<!-- Event ID --><#>431
+<!-- Event Name --><#>Dropkick
+Dropkick<#>
+A flying double foot press<#>
+does a Dropkick!<#>
+<!-- Event ID --><#>432
+<!-- Event Name --><#>Fire Ball
+Fire Ball<#>
+A blast of flaming emotion.<#>
+blasts off!<#>
+<!-- Event ID --><#>433
+<!-- Event Name --><#>Bite
+Bite<#>
+Take a bite at your opponent.<#>
+bites!<#>
+<!-- Event ID --><#>434
+<!-- Event Name --><#>Headbutt
+Headbutt<#>
+A self sacrifical head slam.<#>
+headbutts!<#>
+<!-- Event ID --><#>435
+<!-- Event Name --><#>Killer Headbutt
+Killer Headbutt<#>
+completely disregard your own safety\#of this maneuver.<#>
+headbutts!<#>
+<!-- Event ID --><#>436
+<!-- Event Name --><#>Homerun Head Slide
+Homerun Head Slide<#>
+A sliding head strike at the opponents knees.\#Causes tripping.<#>
+slides in!<#>
+<!-- Event ID --><#>437
+<!-- Event Name --><#>Cannonball
+Cannonball<#>
+A flying full body attack. Very strong,\#but tends to miss.<#>
+comes crashing down!<#>
+<!-- Event ID --><#>438
+<!-- Event Name --><#>
+<!-- Event ID --><#>439
+<!-- Event Name --><#>
+<!-- Event ID --><#>440
+<!-- Event Name --><#>
+<!-- Event ID --><#>441
+<!-- Event Name --><#>
+<!-- Event ID --><#>442
+<!-- Event Name --><#>
+<!-- Event ID --><#>443
+<!-- Event Name --><#>
+<!-- Event ID --><#>444
+<!-- Event Name --><#>NO SHIRT 0 ARMS-------------------
+<!-- Event ID --><#>445
+<!-- Event Name --><#>Dropkick
+Dropkick<#>
+A flying double foot press<#>
+does a Dropkick!<#>
+<!-- Event ID --><#>446
+<!-- Event Name --><#>Fire Ball
+Fire Ball<#>
+A blast of flaming emotion.<#>
+blasts off!<#>
+<!-- Event ID --><#>447
+<!-- Event Name --><#>Bite
+Bite<#>
+Take a bite at your opponent.<#>
+bites!<#>
+<!-- Event ID --><#>448
+<!-- Event Name --><#>Headbutt
+Headbutt<#>
+A self sacrifical head slam.<#>
+headbutts!<#>
+<!-- Event ID --><#>449
+<!-- Event Name --><#>Killer Headbutt
+Killer Headbutt<#>
+completely disregard your own safety\#of this maneuver.<#>
+headbutts!<#>
+<!-- Event ID --><#>450
+<!-- Event Name --><#>Homerun Head Slide
+Homerun Head Slide<#>
+A sliding head strike at the opponents knees.\#Causes tripping.<#>
+slides in!<#>
+<!-- Event ID --><#>451
+<!-- Event Name --><#>Cannonball
+Cannonball<#>
+A flying full body attack. Very strong,\#but tends to miss.<#>
+comes crashing down!<#>
+<!-- Event ID --><#>452
+<!-- Event Name --><#>
+<!-- Event ID --><#>453
+<!-- Event Name --><#>
+<!-- Event ID --><#>454
+<!-- Event Name --><#>ERN---------------------
+<!-- Event ID --><#>455
+<!-- Event Name --><#>Drunken Barage
+Drunken Barage<#>
+A mix of Lucha Libre and being totally shit faced.<#>
+is ready to rumble!<#>
+<!-- Event ID --><#>456
+<!-- Event Name --><#>Slap
+Slap<#>Шлепок
+A swift headbutt<#>
+gives 'em a slap!<#>
+<!-- Event ID --><#>457
+<!-- Event Name --><#>(Not So) Direct Hit
+(Not So) Direct Hit<#>(Не самое) прямое попадание
+A swift headbutt<#>
+does a headbutt!<#>
+<!-- Event ID --><#>458
+<!-- Event Name --><#>Uppercut
+Uppercut<#>Апперкот
+A swift headbutt<#>
+uppercuts that fool!<#>
+<!-- Event ID --><#>459
+<!-- Event Name --><#>Shove
+Shove<#>Толчок
+A swift headbutt<#>
+gets pushy!<#>
+<!-- Event ID --><#>460
+<!-- Event Name --><#>Beatdown
+Beatdown<#>
+(ASA) An uncoordinated assault on an enemy.<#>
+flails his arms!<#>
+<!-- Event ID --><#>461
+<!-- Event Name --><#>Balloon Fist
+Balloon Fist<#>
+Blow your fist to boost your ATK. Such power comes\#at a cost: when the boost ends, everyone gets hurt.<#>
+inflates his fist! Impossible!<#>
+<!-- Event ID --><#>462
+<!-- Event Name --><#>
+<!-- Event ID --><#>463
+<!-- Event Name --><#>
+<!-- Event ID --><#>464
+<!-- Event Name --><#>NO SHIT ARMS-------------------
+<!-- Event ID --><#>465
+<!-- Event Name --><#>Everyone falls
+Everyone falls<#>
+falls, creating a shockwave!<#>
+<!-- Event ID --><#>466
+<!-- Event Name --><#>Everyone falls II
+Everyone falls II<#>
+is shaken up!<#>
+<!-- Event ID --><#>467
+<!-- Event Name --><#>
+<!-- Event ID --><#>468
+<!-- Event Name --><#>
+<!-- Event ID --><#>469
+<!-- Event Name --><#>
+<!-- Event ID --><#>470
+<!-- Event Name --><#>
+<!-- Event ID --><#>471
+<!-- Event Name --><#>
+<!-- Event ID --><#>472
+<!-- Event Name --><#>
+<!-- Event ID --><#>473
+<!-- Event Name --><#>
+<!-- Event ID --><#>474
+<!-- Event Name --><#>
+<!-- Event ID --><#>475
+<!-- Event Name --><#>
+<!-- Event ID --><#>476
+<!-- Event Name --><#>
+<!-- Event ID --><#>477
+<!-- Event Name --><#>
+<!-- Event ID --><#>478
+<!-- Event Name --><#>
+<!-- Event ID --><#>479
+<!-- Event Name --><#>
+<!-- Event ID --><#>480
+<!-- Event Name --><#>
+<!-- Event ID --><#>481
+<!-- Event Name --><#>
+<!-- Event ID --><#>482
+<!-- Event Name --><#>
+<!-- Event ID --><#>483
+<!-- Event Name --><#>
+<!-- Event ID --><#>484
+<!-- Event Name --><#>
+<!-- Event ID --><#>485
+<!-- Event Name --><#>GEESE THOMPSON----
+<!-- Event ID --><#>486
+<!-- Event Name --><#>Peck 
+Peck<#>
+A falling face slam.<#>
+falls face first.<#>
+<!-- Event ID --><#>487
+<!-- Event Name --><#>Super Peck
+Super Peck<#>
+A falling face slam.<#>
+falls face first.<#>
+<!-- Event ID --><#>488
+<!-- Event Name --><#>Ultra Peck
+Ultra Peck<#>
+A falling face slam.<#>
+falls face first.<#>
+<!-- Event ID --><#>489
+<!-- Event Name --><#>Hyper Peck
+Hyper Peck<#>
+A falling face slam.<#>
+falls face first.<#>
+<!-- Event ID --><#>490
+<!-- Event Name --><#>Magnificent Peck
+Magnificent Peck<#>
+A falling face slam.<#>
+falls face first.<#>
+<!-- Event ID --><#>491
+<!-- Event Name --><#>Poison Peck
+Poison Peck<#>
+A falling face slam, with a\#poison dipped beak.<#>
+falls face first.<#>
+<!-- Event ID --><#>492
+<!-- Event Name --><#>Deep Poison Peck
+Deep Poison Peck<#>
+A falling face slam, with a\#poison dipped beak.<#>
+falls face first.<#>
+<!-- Event ID --><#>493
+<!-- Event Name --><#>Paralyzing Peck
+Paralyzing Peck<#>
+A falling face slam to vital\#pressure points.<#>
+falls face first.<#>
+<!-- Event ID --><#>494
+<!-- Event Name --><#>Flightless Bird
+Flightless Bird<#>
+A solid attempt at flying.\#Ends in a crash landing.<#>
+falls.<#>
+<!-- Event ID --><#>495
+<!-- Event Name --><#>
+<!-- Event ID --><#>496
+<!-- Event Name --><#>
+<!-- Event ID --><#>497
+<!-- Event Name --><#>
+<!-- Event ID --><#>498
+<!-- Event Name --><#>FLY BOY------------------
+<!-- Event ID --><#>499
+<!-- Event Name --><#>Puke
+Puke<#>
+Induces random effects.<#>
+pukes!?<#>
+<!-- Event ID --><#>500
+<!-- Event Name --><#>Cart Slam
+Cart Slam<#>
+Peel out hard.<#>
+peels out!<#>
+<!-- Event ID --><#>501
+<!-- Event Name --><#>Cart Slam 2
+Cart Slam 2<#>
+Peel out hard.<#>
+peels out!<#>
+<!-- Event ID --><#>502
+<!-- Event Name --><#>Cart Slam 3
+Cart Slam 3<#>
+Peel out hard.<#>
+peels out!<#>
+<!-- Event ID --><#>503
+<!-- Event Name --><#>Drive-By
+Drive-By<#>
+Perform a drive-by shooting.<#>
+unloads a clip!<#>
+<!-- Event ID --><#>504
+<!-- Event Name --><#>Cart Slam 4
+Cart Slam 4<#>
+Peel out hard.<#>
+peels out!<#>
+<!-- Event ID --><#>505
+<!-- Event Name --><#>Super Puke
+Super Puke<#>
+Induces random effects.<#>
+pukes!?<#>
+<!-- Event ID --><#>506
+<!-- Event Name --><#>
+<!-- Event ID --><#>507
+<!-- Event Name --><#>BIRDIE HALL------------------
+<!-- Event ID --><#>508
+<!-- Event Name --><#>Swig
+Swig<#>
+Swig of wine for the working man!\#Gives you strength!<#>
+takes a swig!<#>
+<!-- Event ID --><#>509
+<!-- Event Name --><#>Drinks on Me!
+Drinks on Me!<#>
+Share your alcohol!\#Causes Drunkness.<#>
+makes a toast!<#>
+<!-- Event ID --><#>510
+<!-- Event Name --><#>Gasoline Spit
+Gasoline Spit<#>
+Spit highly flammable liquid all over your\#opponent.<#>
+spits up!<#>
+<!-- Event ID --><#>511
+<!-- Event Name --><#>Lil' Diddy
+Lil' Diddy<#>
+Sing a happy little diddy.\#Cures many things.<#>
+is pouring his heart out.<#>
+<!-- Event ID --><#>512
+<!-- Event Name --><#>Pass Out
+Pass Out<#>
+pass out and fully recover HP.<#>
+passes out...<#>
+<!-- Event ID --><#>513
+<!-- Event Name --><#>Drunkard Tumble
+Drunkard Tumble<#>
+It's hard to keep balance when you're drunk.\#Use that to your advantage.<#>
+is a wreck.<#>
+<!-- Event ID --><#>514
+<!-- Event Name --><#>Drunkard Tumble 2
+Drunkard Tumble 2<#>
+It's hard to keep balance when you're drunk.\#Use that to your advantage.<#>
+is a wreck.<#>
+<!-- Event ID --><#>515
+<!-- Event Name --><#>Drunkard Tumble 3
+Drunkard Tumble 3<#>
+It's hard to keep balance when you're drunk.\#Use that to your advantage.<#>
+is a wreck.<#>
+<!-- Event ID --><#>516
+<!-- Event Name --><#>Drunkard Tumble 4
+Drunkard Tumble 4<#>
+It's hard to keep balance when you're drunk.\#Use that to your advantage.<#>
+is a wreck.<#>
+<!-- Event ID --><#>517
+<!-- Event Name --><#>Secret Stash
+Secret Stash<#>
+A little medicine from Daddy.\#Heals HP.<#>
+breaks out the good stuff!<#>
+<!-- Event ID --><#>518
+<!-- Event Name --><#>Destiny Poke
+Destiny Poke<#>
+A poke at your vitals.<#>
+pokes at the vital points!<#>
+<!-- Event ID --><#>519
+<!-- Event Name --><#>Bike Slam
+Bike Slam<#>
+Slam the fuck out of your opponent<#>
+swings his bike!<#>
+<!-- Event ID --><#>520
+<!-- Event Name --><#>
+<!-- Event ID --><#>521
+<!-- Event Name --><#>HARVEY------------------------
+<!-- Event ID --><#>522
+<!-- Event Name --><#>Legal Jargin
+Legal Jargin<#>
+Throw boring paperwork at the enemy. Puts them\#to sleep. (May cause papercuts.)<#>
+is laying down the Law!<#>
+<!-- Event ID --><#>523
+<!-- Event Name --><#>Wrongful Accusation
+Wrongful Accusation<#>
+Throw confusing paperwork at the enemy. Creates\#much confusion. (May cause papercuts.)<#>
+is laying down the Law!<#>
+<!-- Event ID --><#>524
+<!-- Event Name --><#>Slander
+Slander<#>
+Throw slanderous paperwork at the enemy. It's\#very upsetting. (May cause papercuts.)<#>
+is laying down the Law!<#>
+<!-- Event ID --><#>525
+<!-- Event Name --><#>Restraining Order
+Restraining Order<#>
+Legally convince the enemy to stop attacking\#you. (May cause papercuts.)<#>
+is laying down the Law!<#>
+<!-- Event ID --><#>526
+<!-- Event Name --><#>Shoot
+Shoot<#>
+Dump your clip on the enemy.<#>
+dumps his clip.<#>
+<!-- Event ID --><#>527
+<!-- Event Name --><#>Water Gun
+Water Gun<#>
+A high pressure blast of water.<#>
+shoots out water!<#>
+<!-- Event ID --><#>528
+<!-- Event Name --><#>Water Gun 2
+Water Gun 2<#>
+A high pressure blast of water.<#>
+shoots out water!<#>
+<!-- Event ID --><#>529
+<!-- Event Name --><#>Water Gun 3
+Water Gun 3<#>
+A high pressure blast of water.<#>
+shoots out water!<#>
+<!-- Event ID --><#>530
+<!-- Event Name --><#>Soak
+Soak<#>
+Spray your teammate with water.\#Cures many  ailments.<#>
+shoots out water!<#>
+<!-- Event ID --><#>531
+<!-- Event Name --><#>
+<!-- Event ID --><#>532
+<!-- Event Name --><#>
+<!-- Event ID --><#>533
+<!-- Event Name --><#>
+<!-- Event ID --><#>534
+<!-- Event Name --><#>CRISP LADDADY------------
+<!-- Event ID --><#>535
+<!-- Event Name --><#>Million Cutter
+Million Cutter<#>
+Strikes four times, but often misses.<#>
+slashes...<#>
+<!-- Event ID --><#>536
+<!-- Event Name --><#>Slash
+Slash<#>
+A series of devastating slashes.<#>
+slashes...<#>
+<!-- Event ID --><#>537
+<!-- Event Name --><#>Hot Cutter
+Hot Cutter<#>
+A series of fiery slashes.<#>
+slashes...<#>
+<!-- Event ID --><#>538
+<!-- Event Name --><#>Wet Cutter
+Wet Cutter<#>
+A series of dampening slashes.<#>
+slashes...<#>
+<!-- Event ID --><#>539
+<!-- Event Name --><#>
+<!-- Event ID --><#>540
+<!-- Event Name --><#>
+<!-- Event ID --><#>541
+<!-- Event Name --><#>
+<!-- Event ID --><#>542
+<!-- Event Name --><#>
+<!-- Event ID --><#>543
+<!-- Event Name --><#>
+<!-- Event ID --><#>544
+<!-- Event Name --><#>DICK RANGER------------
+<!-- Event ID --><#>545
+<!-- Event Name --><#>Party Foul
+Party Foul<#>
+A direct kick to groin.\#Capable of stunning.<#>
+dances around!<#>
+<!-- Event ID --><#>546
+<!-- Event Name --><#>Machine Gun Thrust
+Machine Gun Thrust<#>
+A series of devastating pelvic thrusts.<#>
+dances around!<#>
+<!-- Event ID --><#>547
+<!-- Event Name --><#>Big Machine Gun Thrust
+Big Machine Gun Thrust<#>
+A series of devastating pelvic thrusts.<#>
+dances around!<#>
+<!-- Event ID --><#>548
+<!-- Event Name --><#>Gainer
+Gainer<#>
+A cool backflip kick!<#>
+flips!<#>
+<!-- Event ID --><#>549
+<!-- Event Name --><#>Party Time!
+Party Time!<#>
+Start an awesome party in the middle of battle.\#Gets everyone hyped up!<#>
+throws down!<#>
+<!-- Event ID --><#>550
+<!-- Event Name --><#>Party Pose
+Party Pose<#>
+Strike a TP recovering pose.<#>
+poses!<#>
+<!-- Event ID --><#>551
+<!-- Event Name --><#>Rager Pose
+Rager Pose<#>
+Strike a TP recovering pose.<#>
+poses!<#>
+<!-- Event ID --><#>552
+<!-- Event Name --><#>Headspin
+Headspin<#>
+Slide on by! Makes the enemies fall down.<#>
+dances around!<#>
+<!-- Event ID --><#>553
+<!-- Event Name --><#>Perfect Headspin
+Perfect Headspin<#>
+Slide on by! Makes the enemies fall down.<#>
+dances around!<#>
+<!-- Event ID --><#>554
+<!-- Event Name --><#>Final Party Time!
+Final Party Time!<#>
+Party like God on his birthday.<#>
+throws down!<#>
+<!-- Event ID --><#>555
+<!-- Event Name --><#>Boomerang
+Boomerang<#>
+Toss your little boomerang.<#>
+tossed a boomerang!<#>
+<!-- Event ID --><#>556
+<!-- Event Name --><#>
+<!-- Event ID --><#>557
+<!-- Event Name --><#>QUINT OLYMPIC------------
+<!-- Event ID --><#>558
+<!-- Event Name --><#>Beauty
+Beauty<#>
+Quint's Casanova Martial Arts style.<#>
+is putting on a stunning perfomance!<#>
+<!-- Event ID --><#>559
+<!-- Event Name --><#>Nectar
+Nectar<#>
+A beautiful attack...<#>
+strikes stunningly...<#>
+<!-- Event ID --><#>560
+<!-- Event Name --><#>Leaf
+Leaf<#>
+A beautiful attack...<#>
+strikes stunningly...<#>
+<!-- Event ID --><#>561
+<!-- Event Name --><#>Petal
+Petal<#>
+A beautiful attack...<#>
+strikes stunningly...<#>
+<!-- Event ID --><#>562
+<!-- Event Name --><#>Thorn
+Thorn<#>
+A beautiful attack...<#>
+strikes stunningly...<#>
+<!-- Event ID --><#>563
+<!-- Event Name --><#>Desperado Kick
+Desperado Kick<#>
+(WWA) A gorgeous sliding side kick...\#Knocks people down with it's beauty.<#>
+kicks! Wow!<#>
+<!-- Event ID --><#>564
+<!-- Event Name --><#>Great Desperado Kick
+Great Desperado Kick<#>
+(WWS) A gorgeous sliding side kick...\#Knocks people down with it's beauty.<#>
+kicks! Wow!<#>
+<!-- Event ID --><#>565
+<!-- Event Name --><#>Final Desperado Kick
+Final Desperado Kick<#>
+(WWD) A gorgeous sliding side kick...\#Knocks people down with it's beauty.<#>
+kicks! Wow!<#>
+<!-- Event ID --><#>566
+<!-- Event Name --><#>Thigh Cracker
+Thigh Cracker<#>
+(ASD) A neck hugging leg scissor.\#A bittersweet situation for the enemy...<#>
+kicks! Wow!<#>
+<!-- Event ID --><#>567
+<!-- Event Name --><#>Thigh Crusher
+Thigh Crusher<#>
+(ASA) A neck hugging leg scissor.\#A bittersweet situation for the enemy...<#>
+kicks! Wow!<#>
+<!-- Event ID --><#>568
+<!-- Event Name --><#>Thigh Crippler
+Thigh Crippler<#>
+(ASW) A neck hugging leg scissor.\#A bittersweet situation for the enemy...<#>
+kicks! Wow!<#>
+<!-- Event ID --><#>569
+<!-- Event Name --><#>Magnificent Pose
+Magnificent Pose<#>
+(DWWA) Strike a blinding hot pose.<#>
+is being amazing...<#>
+<!-- Event ID --><#>570
+<!-- Event Name --><#>Ravishing Point
+Ravishing Point<#>
+(WAAS) A georgeous dropkick<#>
+kicks! Wow!<#>
+<!-- Event ID --><#>571
+<!-- Event Name --><#>Ravishing Knife
+Ravishing Knife<#>
+(WAAD) A georgeous dropkick<#>
+kicks! Wow!<#>
+<!-- Event ID --><#>572
+<!-- Event Name --><#>Burning Eagle
+Burning Eagle<#>
+(SWWAD) A flaming hot dropkick.\#Causes burning.<#>
+kicks! Wow!<#>
+<!-- Event ID --><#>573
+<!-- Event Name --><#>Needle Shower
+Needle Shower<#>
+(SAD) A flurry of kicks.\#So gorgeous...<#>
+kicks! Wow!<#>
+<!-- Event ID --><#>574
+<!-- Event Name --><#>Needle Typhoon
+Needle Typhoon<#>
+(SAW) A flurry of kicks.\#So gorgeous...<#>
+kicks! Wow!<#>
+<!-- Event ID --><#>575
+<!-- Event Name --><#>Needle Tsunami
+Needle Tsunami<#>
+(SASS) A flurry of kicks.\#So gorgeous...<#>
+kicks! Wow!<#>
+<!-- Event ID --><#>576
+<!-- Event Name --><#>BUFFALO----------------
+<!-- Event ID --><#>577
+<!-- Event Name --><#>Tackle
+Tackle<#>
+A fundamental football maneuver.<#>
+charges!<#>
+<!-- Event ID --><#>578
+<!-- Event Name --><#>American Tornado
+American Tornado<#>
+A common football maneuver.<#>
+is a great patriot...<#>
+<!-- Event ID --><#>579
+<!-- Event Name --><#>Savage Rush
+Savage Rush<#>
+Channel the spirit of the buffalo.<#>
+blasts off!<#>
+<!-- Event ID --><#>580
+<!-- Event Name --><#>Boulder Screw
+Boulder Screw<#>
+A momentum based body screw.<#>
+blasts off!<#>
+<!-- Event ID --><#>581
+<!-- Event Name --><#>Barbaric Rush
+Barbaric Rush<#>
+Channel the spirit of the buffalo.<#>
+blasts off!<#>
+<!-- Event ID --><#>582
+<!-- Event Name --><#>Rubble Screw
+Rubble Screw<#>
+A momentum based body screw.<#>
+blasts off!<#>
+<!-- Event ID --><#>583
+<!-- Event Name --><#>Satan Rush
+Satan Rush<#>
+Channel the spirit of the buffalo.<#>
+blasts off!<#>
+<!-- Event ID --><#>584
+<!-- Event Name --><#>Mountain Screw
+Mountain Screw<#>
+A momentum based body screw.<#>
+blasts off!<#>
+<!-- Event ID --><#>585
+<!-- Event Name --><#>Lumberjack Tackle
+Lumberjack Tackle<#>
+A fundamental football maneuver.\#Knocks people over.<#>
+charges!<#>
+<!-- Event ID --><#>586
+<!-- Event Name --><#>Patriot Exploder
+Patriot Exploder<#>
+The greatest tribute to the greatest country.<#>
+charges!<#>
+<!-- Event ID --><#>587
+<!-- Event Name --><#>
+<!-- Event ID --><#>588
+<!-- Event Name --><#>
+<!-- Event ID --><#>589
+<!-- Event Name --><#>
+<!-- Event ID --><#>590
+<!-- Event Name --><#>BUCKETS--------------------
+<!-- Event ID --><#>591
+<!-- Event Name --><#>Coin Flick
+Coin Flick<#>
+A bold move. Scares opponents.<#>
+flicks a coin.<#>
+<!-- Event ID --><#>592
+<!-- Event Name --><#>Shoot
+Shoot<#>
+A well placed shot to the chest.<#>
+shoots.<#>
+<!-- Event ID --><#>593
+<!-- Event Name --><#>Bullet Tap
+Bullet Tap<#>
+A series of shots to the body.<#>
+shoots.<#>
+<!-- Event ID --><#>594
+<!-- Event Name --><#>Clip Dump
+Clip Dump<#>
+Unload a clip into your enemy.<#>
+dumps the clip.<#>
+<!-- Event ID --><#>595
+<!-- Event Name --><#>Bullet Shuffle
+Bullet Shuffle<#>
+An array of bullets sent flying.<#>
+unloads.<#>
+<!-- Event ID --><#>596
+<!-- Event Name --><#>Bullet Dance
+Bullet Dance<#>
+An array of bullets sent flying.<#>
+unloads.<#>
+<!-- Event ID --><#>597
+<!-- Event Name --><#>Bullet Ballet
+Bullet Ballet<#>
+An array of bullets sent flying.<#>
+unloads.<#>
+<!-- Event ID --><#>598
+<!-- Event Name --><#>Bullet Tornado
+Bullet Tornado<#>
+A tornado of bullets.<#>
+unloads.<#>
+<!-- Event ID --><#>599
+<!-- Event Name --><#>Heads or Tails
+Heads or Tails<#>
+A fate deciding coin toss...\#50/50 chance of success.<#>
+tosses his coin...<#>
+<!-- Event ID --><#>600
+<!-- Event Name --><#>
+<!-- Event ID --><#>601
+<!-- Event Name --><#>
+<!-- Event ID --><#>602
+<!-- Event Name --><#>TIGERMAN------------------------------
+<!-- Event ID --><#>603
+<!-- Event Name --><#>Spear Work
+Spear Work<#>
+An unorthodoxed spear stye...<#>
+grips his spear...<#>
+<!-- Event ID --><#>604
+<!-- Event Name --><#>Poke
+Poke<#>
+A halfhearted spear move...<#>
+attacks...<#>
+<!-- Event ID --><#>605
+<!-- Event Name --><#>Uppercut
+Uppercut<#>
+A halfhearted spear move...<#>
+attacks...<#>
+<!-- Event ID --><#>606
+<!-- Event Name --><#>Stab
+Stab<#>
+A halfhearted spear move...<#>
+attacks...<#>
+<!-- Event ID --><#>607
+<!-- Event Name --><#>Double Swipe
+Double Swipe<#>
+(ASD) A halfhearted spear move...<#>
+attacks...<#>
+<!-- Event ID --><#>608
+<!-- Event Name --><#>Pinwheel Slash
+Pinwheel Slash<#>
+(SAD) A halfhearted spear move...<#>
+attacks...<#>
+<!-- Event ID --><#>609
+<!-- Event Name --><#>John Spin Lives
+John Spin Lives<#>
+Gone too soon.<#>
+blows his brains out.<#>
+<!-- Event ID --><#>610
+<!-- Event Name --><#>John Spin Dies
+John Spin Dies<#>
+Gone too soon.<#>
+blows his brains out.<#>
+<!-- Event ID --><#>611
+<!-- Event Name --><#>Stab Deadly
+Stab Deadly<#>
+done.<#>
+stabs.<#>
+<!-- Event ID --><#>612
+<!-- Event Name --><#>
+<!-- Event ID --><#>613
+<!-- Event Name --><#>
+<!-- Event ID --><#>614
+<!-- Event Name --><#>
+<!-- Event ID --><#>615
+<!-- Event Name --><#>OLLIE----------------------
+<!-- Event ID --><#>616
+<!-- Event Name --><#>Triple Tap
+Triple Tap<#>
+Three shots to the chest.<#>
+shoots.<#>
+<!-- Event ID --><#>617
+<!-- Event Name --><#>Dancing Serpent
+Dancing Serpent<#>
+Unload a clip into the crowd.\#Makes the enemy scared and run for cover.<#>
+sprays blindly!<#>
+<!-- Event ID --><#>618
+<!-- Event Name --><#>Bullet Saw
+Bullet Saw<#>
+Cut through your opponent with a stream of bullets.\#Causes bleeding.<#>
+sprays!<#>
+<!-- Event ID --><#>619
+<!-- Event Name --><#>Dancing Dragon
+Dancing Dragon<#>
+Unload a clip into the crowd.\#Makes the enemy scared and run for cover.<#>
+sprays blindly!<#>
+<!-- Event ID --><#>620
+<!-- Event Name --><#>Bullet Guillotine
+Bullet Guillotine<#>
+Cut through your opponent with a stream of bullets.\#Causes bleeding.<#>
+sprays!<#>
+<!-- Event ID --><#>621
+<!-- Event Name --><#>Dancing Devil
+Dancing Devil<#>
+Unload a clip into the crowd.\#Makes the enemy scared and run for cover.<#>
+sprays blindly!<#>
+<!-- Event ID --><#>622
+<!-- Event Name --><#>Weird Powder
+Weird Powder<#>
+Toss strange smelling powder at your opponent.<#>
+tosses powder!<#>
+<!-- Event ID --><#>623
+<!-- Event Name --><#>Flash Powder
+Flash Powder<#>
+Toss explosive powder at your opponent.<#>
+tosses powder!<#>
+<!-- Event ID --><#>624
+<!-- Event Name --><#>Sleep Powder
+Sleep Powder<#>
+Toss soothing powder at your opponent.<#>
+tosses powder!<#>
+<!-- Event ID --><#>625
+<!-- Event Name --><#>Sister's Kiss
+Sister's Kiss<#>
+A very personal move with a questionable past...<#>
+is sad...<#>
+<!-- Event ID --><#>626
+<!-- Event Name --><#>
+<!-- Event ID --><#>627
+<!-- Event Name --><#>
+<!-- Event ID --><#>628
+<!-- Event Name --><#>
+<!-- Event ID --><#>629
+<!-- Event Name --><#>
+<!-- Event ID --><#>630
+<!-- Event Name --><#>JACK-----------------------
+<!-- Event ID --><#>631
+<!-- Event Name --><#>Card Toss
+Card Toss<#>
+Throw out a razor sharp card.\#Can cause bleeding.<#>
+throws a card.<#>
+<!-- Event ID --><#>632
+<!-- Event Name --><#>Trick Card
+Trick Card<#>
+Throw out an explosive playing card.\#Can cause burning.<#>
+throws a card.<#>
+<!-- Event ID --><#>633
+<!-- Event Name --><#>Juggle
+Juggle<#>
+A failed attempt at juggling with a dangerous\#outcome.<#>
+tries to juggle.<#>
+<!-- Event ID --><#>634
+<!-- Event Name --><#>Levitate
+Levitate<#>
+Scare your opponent with your mysticism!<#>
+is flying!?<#>
+<!-- Event ID --><#>635
+<!-- Event Name --><#>Magic Hat
+Magic Hat<#>
+Perform an unmastered hat trick...\#Who knows what will come out...<#>
+is performing a trick...<#>
+<!-- Event ID --><#>636
+<!-- Event Name --><#>Magic Hat?
+Magic Hat?<#>
+Perform an unmastered hat trick...\#Who knows what will come out...<#>
+is performing...<#>
+<!-- Event ID --><#>637
+<!-- Event Name --><#>Magic Hat?
+Magic Hat?<#>
+Perform an unmastered hat trick...\#Who knows what will come out...<#>
+is performing...<#>
+<!-- Event ID --><#>638
+<!-- Event Name --><#>Magic Hat?
+Magic Hat?<#>
+Perform an unmastered hat trick...\#Who knows what will come out...<#>
+is performing...<#>
+<!-- Event ID --><#>639
+<!-- Event Name --><#>Magic Hat?
+Magic Hat?<#>
+Perform an unmastered hat trick...\#Who knows what will come out...<#>
+is performing...<#>
+<!-- Event ID --><#>640
+<!-- Event Name --><#>Magic Hat?
+Magic Hat?<#>
+Perform an unmastered hat trick...\#Who knows what will come out...<#>
+is performing...<#>
+<!-- Event ID --><#>641
+<!-- Event Name --><#>Magic Hat?
+Magic Hat?<#>
+Perform an unmastered hat trick...\#Who knows what will come out...<#>
+is performing...<#>
+<!-- Event ID --><#>642
+<!-- Event Name --><#>Magic Hat?
+Magic Hat?<#>
+Perform an unmastered hat trick...\#Who knows what will come out...<#>
+is performing...<#>
+<!-- Event ID --><#>643
+<!-- Event Name --><#>Magic Hat?
+Magic Hat?<#>
+Perform an unmastered hat trick...\#Who knows what will come out...<#>
+is performing...<#>
+<!-- Event ID --><#>644
+<!-- Event Name --><#>Magic Hat?
+Magic Hat?<#>
+Perform an unmastered hat trick...\#Who knows what will come out...<#>
+is performing...<#>
+<!-- Event ID --><#>645
+<!-- Event Name --><#>Magic Hat?
+Magic Hat?<#>
+Perform an unmastered hat trick...\#Who knows what will come out...<#>
+is performing...<#>
+<!-- Event ID --><#>646
+<!-- Event Name --><#>Magic Hat?
+Magic Hat?<#>
+Perform an unmastered hat trick...\#Who knows what will come out...<#>
+is performing...<#>
+<!-- Event ID --><#>647
+<!-- Event Name --><#>Magic Hat 2
+Magic Hat 2<#>
+Perform an unmastered hat trick...\#Who knows what will come out...<#>
+is performing a trick...<#>
+<!-- Event ID --><#>648
+<!-- Event Name --><#>Magic Hat 3
+Magic Hat 3<#>
+Perform an unmastered hat trick...\#Who knows what will come out...<#>
+is performing a trick...<#>
+<!-- Event ID --><#>649
+<!-- Event Name --><#>Magic Hat 4
+Magic Hat 4<#>
+Perform an unmastered hat trick...\#Who knows what will come out...<#>
+is performing a trick...<#>
+<!-- Event ID --><#>650
+<!-- Event Name --><#>Mystic Juggle
+Mystic Juggle<#>
+A failed attempt at juggling with a dangerous\#outcome.<#>
+tries to juggle.<#>
+<!-- Event ID --><#>651
+<!-- Event Name --><#>Wizardly Juggle
+Wizardly Juggle<#>
+A failed attempt at juggling with a dangerous\#outcome.<#>
+tries to juggle.<#>
+<!-- Event ID --><#>652
+<!-- Event Name --><#>
+<!-- Event ID --><#>653
+<!-- Event Name --><#>SONNY-------------------
+<!-- Event ID --><#>654
+<!-- Event Name --><#>Clothesline
+Clothesline<#>
+A violent clothesline with a complete disregard for\#the opponent.<#>
+swings his fist!<#>
+<!-- Event ID --><#>655
+<!-- Event Name --><#>Flail
+Flail<#>
+A discharge of all Sonny's emotions.<#>
+flails!<#>
+<!-- Event ID --><#>656
+<!-- Event Name --><#>Lights Out
+Lights Out<#>
+A stunning clothesline.\#Capable of stunning.<#>
+swings his fist!<#>
+<!-- Event ID --><#>657
+<!-- Event Name --><#>Frogsplash
+Frogsplash<#>
+A flying chest slam.<#>
+is insane.<#>
+<!-- Event ID --><#>658
+<!-- Event Name --><#>Showboat
+Showboat<#>
+Show off to Harvey...<#>
+is showing off... Poorly...<#>
+<!-- Event ID --><#>659
+<!-- Event Name --><#>
+<!-- Event ID --><#>660
+<!-- Event Name --><#>Lights Out Forever
+Lights Out Forever<#>
+A stunning clothesline.<#>
+swings his fist!<#>
+<!-- Event ID --><#>661
+<!-- Event Name --><#>Bear Hug
+Bear Hug<#>
+A paralyzing squeeze.<#>
+clamps down.<#>
+<!-- Event ID --><#>662
+<!-- Event Name --><#>Senton Bomb
+Senton Bomb<#>
+A flying backdrop.<#>
+is insane.<#>
+<!-- Event ID --><#>663
+<!-- Event Name --><#>Scary Clothesline
+Scary Clothesline<#>
+A clothesline so powerful it strikes fear into\#the enemy.<#>
+is insane.<#>
+<!-- Event ID --><#>664
+<!-- Event Name --><#>Terrifying Clothesline
+Terrifying Clothesline<#>
+A clothesline so powerful it strikes fear into\#the enemy.<#>
+is insane.<#>
+<!-- Event ID --><#>665
+<!-- Event Name --><#>Hideous Clothesline
+Hideous Clothesline<#>
+A clothesline so powerful it strikes fear into\#the enemy.<#>
+is insane.<#>
+<!-- Event ID --><#>666
+<!-- Event Name --><#>Brain Removal
+Brain Removal<#>
+Blow your brains out.<#>
+is blowing his brains out.<#>
+<!-- Event ID --><#>667
+<!-- Event Name --><#>
+<!-- Event ID --><#>668
+<!-- Event Name --><#>
+<!-- Event ID --><#>669
+<!-- Event Name --><#>YAZAN---------------------
+<!-- Event ID --><#>670
+<!-- Event Name --><#>Slash
+Slash<#>
+A slash so fast, the opponent doesn't\#even bleed.<#>
+slashes.<#>
+<!-- Event ID --><#>671
+<!-- Event Name --><#>Three Wishes
+Three Wishes<#>
+Three strong, but inaccurate slashes.<#>
+slashes.<#>
+<!-- Event ID --><#>672
+<!-- Event Name --><#>Lioness’s Fury
+Lioness’s Fury<#>
+Hold Kat up to the opponent to violently claw them.\#Causes bleeding.<#>
+pulls out Kat.<#>
+<!-- Event ID --><#>673
+<!-- Event Name --><#>Fluffy Wuffy
+Fluffy Wuffy<#>
+Kat's cuteness is impossible to deny.\#Causes paralysis.<#>
+pulls out Kat.<#>
+<!-- Event ID --><#>674
+<!-- Event Name --><#>Purrfect
+Purrfect<#>
+Kat's purring has wonderful effects on\#your party. Increases agility.<#>
+pulls out Kat.<#>
+<!-- Event ID --><#>675
+<!-- Event Name --><#>Judgement
+Judgement<#>
+Death from above...<#>
+falls from the sky.<#>
+<!-- Event ID --><#>676
+<!-- Event Name --><#>Curse Slash
+Curse Slash<#>
+A cursed slash.\#Causes fear on contact.<#>
+slashes...<#>
+<!-- Event ID --><#>677
+<!-- Event Name --><#>Wrath of the Wind
+Wrath of the Wind<#>
+A slash so fast, it generates a gust of wind.\#Reducs enemy speed.<#>
+slashes.<#>
+<!-- Event ID --><#>678
+<!-- Event Name --><#>Cat Lick
+Cat Lick<#>
+A kiss from Kat.\#Heals Yazan.<#>
+pulls out Kat.<#>
+<!-- Event ID --><#>679
+<!-- Event Name --><#>Bad Mews
+Bad Mews<#>
+Throw Kat at the enemy causing various effects.\#Lose Kat for 3 turns.<#>
+throws Kat.<#>
+<!-- Event ID --><#>680
+<!-- Event Name --><#>Blood-Stained Blade
+Blood-Stained Blade<#>
+Wiping the blood off your blade fills you with\#energy... Increases SP.<#>
+cleanses his blade.<#>
+<!-- Event ID --><#>681
+<!-- Event Name --><#>Kat's Gone
+Kat's Gone<#>
+lost Kat.<#>
+<!-- Event ID --><#>682
+<!-- Event Name --><#>GARTH--------------------
+<!-- Event ID --><#>683
+<!-- Event Name --><#>Dirty Stab
+Dirty Stab<#>
+A grizzly pencil stab.\#Causes poison.<#>
+stabs!<#>
+<!-- Event ID --><#>684
+<!-- Event Name --><#>Risky Drawing
+Risky Drawing<#>
+Show off some risky pictures...\#Raises attack.<#>
+shows his drawings!<#>
+<!-- Event ID --><#>685
+<!-- Event Name --><#>Uncomfortable Drawing
+Uncomfortable Drawing<#>
+Show off some weird pictures...\#Makes an ally defensive.<#>
+shows his drawings!<#>
+<!-- Event ID --><#>686
+<!-- Event Name --><#>Perplexing Drawing
+Perplexing Drawing<#>
+Show off some odd pictures...\#Confuses an opponent.<#>
+shows his drawings!<#>
+<!-- Event ID --><#>687
+<!-- Event Name --><#>Questionable Drawing
+Questionable Drawing<#>
+Show off some heinous pictures...\#Enrages an opponent.<#>
+shows his drawings!<#>
+<!-- Event ID --><#>688
+<!-- Event Name --><#>Unspeakable Drawing
+Unspeakable Drawing<#>
+Show off some explicit pictures...\#Stuns an opponent.<#>
+shows his drawings!<#>
+<!-- Event ID --><#>689
+<!-- Event Name --><#>Agreeable Drawing
+Agreeable Drawing<#>
+Show off some decent pictures...\#Cures many aliments.<#>
+shows his drawings!<#>
+<!-- Event ID --><#>690
+<!-- Event Name --><#>Artistic Discussion
+Artistic Discussion<#>
+Drone on about the finer points of art.\#Often puts people to sleep.<#>
+discuses!<#>
+<!-- Event ID --><#>691
+<!-- Event Name --><#>Creepy Drawing
+Creepy Drawing<#>
+Show off some very uneasy pictures...\#Scares an opponent.<#>
+shows his drawings!<#>
+<!-- Event ID --><#>692
+<!-- Event Name --><#>Critter's Gone
+Critter's Gone<#>
+lost his critter.<#>
+<!-- Event ID --><#>693
+<!-- Event Name --><#>SQURRIEL--------------------
+<!-- Event ID --><#>694
+<!-- Event Name --><#>Whip
+Whip<#>
+A quick crack of your whip.<#>
+cracks his whip.<#>
+<!-- Event ID --><#>695
+<!-- Event Name --><#>Critter Bite
+Critter Bite<#>
+Have your tiny companion bite the\#opponent. Makes them feel weird.<#>
+commands his critter!<#>
+<!-- Event ID --><#>696
+<!-- Event Name --><#>Paralyzing Whip
+Paralyzing Whip<#>
+A quick crack of your whip.\#Can paralyze enemies.<#>
+cracks his whip.<#>
+<!-- Event ID --><#>697
+<!-- Event Name --><#>Stampede
+Stampede<#>
+Cause a cute stampede.<#>
+causes a stampede.<#>
+<!-- Event ID --><#>698
+<!-- Event Name --><#>Whip Flurry
+Whip Flurry<#>
+Wiggly your whip wildly!<#>
+cracks his whip.<#>
+<!-- Event ID --><#>699
+<!-- Event Name --><#>Critter Clamp
+Critter Clamp<#>
+Have your tiny companion latch on to the\#opponent. You lose your critter for 3 turns.<#>
+commands his critter!<#>
+<!-- Event ID --><#>700
+<!-- Event Name --><#>Whip Flurry
+Whip Flurry<#>
+Wiggly your whip wildly!<#>
+cracks his whip.<#>
+<!-- Event ID --><#>701
+<!-- Event Name --><#>Big Stampede
+Big Stampede<#>
+Cause a cute stampede.<#>
+causes a stampede.<#>
+<!-- Event ID --><#>702
+<!-- Event Name --><#>Bite
+Bite<#>
+Who needs animals? You have your own teeth!\#Causes poison.<#>
+bites.<#>
+<!-- Event ID --><#>703
+<!-- Event Name --><#>Deer Toss
+Deer Toss<#>
+This is absolutely animal cruelty...<#>
+tosses a deer.<#>
+<!-- Event ID --><#>704
+<!-- Event Name --><#>Big Bite
+Big Bite<#>
+Who needs animals? You have your own teeth!\#Causes poison.<#>
+bites.<#>
+<!-- Event ID --><#>705
+<!-- Event Name --><#>Deer Bomb
+Deer Bomb<#>
+This is absolutely animal cruelty!!!<#>
+tosses a deer.<#>
+<!-- Event ID --><#>706
+<!-- Event Name --><#>Deer Driver
+Deer Driver<#>
+Slam a deer into your opponent.\#Sutns opponents.<#>
+drives down.<#>
+<!-- Event ID --><#>707
+<!-- Event Name --><#>Big Deer Driver
+Big Deer Driver<#>
+Slam a deer into your opponent.\#Sutns opponents.<#>
+drives down.<#>
+<!-- Event ID --><#>708
+<!-- Event Name --><#>Final Deer Driver
+Final Deer Driver<#>
+Slam a deer into your opponent.\#Sutns opponents.<#>
+drives down.<#>
+<!-- Event ID --><#>709
+<!-- Event Name --><#>Honey, I'm Home!
+Honey, I'm Home!<#>
+Slam the fuck out of your opponent<#>
+drives down!<#>
+<!-- Event ID --><#>710
+<!-- Event Name --><#>RT----------------------------
+<!-- Event ID --><#>711
+<!-- Event Name --><#>Bag Swat
+Bag Swat<#>
+Swing your bag at the opponent.<#>
+swats!<#>
+<!-- Event ID --><#>712
+<!-- Event Name --><#>Bag Fire
+Bag Fire<#>
+Open your bag to reveal surprising contents!\#Causes burning.<#>
+opens his bag!<#>
+<!-- Event ID --><#>713
+<!-- Event Name --><#>Bag Flames
+Bag Flames<#>
+Open your bag to reveal surprising contents!\#Causes burning.<#>
+opens his bag!<#>
+<!-- Event ID --><#>714
+<!-- Event Name --><#>Bag Inferno
+Bag Inferno<#>
+Open your bag to reveal surprising contents!\#Causes burning.<#>
+opens his bag!<#>
+<!-- Event ID --><#>715
+<!-- Event Name --><#>Bag Flash
+Bag Flash<#>
+Open your bag to reveal surprising contents!\#Causes blindness.<#>
+opens his bag!<#>
+<!-- Event ID --><#>716
+<!-- Event Name --><#>Bag of What?
+Bag of What?<#>
+Open your bag to reveal surprising contents!\#Causes weirdness.<#>
+opens his bag!<#>
+<!-- Event ID --><#>717
+<!-- Event Name --><#>Bag of Yuck
+Bag of Yuck<#>
+Open your bag to reveal surprising contents!\#Causes deep poison.<#>
+opens his bag!<#>
+<!-- Event ID --><#>718
+<!-- Event Name --><#>Savage Elbow
+Savage Elbow<#>
+Slam your elbow down on the opponent.<#>
+slams down!<#>
+<!-- Event ID --><#>719
+<!-- Event Name --><#>Savage Elbow 2
+Savage Elbow 2<#>
+Slam your elbow down on the opponent.<#>
+slams down!<#>
+<!-- Event ID --><#>720
+<!-- Event Name --><#>Savage Elbow 3
+Savage Elbow 3<#>
+Slam your elbow down on the opponent.<#>
+slams down!<#>
+<!-- Event ID --><#>721
+<!-- Event Name --><#>Sleeper Hold
+Sleeper Hold<#>
+Choke out the opponent till they fall asleep.\#Can cause sleep.<#>
+grips down!<#>
+<!-- Event ID --><#>722
+<!-- Event Name --><#>Nightmare Hold
+Nightmare Hold<#>
+Choke out the opponent till they fall asleep.\#Forces sleep.<#>
+grips down!<#>
+<!-- Event ID --><#>723
+<!-- Event Name --><#>
+<!-- Event ID --><#>724
+<!-- Event Name --><#>
+<!-- Event ID --><#>725
+<!-- Event Name --><#>BRAD 2-------------------
+<!-- Event ID --><#>726
+<!-- Event Name --><#>Suprise Attack
+Suprise Attack<#>
+(DDA) An unsuspected kick to the groin.\#Causes stunning.<#>
+does a Groin Kick!<#>
+<!-- Event ID --><#>727
+<!-- Event Name --><#>
+<!-- Event ID --><#>728
+<!-- Event Name --><#>
+<!-- Event ID --><#>729
+<!-- Event Name --><#>
+<!-- Event ID --><#>730
+<!-- Event Name --><#>
+<!-- Event ID --><#>731
+<!-- Event Name --><#>Cannonball
+Cannonball<#>
+(DDS) Fly in like a cannonball.<#>
+does a cannonball!<#>
+<!-- Event ID --><#>732
+<!-- Event Name --><#>Tackle
+Tackle<#>
+(DDW) An American classic. Capable\#of knocking the opponent over.<#>
+tackles!<#>
+<!-- Event ID --><#>733
+<!-- Event Name --><#>Headbutt
+Headbutt<#>
+(WAD) A full force slam with your shiny head.<#>
+does a headbutt!<#>
+<!-- Event ID --><#>734
+<!-- Event Name --><#>Charging Headbutt
+Charging Headbutt<#>
+(WAWS) A flying slam with your shiny head.\#Capable of stunning.<#>
+does a headbutt!<#>
+<!-- Event ID --><#>735
+<!-- Event Name --><#>Head Slide
+Head Slide<#>
+(SDDS) A sliding head strike at the opponent's\#knees. Causes tripping.<#>
+slides in!<#>
+<!-- Event ID --><#>736
+<!-- Event Name --><#>Homerun Head Slide
+Homerun Head Slide<#>
+(SDDW) A sliding head strike at the opponent's\#knees. Causes tripping.<#>
+slides in!<#>
+<!-- Event ID --><#>737
+<!-- Event Name --><#>
+<!-- Event ID --><#>738
+<!-- Event Name --><#>SP drain
+SP drain<#>
+drains your energy!<#>
+<!-- Event ID --><#>739
+<!-- Event Name --><#>Mud Cannon
+Mud Cannon<#>
+shoots mud out of the hand!<#>
+<!-- Event ID --><#>740
+<!-- Event Name --><#>Mud Vomit
+Mud Vomit<#>
+vomits on you.<#>
+<!-- Event ID --><#>741
+<!-- Event Name --><#>
+<!-- Event ID --><#>742
+<!-- Event Name --><#>BRAD 1 ARM 2-------------------
+<!-- Event ID --><#>743
+<!-- Event Name --><#> Armstrong Style
+Armstrong Style<#>
+Brad's very own brand of Martial Arts.\#Developed out of pain and self reflection.<#>
+Armstrong Family Style Karate!<#>
+<!-- Event ID --><#>744
+<!-- Event Name --><#>Suprise Attack
+Suprise Attack<#>
+(DDA) An unsuspected kick to the groin.\#Causes stunning.<#>
+does a Groin Kick!<#>
+<!-- Event ID --><#>745
+<!-- Event Name --><#>Pea Gun Fist
+Pea Gun Fist<#>
+(AAAA) Unleash a flurry of punches.<#>
+unleashes a flurry!<#>
+<!-- Event ID --><#>746
+<!-- Event Name --><#>Bite
+Bite<#>
+A quick tug with your teeth.<#>
+bites down!<#>
+<!-- Event ID --><#>747
+<!-- Event Name --><#>Right Punch
+Right Punch<#>
+A swift right punch.<#>
+does a punch!<#>
+<!-- Event ID --><#>748
+<!-- Event Name --><#>Palm Thrust
+Palm Thrust<#>
+A heavy palm thrust.<#>
+does a Palm Thrust!<#>
+<!-- Event ID --><#>749
+<!-- Event Name --><#>Dropkick
+Dropkick<#>
+(DSSA) A flying double foot press<#>
+does a Dropkick!<#>
+<!-- Event ID --><#>750
+<!-- Event Name --><#>Fire Ball
+Fire Ball<#>
+(ASD) A blast of flaming emotion.<#>
+blasts off!<#>
+<!-- Event ID --><#>751
+<!-- Event Name --><#>Fire Ball 2
+Fire Ball 2<#>
+(SDD) A blast of flaming emotion.<#>
+blasts off!<#>
+<!-- Event ID --><#>752
+<!-- Event Name --><#>Fire Ball 3
+Fire Ball 3<#>
+(ASS) A blast of flaming emotion.<#>
+blasts off!<#>
+<!-- Event ID --><#>753
+<!-- Event Name --><#>Fire Ball 4
+Fire Ball 4<#>
+(ADAS) A blast of flaming emotion.<#>
+blasts off!<#>
+<!-- Event ID --><#>754
+<!-- Event Name --><#>Cannonball
+Cannonball<#>
+(DDS) Fly in like a cannonball.<#>
+does a cannonball!<#>
+<!-- Event ID --><#>755
+<!-- Event Name --><#>Tackle
+Tackle<#>
+(DDD) An American classic. Capable\#of knocking the opponent over.<#>
+tackles!<#>
+<!-- Event ID --><#>756
+<!-- Event Name --><#>Headbutt
+Headbutt<#>
+(DAD) A full force slam with your shiny head.\#Capable of stunning.<#>
+does a headbutt!<#>
+<!-- Event ID --><#>757
+<!-- Event Name --><#>Charging Headbutt
+Charging Headbutt<#>
+(SASD) A flying slam with your shiny head.\#Capable of stunning.<#>
+does a headbutt!<#>
+<!-- Event ID --><#>758
+<!-- Event Name --><#>Head Slide
+Head Slide<#>
+(ADDS) A sliding head strike at the opponent's\#knees. Causes tripping.<#>
+slides in!<#>
+<!-- Event ID --><#>759
+<!-- Event Name --><#>Homerun Head Slide
+Homerun Head Slide<#>
+(ADDA) A sliding head strike at the opponent's\#knees. Causes tripping.<#>
+slides in!<#>
+<!-- Event ID --><#>760
+<!-- Event Name --><#>Horse Stance
+Horse Stance<#>
+Assumes a sturdy Horse Stance,\#increases SP.<#>
+does a Horse Stance!<#>
+<!-- Event ID --><#>761
+<!-- Event Name --><#>BRAD 0 ARM 2-------------------
+<!-- Event ID --><#>762
+<!-- Event Name --><#>Suprise Attack
+Suprise Attack<#>
+An unsuspected kick to the groin.\#Causes stunning.<#>
+does a Groin Kick!<#>
+<!-- Event ID --><#>763
+<!-- Event Name --><#>Bite
+Bite<#>
+A quick tug with your teeth.<#>
+bites down!<#>
+<!-- Event ID --><#>764
+<!-- Event Name --><#>Dropkick
+Dropkick<#>
+A flying double foot press<#>
+does a Dropkick!<#>
+<!-- Event ID --><#>765
+<!-- Event Name --><#>Fire Ball
+Fire Ball<#>
+A blast of flaming emotion.<#>
+blasts off!<#>
+<!-- Event ID --><#>766
+<!-- Event Name --><#>Fire Ball 2
+Fire Ball 2<#>
+A blast of flaming emotion.<#>
+blasts off!<#>
+<!-- Event ID --><#>767
+<!-- Event Name --><#>Fire Ball 3
+Fire Ball 3<#>
+A blast of flaming emotion.<#>
+blasts off!<#>
+<!-- Event ID --><#>768
+<!-- Event Name --><#>Fire Ball 4
+Fire Ball 4<#>
+A blast of flaming emotion.<#>
+blasts off!<#>
+<!-- Event ID --><#>769
+<!-- Event Name --><#>Cannonball
+Cannonball<#>
+Fly in like a cannonball.<#>
+does a cannonball!<#>
+<!-- Event ID --><#>770
+<!-- Event Name --><#>Tackle
+Tackle<#>
+An American classic. Capable\#of knocking the opponent over.<#>
+tackles!<#>
+<!-- Event ID --><#>771
+<!-- Event Name --><#>Headbutt
+Headbutt<#>
+A full force slam with your shiny head.<#>
+does a headbutt!<#>
+<!-- Event ID --><#>772
+<!-- Event Name --><#>Charging Headbutt
+Charging Headbutt<#>
+A flying slam with your shiny head.\#Capable of stunning.<#>
+does a headbutt!<#>
+<!-- Event ID --><#>773
+<!-- Event Name --><#>Head Slide
+Head Slide<#>
+A sliding head strike at the opponent's\#knees. Causes tripping.<#>
+slides in!<#>
+<!-- Event ID --><#>774
+<!-- Event Name --><#>Homerun Head Slide
+Homerun Head Slide<#>
+A sliding head strike at the opponent's\#knees. Causes tripping.<#>
+slides in!<#>
+<!-- Event ID --><#>775
+<!-- Event Name --><#>Horse Stance
+Horse Stance<#>
+Assumes a sturdy Horse Stance,\#increases SP.<#>
+does a Horse Stance!<#>
+<!-- Event ID --><#>776
+<!-- Event Name --><#>
+<!-- Event ID --><#>777
+<!-- Event Name --><#>BRAD NO SHIRT-----------
+<!-- Event ID --><#>778
+<!-- Event Name --><#>Bite
+Bite<#>
+A quick tug with your teeth.<#>
+bites down!<#>
+<!-- Event ID --><#>779
+<!-- Event Name --><#>Bite
+Bite<#>
+A quick tug with your teeth.<#>
+bites down!<#>
+<!-- Event ID --><#>780
+<!-- Event Name --><#>Bite
+Bite<#>
+A quick tug with your teeth.<#>
+bites down!<#>
+<!-- Event ID --><#>781
+<!-- Event Name --><#>Dropkick
+Dropkick<#>
+A flying double foot press<#>
+does a Dropkick!<#>
+<!-- Event ID --><#>782
+<!-- Event Name --><#>Dropkick
+Dropkick<#>
+A flying double foot press<#>
+does a Dropkick!<#>
+<!-- Event ID --><#>783
+<!-- Event Name --><#>Dropkick
+Dropkick<#>
+A flying double foot press<#>
+does a Dropkick!<#>
+<!-- Event ID --><#>784
+<!-- Event Name --><#>Fire Blast
+Fire Blast<#>
+A blast of flaming emotion.<#>
+blasts off!<#>
+<!-- Event ID --><#>785
+<!-- Event Name --><#>Fire Blast
+Fire Blast<#>
+A blast of flaming emotion.<#>
+blasts off!<#>
+<!-- Event ID --><#>786
+<!-- Event Name --><#>Fire Blast
+Fire Blast<#>
+A blast of flaming emotion.<#>
+blasts off!<#>
+<!-- Event ID --><#>787
+<!-- Event Name --><#>Charging Headbutt
+Charging Headbutt<#>
+A flying slam with your shiny head.\#Capable of stunning.<#>
+does a headbutt!<#>
+<!-- Event ID --><#>788
+<!-- Event Name --><#>Charging Headbutt
+Charging Headbutt<#>
+A flying slam with your shiny head.\#Capable of stunning.<#>
+does a headbutt!<#>
+<!-- Event ID --><#>789
+<!-- Event Name --><#>Charging Headbutt
+Charging Headbutt<#>
+A flying slam with your shiny head.\#Capable of stunning.<#>
+does a headbutt!<#>
+<!-- Event ID --><#>790
+<!-- Event Name --><#>Burning Head Slide
+Burning Head Slide<#>
+A sliding head strike at the opponent's knees.\#Causes tripping.<#>
+slides in!<#>
+<!-- Event ID --><#>791
+<!-- Event Name --><#>Burning Head Slide
+Burning Head Slide<#>
+A sliding head strike at the opponent's knees.\#Causes tripping.<#>
+slides in!<#>
+<!-- Event ID --><#>792
+<!-- Event Name --><#>Burning Head Slide
+Burning Head Slide<#>
+A sliding head strike at the opponent's knees.\#Causes tripping.<#>
+slides in!<#>
+<!-- Event ID --><#>793
+<!-- Event Name --><#>Cry
+Cry<#>
+Help me Lisa?\#Cry out for relief.<#>
+weeps.<#>
+<!-- Event ID --><#>794
+<!-- Event Name --><#>Cry
+Cry<#>
+Help me Lisa?\#Cry out for relief.<#>
+weeps.<#>
+<!-- Event ID --><#>795
+<!-- Event Name --><#>Cry
+Cry<#>
+Help me Lisa?\#Cry out for relief.<#>
+weeps.<#>
+<!-- Event ID --><#>796
+<!-- Event Name --><#>Scream
+Scream<#>
+It hurts... You have to scream.<#>
+screams.<#>
+<!-- Event ID --><#>797
+<!-- Event Name --><#>Scream
+Scream<#>
+It hurts... You have to scream.<#>
+screams.<#>
+<!-- Event ID --><#>798
+<!-- Event Name --><#>Scream
+Scream<#>
+It hurts... You have to scream.<#>
+screams.<#>
+<!-- Event ID --><#>799
+<!-- Event Name --><#>TB Berny
+TB Berny<#>
+receives some aid from Elton!<#>получает поддержку Элтона!
+<!-- Event ID --><#>800
+<!-- Event Name --><#>TB Elton
+TB Elton<#>
+screams with fire!<#>кричит огнём!
+<!-- Event ID --><#>801
+<!-- Event Name --><#>TB Berny Racoon
+TB Berny Racoon<#>
+receives some aid from Elton!<#>получает поддержку Элтона!
+<!-- Event ID --><#>802
+<!-- Event Name --><#>RANDO---------------
+<!-- Event ID --><#>803
+<!-- Event Name --><#>Rando Bomb
+Rando Bomb<#>
+Send him to Hell!<#>
+slams you down.<#>
+<!-- Event ID --><#>804
+<!-- Event Name --><#>Rando Buster
+Rando Buster<#>
+Buster Punches<#>
+does his Buster Punches!<#>
+<!-- Event ID --><#>805
+<!-- Event Name --><#>Rando Stab
+Rando Stab<#>
+Stabs at your heart.<#>
+stabs through your chest.<#>
+<!-- Event ID --><#>806
+<!-- Event Name --><#>Clip Dump
+Clip Dump<#>
+A burst of bullets<#>
+unloads into you!<#>
+<!-- Event ID --><#>807
+<!-- Event Name --><#>Stall
+Stall<#>
+Space case<#>
+doesn't want to do this...<#>
+<!-- Event ID --><#>808
+<!-- Event Name --><#>INSTA KILLS------------------------
+<!-- Event ID --><#>809
+<!-- Event Name --><#>Bone Break
+Bone Break<#>
+done.<#>
+breaks your bones!<#>
+<!-- Event ID --><#>810
+<!-- Event Name --><#>Heart Squeeze
+Heart Squeeze<#>
+done.<#>
+squeezes your heart!<#>
+<!-- Event ID --><#>811
+<!-- Event Name --><#>Devastating Chomp
+Devastating Chomp<#>
+done.<#>
+bites your head!<#>
+<!-- Event ID --><#>812
+<!-- Event Name --><#>Stab
+Stab<#>
+done.<#>
+stabs.<#>
+<!-- Event ID --><#>813
+<!-- Event Name --><#>Gearing Up for Chomp
+Gearing Up for Chomp<#>
+Open wide.<#>
+opens wide.<#>
+<!-- Event ID --><#>814
+<!-- Event Name --><#>Recover em all
+Recover em all<#>
+<!-- Event ID --><#>815
+<!-- Event Name --><#>Stare
+Stare<#>
+Won't move<#>
+is staring blankly...<#>
+<!-- Event ID --><#>816
+<!-- Event Name --><#>Struggle
+Struggle<#>
+Won't move<#>
+is struggling...<#>
+<!-- Event ID --><#>817
+<!-- Event Name --><#>Wail
+Wail<#>
+Enemy cries<#>
+wails.<#>
+<!-- Event ID --><#>818
+<!-- Event Name --><#>
+<!-- Event ID --><#>819
+<!-- Event Name --><#>Gearing up for Bonebreak
+Gearing up for Bonebreak<#>
+Open wide.<#>
+spreads his hands strangely.<#>
+<!-- Event ID --><#>820
+<!-- Event Name --><#>Diving into the chest
+Diving into the chest<#>
+Open wide.<#>
+concentrates on your chest...<#>
+<!-- Event ID --><#>821
+<!-- Event Name --><#>Flash
+Flash<#>
+Show your bare chest to enemies.\#Can sometimes fluster them.<#>
+lifts her shirt!<#>
+<!-- Event ID --><#>822
+<!-- Event Name --><#>Throat Lunge
+Throat Lunge<#>
+A visceral slash to the throat.\#It's difficult to land this finishing blow.<#>
+lunges.<#>
+<!-- Event ID --><#>823
+<!-- Event Name --><#>Revolver Bullet
+Revolver Bullet<#>
+(ADAS) A blast of flaming emotion.<#>
+shoots!<#>
+<!-- Event ID --><#>824
+<!-- Event Name --><#>Final Stab
+Final Stab<#>
+A well placed and deadly stab.\#It's difficult to land this finishing blow.<#>
+stabs.<#>
+<!-- Event ID --><#>825
+<!-- Event Name --><#>Behead
+Behead<#>
+A visceral slash to the throat.\#It's difficult to land this finishing blow.<#>
+lunges.<#>
+<!-- Event ID --><#>826
+<!-- Event Name --><#>ENEMY ATTACKS
+ENEMY ATTACKS<#>
+<!-- Event ID --><#>827
+<!-- Event Name --><#>Body Drop
+Body Drop<#>
+Damages the enemy.<#>
+comes crashing down!<#>
+<!-- Event ID --><#>828
+<!-- Event Name --><#>Reload
+Reload<#>
+Space case<#>
+is trying to load his gun...<#>
+<!-- Event ID --><#>829
+<!-- Event Name --><#>Triple Attack
+Triple Attack<#>
+Attacks three random enemies.<#>
+goes buck wild!<#>
+<!-- Event ID --><#>830
+<!-- Event Name --><#>Party Time!
+Party Time!<#>
+Start an awesome party in the middle of battle.\#Gets everyone hyped up!<#>
+throws down!<#>
+<!-- Event ID --><#>831
+<!-- Event Name --><#>Hug
+Hug<#>
+Space case<#>
+hugs you.<#>
+<!-- Event ID --><#>832
+<!-- Event Name --><#>unsure
+unsure<#>
+Space case<#>
+doesn't know what to do.<#>
+<!-- Event ID --><#>833
+<!-- Event Name --><#>BUZZO----------------
+<!-- Event ID --><#>834
+<!-- Event Name --><#>Self Eat
+Self Eat<#>
+done.<#>
+is eating himself.<#>
+<!-- Event ID --><#>835
+<!-- Event Name --><#>Horrified
+Horrified<#>
+is horrified...<#>
+<!-- Event ID --><#>836
+<!-- Event Name --><#>Hit self.
+Hit self.<#>
+Hit yourself and go nuts!<#>
+is hitting himself.<#>
+<!-- Event ID --><#>837
+<!-- Event Name --><#>
+<!-- Event ID --><#>838
+<!-- Event Name --><#>
+<!-- Event ID --><#>839
+<!-- Event Name --><#>lost
+lost<#>
+Won't move<#>
+is lost.<#>
+<!-- Event ID --><#>840
+<!-- Event Name --><#>Wail
+Wail<#>
+Enemy cries<#>
+wails.<#>
+<!-- Event ID --><#>841
+<!-- Event Name --><#>Heart break
+Heart break<#>
+Won't move<#>
+'s heart aches.<#>
+<!-- Event ID --><#>842
+<!-- Event Name --><#>failure
+failure<#>
+Won't move<#>
+is a failure.<#>
+<!-- Event ID --><#>843
+<!-- Event Name --><#>give up.
+give up.<#>
+Won't move<#>
+has given up.<#>
+<!-- Event ID --><#>844
+<!-- Event Name --><#>miss up
+miss up<#>
+Won't move<#>
+misses you...<#>
+<!-- Event ID --><#>845
+<!-- Event Name --><#>Comfort
+Comfort<#>
+Restores HP to one ally.<#>
+comforts you.<#>
+<!-- Event ID --><#>846
+<!-- Event Name --><#>Hit self.
+Hit self.<#>
+Hit yourself and go nuts!<#>
+hates himself.<#>
+<!-- Event ID --><#>847
+<!-- Event Name --><#>Joy
+Joy<#>
+Restores HP to one ally.<#>
+takes some Joy.<#>
+<!-- Event ID --><#>848
+<!-- Event Name --><#>Toot
+Toot<#>
+plays his horn<#>
+<!-- Event ID --><#>849
+<!-- Event Name --><#>Scratch yado
+Scratch yado<#>
+Damages the enemy.<#>
+commands his beasts.<#>
+<!-- Event ID --><#>850
+<!-- Event Name --><#>
+<!-- Event ID --><#>851
+<!-- Event Name --><#>Wild Strikes
+Wild Strikes<#>
+A flash of random wild thrusts.<#>
+is getting wild!<#>
+<!-- Event ID --><#>852
+<!-- Event Name --><#>Joker Strikes
+Joker Strikes<#>
+A flash of even more random wild thrusts.<#>
+is getting wild!<#>
+<!-- Event ID --><#>853
+<!-- Event Name --><#>Sleep Bomb
+Sleep Bomb<#>
+A smoke bomb that contains sleeping powder.\#It's a 50/50 chance at putting the enemy to sleep.<#>
+is shrouded in smoke!<#>
+<!-- Event ID --><#>854
+<!-- Event Name --><#>Leech Bomb
+Leech Bomb<#>
+A smoke bomb that contains poison powder.\#It's a 50/50 chance at poisoning the enemy.<#>
+is shrouded in smoke!<#>
+<!-- Event ID --><#>855
+<!-- Event Name --><#>Mend
+Mend<#>
+Take a deep breath and recover some HP.<#>
+is shrouded in smoke!<#>
+<!-- Event ID --><#>856
+<!-- Event Name --><#>
+<!-- Event ID --><#>857
+<!-- Event Name --><#>Big Sweep
+Big Sweep<#>
+Damages the enemy.<#>
+sweeps at your legs!<#>
+<!-- Event ID --><#>858
+<!-- Event Name --><#>Spinning Club Strike
+Spinning Club Strike<#>
+Damages the enemy.<#>
+clubs at you!<#>
+<!-- Event ID --><#>859
+<!-- Event Name --><#>Wary
+Wary<#>
+is nervous...<#>
+<!-- Event ID --><#>860
+<!-- Event Name --><#>Fireblast
+Fireblast<#>
+explodes!<#>
+<!-- Event ID --><#>861
+<!-- Event Name --><#>test
+test<#>
+<!-- Event ID --><#>862
+<!-- Event Name --><#>Tear gas
+Tear gas<#>
+sprays tear gas!<#>
+<!-- Event ID --><#>863
+<!-- Event Name --><#>High kick
+High kick<#>
+high kicks!<#>
+<!-- Event ID --><#>864
+<!-- Event Name --><#>Elbow strike
+Elbow strike<#>
+A strike to the opponent's face<#>
+strikes with his elbow!<#>
+<!-- Event ID --><#>865
+<!-- Event Name --><#>Facebuster
+Facebuster<#>
+smacks your head against the knee!<#>
+<!-- Event ID --><#>866
+<!-- Event Name --><#>Poke
+Poke<#>
+pokes!<#>
+<!-- Event ID --><#>867
+<!-- Event Name --><#>Multi pokes
+Multi pokes<#>
+does one... two... nine pokes!<#>
+<!-- Event ID --><#>868
+<!-- Event Name --><#>Stab
+Stab<#>
+stabs.<#>
+<!-- Event ID --><#>869
+<!-- Event Name --><#>Power Fist
+Power Fist<#>
+Builds up for a devastating assault.<#>
+is handling real power!<#>
+<!-- Event ID --><#>870
+<!-- Event Name --><#>Stare
+Stare<#>
+stares at you.<#>
+<!-- Event ID --><#>871
+<!-- Event Name --><#>Bombard's Rage
+Bombard's Rage<#>
+tears you down!<#>
+<!-- Event ID --><#>872
+<!-- Event Name --><#>Tank
+Tank<#>
+Defend yourself<#>
+is defending himself...<#>
+<!-- Event ID --><#>873
+<!-- Event Name --><#>Bombard's combo
+Bombard's combo<#>
+tears you down!<#>
+<!-- Event ID --><#>874
+<!-- Event Name --><#>Ravage combo!
+Ravage combo!<#>
+strikes!<#>
+<!-- Event ID --><#>875
+<!-- Event Name --><#>Overdrive!
+Overdrive!<#>
+performs the O.V.E.R.D.R.I.V.E.!<#>
+<!-- Event ID --><#>876
+<!-- Event Name --><#>HUNGOVER
+HUNGOVER<#>
+is hungover.<#>
+<!-- Event ID --><#>877
+<!-- Event Name --><#>Become Armored
+Become Armored<#>
+Defend yourself<#>
+is defending himself...<#>
+<!-- Event ID --><#>878
+<!-- Event Name --><#>Limbs twist
+Limbs twist<#>
+done.<#>
+twists your limbs.<#>
+<!-- Event ID --><#>879
+<!-- Event Name --><#>Fireball
+Fireball<#>
+Deals fire damage to one enemy.<#>
+throws a fireball!<#>
+<!-- Event ID --><#>880
+<!-- Event Name --><#>
+<!-- Event ID --><#>881
+<!-- Event Name --><#>Pass Out
+Pass Out<#>
+Pass out and regain HP over time.<#>
+falls asleep...<#>
+<!-- Event ID --><#>882
+<!-- Event Name --><#>Cap Toss
+Cap Toss<#>
+tosses a cap into the eyes.<#>
+<!-- Event ID --><#>883
+<!-- Event Name --><#>Tinder Box
+Tinder Box<#>Спичечный коробок
+Gives Berny access to fire-based attacks. If he's\#unable to act, Elton does a defensive attack.<#>Даёт Бёрни возможность использовать огненные\#атаки. Если он не может ходить, Элтон производит атаку.
+lights a match.<#>зажигает спичку.
+<!-- Event ID --><#>884
+<!-- Event Name --><#>Look Out!
+Look Out!<#>Берегись!
+Warn your allies of an incoming attack.\#Applies dodge to everyone.<#>Предупредите своего союзника о приближающейся\#атаке. Накладывает на всех уклонение.
+sounds the alarm!<#>бьёт тревогу!
+<!-- Event ID --><#>885
+<!-- Event Name --><#>Tinder Box
+Tinder Box<#>Спичечный коробок
+Light a match and let your emotions out.<#>Подожгите спичку, и дайте волю своим эмоциям.
+screams with fire!<#>кричит огнём!
+<!-- Event ID --><#>886
+<!-- Event Name --><#>Groin Kick
+Groin Kick<#>Удар в пах
+A trick as dirty as it is effective. May cause stun,\#crying, and sterility. Damages Elton by 90.<#>Эффективный и грязный приём. Может вызвать оглушение, слёзы,\#и бесплодность. Наносит Элтону 90 урона.
+delivers a kick to the groin!<#>наносит удар в пах!
+<!-- Event ID --><#>887
+<!-- Event Name --><#>Groin Kick
+Groin Kick<#>Удар в пах
+delivers a kick to the groin!<#>Наносит удар в пах!
+<!-- Event ID --><#>888
+<!-- Event Name --><#>Cool Pose
+Cool Pose<#>
+Make a cool pose, recover SP.<#>
+strikes a pose!<#>
+<!-- Event ID --><#>889
+<!-- Event Name --><#>Disarming Strikes
+Disarming Strikes<#>
+Knock off the armed enemy's weapon. Damages\#Elton by 50 hp.<#>
+swings at the hand!<#>
+<!-- Event ID --><#>890
+<!-- Event Name --><#>Break Bottle
+Break Bottle<#>
+Break your bottle with a swift head for\#a devious weapon. Drains less HP while drunk.<#>
+uses his head.<#>
+<!-- Event ID --><#>891
+<!-- Event Name --><#>Get a Bottle
+Get a Bottle<#>Достать бутылку
+Grab a fragile bottle from your pocket. If you hold\#it for too long, you throw it at a random enemy.<#>Достаньте бутылку из кармана. Если вы будете держать\#её слишком долго, она будет брошена в случайного врага.
+grabs his bottle.<#>достаёт бутылку.
+<!-- Event ID --><#>892
+<!-- Event Name --><#>Glassing Attack
+Glassing Attack<#>Удар розочкой
+Break your bottle and stab the enemy right\#into the stomach.<#>Разбейте бутылку и ударьте врага прямо в живот.
+perfroms a glassing attack!<#>бьёт розочкой!
+<!-- Event ID --><#>893
+<!-- Event Name --><#>
+<!-- Event ID --><#>894
+<!-- Event Name --><#>Bottle Throw
+Bottle Throw<#>Бросок бутылки
+threw a bottle!<#>бросит бутылку!
+<!-- Event ID --><#>895
+<!-- Event Name --><#>Cap recover
+Cap recover<#>
+gets motivated by a clean shot!<#>мотивируется от точного попадания!
+<!-- Event ID --><#>896
+<!-- Event Name --><#>
+<!-- Event ID --><#>897
+<!-- Event Name --><#>Fireball
 Fireball<#>Огненный шар
-Jolly Fireball<#>Славный огненный шар
 Blast of Berny's flaming emotions.<#>Взрыв пылающих эмоций Бёрни.
 throws a fireball!<#>бросает огненный шар!
+<!-- Event ID --><#>898
+<!-- Event Name --><#>Boulder Toss
+Boulder Toss<#>Бросок булыжника
+Toss a modest boulder at the enemy's head.\#Inflicts Fallen and Weird.<#>Бросьте крупный булыжник на вражескую голову.\#Роняет и накладывает странность.
+throws a boulder!<#>бросает булыжник!
+<!-- Event ID --><#>899
+<!-- Event Name --><#>Finger Beam 1
 Finger Beam 1<#>Пальцевый луч 1
-A concentration of energy blasted from the finger.\#Gains 4-5 TP.<#>Сконцентрированная энергия, выплеснутая из пальца.\#Даёт 4-5 ОТ.
-fires a beam!<#>стреляет лучом!
-Boulder Toss<#>Бросок валуна
-Toss a modest boulder at the enemy's head.\#Inflicts Fallen and Weird.<#>Бросьте тяжёлый валун на голову врага.\#Вызывает у врага падение и странность.
-throws a boulder!<#>бросает валун!
+A concentration of energy blasted from the finger.\#Gains 4-5 TP.<#>Концентрированная энергия, выпущенная из пальца.\#Восстанавливает 4-5 ОТ.
+fires a beam!<#>стреляет лучём!
+<!-- Event ID --><#>900
+<!-- Event Name --><#>Flaming Mittens
 Flaming Mittens<#>Пылающие ладони
-The user accesses to the fire based attacks and\#recover 250 HP.<#>Использующий получает доступ к огненным\#атакам и восстанавливает 250 ОЗ.
-charges his fists with fire!<#>пробуждает пламя в ладонях!
+The user accesses to the fire based attacks and\#recover 250 HP.<#>Даёт доступ к огненным атакам и восстанавливает\#250 ОЗ.
+charges his fists with fire!<#>обвивает свои кулаки огнём!
+<!-- Event ID --><#>901
+<!-- Event Name --><#>Finger Beam 2
 Finger Beam 2<#>Пальцевый луч 2
-A powerful concentration of energy blasted\#from the finger. Makes you fall. Gains 25-30 TP.<#>Сконцентрированная энергия, выплеснутая из пальца.\#Даёт 25-30 ОТ.
-Weak Defence<#>Защита от слабостей
-Ready everyone for any hard hits. [Magic resistance,\#immunity to certain debuffs such as Fallen.]<#>Подготовьте всех к мощным атакам. (Сопротивление магии,\#иммунитет к некоторым негативным статусам, как падение.)
-takes a stance.<#>Принимает стойку.
-Pass Out<#>Вздремнуть
-Pass out and regain HP over time.<#>Вздремните и восстановите ОЗ за время сна.
-falls asleep...<#>засыпает...
-Cap Toss<#>Бросок крышки
-tosses a cap into the eyes.<#>бросает крышку прямо в глаза.
-gets motivated by a clean shot!<#>обретает уверенность от точного попадания!
-Tinder Box<#>Спичечный коробок
-Gives Berny access to fire-based attacks. If he's\#unable to act, Elton does a defensive attack.<#>Даёт Бёрни доступ к огненным атакам. Если он\#не может ходить, Элтон делает защитную атаку.
-Light a match and let your emotions out.<#>Подожгите спичку и выпустите свои эмоции.
-screams with fire!<#>кричит огнём!
-lights a match.<#>поджигает спичку.
-receives some aid from Elton!<#>получает помощь от Элтона!
-Look Out!<#>Приготовтесь!
-Warn your allies of an incoming attack.\#Applies dodge to everyone.<#>Предупредите своих союзников о приближающейся атаке.\#Применяет уклонение ко всем союзникам.
-sounds the alarm!<#>бьёт тревогу!
-Groin Kick<#>Удар в пах
-A trick as dirty as it is effective. May cause stun,\#crying, and sterility. Damages Elton by 90.<#>Трюк, настолько же грязный, насколько и эффективный. Может вызвать\#оглушение, плач, и бесплодие. Наносит Элтону 90 урона.
-delivers a kick to the groin!<#>наносит удар прямо в пах!
-Disarming Strikes<#>Обезоруживающие удары
-Knock off the armed enemy's weapon. Damages\#Elton by 50 hp.<#>Выбейте оружие у вооружённого врага. Наносит\#Элтону 50 урона.
-swings at the hand!<#>выбивает оружие из рук!
-Get a Bottle<#>Выхватить бутылку
-Grab a fragile bottle from your pocket. If you hold\#it for too long, you throw it at a random enemy.<#>Выхватите хрупкую бутылку из кармана. Если вы будете\#держать её слишком долго, вы выбросите её в случайного врага.
-grabs his bottle.<#>выхватывает бутылку.
-Cool Pose<#>Крутая поза
-Make a cool pose, recover SP.<#>Встаньте в крутую позу и восстановите ОН.
-strikes a pose!<#>встаёт в позу!
-Glassing Attack<#>Атака розочкой
-Break your bottle and stab the enemy right\#into the stomach.<#>Сломайте свою бутылку и ударьте врага\#прямо в живот.
-perfroms a glassing attack!<#>проводит атаку розочкой!
-Break Bottle<#>Сломать бутылку
-Break your bottle with a swift head for\#a devious weapon. Drains less HP while drunk.<#>Сломайте свою бутылку быстрым движением головы, чтобы\#получить грозное оружие. Отнимает меньше ОЗ при опьянении.
-uses his head.<#>работает головой.
-Dodge<#>Уклонение
-Drunken Barage<#>Пьяный барраж
-A mix of Lucha Libre and being totally shit faced.<#>Смесь знаний лучадоров и запредельного пьянства.
-is ready to rumble!<#>готов разносить!
-Slap<#>Шлепок
-gives 'em a slap!<#>шлепает его!
-(Not So) Direct Hit<#>(Не такой уж и) прямой удар
-does a headbutt!<#>ударяет головой!
-Uppercut<#>Апперкот
-uppercuts that fool!<#>ломает этого идиота апперкотом!
-uppercuts!<#>ударяет апперкотом!
-Shove<#>Толчок
-gets pushy!<#>толкается!
-Beatdown<#>Избиение
-(ASA) An uncoordinated assault on an enemy.<#>(ASA) Беспорядочное нападение на врага.
-flails his arms!<#>размахивает руками!
-Balloon Fist<#>Воздушный кулак
-Blow your fist to boost your ATK. Such power comes\#at a cost: when the boost ends, everyone gets hurt.<#>Пошлите свою руку в полёт, чтобы увеличить АТК. За такую мощь\#приходится платить: когда усиление закончится, все получат урон.
-inflates his fist! Impossible!<#>посылает свой кулак! Невозможно!
-Bite<#>Укус
-Bite M.atk<#>Укус
-bites down hard!<#>делает мощный укус!
-Gator Clamp<#>Зажим аллигатора
-does a Gator Clamp!<#>использует зажим аллигатора!
-Grope<#>Лапание
-strokes you...<#>сжимает вас...
-Roar<#>Рёв
-roars in your ear.<#>ревёт в ваши уши.
-Groin kick<#>Удар в пах
-ruins your day.<#>портит вам этот день.
-Dropkick<#>Удар в полёте
-dropkicks!<#>ударяет в полёте!
-Punch<#>Удар
-flails!<#>размахивает!
-Scratch<#>Царапание
-scratches!<#>царапается!
-Dirt Kick<#>Пинок грязи
-kicks up dirt!<#>пинается грязью!
-Back Rub<#>Массаж
-gives a massage...<#>делает массаж...
-Grin<#>Ухмылка
-is grinning at you.<#>ухмыляется вам.
-Taste<#>Попробовать
-licks you...<#>лижет вас...
-Cry<#>Плач
-Is crying deeply.<#>горько плачет.
-Blood cough<#>Кашель кровью
-coughed up blood!<#>кашляет кровью!
-Give me your mags<#>Дай мне свои журналы
-begs for your mags.<#>умоляет вас отдать свои журналы.
-Firebomb<#>Огненная бомба
-threw a firebomb!<#>бросил бомбу!
-Glare<#>Взгляд
-is glaring at you...<#>глядит на вас...
-Spraying the Eyes<#>Опрыскивание глаз
-sprays your eyes!<#>опрыскивает ваши глаза!
-Pick weapon up<#>Подбор оружия
-gets his mojo back!<#>возвращает свой инструмент!
-Big Swing<#>Широкий взмах
-swings with full force!<#>взмахивает с полной силой!
-Solid Punch<#>Твёрдый удар
-unleashes a direct hit!<#>обрушивает прямой удар!
-Stomp<#>Растаптывание
-stomps you out!<#>растаптывает вас!
-Tank<#>Танк
-Block<#>Блок
-is defending himself...<#>защищается...
-Sweep<#>Подсечка
-sweeps at your legs!<#>подсекает вас!
-Stiff Arm<#>Жёсткая рука
-gives a stiff arm!<#>напрягает руку!
-Trash Talk<#>Оскорбление
-is talking serious trash!<#>высыпает на вас мусор!
-Piledriver<#>Прогиб
-performs a Piledriver!<#>бросает прогибом!
-Chop<#>Разрубание
-chops!<#>разрубает!
-Battlecry<#>Боевой клич
-vibrates with rage!<#>содрогается яростью!
-Body Drop<#>Падение телом
-comes crashing down!<#>обрушивается на противника!
-Bottle Throw M.atk<#>Бросок бутылки
-Bottle Throw<#>Бросок бутылки
-threw a bottle!<#>бросил бутылку!
-Geyser of Garbage<#>Гейзер мусора
-unleashes The Geyser!<#>обрушивает гейзер!
-Hook Kick<#>Удар крюком
-hook kicks!<#>ударяет крюком!
-Deer Horn<#>Олений рог
-Wizard Poke<#>Тычок мага
-pokes at the vital points!<#>делает тычок в жизненно-важные органы!
-Eat<#>Еда
-stuffs something in his mouth.<#>что-то запихивает в рот.
-Kick<#>Пинок
-kicks!<#>пинает!
-Smoke Bomb<#>Дымовая бомба
-is shrouded in smoke!<#>окутан дымом!
-Brain Chop<#>Удар по мозгу
-performs a brain chop!<#>ударяет по мозгам!
-Headbutt<#>Удар головой
-headbutts!<#>ударяет головой!
-Yell<#>Крик
-screams.<#>кричит.
-Demoralising Puke<#>Деморализующая рвота
-vomits on you!<#>блюёт на вас!
-Banging head<#>Битьё головой
-bangs his head against the ground!<#>бьётся головой о землю!
-Big slice<#>Широкий порез
-Slice<#>Порез
-swings!<#>взмахивает оружием!
-Triple Attack<#>Тройная атака
-goes buck wild!<#>идёт вразнос!
-Shove<#>Толчок
-is pushy.<#>толкается.
-Drink beer<#>Выпить пива
-kills his liver.<#>убивает свою печень.
-Flaming Tubiteika<#>Пылающая тюбитейка
-charges himself with fire!<#>поджигает самого себя!
-Persecution<#>Травля
-incites!<#>провоцирует!
-Cough<#>Кашель
-coughs.<#>кашляет.
-Club Strike<#>Удар битой
-clubs at you!<#>ударяет битой!
-Growling Tackle<#>Громовой толчок
-charges you!<#>бежит на вас!
-Double punch<#>Двойной удар
-unleashes direct hits!<#>обрушивает прямые удары!
-Realization<#>Осознание
-realized he's outnumbered!<#>осознаёт, что он в меньшинстве!
-Scruff Throw<#>Бросок за шиворот
-throws you at the wall!<#>бросает вас в стену!
-Power Fist<#>Кулак силы
-is handling real power!<#>обретает истинную силу!
-Bombard's combo<#>Комбо Бомбарда
-tears you down!<#>разрывает вас!
-Elbow strike<#>Удар локтем
-strikes with his elbow!<#>ударяет вас локтем!
-Tiger Suplex<#>Суплес тигра
-performs a Tiger Suplex!<#>использует суплес тигра!
-Steel Chair<#>Железный стул
-has a foreign object!<#>взял сторонний объект!
-Rage build!<#>Озверение!
-vibrates with rage!<#>содрогается яростью!
-Mud Cannon<#>Грязевая пушка
-shoots mud out of the hand!<#>стреляет грязью из руки!
-Edge Closer<#>Приближение
-gets closer to you.<#>приближается к вам.
-SP drain<#>Высасывание ОН
-drains your energy!<#>высасывает вашу энергию!
-Mud Vomit<#>Рвота грязью
-vomits on you.<#>блюёт на вас.
-Torpedo<#>Торпеда
-fires a torpedo!<#>выпускает торпеду!
-Releasing Harpoon<#>Вытаскивание гарпуна
-draws its harpoon!<#>вытаскивает свой гарпун!
-Aim<#>Прицеливание
-tries to aim...<#>пытается прицелиться...
-Harpoon<#>Гарпун
-fires its harpoon!<#>стреляет из гарпуна!
-Hypnosis<#>Гипноз
-hypnotises you!<#>гипнотизирует вас!
-Fly near Ear<#>Пролёт мимо уха
-flies past your ear.<#>пролетает мимо вашего уха.
-Ironbody<#>Железное тело
-is flexing hard!<#>сильно напрягается!
-Defend Friend<#>Защита друга
-is trying to defend his friend.<#>пытается защитить своего друга.
-Seriously?<#>Серьёзно?
-is astounded by your stupidity.<#>ошеломлён вашей тупостью.
-Devastating Chomp<#>Уничтожающий укус
-bites your head!<#>откусывает вашу голову!
-Bash with weapon<#>Удар оружием
-bashes you with his weapon!<#>ударяет вас своим оружием!
-Cannon Jam<#>Клин пушки
-'s cannon is jamming.<#>испытывает проблемы с пушкой.
-Mongolian Chop<#>Монгольское разрубание
-performs a Mongolian Chop!<#>разрубает по-монгольски!
-Claw Attack<#>Удар когтями
-slashes!<#>разрубает!
-Hide<#>Спрятан
-hides behind a bush.<#>прячется в кустах.
-Jackpot discharge<#>Разряд джекпота
-discharges electricity!<#>разряжает электричество!
-Bite and tear<#>Рвать и метать
-tears you in pieces!<#>Разрывает вас на кусочки!
-AntiBuff<#>Анти-бонусы
-Weird Gas<#>Странный газ
-blew a weird gas at you.<#>навеял на вас странный газ.
-Unnerving Energy<#>Пугающая энергия
-unnerves you.<#>пугает вас.
-Exhaust<#>Выхлоп
-blew forth exhaust!<#>газанул!
-Knife Hand<#>Рука-нож
-chops like a knife!<#>разрубает рукой, словно ножом!
-Water Bottle Throw<#>Бросок бутылки с водой
-threw a bottle of water!<#>бросил бутылку воды!
-Bombard's Rage<#>Гнев Бомбарда
-Hard stomp<#>Сильное растаптывание
-stomps at your chest.<#>растаптывает вашу грудь.
-Weaker combo<#>Слабое комбо
-Gearing up for Bonebreak<#>Приготовление к костолому
-spreads his hands strangely.<#>странно распахивает руки.
-Diving into the chest<#>Нырок в грудь
-concentrates on your chest...<#>концентрируется на вашей груди...
-Heart Squeeze<#>Выжимание сердца
-squeezes your heart!<#>выжимает ваше сердце!
-Bone Break<#>Костолом
-breaks your bones!<#>ломает ваши кости!
-Nausea<#>Тоншота
-feels nauseous.<#>чувствует тошноту.
-Bully [MALTEN]<#>Задирание
-bullies you.<#>задирает вас.
-Pump Up<#>Подкачка
-is going crazy.<#>безумствует.
-Puke<#>Рвота
-pukes!<#>вырывает!
-Combo 1<#>Комбо 1
-rumbles!<#>разносит!
-Cue Joust<#>Удар кием
-rams you with his cue!<#>пронзает вас своим кием!
-Strike<#>Удар
-bashes you with a crowbar!<#>ударяет вас монтировкой!
-Shred<#>Разрывание
-swings at full force!<#>бьёт с полной силой!
-Sharp strike<#>Острый удар
-strikes with crowbar's claw!<#>наносит удар колом монтировки!
-Fast Sandwich<#>Быстрый перекус
-stuffs a sandwich in his mouth.<#>запихивает сэндвич себе в рот.
-sweeps at your legs with a crowbar.<#>подсекает вас ударом монтировки.
-Dirt sweep<#>Бросок грязи
-sweeps up dirt!<#>бросает грязь!
-Club Joust<#>Удар битой
-rams you with his bat!<#>ударяет вас своей битой!
-Club Combo<#>Комбо битой
-clubs lke mad!<#>размахивает, как безумец!
-Beretta jab<#>Беретта-джеб
-throws jabs!<#>ударяет джебом!
-Lunatic trash Slam 1<#>Удар безумной мусорки 1
-Lunatic trash Slam 2<#>Удар безумной мусорки 2
-jumps at you!<#>напрыгивает на вас!
-QUINT FF<#>КВИНТ ФФ
-is preparing to attack!<#>готовится к атаке!
+A powerful concentration of energy blasted\#from the finger. Makes you fall. Gains 25-30 TP.<#>Мощная концентрированная энергия, выпущенная из\#пальца. Роняет вас. Восстанавливает 25-30 ОТ.
+fires a beam!<#>выстреливает лучом!
+<!-- Event ID --><#>902
+<!-- Event Name --><#>
+<!-- Event ID --><#>903
+<!-- Event Name --><#>
+<!-- Event ID --><#>904
+<!-- Event Name --><#>Weak Defence
+Weak Defence<#>
+Ready everyone for any hard hits. [Magic resistance,\#immunity to certain debuffs such as Fallen.]<#>
+takes a stance.<#>
+<!-- Event ID --><#>905
+<!-- Event Name --><#>NORACOON------------
+<!-- Event ID --><#>906
+<!-- Event Name --><#>Boulder Toss
+Boulder Toss<#>Бросок булыжника
+Toss a modest boulder at the enemy's head.\#Inflicts Fallen and Weird.<#>Бросьте крупный булыжник на вражескую голову.\#Роняет и накладывает странность.
+throws a boulder!<#>бросает булыжник!
+<!-- Event ID --><#>907
+<!-- Event Name --><#>Finger Beam 1
+Finger Beam 1<#>
+A concentration of energy blasted from the finger.\#Gains 4-5 TP.<#>
+fires a beam!<#>
+<!-- Event ID --><#>908
+<!-- Event Name --><#>Flaming Mittens
+Flaming Mittens<#>
+The user accesses to the fire based attacks and\#recover 250 HP.<#>
+charges his fists with fire!<#>
+<!-- Event ID --><#>909
+<!-- Event Name --><#>Weak Defence
+Weak Defence<#>
+Ready everyone for any hard hits. [Magic resistance,\#immunity to certain debuffs such as Fallen.]<#>
+takes a stance.<#>
+<!-- Event ID --><#>910
+<!-- Event Name --><#>Fireball
+Fireball<#>
+Blast of Berny's flaming emotions.<#>
+throws a fireball!<#>
+<!-- Event ID --><#>911
+<!-- Event Name --><#>Dodge
+Dodge<#>
+takes a stance.<#>
+<!-- Event ID --><#>912
+<!-- Event Name --><#>Hard stomp
+Hard stomp<#>
+Stomp a mudhole in your ass.<#>
+stomps at your chest.<#>
+<!-- Event ID --><#>913
+<!-- Event Name --><#>Cat foot stance
+Cat foot stance<#>
+does a Cat Foot stance!<#>
+<!-- Event ID --><#>914
+<!-- Event Name --><#>Immovable stance
+Immovable stance<#>
+does a Immovable stance!<#>
+<!-- Event ID --><#>915
+<!-- Event Name --><#>Back stance
+Back stance<#>
+does a back stance!<#>
+<!-- Event ID --><#>916
+<!-- Event Name --><#>Hand Stab
+Hand Stab<#>
+done.<#>
+stabs.<#>
+<!-- Event ID --><#>917
+<!-- Event Name --><#>Rock out
+Rock out<#>
+rocks out!<#>
+<!-- Event ID --><#>918
+<!-- Event Name --><#>Border jump
+Border jump<#>
+The enemy jumps on the ring's border and crashes\#you down.<#>
+comes crashing down!<#>
+<!-- Event ID --><#>919
+<!-- Event Name --><#>Combo 1
+Combo 1<#>
+rumbles!<#>
+<!-- Event ID --><#>920
+<!-- Event Name --><#>Flaming Mittens
+Flaming Mittens<#>
+The user accesses to the fire based attacks.<#>
+charges his fists with fire!<#>
+<anti fail>\#norac<#>
+<!-- Event ID --><#>921
+<!-- Event Name --><#>
+<!-- Event ID --><#>922
+<!-- Event Name --><#>BAD DODGES------------
+<!-- Event ID --><#>923
+<!-- Event Name --><#>Dodge maybe
+Dodge maybe<#>
+Makes you dodge.<#>
+gets outta here!<#>
+<!-- Event ID --><#>924
+<!-- Event Name --><#>Dodge
+Dodge<#>
+Makes you dodge.<#>
+gets outta here!<#>
+<!-- Event ID --><#>925
+<!-- Event Name --><#>Dodging stance
+Dodging stance<#>
+Allows the user to dodge all incoming attacks.<#>
+takes a stance.<#>
+<!-- Event ID --><#>926
+<!-- Event Name --><#>
+<!-- Event ID --><#>927
+<!-- Event Name --><#>
+<!-- Event ID --><#>928
+<!-- Event Name --><#>Jolly Fireball
+Jolly Fireball<#>
+Deals fire damage to one enemy.<#>
+throws a fireball!<#>
+<!-- Event ID --><#>929
+<!-- Event Name --><#>
+<!-- Event ID --><#>930
+<!-- Event Name --><#>Blue Tsunami
+Blue Tsunami<#>
+summons a Blue Tsunami!<#>
+<!-- Event ID --><#>931
+<!-- Event Name --><#>Brush attack
+Brush attack<#>
+utilized a paint attack!<#>
+<!-- Event ID --><#>932
+<!-- Event Name --><#>Puke
+Puke<#>
+pukes!<#>
+<!-- Event ID --><#>933
+<!-- Event Name --><#>Nausea
+Nausea<#>
+feels nauseous.<#>
+<!-- Event ID --><#>934
+<!-- Event Name --><#>Paint lick
+Paint lick<#>
+licks his brush..?<#>
+<!-- Event ID --><#>935
+<!-- Event Name --><#>Cold Breath
+Cold Breath<#>
+breaths into your face.<#>
+<!-- Event ID --><#>936
+<!-- Event Name --><#>Headbutt
+Headbutt<#>
+headbutts!<#>
+<!-- Event ID --><#>937
+<!-- Event Name --><#>Dropkick
+Dropkick<#>
+dropkicks!<#>
+<!-- Event ID --><#>938
+<!-- Event Name --><#>Shove
+Shove<#>
+Damages the enemy.<#>
+is pushy.<#>
+<!-- Event ID --><#>939
+<!-- Event Name --><#>Bash
+Bash<#>
+bashes!<#>
+<!-- Event ID --><#>940
+<!-- Event Name --><#>Bully
+Bully<#>
+Picks a victim.<#>
+chose a victim.<#>
+<!-- Event ID --><#>941
+<!-- Event Name --><#>Persecution
+Persecution<#>
+Picks a victim.<#>
+incites!<#>
+<!-- Event ID --><#>942
+<!-- Event Name --><#>Pick weapon up
+Pick weapon up<#>
+Pick it back up!<#>
+gets his mojo back!<#>
+<!-- Event ID --><#>943
+<!-- Event Name --><#>Push
+Push<#>
+Damages the enemy.<#>
+is pushy.<#>
+<!-- Event ID --><#>944
+<!-- Event Name --><#>Strong Shove
+Strong Shove<#>
+Damages the enemy.<#>
+pushes you madly.<#>
+<!-- Event ID --><#>945
+<!-- Event Name --><#>Bully [MALTEN]
+Bully [MALTEN]<#>
+Picks a victim.<#>
+bullies you.<#>
+<!-- Event ID --><#>946
+<!-- Event Name --><#>Flaming Tubiteika 
+Flaming Tubiteika<#>
+charges himself with fire!<#>
+<!-- Event ID --><#>947
+<!-- Event Name --><#>
+<!-- Event ID --><#>948
+<!-- Event Name --><#>Poison bomb
+Poison bomb<#>
+throws a bomb!<#>
+<!-- Event ID --><#>949
+<!-- Event Name --><#>Fluster bomb
+Fluster bomb<#>
+A flustering bomb.<#>
+throws a bomb!<#>
+<!-- Event ID --><#>950
+<!-- Event Name --><#>
+<!-- Event ID --><#>951
+<!-- Event Name --><#>Poison Mist
+Poison Mist<#>
+a spit of mist.<#>
+sprays a mist!<#>
+<!-- Event ID --><#>952
+<!-- Event Name --><#>Cannon Jam
+Cannon Jam<#>
+Space case<#>
+'s cannon is jamming.<#>
+<!-- Event ID --><#>953
+<!-- Event Name --><#>Crab Snatch
+Crab Snatch<#>
+'s crab snatches the enemy!<#>
+<!-- Event ID --><#>954
+<!-- Event Name --><#>Crab Snatches you
+Crab Snatches you<#>
+'s crab is acting rebellious.<#>
+<!-- Event ID --><#>955
+<!-- Event Name --><#>Plan B
+Plan B<#>
+shoots himself.<#>
+<!-- Event ID --><#>956
+<!-- Event Name --><#>Revolver Flag
+Revolver Flag<#>
+is being intimidating.<#>
+<!-- Event ID --><#>957
+<!-- Event Name --><#>Crab Nothing
+Crab Nothing<#>
+'s crab snatches the enemy!<#>
+<!-- Event ID --><#>958
+<!-- Event Name --><#>Shoot salt
+Shoot salt<#>
+Damages the enemy.<#>
+shoots salt!<#>
+<!-- Event ID --><#>959
+<!-- Event Name --><#>
+<!-- Event ID --><#>960
+<!-- Event Name --><#>
+<!-- Event ID --><#>961
+<!-- Event Name --><#>TEASER===========
+TEASER===========<#>
+<!-- Event ID --><#>962
+<!-- Event Name --><#>Berny's TP
+Berny's TP<#>
+<!-- Event ID --><#>963
+<!-- Event Name --><#>Big Cue Joust
+Big Cue Joust<#>
+Damages the enemy.<#>
+rams you with his cue!<#>
+<!-- Event ID --><#>964
+<!-- Event Name --><#>Berny's TP 2
+Berny's TP 2<#>
+<!-- Event ID --><#>965
+<!-- Event Name --><#>Weaker combo
+Weaker combo<#>
+tears you down!<#>
+<!-- Event ID --><#>966
+<!-- Event Name --><#>
+<!-- Event ID --><#>967
+<!-- Event Name --><#>
+<!-- Event ID --><#>968
+<!-- Event Name --><#>
+<!-- Event ID --><#>969
+<!-- Event Name --><#>
+<!-- Event ID --><#>970
+<!-- Event Name --><#>Beretta jab
+Beretta jab<#>
+Damages the enemy.<#>
+throws jabs!<#>
+<!-- Event ID --><#>971
+<!-- Event Name --><#>-140
+-140<#>
+Feeling pain sucks.<#>
+is motionless!<#>
+<!-- Event ID --><#>972
+<!-- Event Name --><#>Shove FF
+Shove FF<#>
+Damages the enemy.<#>
+is pushy.<#>
+<!-- Event ID --><#>973
+<!-- Event Name --><#>Kick FF
+Kick FF<#>
+Damages the enemy.<#>
+kicks!<#>
+<!-- Event ID --><#>974
+<!-- Event Name --><#>Punch FF
+Punch FF<#>
+Damages the enemy.<#>
+flails!<#>
+<!-- Event ID --><#>975
+<!-- Event Name --><#>QUINT FF
+QUINT FF<#>
+is preparing to attack!<#>
+<!-- Event ID --><#>976
+<!-- Event Name --><#>Scruff Throw
+Scruff Throw<#>
+Damages the enemy.<#>
+throws you at the wall!<#>
+<!-- Event ID --><#>977
+<!-- Event Name --><#>Give me your mags
+Give me your mags<#>
+begs for your mags.<#>
+<!-- Event ID --><#>978
+<!-- Event Name --><#>Kick FF
+Kick FF<#>
+Damages the enemy.<#>
+kicks!<#>
+<!-- Event ID --><#>979
+<!-- Event Name --><#>Club Joust FF
+Club Joust FF<#>
+Damages the enemy.<#>
+rams with his bat!<#>
+<!-- Event ID --><#>980
+<!-- Event Name --><#>Club Combo FF
+Club Combo FF<#>
+Damages the enemy.<#>
+clubs like mad!<#>
+<!-- Event ID --><#>981
+<!-- Event Name --><#>Club Strike FF
+Club Strike FF<#>
+Damages the enemy.<#>
+clubs at him!<#>
+<!-- Event ID --><#>982
+<!-- Event Name --><#>Dirt Kick FF
+Dirt Kick FF<#>
+kick dirt in the eyes of the enemy<#>
+kicks up dirt!<#>
+<!-- Event ID --><#>983
+<!-- Event Name --><#>-90
+-90<#>
+Getting old sucks.<#>
+is too old.<#>
+<!-- Event ID --><#>984
+<!-- Event Name --><#>+paralysis
++paralysis<#>
+can't move!<#>
+<!-- Event ID --><#>985
+<!-- Event Name --><#>bottle gone
+bottle gone<#>
+'s bottle has broke completely.<#>
+<!-- Event ID --><#>986
+<!-- Event Name --><#>Headbutt -20
+Headbutt -20<#>
+feels the pain.<#>
+<!-- Event ID --><#>987
+<!-- Event Name --><#>Headbutt -80
+Headbutt -80<#>
+feels the pain.<#>
+<!-- Event ID --><#>988
+<!-- Event Name --><#>Sleep HUNGOVER
+Sleep HUNGOVER<#>
+Pass out and recover HP.<#>
+is sleeping.<#>
+<!-- Event ID --><#>989
+<!-- Event Name --><#>Remove Goldenbody
+Remove Goldenbody<#>
+'s defence was shattered!<#>
+<!-- Event ID --><#>990
+<!-- Event Name --><#>-50
+-50<#>
+Getting old sucks.<#>
+is too old.<#>
+<!-- Event ID --><#>991
+<!-- Event Name --><#>Tiger Toss
+Tiger Toss<#>
+Enemy grabs you and throws over himself.<#>
+ends you.<#>
+<!-- Event ID --><#>992
+<!-- Event Name --><#>Heal
+Heal<#>
+gets up.<#>
+<!-- Event ID --><#>993
+<!-- Event Name --><#>Power Fist II
+Power Fist II<#>
+Enemy prepares himself.<#>
+prepares to smack your shit.<#>
+<!-- Event ID --><#>994
+<!-- Event Name --><#>Wary all
+Wary all<#>
+- Damn.<#>
+has intimidated you.<#>
+<!-- Event ID --><#>995
+<!-- Event Name --><#>Neck Break
+Neck Break<#>
+Something isn't right...<#>
+broke your neck.<#>
+<!-- Event ID --><#>996
+<!-- Event Name --><#>Horrified all
+Horrified all<#>
+has scared you.<#>
+<!-- Event ID --><#>997
+<!-- Event Name --><#>Wary all
+Wary all<#>
+- Damn.<#>
+has intimidated you.<#>
+<!-- Event ID --><#>998
+<!-- Event Name --><#>Presence
+Presence<#>
+is sinister.<#>
+<!-- Event ID --><#>999
+<!-- Event Name --><#>+fallen
++fallen<#>
+fell to the ground!<#>

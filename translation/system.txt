@@ -1,39 +1,118 @@
-Skills<#>Умения
-Powers<#>Силы
-Magic<#>Магия
+<!-- System Entry --><#>Armor Types
+Shawl<#>
+Blouse<#>
+Manly<#>
+Nude<#>
+Small Shield<#>
+Large Shield<#>
+Poncho<#>
+Accessory<#>
+Mask<#>
+Hat<#>
+Bald<#>
+Fish Head<#>
+Tiger Head<#>
+Odd Helmet<#>
+Bird Head<#>
+Belt<#>
+Belt Berny<#>
+Patch<#>
+Glasses<#>
+<!-- System Entry --><#>Elements
+Physical<#>
+Absorb<#>
+Fire<#>
+Heavy Armor<#>
+Pierce<#>
+Slice<#>
+Earth<#>
+Water<#>
+Holy<#>
+Dark<#>
+Gentle<#>
+Rough<#>
+Loving<#>
+Biting<#>
+Human<#>
+Unknown<#>
+Crushing<#>
+Slam<#>
+Thunder<#>
+<!-- System Entry --><#>Skill Types
+Skills<#>Навыки
+Powers<#>
+Hints<#>
+Topics<#>
+Dozing<#>
+Seduction<#>
+Punjabi Poke<#>
+Songs<#>
+Peckings<#>
+Advisory<#>
+Blades<#>
+Dance<#>
+Magic<#>
+Draw<#>
+Kat<#>
+Critters<#>
+Stances<#>
+Killer moves<#>
+<!-- System Entry --><#>Weapon Types
+Boomerang<#>
+Wristband<#>
+Spear<#>
+Sword<#>
+Katana<#>
+Bow<#>
+Knife<#>
+Hammer<#>
+Staff<#>
+Handgun<#>
+Six Shooter<#>
+Sub Machine Gun<#>
+Club<#>
+Guitars<#>
+Cards<#>
+Pencil<#>
+Whip<#>
+Duffel Bag<#>
+Box<#>
+Glove<#>
+<!-- System Entry --><#>Terms
 MaxHP<#>Макс. ОЗ
 MaxSP<#>Макс. ОН
 ATK<#>АТК
 DEF<#>ЗЩТ
 S.ATK<#>СП. АТК
 S.DEF<#>СП. ЗЩТ
-AGI<#>СКОР
-LUCK<#>УДЧ
+AGI<#>ЛОВ
+LUCK<#>УДАЧА
 Weapon<#>Оружие
 Shield<#>Щит
 Head<#>Голова
 Body<#>Тело
 Accessory<#>Аксессуар
-Fight<#>Сражаться
-Escape<#>Бежать
+Fight<#>Битва
+Escape<#>Побег
 Attack<#>Атака
 Guard<#>Защита
 Items<#>Предметы
+Skills<#>Навыки
 Equipment<#>Экипировка
 Status<#>Статус
-Formation<#>Построение
-Save<#>Сохранить
-Quit<#>Выйти
+Formation<#>Расстановка
+Save<#>Сохранение
+Quit<#>Выход
 Weapons<#>Оружие
-Armours<#>Броня
-Key Items<#>Ключ. пред.
+Armours<#>Защита
+Key Items<#>Ключевые предметы
 Change<#>Изменить
-Optimize<#>Оптимиз.
+Optimize<#>Оптимизировать
 Clear<#>Очистить
 New Game<#>Новая игра
 Continue<#>Продолжить
 To Title<#>В меню
-Cancel<#>Отменить
+Cancel<#>Отмена
 Level<#>Уровень
 LV<#>УР
 Health Points<#>Очки здоровья
@@ -42,5 +121,7 @@ Skill Points<#>Очки навыков
 SP<#>ОН
 Tech Points<#>Очки техники
 TP<#>ОТ
+<!-- System Entry --><#>Currency Unit
 Mags<#>Журналы
+<!-- System Entry --><#>Game Title
 Lisa the Timeless<#>LISA: The Timeless

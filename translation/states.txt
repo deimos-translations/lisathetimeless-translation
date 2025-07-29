@@ -1,225 +1,605 @@
+<!-- Event ID --><#>1
+<!-- Event Name --><#>KO'ed
 KO'ed<#>Нокаут
-has fallen!<#>был повержен!
-is out!<#>вышел из строя!
-revives!<#>встаёт на ноги
+has fallen!<#>
+is out!<#>
+revives!<#>
+State #1 will be automatically added when\#HP reaches 0.\#\#<popup hide add>\#<popup hide rem>\#<popup hide dur><#>
+<!-- Event ID --><#>2
+<!-- Event Name --><#>Poison
 Poison<#>Отравление
-is poisoned!<#>отравлен!
+is poisoned!<#>
 is freed of poison!<#>оправился от яда!
+<!-- Event ID --><#>3
+<!-- Event Name --><#>Blind
 Blind<#>Слепота
 becomes blind!<#>ослепает!
-is blinded!<#>ослеплен!
-is no longer blinded!<#>больше не слеп!
+is blinded!<#>ослеплён!
+is no longer blinded!<#>больше не ослеплён!
+<!-- Event ID --><#>4
+<!-- Event Name --><#>Silence
 Silence<#>Заглушение
-doesn't feel worthwhile.<#>не чувствует себя стоящим.
-wants to do cool moves again!<#>снова хочет делать крутые действия!
+doesn't feel worthwhile.<#>
+wants to do cool moves again!<#>
+<!-- Event ID --><#>5
+<!-- Event Name --><#>Confusion
 Confusion<#>Замешательство
-became very confused...<#>глубоко замешан...
-is confused...<#>замешан...
-is no longer confused!<#>больше не замешан!
+became very confused...<#>
+is confused...<#>
+is no longer confused!<#>
+<!-- Event ID --><#>6
+<!-- Event Name --><#>Sleep
 Sleep<#>Сон
-falls asleep!<#>впадает в сон!
-is sleeping...<#>спит...
-wakes up!<#>пробуждается!
+falls asleep!<#>
+is sleeping...<#>
+wakes up!<#>
+<!-- Event ID --><#>7
+<!-- Event Name --><#>Scared
 Scared<#>Страх
-is scared...<#>напуган...
-is scared stiff.<#>сильно напуган.
-is no longer afraid!<#>больше не боится!
+is scared...<#>
+is scared stiff.<#>
+is no longer afraid!<#>
+<!-- Event ID --><#>8
+<!-- Event Name --><#>Stun
 Stun<#>Оглушение
-is stunned!<#>оглушён!
-regains focus!<#>собирается с силами!
+is stunned!<#>
+regains focus!<#>
+<!-- Event ID --><#>9
+<!-- Event Name --><#>Guard
 Guard<#>Защита
-Alive<#>Жив
-Cover<#>Защитить
-Rage<#>Гнев
-became enraged!<#>впадает в гнев!
-is enraged!<#>в гневе!
-calmed down.<#>успокоился.
-Hide<#>Прячется
-is hiding.<#>прячется.
-was found!<#>был найден!
-Bottle<#>Бутылка
+<!-- Event ID --><#>10
+<!-- Event Name --><#>Alive
+Alive<#>
+<!-- Event ID --><#>11
+<!-- Event Name --><#>Cover
+Cover<#>Укрытие
+<!-- Event ID --><#>12
+<!-- Event Name --><#>Rage
+Rage<#>Ярость
+became enraged!<#>впадает в ярость!
+is enraged!<#>наполняется злобой!
+calmed down.<#>успокаивается.
+<!-- Event ID --><#>13
+<!-- Event Name --><#>Hide
+Hide<#>Укрытие
+is hiding.<#>укрывается.
+was found!<#>обнаружен!
+<!-- Event ID --><#>14
+<!-- Event Name --><#>Bottle
+Bottle<#>
+<!-- Event ID --><#>15
+<!-- Event Name --><#>
+<!-- Event ID --><#>16
+<!-- Event Name --><#>Broken Bones
 Broken Bones<#>Сломанные кости
-got some bones shattered!<#>получил пару переломов!
+got some bones shattered!<#>получил несколько переломов!
 feels the crunch!<#>слышит хруст!
-'s bones are mended!<#>восстановил кости!
+'s bones are mended!<#>залатывает раны!
+<!-- Event ID --><#>17
+<!-- Event Name --><#>Ironbody
 Ironbody<#>Железное тело
-is buffed up!<#>подкачался!
-Counterattack<#>Контр-атака
+is buffed up!<#>напрягает мышцы!
+<!-- Event ID --><#>18
+<!-- Event Name --><#>Counterattack
+Counterattack<#>
+<!-- Event ID --><#>19
+<!-- Event Name --><#>Speedy
 Speedy<#>Скорость
+<!-- Event ID --><#>20
+<!-- Event Name --><#>Solid
 Solid<#>Твёрдость
-assumes a firm stance!<#>принимает крепкую стойку!
-is immovable!<#>непоколебим!
+assumes a firm stance!<#>принимает твёрдую стойку!
+is immovable!<#>несдвигаем!
 lost his footing.<#>потерял равновесие.
-Fire Force<#>Сила огня
-acquires the power of fire!<#>обуздывает силу огня!
-Ice Force<#>Сила льда
-acquires the power of ice!<#>обуздывает силу льда!
-Geared Up<#>Снаряжён
-Ailment Guard<#>Защита от недугов
-MP Cost Down<#>Понижение стоимости ОН
+<!-- Event ID --><#>21
+<!-- Event Name --><#>Fire Force
+Fire Force<#>
+acquires the power of fire!<#>
+<!-- Event ID --><#>22
+<!-- Event Name --><#>Ice Force
+Ice Force<#>
+acquires the power of ice!<#>
+<!-- Event ID --><#>23
+<!-- Event Name --><#>Geared Up
+Geared Up<#>Наготове
+became enraged!<#>впадает в ярость!
+is enraged!<#>наполнен яростью!
+calmed down.<#>успокаивается.
+<!-- Event ID --><#>24
+<!-- Event Name --><#>Ailment Guard
+Ailment Guard<#>
+<!-- Event ID --><#>25
+<!-- Event Name --><#>MP Cost Down
+MP Cost Down<#>
+<!-- Event ID --><#>26
+<!-- Event Name --><#>Burning
 Burning<#>Горение
-is on fire!<#>горит!
-'s flames went out!<#>затушил огонь!
+is on fire!<#>в огне!
+'s flames went out!<#>потушил огонь!
+<!-- Event ID --><#>27
+<!-- Event Name --><#>Deep Poison
 Deep Poison<#>Сильное отравление
-is poisoned badly!<#>сильно отравлен!
+is poisoned badly!<#>тяжело отравлен!
+is freed of poison!<#>оправляется от отравления!
+<!-- Event ID --><#>28
+<!-- Event Name --><#>Wary
 Wary<#>Беспокойство
 is on the edge!<#>на грани!
-is stressed!<#>боится!
-is stressing out!<#>боится!
-gets a grip!<#>берет себя в руки!
-Crying<#>Плач
+is stressed!<#>на нервах!
+is stressing out!<#>беспокоится!
+gets a grip!<#>берёт себя в руки!
+<!-- Event ID --><#>29
+<!-- Event Name --><#>Crying
+Crying<#>Слёзы
 is tearing up.<#>разражается слезами.
 is crying<#>плачет.
-stopped crying<#>прекратил плакать.
+stopped crying<#>прекращает плакать.
+<!-- Event ID --><#>30
+<!-- Event Name --><#>Paralysis
 Paralysis<#>Паралич
-becomes paralyzed!<#>был парализован!
+becomes paralyzed!<#>парализован!
 is paralyzed!<#>парализован!
-is unable to move!<#>неспособен двигаться!
-is no longer paralyzed!<#>больше не парализован!
+is unable to move!<#>не может двинуться!
+is no longer paralyzed!<#>снова может двигаться!
+<!-- Event ID --><#>31
+<!-- Event Name --><#>Weird
 Weird<#>Странность
-starts to feel weird...<#>чувствует себя странно...
+starts to feel weird...<#>обретает странное чувство...
 feels weird...<#>чувствует себя странно...
 feels relieved.<#>чувствует облегчение.
+<!-- Event ID --><#>32
+<!-- Event Name --><#>Bleed
 Bleed<#>Кровотечение
-'s been cut open!<#>получил открытую рану!
+'s been cut open!<#>был вспорот!
 is bleeding out!<#>истекает кровью!
-stopped bleeding!<#>остановил кровотечение!
+stopped bleeding!<#>останавливает кровотечение!
+<!-- Event ID --><#>33
+<!-- Event Name --><#>Hungover
 Hungover<#>Похмелье
-is hungover.<#>с похмелья.
+is hungover.<#>страдает от похмелья.
 sobered up.<#>протрезвел.
+<!-- Event ID --><#>34
+<!-- Event Name --><#>Drunk
 Drunk<#>Опьянение
 is drunk.<#>пьян.
+sobered up.<#>протрезвел.
+<!-- Event ID --><#>35
+<!-- Event Name --><#>Stink
 Stink<#>Вонь
-Pissed<#>Ярость
-is pissed!<#>в ярости!
+<!-- Event ID --><#>36
+<!-- Event Name --><#>Pissed
+Pissed<#>Гнев
+is pissed!<#>разгневан!
 is a lunatic! Watch out!<#>безумствует! Осторожно!
-Taunt<#>Насмешка
+calmed down.<#>успокаивается.
+<!-- Event ID --><#>37
+<!-- Event Name --><#>Taunt
+Taunt<#>Провокация
 is attracting attention!<#>привлекает внимание!
-lost everyone's attention.<#>потерял чужое внимание.
+lost everyone's attention.<#>теряет чужое внимание.
+<!-- Event ID --><#>38
+<!-- Event Name --><#>Withdrawal
 Withdrawal<#>Ломка
-is craving Joy.<#>жаждет Джой.
-fought off his craving.<#>поборол жажду.
+is craving Joy.<#>жаждет Джоя.
+fought off his craving.<#>преодолевает ломку.
+<!-- Event ID --><#>39
+<!-- Event Name --><#>Joyed
 Joyed<#>Радость
-is over Joyed.<#>вне себя от радости.
-is no longer happy...<#>больше не радостен...
+is over Joyed.<#>переполнен радостью.
+is no longer happy...<#>больше не счастлив...
+<!-- Event ID --><#>40
+<!-- Event Name --><#>Poison
+Poison<#>Отравление
+is poisoned badly!<#>тяжело отравлен!
+is freed of poison!<#>оправляется от отравления!
+<!-- Event ID --><#>41
+<!-- Event Name --><#>Fallen
 Fallen<#>Падение
-has fallen down!<#>упал!
+has fallen down!<#>падает!
 is trying to get up!<#>пытается встать!
 is back to their feet!<#>снова на ногах!
+<!-- Event ID --><#>42
+<!-- Event Name --><#>Cool
 Cool<#>Крутость
+<!-- Event ID --><#>43
+<!-- Event Name --><#>Super Cool
 Super Cool<#>Супер-крутость
+<!-- Event ID --><#>44
+<!-- Event Name --><#>Defend
 Defend<#>Защита
-Extorted<#>Вымогание
-is being extorted!<#>подвергается вымоганию!
-stood up for it's beliefs.<#>отстоял свои убеждения.
-Oiled Up<#>В масле
+<!-- Event ID --><#>45
+<!-- Event Name --><#>Extorted
+Extorted<#>Шантаж
+is being extorted!<#>подвергается шантажу!
+stood up for it's beliefs.<#>остаётся верен своим принципам.
+<!-- Event ID --><#>46
+<!-- Event Name --><#>Oiled Up
+Oiled Up<#>Масло
 is covered in oil!<#>покрыт маслом!
-is oiled up!<#>весь в масле!
-is no longer oiled up!<#>больше не в масле!
+is oiled up!<#>маслянный!
+is no longer oiled up!<#>очищает себя от масла!
+<!-- Event ID --><#>47
+<!-- Event Name --><#>Party Mode
 Party Mode<#>Вечеринка
-is now in party mode!<#>теперь настроен на веселье!
-is partying hard!<#>сильно веселится!
-lost the desire to party...<#>потерял желание веселится...
+is now in party mode!<#>теперь зависает!
+is partying hard!<#>жёстко веселится!
+lost the desire to party...<#>теряет желание веселиться...
+<!-- Event ID --><#>48
+<!-- Event Name --><#>Depression
 Depression<#>Расстроенность
 is depressed.<#>расстроен.
-Dead<#>Смерть
+<!-- Event ID --><#>49
+<!-- Event Name --><#>Kat
+Kat<#>
+is wrestling Kat.<#>
+shook off Kat.<#>
+<!-- Event ID --><#>50
+<!-- Event Name --><#>Critter
+Critter<#>
+is wrestling a critter.<#>
+shook off the critter.<#>
+<!-- Event ID --><#>51
+<!-- Event Name --><#>Kat Gone
+Kat Gone<#>
+is wrestling Kat.<#>
+shook off Kat.<#>
+<!-- Event ID --><#>52
+<!-- Event Name --><#>Critter Gone
+Critter Gone<#>
+is wrestling a critter.<#>
+shook off the critter.<#>
+<!-- Event ID --><#>53
+<!-- Event Name --><#>Dead
+Dead<#>Мёртв
 is dead!<#>мёртв!
-Flustered<#>возрождён!
-becomes flustered!<#>Возбуждение
+is dead<#>мёртв.
+revives!<#>возрождается!
+<!-- Event ID --><#>54
+<!-- Event Name --><#>Flustered
+Flustered<#>Возбуждение
+becomes flustered!<#>возбуждается!
 is flustered!<#>возбуждён!
-is no longer flustered!<#>теряет возбуждение!
-Tired<#>Утомление
-is tired.<#>утомлён.
-is waking up.<#>отдохнул.
+is no longer flustered!<#>больше не возбуждён.
+<!-- Event ID --><#>55
+<!-- Event Name --><#>Tired
+Tired<#>Усталость
+is tired.<#>устал.
+is waking up.<#>бодрствует.
+<!-- Event ID --><#>56
+<!-- Event Name --><#>Empowered
 Empowered<#>Усиление
-is empowered.<#>чувствует силу.
-Rupture<#>Разрыв
+is empowered.<#>усилен.
+<!-- Event ID --><#>57
+<!-- Event Name --><#>Rupture
+Rupture<#>Вспорот
 is painting the environment red!<#>окрашивает стены в красный!
-just popped!<#>был выпотрошен!
-is leak free.<#>остановил кровотечение.
+just popped!<#>оказался вспорот!
+is leak free.<#>истекает кровью.
+<!-- Event ID --><#>58
+<!-- Event Name --><#>Presence
 Presence<#>Присутствие
-'s got a dominating aura.<#>обретает сильную ауру.
-is sinister.<#>зловещий.
+'s got a dominating aura.<#>обладает тяжёлой аурой.
+is sinister.<#>навевает жуть.
 looms menacingly.<#>угрожающе нависает.
-lost relevance.<#>потерял черту.
-Fire Powered<#>Усиление огнём
+lost relevance.<#>потерял значимость.
+<!-- Event ID --><#>59
+<!-- Event Name --><#>Bellow Threshold
+Bellow Threshold<#>
+<!-- Event ID --><#>60
+<!-- Event Name --><#>Fire Powered
+Fire Powered<#>Сила огня
 lost his powers!<#>потерял свои силы!
-is empowered!<#>чувствует силу!
+<!-- Event ID --><#>61
+<!-- Event Name --><#>Fire Powered
+Fire Powered<#>Сила огня
+is empowered!<#>наделён силой!
+lost his powers!<#>потерял свои силы!
+<!-- Event ID --><#>62
+<!-- Event Name --><#>Immortal
 Immortal<#>Бессмертие
-Wet<#>Промокание
+<!-- Event ID --><#>63
+<!-- Event Name --><#>Wet
+Wet<#>Намокание
+<!-- Event ID --><#>64
+<!-- Event Name --><#>Nauseous
 Nauseous<#>Тошнота
 feels nauseous.<#>чувствует тошноту.
 isn't alright...<#>не в порядке...
-no longer feels nauseous.<#>избавился от тошноты.
+no longer feels nauseous.<#>больше не чувствует тошноту.
+<!-- Event ID --><#>65
+<!-- Event Name --><#>Blue
 Blue<#>Синева
 is blue<#>синий.
 is no longer blue.<#>больше не синий.
+<!-- Event ID --><#>66
+<!-- Event Name --><#>Nasty
 Nasty<#>Омерзение
-is oooh so filthy!<#>ооочень грязный!
-soaks in the filth.<#>погружается в грязь.
-can't scrub it off.<#>не может отмыться.
-no longer feels dirty.<#>отмылся.
-Bullied<#>Задирание
-is picked on!<#>подвергается задиранию!
+is oooh so filthy!<#>уффф, очень грязный!
+soaks in the filth.<#>покрыт грязью.
+can't scrub it off.<#>не может очиститься.
+no longer feels dirty.<#>очищает грязь.
+<!-- Event ID --><#>67
+<!-- Event Name --><#>Bullied
+Bullied<#>Травля
+is picked on!<#>подвергается травле!
+<!-- Event ID --><#>68
+<!-- Event Name --><#>Levitate
 Levitate<#>Левитация
 is ascending.<#>возвышается.
 has been shot DOWN!<#>был СБИТ!
+<!-- Event ID --><#>69
+<!-- Event Name --><#>Winded
 Winded<#>Одышка
-lost his breath!<#>с трудом дышит!
+lost his breath!<#>не может дышать!
 is gasping for air!<#>задыхается!
-regained tempo.<#>восстановил темп дыхания.
-Spooked<#>Напуган
-Twisted<#>Искажение
-contorts.<#>искажается.
-loosens up.<#>возвращает форму.
+regained tempo.<#>снова дышит.
+<!-- Event ID --><#>70
+<!-- Event Name --><#>Spooked
+Spooked<#>Испуг
+has gotten spooked!<#>был напуган!
+is spooked!<#>напуган!
+<!-- Event ID --><#>71
+<!-- Event Name --><#>Twisted
+Twisted<#>Закрученность
+contorts.<#>закручивается.
+loosens up.<#>восстанавливает форму.
+<!-- Event ID --><#>72
+<!-- Event Name --><#>Off Balance
 Off Balance<#>Потеря равновесия
+lost his footing.<#>потерял равновесие.
 has regained balance.<#>восстановил равновесие.
+<!-- Event ID --><#>73
+<!-- Event Name --><#>Solid
+Solid<#>Твёрдость
+assumes a firm stance!<#>принимает твёрдую стойку!
+is immovable!<#>несдвигаем!
+lost his footing.<#>потерял равновесие.
+<!-- Event ID --><#>74
+<!-- Event Name --><#>Secondary Threshold
+Secondary Threshold<#>
+<!-- Event ID --><#>75
+<!-- Event Name --><#>addstate
+addstate<#>
+<!-- Event ID --><#>76
+<!-- Event Name --><#>Armed
 Armed<#>Вооружён
 is packing!<#>вооружён!
 was disarmed.<#>был обезоружен.
+<!-- Event ID --><#>77
+<!-- Event Name --><#>Disarmed
 Disarmed<#>Безоружен
-Untouchable<#>Неприкасаемость
+<!-- Event ID --><#>78
+<!-- Event Name --><#>Tertiary Threshold
+Tertiary Threshold<#>
+<!-- Event ID --><#>79
+<!-- Event Name --><#>Untouchable
+Untouchable<#>
+<!-- Event ID --><#>80
+<!-- Event Name --><#>Deafened
 Deafened<#>Потеря слуха
-has been deafened!<#>был оглушён!
-is deaf.<#>потерял слух.
-'s hearing comes back!<#>вернул слух!
+has been deafened!<#>оглох!
+is deaf.<#>глухой.
+'s hearing comes back!<#>возвращает себе слух!
+<!-- Event ID --><#>81
+<!-- Event Name --><#>addstate1
+addstate1<#>
+<!-- Event ID --><#>82
+<!-- Event Name --><#>Quaternary Threshold
+Quaternary Threshold<#>
+<!-- Event ID --><#>83
+<!-- Event Name --><#>Dodged
 Dodged<#>Уклонение
-is out of the way.<#>уклонился от атаки.
-rejoins the fray!<#>вновь сражается!
-Tense<#>Напряжённость
-'s eyes dart around.<#>мечется глазами.
-lost concentration.<#>потерял концентрацию.
+is out of the way.<#>ушёл из-под удара.
+rejoins the fray!<#>снова вступает в бой!
+<!-- Event ID --><#>84
+<!-- Event Name --><#>Dodged
+Dodged<#>Уклонение
+is out of the way.<#>ушёл из-под удара.
+rejoins the fray!<#>снова вступает в бой!
+<!-- Event ID --><#>85
+<!-- Event Name --><#>Tense
+Tense<#>Напряжение
+is on the edge!<#>на грани!
+'s eyes dart around.<#>бегает глазами по окружению.
+lost concentration.<#>расслабляется.
+<!-- Event ID --><#>86
+<!-- Event Name --><#>Lung Cancer
 Lung Cancer<#>Рак лёгких
-Armored<#>Бронирование
+<!-- Event ID --><#>87
+<!-- Event Name --><#>Armored
+Armored<#>Броня
+<!-- Event ID --><#>88
+<!-- Event Name --><#>Cursed
 Cursed<#>Проклятие
-Amphibious<#>Дыхание под водой
-Damage Up<#>Повышение урона
-Lucky bastard<#>Везучий ублюдок
+<!-- Event ID --><#>89
+<!-- Event Name --><#>Amphibious
+Amphibious<#>Амфибия
+<!-- Event ID --><#>90
+<!-- Event Name --><#>Speedy
+Speedy<#>Скорость
+elton's<#>
+<!-- Event ID --><#>91
+<!-- Event Name --><#>Damage Up
+Damage Up<#>
+<!-- Event ID --><#>92
+<!-- Event Name --><#>Lucky bastard
+Lucky bastard<#>
+<!-- Event ID --><#>93
+<!-- Event Name --><#>Goldenbody
 Goldenbody<#>Золотое тело
-Satiated<#>Насыщение
+is buffed up!<#>напрягает мышцы!
+<!-- Event ID --><#>94
+<!-- Event Name --><#>Satiated
+Satiated<#>Насыщен
+<!-- Event ID --><#>95
+<!-- Event Name --><#>Hypnotized
 Hypnotized<#>Гипноз
 was hypnotized!<#>был загипнотизирован!
 is hypnotized! Watch out!<#>загипнотизирован! Осторожно!
-came to his senses.<#>вернулся в чувство.
+came to his senses.<#>возвращается в чувство!
+<!-- Event ID --><#>96
+<!-- Event Name --><#>Dangerous
 Dangerous<#>Опасность
 will kill.<#>будет убивать.
+<!-- Event ID --><#>97
+<!-- Event Name --><#>
+<!-- Event ID --><#>98
+<!-- Event Name --><#>Drunk
+Drunk<#>Опьянение
+is drunk.<#>пьян.
+sobered up.<#>протрезвел.
+<!-- Event ID --><#>99
+<!-- Event Name --><#>Do nothing
+Do nothing<#>
+<!-- Event ID --><#>100
+<!-- Event Name --><#>Shell-shocked
 Shell-shocked<#>Контузия
 has gotten shellshocked!<#>был контужен!
 is shellshocked!<#>контужен!
 is getting his senses back!<#>возвращается в чувство!
+<!-- Event ID --><#>101
+<!-- Event Name --><#>Broken Bones
+Broken Bones<#>Сломанные кости
+got some bones shattered!<#>ломает несколько костей!
+feels the crunch!<#>слышит хруст!
+'s bones are mended!<#>залатывает раны!
+<!-- Event ID --><#>102
+<!-- Event Name --><#>Heart Attack
 Heart Attack<#>Сердечный приступ
-'s heart stopped beating.<#>испытал сердечный приступ.
-'s ol' ticker is back in force!<#>вновь обрёл рабочие часы!
+'s heart stopped beating.<#>испытывает сердечный приступ.
+'s ol' ticker is back in force!<#>приводит свои часы в действие!
+<!-- Event ID --><#>103
+<!-- Event Name --><#>Regeneration
 Regeneration<#>Регенерация
+<!-- Event ID --><#>104
+<!-- Event Name --><#>Jackpot Mark
 Jackpot Mark<#>Отметка джекпота
-Deep Hungover<#>Сильное похмелье
+<!-- Event ID --><#>105
+<!-- Event Name --><#>FakeRevolver
+FakeRevolver<#>
+<!-- Event ID --><#>106
+<!-- Event Name --><#>No tp
+No tp<#>
+<!-- Event ID --><#>107
+<!-- Event Name --><#>Drunk
+Drunk<#>Опьянение
+is drunk.<#>пьян.
+sobered up.<#>протрезвел.
+<!-- Event ID --><#>108
+<!-- Event Name --><#>
+<!-- Event ID --><#>109
+<!-- Event Name --><#>Low tgr
+Low tgr<#>
+<!-- Event ID --><#>110
+<!-- Event Name --><#>Immortal
+Immortal<#>Бессмертие
+<!-- Event ID --><#>111
+<!-- Event Name --><#>Deep Hungover
+Deep Hungover<#>Дикое похмелье
+is hungover.<#>с похмелья.
+sobered up.<#>протрезвел.
+<!-- Event ID --><#>112
+<!-- Event Name --><#>
+<!-- Event ID --><#>113
+<!-- Event Name --><#>Fallen
+Fallen<#>Падение
+has fallen down!<#>упал!
+is trying to get up!<#>пытается встать!
+is back to their feet!<#>снова на ногах!
+<!-- Event ID --><#>114
+<!-- Event Name --><#>Dissipating
 Dissipating<#>Рассеивание
-is losing mud!<#>теряет грязь!
-is no longer losing mud.<#>больше не теряет грязь.
+is losing mud!<#>избавляется от грязи!
+is no longer losing mud.<#>больше не избавляется от грязи.
+<!-- Event ID --><#>115
+<!-- Event Name --><#>Sleep
+Sleep<#>Сон
+falls asleep!<#>впадает в сон!
+is sleeping...<#>спит...
+wakes up!<#>пробуждается!
+<!-- Event ID --><#>116
+<!-- Event Name --><#>Do nothing 1 turn
+Do nothing 1 turn<#>
+<!-- Event ID --><#>117
+<!-- Event Name --><#>Cursed
+Cursed<#>Проклятие
+<!-- Event ID --><#>118
+<!-- Event Name --><#>RealRevolver
+RealRevolver<#>
+<!-- Event ID --><#>119
+<!-- Event Name --><#>
+<!-- Event ID --><#>120
+<!-- Event Name --><#>
+<!-- Event ID --><#>121
+<!-- Event Name --><#>
+<!-- Event ID --><#>122
+<!-- Event Name --><#>
+<!-- Event ID --><#>123
+<!-- Event Name --><#>
+<!-- Event ID --><#>124
+<!-- Event Name --><#>ChairIron
+ChairIron<#>
+<!-- Event ID --><#>125
+<!-- Event Name --><#>ChairWood
+ChairWood<#>
+<!-- Event ID --><#>126
+<!-- Event Name --><#>Wet
+Wet<#>Намокание
+<!-- Event ID --><#>127
+<!-- Event Name --><#>Dangerous
+Dangerous<#>Опасность
+will kill.<#>будет убивать.
+dangerous two<#>
+<!-- Event ID --><#>128
+<!-- Event Name --><#>Plan 
 Plan<#>План
+<!-- Event ID --><#>129
+<!-- Event Name --><#>Plan B
 Plan B<#>План Б
-Mud Covered<#>Покрытие грязью
+<!-- Event ID --><#>130
+<!-- Event Name --><#>Mud Covered
+Mud Covered<#>Покрыт грязью
 has been covered in mud!<#>был покрыт грязью!
 is covered in mud!<#>покрыт грязью!
 is trying to get rid of the mud!<#>пытается избавиться от грязи!
 gor rid of the mud!<#>избавился от грязи!
+<!-- Event ID --><#>131
+<!-- Event Name --><#>
+<!-- Event ID --><#>132
+<!-- Event Name --><#>
+<!-- Event ID --><#>133
+<!-- Event Name --><#>
+<!-- Event ID --><#>134
+<!-- Event Name --><#>
+<!-- Event ID --><#>135
+<!-- Event Name --><#>
+<!-- Event ID --><#>136
+<!-- Event Name --><#>
+<!-- Event ID --><#>137
+<!-- Event Name --><#>
+<!-- Event ID --><#>138
+<!-- Event Name --><#>
+<!-- Event ID --><#>139
+<!-- Event Name --><#>
+<!-- Event ID --><#>140
+<!-- Event Name --><#>
+<!-- Event ID --><#>141
+<!-- Event Name --><#>
+<!-- Event ID --><#>142
+<!-- Event Name --><#>
+<!-- Event ID --><#>143
+<!-- Event Name --><#>
+<!-- Event ID --><#>144
+<!-- Event Name --><#>
+<!-- Event ID --><#>145
+<!-- Event Name --><#>
+<!-- Event ID --><#>146
+<!-- Event Name --><#>
+<!-- Event ID --><#>147
+<!-- Event Name --><#>
+<!-- Event ID --><#>148
+<!-- Event Name --><#>
+<!-- Event ID --><#>149
+<!-- Event Name --><#>
+<!-- Event ID --><#>150
+<!-- Event Name --><#>

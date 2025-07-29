@@ -1,135 +1,1135 @@
-\nblt{Batis}Got you!<#>\nblt{Батис}Попался!
-\nblt{???}Gotcha, dumbass!<#>\nblt{???}Попался, придурок!
-\nblt{???}You are going to pay for\#those mags, Killington!<#>\nblt{???}Ты заплатишь за те журналы,\#Киллингтон!
-\nblt{Batis}You are either getting the hell outta there,<#>\nblt{Батис}Ты либо убираешься отсюда к чёрту,
-\nblt{Batis}or your corpse will\#be pecked by crows!<#>\nblt{Батис}либо твой труп будут\#доедать вороны!
-\nblt{Quint}I have no regrets.<#>\nblt{Квинт}Я ни о чём не жалею.
-\nblt{Batis}Just like in that nightmare...<#>\nblt{Батис}Прямо как в том кошмаре...
-\nblt{Quint}Now it's your turn, bitches!<#>\nblt{Квинт}Ваш ход, шлюшки!
-\nblt{Crocco}Get your ass back here,\#Fight like a man!<#>\nblt{Крокко}Тащи свой зад обратно,\#сражайся как мужчина!
-Your knees are shaking?\#That's right!<#>Колени трясутся?\#Так и должно быть!
+<!-- Event ID --><#>1
+<!-- Event Name --><#>
+<!-- Event ID --><#>2
+<!-- Event Name --><#>
+<!-- Event ID --><#>3
+<!-- Event Name --><#>
+<!-- Event ID --><#>4
+<!-- Event Name --><#>
+<!-- Event ID --><#>5
+<!-- Event Name --><#>
+<!-- Event ID --><#>6
+<!-- Event Name --><#>
+<!-- Event ID --><#>7
+<!-- Event Name --><#>
+<!-- Event ID --><#>8
+<!-- Event Name --><#>
+<!-- Event ID --><#>9
+<!-- Event Name --><#>Batis and Quint
+{Batis}Got you!<#>{Батис}Попался!
+{???}Gotcha, dumbass!<#>{???}Попался, ублюдк!
+{???}You are going to pay for\#those mags, Killington!<#>{???}Ты заплатишь за эти\#журналы, Киллингтон!
+{Batis}You are either getting the hell outta there,<#>{Батис}Либо вали отсюда,
+{Batis}or your corpse will\#be pecked by crows!<#>{Батис}Либо тебя будут доедать\#вороны!
+{Quint}I have no regrets.<#>{Квинт}Я ни о чём не жалею.
+{Batis}Just like in that nightmare...<#>{Батис}Прямо как в том кошмаре...
+{Quint}Now it's your turn, bitches!<#>{Квинт}Теперь ваша очередь, сучки!
+<!-- Event ID --><#>10
+<!-- Event Name --><#>
+<!-- Event ID --><#>11
+<!-- Event Name --><#>Crocco "The Ripper" Denny
+{Crocco}Get your ass back here,\#Fight like a man!<#>{Крокко}Тащи свою жопу обратно,\#сражайся как мужчина!
+Your knees are shaking?\#That's right!<#>Коленки трясутся?\#Правильно!
 Fear me!<#>Бойся меня!
 That's enough.<#>Достаточно.
-\nblt{Crocco}Now face me,\#the almighty Ripper!<#>\nblt{Крокко}Теперь столкнись\#со мной к лицу, со всемогущей\#Смертью!
-\nblt{Crocco}The Prince of the Universe!<#>\nblt{Крокко}С владыкой вселенной!
-\nblt{Crocco}The Destroyer of Evil!<#>\nblt{Крокко}Разрушителем миров!
-\nblt{Crocco}The Trainer of Heroes!<#>\nblt{Крокко}Учителем героев!
-\nblt{Crocco}The Creator of Spoon!<#>\nblt{Крокко}Создателем ложки!
-\nblt{Crocco}The Sex-symbol of Olathe!<#>\nblt{Крокко}Секс-символом Олейта!
-\nblt{Crocco}The Killer of Hitler!<#>\nblt{Крокко}Убийцей Гитлера!
-\nblt{Crocco}The youngest man\#in the world!...<#>\nblt{Крокко}Самым молодым\#человеком в мире!
-\nblt{Crocco}...and of course the unrecognized\#headman of the Gatormen!<#>\nblt{Крокко}...и конечно же, непризнанным\#главой Аллигаторов!
-\nblt{Crocco}Your knees are shaking?\#That's right!<#>\nblt{Крокко}Колени трясутся?\#Они и должны!
-\nblt{Crocco}Fear the Gatormen!<#>\nblt{Крокко}Бойся Аллигаторов!
-\nblt{Crocco}Enough, enough!<#>\nblt{Крокко}Хватит, хватит!
-\nblt{Lon}Your mags - my last chance to survive...<#>\nblt{Лон}Твои журналы - мой последний шанс\#на выживание...
-\nblt{Lon}Don't take it amiss.<#>\nblt{Лон}Не пойми меня неправильно.
-\nblt{Lon}Ouch!<#>\nblt{Лон}Ой!
-\nblt{Jett}No remorse!<#>\nblt{Джетт}Никакой пощады!
-\nblt{Jett}I just wanted to work at crematorium.<#>\nblt{Джетт}Я просто хотел работать в\#крематории.
+<!-- Event ID --><#>12
+<!-- Event Name --><#>Crocco "The Ripper" Denny
+{Crocco}Now face me,\#the almighty Ripper!<#>{Крокко}Теперь сразись со мной,\#с могучим потрошителем!
+{Crocco}The Prince of the Universe!<#>{Крокко}Князем вселенной!
+{Crocco}The Destroyer of Evil!<#>{Крокко}Уничтожителем зла!
+{Crocco}The Trainer of Heroes!<#>{Крокко}Наставником героев!
+{Crocco}The Creator of Spoon!<#>{Крокко}Создателем ложки!
+{Crocco}The Sex-symbol of Olathe!<#>{Крокко}Секс-символом Олейта!
+{Crocco}The Killer of Hitler!<#>{Крокко}Убийцей Гитлера!
+{Crocco}The youngest man\#in the world!...<#>{Крокко}Молодейшим мужчиной\#на земле...!
+{Crocco}...and of course the unrecognized\#headman of the Gatormen!<#>{Крокко}...и конечно же, непризнанным\#главой Аллигаторов!
+{Crocco}Your knees are shaking?\#That's right!<#>{Крокко}Колени трясутся?\#Правильно!
+{Crocco}Fear the Gatormen!<#>{Крокко}Бойся Аллигаторов!
+{Crocco}Enough, enough!<#>{Крокко}Достаточно, хватит!
+<!-- Event ID --><#>13
+<!-- Event Name --><#>Lon Clement
+{Lon}Your mags - my last chance to survive...<#>{Лон}Твои журналы - мой последний шанс на выживание...
+{Lon}Don't take it amiss.<#>{Лон}Не пойми меня неправильно.
+{Lon}Ouch!<#>{Лон}Ау!
+<!-- Event ID --><#>14
+<!-- Event Name --><#>
+<!-- Event ID --><#>15
+<!-- Event Name --><#>
+<!-- Event ID --><#>16
+<!-- Event Name --><#>
+<!-- Event ID --><#>17
+<!-- Event Name --><#>
+<!-- Event ID --><#>18
+<!-- Event Name --><#>
+<!-- Event ID --><#>19
+<!-- Event Name --><#>
+<!-- Event ID --><#>20
+<!-- Event Name --><#>Jett Barretto
+{Jett}No remorse!<#>{Джетт}Никакой пощады!
+{Jett}I just wanted to work at crematorium.<#>{Джетт}Я лишь хотел работать в крематории.
+<!-- Event ID --><#>21
+<!-- Event Name --><#>Lunatic trash
+<!-- Event ID --><#>22
+<!-- Event Name --><#>Devil's slot machine
 You got a Potato Liquor!<#>Вы получили картофельный ликёр!
 You got a nugget!<#>Вы получили самородок!
 You got a Quadruple Horror Whiskey!<#>Вы получили виски "Четвертной ужас"!
-You got a Jackpot!<#>Вы получили джекпот!
+You got a Jackpot!<#>Вы выбили джекпот!
 The Slot Machine's defense decreased!<#>Защита слот-машины понижена!
-\nblt{Leighton}You're next, Four-Eyes!<#>\nblt{Лейтон}Ты следующий, очкарик!
-\nblt{Leighton}Get out of my river!<#>\nblt{Лейтон}Выметайтесь с моей реки!
-\nblt{Leighton}Die already you moronic vagrant!<#>\nblt{Лейтон}Умри уже, слабоумный бродяга!
-\nblt{Leighton}You used fire in water.\#What did you think was gonna happen?<#>\nblt{Лейтон}Ты использовал огонь в воде.\#Чего ты ожидал?
-\nblt{Leighton}Don't lose your glasses\#in the water now, you clumsy schmuck.<#>\nblt{Лейтон}Не потеряй очки в воде,\#неуклюжий болван.
-\nblt{Leighton}I'll pierce your heart, old man!<#>\nblt{Лейтон}Я насажу твоё сердце на\#своё копьё, старик!
-\nblt{Leighton}Shit.<#>\nblt{Лейтон}Дерьмо.
-Mending Trash joins the battle!<#>Целебная мусорка вступает в бой!
-\nblt{Smith}Hey Joe! Why aren't you helping?<#>\nblt{Смит}Эй, Джо! Почему ты не помогаешь?
-\nblt{Joe}Uuughh...<#>\nblt{Джо}Уууфф...
-\nblt{Smith}Your luck runs out!<#>\nblt{Смит}Ваша удача иссякает!
-\nblt{Smith}Get up again. I dare you!<#>\nblt{Смит}Поднимайся. Рискни!
-\nblt{Smith}When you get to hell, tell em' to save\#a seat for me at the bingo table!<#>\nblt{Смит}Когда попадёшь в ад, скажи, чтобы\#мне освободили место у стола для бинго!
-You give old men like me a bad name!<#>Из-за тебя, у таких стариков, как я, дурная слава!
-You're a disgrace to old timers everywhere!<#>Ты - позор для стариков по всему миру!
-Should've stuck to golf!<#>Тебе нужно было продолжить заниматься\#гольфом!
-\nblt{Smith}At this rate, you're gonna\#run out of teeth to spit up!<#>\nblt{Смит}В таком темпе, ты выплюнешь\#все зубы!
-\nblt{Smith}Are you even trying?!<#>\nblt{Смит}Ты вообще пытаешься?!
-\nblt{Smith}I believe in overkill!<#>\nblt{Смит}Я знаю, что могу надрать зад любому!
-\nblt{Smith}I dont need no stupid magic to kick your ass!<#>\nblt{Смит}Мне не нужна никакая глупая магия,\#чтобы надрать тебе зад!
-\nblt{Smith}You've got finger beams.\#And I've got a knuckle sandwich!<#>\nblt{Смит}У тебя есть пальцевые лучи,\#а у меня есть кулачный сэндвич!
-\nblt{Smith}You cannot burn me, I'm already on fire!<#>\nblt{Смит}Ты не можешь меня сжечь, я уже -\#огонь!
-\nblt{Joe}Fuck this...<#>\nblt{Джо}Нахуй это...
-The monster's mud is dissipating!<#>Грязь слезает с монстра!
+<!-- Event ID --><#>23
+<!-- Event Name --><#>Astonata
+{Leighton}You're next, Four-Eyes!<#>{Лейтон}Ты следующий, очкарик!
+{Leighton}Get out of my river!<#>{Лейтон}Вон из моей реки!
+{Leighton}Die already you moronic vagrant!<#>{Лейтон}Умри уже, ублюдский бомж!
+{Leighton}You used fire in water.\#What did you think was gonna happen?<#>{Лейтон}Ты использовал огонь в\#воде. Чего ты ожидал?
+{Leighton}Don't lose your glasses\#in the water now, you clumsy schmuck.<#>{Лейтон}Не оброни очки в воду,\#неуклюжее чмо.
+{Leighton}I'll pierce your heart, old man!<#>{Лейтон}Я твоё сердце вырву, старик!
+{Leighton}Shit.<#>{Лейтон}Дерьмо.
+<!-- Event ID --><#>24
+<!-- Event Name --><#>Lunatic trash Ambushed
+<!-- Event ID --><#>25
+<!-- Event Name --><#>Thrash and mending
+<!-- Event ID --><#>26
+<!-- Event Name --><#>AmbushThrash and mending
+Mending Trash joins the battle!<#>Ремонтная мусорка вступает в бой!
+<!-- Event ID --><#>27
+<!-- Event Name --><#>Samuel Grant
+<!-- Event ID --><#>28
+<!-- Event Name --><#>Neg
+<!-- Event ID --><#>29
+<!-- Event Name --><#>Gnome gang
+<!-- Event ID --><#>30
+<!-- Event Name --><#>Frank Bombard
+<!-- Event ID --><#>31
+<!-- Event Name --><#>Smith Hardcastle
+{Smith}Hey Joe! Why aren't you helping?<#>{Смит}Эй, Джо! Ты чего не помогаешь?
+{Joe}Uuughh...<#>{Джо}Уффф....
+{Smith}Your luck runs out!<#>{Смит}Ваша удача кончается!
+{Smith}Get up again. I dare you!<#>{Смит}Вставай. Кому говорю!
+{Smith}When you get to hell, tell em' to save\#a seat for me at the bingo table!<#>{Смит}Когда ты попадёшь в ад, попроси\#оставить мне место у стола бинго!
+You give old men like me a bad name!<#>Ты порочишь имя таких стариков, как я!
+You're a disgrace to old timers everywhere!<#>Ты позор для всех стариков!
+Should've stuck to golf!<#>Надо было тебе и дальше играть в гольф!
+{Smith}At this rate, you're gonna\#run out of teeth to spit up!<#>{Смит}В таком темпе, я тебе\#все зубы повыбиваю!
+{Smith}Are you even trying?!<#>{Смит}Ты вообще\#пытаешься?!
+{Smith}I believe in overkill!<#>{Смит}Я верю в усердство!
+{Smith}I dont need no stupid magic to kick your ass!<#>{Смит}Мне не нужна тупая магия, чтобы\#надрать тебе жопу!
+{Smith}You've got finger beams.\#And I've got a knuckle sandwich!<#>{Смит}У тебя есть пальцевые лучи.\#А у меня есть съедобные кулаки!
+{Smith}You cannot burn me, I'm already on fire!<#>{Смит}Меня не сжечь, я уже в огне!
+{Joe}Fuck this...<#>{Джо}Да ну нахуй...
+<!-- Event ID --><#>32
+<!-- Event Name --><#>Swamp Monster
+The monster's mud is dissipating!<#>Грязь чудища отпадает!
+<!-- Event ID --><#>33
+<!-- Event Name --><#>Submersible 
+<!-- Event ID --><#>34
+<!-- Event Name --><#>2 Submersibles
+<!-- Event ID --><#>35
+<!-- Event Name --><#>MendTrash #1
+<!-- Event ID --><#>36
+<!-- Event Name --><#>MendTrash #1 Lunatic
 Lunatic Trash joins the battle!<#>Безумная мусорка вступает в бой!
-\nblt{Steven}OUTTATHEWAYFOUREYES.<#>\nblt{Стивен}СДОРОГИОЧКАРИК.
+<!-- Event ID --><#>37
+<!-- Event Name --><#>Canyon Trash
+<!-- Event ID --><#>38
+<!-- Event Name --><#>Midnight mover
+<!-- Event ID --><#>39
+<!-- Event Name --><#>
+<!-- Event ID --><#>40
+<!-- Event Name --><#>
+<!-- Event ID --><#>41
+<!-- Event Name --><#>Mosquito attack!
+<!-- Event ID --><#>42
+<!-- Event Name --><#>ROLLING STONE
+<!-- Event ID --><#>43
+<!-- Event Name --><#>Coyote
+<!-- Event ID --><#>44
+<!-- Event Name --><#>Coyotes 
+<!-- Event ID --><#>45
+<!-- Event Name --><#>Midnight Team
+<!-- Event ID --><#>46
+<!-- Event Name --><#>
+<!-- Event ID --><#>47
+<!-- Event Name --><#>ferk
+<!-- Event ID --><#>48
+<!-- Event Name --><#>Steak Slab Steven
+{Steven}OUTTATHEWAYFOUREYES.<#>{Стивен}СДОРОГИОЧКАРИК.
 Berny temporarily left your party.<#>Бёрни временно покинул вашу группу.
-\nblt{Steven}SOAREWEGONNALEARN\#GATORCLAMPINGHERE?<#>\nblt{Стивен}ТАКМЫЗДЕСЬИЗУЧАЕМ\#ЗАЖИМАЛЛИГАТОРА?
-\nblt{Elton}No, I'm here to learn\#dodging.<#>\nblt{Элтон}Нет, я хочу изучить уклонение.
-\nblt{Steven}SHIT...\| THISISSOMEBORINGSHIT!<#>\nblt{Стивен}ЧЁРТ...\| ЭТОТАКОЕСКУЧНОЕДЕРЬМО!
-\nblt{Steven}BUTANYWAY... I'LLGIVEYOU\#SOMETURNSTODODGEGRANDPA.<#>\nblt{Стивен}НОВЛЮБОМСЛУЧАЕ... ЯДАМТЕБЕ\#ПАРУХОДОВЧТОБЫУКЛОНИТЬСЯДЕДУЛЯ.
-\nblt{Steven}USETHESETURNSTODODGE,NOBULLSHIT.<#>\nblt{Стивен}УКЛОНЯЙСЯ,ЯНЕШУЧУ.
+{Steven}SOAREWEGONNALEARN\#GATORCLAMPINGHERE?<#>{Стивен}ТАКМЫИЗУЧАЕМ\#ЗАЖИМАЛЛИГАТОРА?
+{Elton}No, I'm here to learn\#dodging.<#>{Элтон}Нет, я изучаю\#уклонение.
+{Steven}SHIT...\| THISISSOMEBORINGSHIT!<#>{Стивен}ЧЁРТ...\| ЭТОТАКСКУЧНО!
+{Steven}BUTANYWAY... I'LLGIVEYOU\#SOMETURNSTODODGEGRANDPA.<#>{Стивен}НОВЛЮБОМСЛУЧАЕ... ЯДАМТЕБЕ\#ХОДНАУКЛОНЕНИЕДЕДУЛЯ.
+{Steven}USETHESETURNSTODODGE,NOBULLSHIT.<#>{Стивен}ИСПОЛЬЗУЙЕГОЧТОБЫУКЛОНИТЬСЯ,\#ИБЕЗФОКУСОВ.
 Elton is asked to dodge.<#>Элтона попросили уклониться.
-New skill learned.<#>Новый навык изучен.
-\nblt{Steven}MMMMM!HEREICOME!<#>\nblt{Стивен}МММММ!НАПАДАЮ!
-\nblt{Steven}\{OOOOOOOOOOOOOOOOOOOOOOOOOOOO<#>\nblt{Стивен}\{ОООООООООООООООООООООООООООО
-\nblt{Steven}OOPS!HE'SOUT!MMMMM!<#>\nblt{Стивен}УПС!ОНБЕЗСОЗНАНИЯ!МММММ!
-\nblt{Master}Give him some food.<#>\nblt{Магистр}Дай ему немного еды.
-\nblt{Steven}YESMASTER!<#>\nblt{Стивен}ДАМАГИСТР!
-\nblt{Elton}AAAARGH!<#>\nblt{Элтон}ААААРГХ!
-\nblt{Steven}STOPSCREAMINGYOUDUMMY!<#>\nblt{Стивен}ПЕРЕСТАНЬОРАТЬИДИОТ!
-\nblt{Steven}YOU'REDOINGTHEDODGINGWRONG!<#>\nblt{Стивен}ТЫУКЛОНЯЕШЬСЯНЕПРАВИЛЬНО!
-\nblt{Steven}TRYTOACTUALLYDODGENOW.MMMMM!<#>\nblt{Стивен}ПОПЫТАЙСЯУКЛОНИТЬСЯСЕЙЧАС.МММММ!
-\nblt{Steven}LIKELIKE...JUMPOUTOFMYWAY!<#>\nblt{Стивен}ТИПАТИПА...ОТПРЫГНИОТМОЕЙ\#АТАКИ!
-\nblt{Steven}YOUGETWHATIMEAN?MMMMM?<#>\nblt{Стивен}ПОНИМАЕШЬОЧЁМЯ?МММММ?
-\nblt{Elton}AARGH!<#>\nblt{Элтон}ААРГХ!
+New skill learned.<#>Изучен новый навык.
+{Steven}MMMMM!HEREICOME!<#>{Стивен}МММ!ВОТИЯ!
+{Steven}\{OOOOOOOOOOOOOOOOOOOOOOOOOOOO<#>{Стивен}\{УУУУУУУУУУУУУУУУУУ
+{Steven}OOPS!HE'SOUT!MMMMM!<#>{Стивен}ОЙ!ОНБЕЗСОЗНАНИЯ!МММ!
+{Master}Give him some food.<#>{Магистр}Дай ему немного еды.
+{Steven}YESMASTER!<#>{Стивен}ДАМАСТЕР
+{Elton}AAAARGH!<#>{Элтон}АААА!
+{Steven}STOPSCREAMINGYOUDUMMY!<#>{Стивен}КОНЧАЙОРАТЬДЕБИЛ
+{Steven}YOU'REDOINGTHEDODGINGWRONG!<#>{Стивен}ТЫНЕПРАВИЛЬНОУКЛОНЯЕШЬСЯ!
+{Steven}TRYTOACTUALLYDODGENOW.MMMMM!<#>{Стивен}ПОПЫТАЙСЯУКЛОНИТЬСЯСНОВА.МММ!
+{Steven}LIKELIKE...JUMPOUTOFMYWAY!<#>{Стивен}ТИПА...ОТПРЫГНУТЬПОДАЛЬШЕ!
+{Steven}YOUGETWHATIMEAN?MMMMM?<#>{Стивен}ПОНИМАЕШЬОЧЁМЯ?МММ?
+{Elton}AARGH!<#>{Элтон}АААА!
 Elton is asked to actually dodge.<#>Элтона попросили уклониться по-настоящему.
-Dodge skill updated.<#>Навык уклонения улучшен.
-\nblt{Steven}YYYYEEEEEEEEEEEEEEEEAAAAHHHHHHH<#>\nblt{Стивен}ДААААААААААААААААААААААА
-\nblt{Steven}\{WAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA<#>\nblt{Стивен}\{УАААААААААААААААААААААААААААААААААААААААААА
-\nblt{Steven}GOODJOB!YOUDODGEDALLMYATTACKSMMMM!<#>\nblt{Стивен}ОТЛИЧНАЯРАБОТА!ТЫУКЛОНИЛСЯОТВСЕХ\#МОИХАТАКМММММ!
-\nblt{Steven}NOWBRINGYOURRACCOONPELTFRIEND!<#>\nblt{Стивен}ТЕПЕРЬТАЩИСВОЕГОДРУГАСОШКУРОЙ\#ЕНОТА!
-\nblt{Elton}Berny.<#>\nblt{Элтон}Бёрни.
-\nblt{Berny}Aye.<#>\nblt{Бёрни}Ага.
+Dodge skill updated.<#>Навык уклонения обновлён.
+{Steven}YYYYEEEEEEEEEEEEEEEEAAAAHHHHHHH<#>{Стивен}ДАААААААААА
+{Steven}\{WAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA<#>{Стивен}\{АААААААААААААААААААААА
+{Steven}GOODJOB!YOUDODGEDALLMYATTACKSMMMM!<#>{Стивен}ОТЛИЧНО!ТЫУКЛОНИЛСЯОТВСЕХМОИХАТАКМММ!
+{Steven}NOWBRINGYOURRACCOONPELTFRIEND!<#>{Стивен}ТЕПЕРЬТАЩИСВОЕГОПОЛОСАТОГОДРУГА!
+{Elton}Berny.<#>{Элтон}Бёрни.
+{Berny}Aye.<#>{Бёрни}Ага.
 Berny joined your party!<#>Бёрни вступил в вашу группу!
-\nblt{Steven}IT'STIMEFORMYFINALATTACK!<#>\nblt{Стивен}ВРЕМЯДЛЯМОЕЙПОСЛЕДНЕЙАТАКИ!
-\nblt{Steven}BONEBREAKING!<#>\nblt{Стивен}КОСТОЛОМКА!
-\nblt{Steven}YOU,GRANDPA,TELLYOURFRIENDTO\#LOOKOUT!<#>\nblt{Стивен}ТЫ,ДЕДУЛЯ,СКАЖИСВОЕМУДРУГУ\#ПРИГОТОВИТЬСЯ!
-\nblt{Elton}Look out?<#>\nblt{Элтон}Приготовиться?
-\nblt{Steven}YES!LOOKOUT.MMMMM.<#>\nblt{Стивен}ДА!ПРИГОТОВИТЬСЯ.МММММ.
-\nblt{Steven}YOURFRIENDATTACKSANDTHEN\#YOUBOTHDODGEINTHESAMEMOMENT.\#UNDERSTOOD?<#>\nblt{Стивен}ТВОЙДРУГАТАКУЕТИЗАТЕМВЫОБА\#УВОРАЧИВАЕТЕСЬВОДИНИТОТЖЕМОМЕНТ.\#ЯСНО?
+{Steven}IT'STIMEFORMYFINALATTACK!<#>{Стивен}ВРЕМЯМОЕЙФИНАЛЬНОЙАТАКИ!
+{Steven}BONEBREAKING!<#>{Стивен}КОСТОЛОМ!
+{Steven}YOU,GRANDPA,TELLYOURFRIENDTO\#LOOKOUT!<#>{Стивен}ТЫ,ДЕДУЛЯ,СКАЖИСВОЕМУДРУГУ\#БЫТЬНАЧЕКУ!
+{Elton}Look out?<#>{Элтон}Начеку?
+{Steven}YES!LOOKOUT.MMMMM.<#>{Стивен}ДА!НАЧЕКУ.ММММ.
+{Steven}YOURFRIENDATTACKSANDTHEN\#YOUBOTHDODGEINTHESAMEMOMENT.\#UNDERSTOOD?<#>{Стивен}ТВОЙДРУГАТАКУЕТАЗАТЕМ\#ВЫОДНОВРЕМЕННОУКЛОНЯЕТЕСЬ.\#ПОНЯЛ?
 Incoming Dangerous attack.<#>Приближается опасная атака.
-You must dodge.<#>Вы должны уклониться.
-Look Out! skill learned.<#>Навык "Приготовься!" изучен.
-\nblt{Steven}\{TIMETOMEETYOURMAKER!<#>\nblt{Стивен}\{НАСТАЛОТЕБЕВРЕМЯВСТРЕТИТЬСЯ\#СОСВОИМСОЗДАТЕЛЕМ!
-\nblt{Steven}\{\{OOOOOOOOOOOOOOOOOOOO<#>\nblt{Стивен}\{\{ОООООООООООООООООООО
-A long debuff has been inflicted on Elton.<#>На Элтона было наложено перманентное ранение.
+You must dodge.<#>Вы должны уклонится.
+Look Out! skill learned.<#>Навык "Начеку!" изучен.
+{Steven}\{TIMETOMEETYOURMAKER!<#>{Стивен}\{ВРЕМЯВСТРЕТИТСЯСОСВОИМСОЗДАТЕЛЕМ!
+{Steven}\{\{OOOOOOOOOOOOOOOOOOOO<#>{Стивен}\{\{УУУУУУУУУУУУ
+A long debuff has been inflicted on Elton.<#>Длительный статус был наложен на Элтона.
 You've failed to dodge.<#>Вам не удалось уклониться.
-A long debuff has been inflicted on Berny.<#>На Бёрни было наложено перманентное ранение.
+A long debuff has been inflicted on Berny.<#>Длительный статус был наложен на Бёрни.
 You've successfully dodged a dangerous attack!<#>Вы успешно уклонились от опасной атаки!
-\nblt{Frank}You're tougher\#than you look.<#>\nblt{Фрэнк}Ты крепче, чем выглядишь.
-\nblt{Frank}But I know better than\#to let my guard down.<#>\nblt{Фрэнк}Но я никогда никого не\#недооцениваю.
-You lost your Chair.<#>Вы потеряли свой стул.
-You lost your Champion Chair.<#>Вы потеряли свой стул чемпиона.
-\nblt{Frank}Grr...\.\. where's my\#walkie talkie?<#>\nblt{Фрэнк}Грр...\.\. где моя рация?
-\nblt{Frank}How the hell are\#you still standing?!<#>\nblt{Фрэнк}Какого чёрта ты всё ещё\#стоишь на ногах?!
-\nblt{Frank}You...\| old...\. bastard...<#>\nblt{Фрэнк}Ты...\| старый...\. ублюдок...
-\nblt{Frank}I'm not going down!<#>\nblt{Фрэнк}Я не собираюсь умирать!
-\nblt{Frank}Not yet...<#>\nblt{Фрэнк}Не сейчас...
-\nblt{Frank}All you had to do...\| was\#walk the other way...<#>\nblt{Фрэнк}Всё, что вам нужно было сделать...\|\#пойти своей дорогой...
-\nblt{Ted}Uh oh!<#>\nblt{Тэд}Ой-ой!
-\nblt{Ted}Time to get outta here!<#>\nblt{Тэд}Пора убираться отсюда!
-\nblt{Ted}Aa-a-ah!<#>\nblt{Тэд}Аа-а-а!
-\nblt{Ted}Retreat!<#>\nblt{Тэд}Отступаю!
-\nblt{Edward}Who's that?<#>\nblt{Эдвард}Кто это?
-\nblt{Berny Connorfold}The hell's your problem,\#ganging up on a man like that?!<#>\nblt{Бёрни Коннорфолд}Что, чёрт возьми, с вами не так -\#толпой нападать на человека?!
-\nblt{Berny Connorfold}Let's clobber this punk, Elton!<#>\nblt{Бёрни Коннорфолд}Давай зададим этому\#подонку, Элтон!
-Berny Connorfold has joined your party!<#>Бёрни Коннорфолд вступил в вашу\#группу!
-Tinder Box skill updated.<#>Навык "Спичечный коробок" был обновлён.
-\nblt{Brad}Guess it's all up to me now.<#>\nblt{Брэд}Похоже, теперь всё зависит от меня.
-\nblt{Brad}Time to get serious!<#>\nblt{Брэд}Пора серьёзно взяться за это!
-\nblt{Brad}I'm proud of myself.<#>\nblt{Брэд}Я горжусь собой.
-\nblt{Brad}What about you?<#>\nblt{Брэд}А вы?
-\nblt{Andre}Ooh! My back!<#>\nblt{Андре}Оох! Моя спина!
-\nblt{Juan}I'll show you!<#>\nblt{Хуан}Я тебе покажу!
-\nblt{Juan}I've been crushed...<#>\nblt{Хуан}Я был разбит...
-\nblt{Kirk}I will bury you!<#>\nblt{Кирк}Я тебя закопаю!
-\nblt{Kirk}Now this ain't what I expected.<#>\nblt{Кирк}А вот этого я не ожидал.
-\nblt{Flint}I just...<#>\nblt{Флинт}Я только что...
-\nblt{Flint}...was defeated...<#>\nblt{Флинт}...был побеждён...
-\nblt{Flint}...by an old pushover with a chair...<#>\nblt{Флинт}...старым придурком со стулом...
+<!-- Event ID --><#>49
+<!-- Event Name --><#>
+<!-- Event ID --><#>50
+<!-- Event Name --><#>Frank Bombard
+{Frank}You're tougher\#than you look.<#>{Фрэнк}Ты крепче,\#чем кажешься.
+{Frank}But I know better than\#to let my guard down.<#>{Фрэнк}Но и я не\#ослабляю бдительность.
+You lost your Chair.<#>Вы потеряли стул.
+You lost your Champion Chair.<#>Вы потеряли чемпионский стул.
+{Frank}Grr...\.\. where's my\#walkie talkie?<#>{Фрэнк}Грр...\.\. где\#моя рация?
+{Frank}How the hell are\#you still standing?!<#>{Фрэнк}Какого чёрта ты\#ещё стоишь?!
+{Frank}You...\| old...\. bastard...<#>{Фрэнк}Ты...\| старый...\. ублюдок...
+{Frank}I'm not going down!<#>{Фрэнк}Я не умру!
+{Frank}Not yet...<#>{Фрэнк}Не сейчас...
+{Frank}All you had to do...\| was\#walk the other way...<#>{Фрэнк}Тебе лишь нужно было...\|\#пойти другой дорогой...
+<!-- Event ID --><#>51
+<!-- Event Name --><#>2 Lunatic Trashes
+<!-- Event ID --><#>52
+<!-- Event Name --><#>Lunatic Ted
+{Ted}Uh oh!<#>{Тед}О нет!
+{Ted}Time to get outta here!<#>{Тед}Время убираться отсюда!
+<!-- Event ID --><#>53
+<!-- Event Name --><#>Lunatic Ted
+{Ted}Aa-a-ah!<#>{Тед}А-а-аа!
+{Ted}Retreat!<#>{Тед}Отступаю!
+<!-- Event ID --><#>54
+<!-- Event Name --><#>Frank Bombard Unfair
+<!-- Event ID --><#>55
+<!-- Event Name --><#>
+<!-- Event ID --><#>56
+<!-- Event Name --><#>
+<!-- Event ID --><#>57
+<!-- Event Name --><#>
+<!-- Event ID --><#>58
+<!-- Event Name --><#>
+<!-- Event ID --><#>59
+<!-- Event Name --><#>
+<!-- Event ID --><#>60
+<!-- Event Name --><#>
+<!-- Event ID --><#>61
+<!-- Event Name --><#>
+<!-- Event ID --><#>62
+<!-- Event Name --><#>
+<!-- Event ID --><#>63
+<!-- Event Name --><#>
+<!-- Event ID --><#>64
+<!-- Event Name --><#>
+<!-- Event ID --><#>65
+<!-- Event Name --><#>
+<!-- Event ID --><#>66
+<!-- Event Name --><#>
+<!-- Event ID --><#>67
+<!-- Event Name --><#>
+<!-- Event ID --><#>68
+<!-- Event Name --><#>
+<!-- Event ID --><#>69
+<!-- Event Name --><#>
+<!-- Event ID --><#>70
+<!-- Event Name --><#>
+<!-- Event ID --><#>71
+<!-- Event Name --><#>
+<!-- Event ID --><#>72
+<!-- Event Name --><#>
+<!-- Event ID --><#>73
+<!-- Event Name --><#>
+<!-- Event ID --><#>74
+<!-- Event Name --><#>
+<!-- Event ID --><#>75
+<!-- Event Name --><#>
+<!-- Event ID --><#>76
+<!-- Event Name --><#>
+<!-- Event ID --><#>77
+<!-- Event Name --><#>
+<!-- Event ID --><#>78
+<!-- Event Name --><#>
+<!-- Event ID --><#>79
+<!-- Event Name --><#>
+<!-- Event ID --><#>80
+<!-- Event Name --><#>
+<!-- Event ID --><#>81
+<!-- Event Name --><#>
+<!-- Event ID --><#>82
+<!-- Event Name --><#>
+<!-- Event ID --><#>83
+<!-- Event Name --><#>
+<!-- Event ID --><#>84
+<!-- Event Name --><#>
+<!-- Event ID --><#>85
+<!-- Event Name --><#>
+<!-- Event ID --><#>86
+<!-- Event Name --><#>
+<!-- Event ID --><#>87
+<!-- Event Name --><#>
+<!-- Event ID --><#>88
+<!-- Event Name --><#>
+<!-- Event ID --><#>89
+<!-- Event Name --><#>
+<!-- Event ID --><#>90
+<!-- Event Name --><#>
+<!-- Event ID --><#>91
+<!-- Event Name --><#>
+<!-- Event ID --><#>92
+<!-- Event Name --><#>
+<!-- Event ID --><#>93
+<!-- Event Name --><#>
+<!-- Event ID --><#>94
+<!-- Event Name --><#>
+<!-- Event ID --><#>95
+<!-- Event Name --><#>
+<!-- Event ID --><#>96
+<!-- Event Name --><#>
+<!-- Event ID --><#>97
+<!-- Event Name --><#>
+<!-- Event ID --><#>98
+<!-- Event Name --><#>
+<!-- Event ID --><#>99
+<!-- Event Name --><#>
+<!-- Event ID --><#>100
+<!-- Event Name --><#>
+<!-- Event ID --><#>101
+<!-- Event Name --><#>
+<!-- Event ID --><#>102
+<!-- Event Name --><#>
+<!-- Event ID --><#>103
+<!-- Event Name --><#>
+<!-- Event ID --><#>104
+<!-- Event Name --><#>
+<!-- Event ID --><#>105
+<!-- Event Name --><#>
+<!-- Event ID --><#>106
+<!-- Event Name --><#>
+<!-- Event ID --><#>107
+<!-- Event Name --><#>
+<!-- Event ID --><#>108
+<!-- Event Name --><#>
+<!-- Event ID --><#>109
+<!-- Event Name --><#>
+<!-- Event ID --><#>110
+<!-- Event Name --><#>
+<!-- Event ID --><#>111
+<!-- Event Name --><#>
+<!-- Event ID --><#>112
+<!-- Event Name --><#>
+<!-- Event ID --><#>113
+<!-- Event Name --><#>
+<!-- Event ID --><#>114
+<!-- Event Name --><#>
+<!-- Event ID --><#>115
+<!-- Event Name --><#>
+<!-- Event ID --><#>116
+<!-- Event Name --><#>
+<!-- Event ID --><#>117
+<!-- Event Name --><#>
+<!-- Event ID --><#>118
+<!-- Event Name --><#>
+<!-- Event ID --><#>119
+<!-- Event Name --><#>
+<!-- Event ID --><#>120
+<!-- Event Name --><#>
+<!-- Event ID --><#>121
+<!-- Event Name --><#>
+<!-- Event ID --><#>122
+<!-- Event Name --><#>
+<!-- Event ID --><#>123
+<!-- Event Name --><#>
+<!-- Event ID --><#>124
+<!-- Event Name --><#>
+<!-- Event ID --><#>125
+<!-- Event Name --><#>
+<!-- Event ID --><#>126
+<!-- Event Name --><#>
+<!-- Event ID --><#>127
+<!-- Event Name --><#>Creep
+<!-- Event ID --><#>128
+<!-- Event Name --><#>Creep
+<!-- Event ID --><#>129
+<!-- Event Name --><#>
+<!-- Event ID --><#>130
+<!-- Event Name --><#>
+<!-- Event ID --><#>131
+<!-- Event Name --><#>
+<!-- Event ID --><#>132
+<!-- Event Name --><#>
+<!-- Event ID --><#>133
+<!-- Event Name --><#>
+<!-- Event ID --><#>134
+<!-- Event Name --><#>
+<!-- Event ID --><#>135
+<!-- Event Name --><#>
+<!-- Event ID --><#>136
+<!-- Event Name --><#>
+<!-- Event ID --><#>137
+<!-- Event Name --><#>
+<!-- Event ID --><#>138
+<!-- Event Name --><#>
+<!-- Event ID --><#>139
+<!-- Event Name --><#>
+<!-- Event ID --><#>140
+<!-- Event Name --><#>
+<!-- Event ID --><#>141
+<!-- Event Name --><#>
+<!-- Event ID --><#>142
+<!-- Event Name --><#>
+<!-- Event ID --><#>143
+<!-- Event Name --><#>
+<!-- Event ID --><#>144
+<!-- Event Name --><#>
+<!-- Event ID --><#>145
+<!-- Event Name --><#>
+<!-- Event ID --><#>146
+<!-- Event Name --><#>
+<!-- Event ID --><#>147
+<!-- Event Name --><#>
+<!-- Event ID --><#>148
+<!-- Event Name --><#>
+<!-- Event ID --><#>149
+<!-- Event Name --><#>
+<!-- Event ID --><#>150
+<!-- Event Name --><#>
+<!-- Event ID --><#>151
+<!-- Event Name --><#>
+<!-- Event ID --><#>152
+<!-- Event Name --><#>
+<!-- Event ID --><#>153
+<!-- Event Name --><#>
+<!-- Event ID --><#>154
+<!-- Event Name --><#>
+<!-- Event ID --><#>155
+<!-- Event Name --><#>
+<!-- Event ID --><#>156
+<!-- Event Name --><#>
+<!-- Event ID --><#>157
+<!-- Event Name --><#>
+<!-- Event ID --><#>158
+<!-- Event Name --><#>
+<!-- Event ID --><#>159
+<!-- Event Name --><#>
+<!-- Event ID --><#>160
+<!-- Event Name --><#>
+<!-- Event ID --><#>161
+<!-- Event Name --><#>
+<!-- Event ID --><#>162
+<!-- Event Name --><#>
+<!-- Event ID --><#>163
+<!-- Event Name --><#>
+<!-- Event ID --><#>164
+<!-- Event Name --><#>
+<!-- Event ID --><#>165
+<!-- Event Name --><#>
+<!-- Event ID --><#>166
+<!-- Event Name --><#>
+<!-- Event ID --><#>167
+<!-- Event Name --><#>
+<!-- Event ID --><#>168
+<!-- Event Name --><#>
+<!-- Event ID --><#>169
+<!-- Event Name --><#>
+<!-- Event ID --><#>170
+<!-- Event Name --><#>
+<!-- Event ID --><#>171
+<!-- Event Name --><#>
+<!-- Event ID --><#>172
+<!-- Event Name --><#>
+<!-- Event ID --><#>173
+<!-- Event Name --><#>
+<!-- Event ID --><#>174
+<!-- Event Name --><#>
+<!-- Event ID --><#>175
+<!-- Event Name --><#>
+<!-- Event ID --><#>176
+<!-- Event Name --><#>
+<!-- Event ID --><#>177
+<!-- Event Name --><#>
+<!-- Event ID --><#>178
+<!-- Event Name --><#>
+<!-- Event ID --><#>179
+<!-- Event Name --><#>
+<!-- Event ID --><#>180
+<!-- Event Name --><#>
+<!-- Event ID --><#>181
+<!-- Event Name --><#>
+<!-- Event ID --><#>182
+<!-- Event Name --><#>
+<!-- Event ID --><#>183
+<!-- Event Name --><#>
+<!-- Event ID --><#>184
+<!-- Event Name --><#>
+<!-- Event ID --><#>185
+<!-- Event Name --><#>
+<!-- Event ID --><#>186
+<!-- Event Name --><#>
+<!-- Event ID --><#>187
+<!-- Event Name --><#>
+<!-- Event ID --><#>188
+<!-- Event Name --><#>
+<!-- Event ID --><#>189
+<!-- Event Name --><#>
+<!-- Event ID --><#>190
+<!-- Event Name --><#>Flint's boys
+{Edward}Who's that?<#>{Эдвард}Кто это?
+{Berny Connorfold}The hell's your problem,\#ganging up on a man like that?!<#>{Бёрни Коннорфолд}Что с вами чёрт возьми\#не так? Нападаете толпой на мужика!
+{Berny Connorfold}Let's clobber this punk, Elton!<#>{Бёрни Коннорфолд}Зададим этому бандиту, Элтон!
+Berny Connorfold has joined your party!<#>Бёрни Коннорфолд вступил в вашу группу!
+Tinder Box skill updated.<#>Навык "Спичечный коробок" обновлён.
+{Brad}Guess it's all up to me now.<#>{Брэд}Похоже, теперь всё зависит от меня.
+{Brad}Time to get serious!<#>{Брэд}Не время шутить!
+{Brad}I'm proud of myself.<#>{Брэд}Я горжусь собой.
+{Brad}What about you?<#>{Брэд}А вы?
+<!-- Event ID --><#>191
+<!-- Event Name --><#>Andre Dinnigan
+{Andre}Ooh! My back!<#>{Андре}Охх! Моя спина!
+<!-- Event ID --><#>192
+<!-- Event Name --><#>
+<!-- Event ID --><#>193
+<!-- Event Name --><#>Juan Hughes
+{Juan}I'll show you!<#>{Хуан}Я вам покажу!
+{Juan}I've been crushed...<#>{Хуан}Меня размазали...
+<!-- Event ID --><#>194
+<!-- Event Name --><#>
+<!-- Event ID --><#>195
+<!-- Event Name --><#>
+<!-- Event ID --><#>196
+<!-- Event Name --><#>
+<!-- Event ID --><#>197
+<!-- Event Name --><#>
+<!-- Event ID --><#>198
+<!-- Event Name --><#>
+<!-- Event ID --><#>199
+<!-- Event Name --><#>
+<!-- Event ID --><#>200
+<!-- Event Name --><#>Kirk Peach
+{Kirk}I will bury you!<#>{Кирк}Я тебя похороню.
+{Kirk}Now this ain't what I expected.<#>{Кирк}Этого я не ожидал.
+<!-- Event ID --><#>201
+<!-- Event Name --><#>
+<!-- Event ID --><#>202
+<!-- Event Name --><#>
+<!-- Event ID --><#>203
+<!-- Event Name --><#>
+<!-- Event ID --><#>204
+<!-- Event Name --><#>
+<!-- Event ID --><#>205
+<!-- Event Name --><#>
+<!-- Event ID --><#>206
+<!-- Event Name --><#>
+<!-- Event ID --><#>207
+<!-- Event Name --><#>
+<!-- Event ID --><#>208
+<!-- Event Name --><#>
+<!-- Event ID --><#>209
+<!-- Event Name --><#>
+<!-- Event ID --><#>210
+<!-- Event Name --><#>
+<!-- Event ID --><#>211
+<!-- Event Name --><#>Flint Coda
+{Flint}I just...<#>{Флинт}Меня только что...
+{Flint}...was defeated...<#>{Флинт}победил...
+{Flint}...by an old pushover with a chair...<#>{Флинт}дряхлый старик со стулом...
+<!-- Event ID --><#>212
+<!-- Event Name --><#>
+<!-- Event ID --><#>213
+<!-- Event Name --><#>
+<!-- Event ID --><#>214
+<!-- Event Name --><#>
+<!-- Event ID --><#>215
+<!-- Event Name --><#>
+<!-- Event ID --><#>216
+<!-- Event Name --><#>
+<!-- Event ID --><#>217
+<!-- Event Name --><#>
+<!-- Event ID --><#>218
+<!-- Event Name --><#>
+<!-- Event ID --><#>219
+<!-- Event Name --><#>
+<!-- Event ID --><#>220
+<!-- Event Name --><#>
+<!-- Event ID --><#>221
+<!-- Event Name --><#>
+<!-- Event ID --><#>222
+<!-- Event Name --><#>
+<!-- Event ID --><#>223
+<!-- Event Name --><#>
+<!-- Event ID --><#>224
+<!-- Event Name --><#>
+<!-- Event ID --><#>225
+<!-- Event Name --><#>
+<!-- Event ID --><#>226
+<!-- Event Name --><#>
+<!-- Event ID --><#>227
+<!-- Event Name --><#>
+<!-- Event ID --><#>228
+<!-- Event Name --><#>
+<!-- Event ID --><#>229
+<!-- Event Name --><#>
+<!-- Event ID --><#>230
+<!-- Event Name --><#>
+<!-- Event ID --><#>231
+<!-- Event Name --><#>
+<!-- Event ID --><#>232
+<!-- Event Name --><#>
+<!-- Event ID --><#>233
+<!-- Event Name --><#>
+<!-- Event ID --><#>234
+<!-- Event Name --><#>
+<!-- Event ID --><#>235
+<!-- Event Name --><#>
+<!-- Event ID --><#>236
+<!-- Event Name --><#>
+<!-- Event ID --><#>237
+<!-- Event Name --><#>
+<!-- Event ID --><#>238
+<!-- Event Name --><#>
+<!-- Event ID --><#>239
+<!-- Event Name --><#>
+<!-- Event ID --><#>240
+<!-- Event Name --><#>
+<!-- Event ID --><#>241
+<!-- Event Name --><#>
+<!-- Event ID --><#>242
+<!-- Event Name --><#>
+<!-- Event ID --><#>243
+<!-- Event Name --><#>
+<!-- Event ID --><#>244
+<!-- Event Name --><#>
+<!-- Event ID --><#>245
+<!-- Event Name --><#>
+<!-- Event ID --><#>246
+<!-- Event Name --><#>
+<!-- Event ID --><#>247
+<!-- Event Name --><#>
+<!-- Event ID --><#>248
+<!-- Event Name --><#>
+<!-- Event ID --><#>249
+<!-- Event Name --><#>
+<!-- Event ID --><#>250
+<!-- Event Name --><#>
+<!-- Event ID --><#>251
+<!-- Event Name --><#>
+<!-- Event ID --><#>252
+<!-- Event Name --><#>
+<!-- Event ID --><#>253
+<!-- Event Name --><#>
+<!-- Event ID --><#>254
+<!-- Event Name --><#>
+<!-- Event ID --><#>255
+<!-- Event Name --><#>
+<!-- Event ID --><#>256
+<!-- Event Name --><#>
+<!-- Event ID --><#>257
+<!-- Event Name --><#>
+<!-- Event ID --><#>258
+<!-- Event Name --><#>
+<!-- Event ID --><#>259
+<!-- Event Name --><#>
+<!-- Event ID --><#>260
+<!-- Event Name --><#>
+<!-- Event ID --><#>261
+<!-- Event Name --><#>
+<!-- Event ID --><#>262
+<!-- Event Name --><#>
+<!-- Event ID --><#>263
+<!-- Event Name --><#>
+<!-- Event ID --><#>264
+<!-- Event Name --><#>
+<!-- Event ID --><#>265
+<!-- Event Name --><#>
+<!-- Event ID --><#>266
+<!-- Event Name --><#>
+<!-- Event ID --><#>267
+<!-- Event Name --><#>
+<!-- Event ID --><#>268
+<!-- Event Name --><#>
+<!-- Event ID --><#>269
+<!-- Event Name --><#>
+<!-- Event ID --><#>270
+<!-- Event Name --><#>
+<!-- Event ID --><#>271
+<!-- Event Name --><#>
+<!-- Event ID --><#>272
+<!-- Event Name --><#>
+<!-- Event ID --><#>273
+<!-- Event Name --><#>
+<!-- Event ID --><#>274
+<!-- Event Name --><#>
+<!-- Event ID --><#>275
+<!-- Event Name --><#>
+<!-- Event ID --><#>276
+<!-- Event Name --><#>
+<!-- Event ID --><#>277
+<!-- Event Name --><#>
+<!-- Event ID --><#>278
+<!-- Event Name --><#>
+<!-- Event ID --><#>279
+<!-- Event Name --><#>
+<!-- Event ID --><#>280
+<!-- Event Name --><#>
+<!-- Event ID --><#>281
+<!-- Event Name --><#>
+<!-- Event ID --><#>282
+<!-- Event Name --><#>
+<!-- Event ID --><#>283
+<!-- Event Name --><#>
+<!-- Event ID --><#>284
+<!-- Event Name --><#>
+<!-- Event ID --><#>285
+<!-- Event Name --><#>
+<!-- Event ID --><#>286
+<!-- Event Name --><#>
+<!-- Event ID --><#>287
+<!-- Event Name --><#>
+<!-- Event ID --><#>288
+<!-- Event Name --><#>
+<!-- Event ID --><#>289
+<!-- Event Name --><#>
+<!-- Event ID --><#>290
+<!-- Event Name --><#>
+<!-- Event ID --><#>291
+<!-- Event Name --><#>
+<!-- Event ID --><#>292
+<!-- Event Name --><#>
+<!-- Event ID --><#>293
+<!-- Event Name --><#>
+<!-- Event ID --><#>294
+<!-- Event Name --><#>
+<!-- Event ID --><#>295
+<!-- Event Name --><#>
+<!-- Event ID --><#>296
+<!-- Event Name --><#>
+<!-- Event ID --><#>297
+<!-- Event Name --><#>
+<!-- Event ID --><#>298
+<!-- Event Name --><#>
+<!-- Event ID --><#>299
+<!-- Event Name --><#>
+<!-- Event ID --><#>300
+<!-- Event Name --><#>
+<!-- Event ID --><#>301
+<!-- Event Name --><#>
+<!-- Event ID --><#>302
+<!-- Event Name --><#>
+<!-- Event ID --><#>303
+<!-- Event Name --><#>
+<!-- Event ID --><#>304
+<!-- Event Name --><#>
+<!-- Event ID --><#>305
+<!-- Event Name --><#>
+<!-- Event ID --><#>306
+<!-- Event Name --><#>
+<!-- Event ID --><#>307
+<!-- Event Name --><#>
+<!-- Event ID --><#>308
+<!-- Event Name --><#>
+<!-- Event ID --><#>309
+<!-- Event Name --><#>
+<!-- Event ID --><#>310
+<!-- Event Name --><#>
+<!-- Event ID --><#>311
+<!-- Event Name --><#>
+<!-- Event ID --><#>312
+<!-- Event Name --><#>
+<!-- Event ID --><#>313
+<!-- Event Name --><#>
+<!-- Event ID --><#>314
+<!-- Event Name --><#>
+<!-- Event ID --><#>315
+<!-- Event Name --><#>
+<!-- Event ID --><#>316
+<!-- Event Name --><#>
+<!-- Event ID --><#>317
+<!-- Event Name --><#>
+<!-- Event ID --><#>318
+<!-- Event Name --><#>
+<!-- Event ID --><#>319
+<!-- Event Name --><#>
+<!-- Event ID --><#>320
+<!-- Event Name --><#>
+<!-- Event ID --><#>321
+<!-- Event Name --><#>
+<!-- Event ID --><#>322
+<!-- Event Name --><#>
+<!-- Event ID --><#>323
+<!-- Event Name --><#>
+<!-- Event ID --><#>324
+<!-- Event Name --><#>
+<!-- Event ID --><#>325
+<!-- Event Name --><#>
+<!-- Event ID --><#>326
+<!-- Event Name --><#>
+<!-- Event ID --><#>327
+<!-- Event Name --><#>
+<!-- Event ID --><#>328
+<!-- Event Name --><#>
+<!-- Event ID --><#>329
+<!-- Event Name --><#>
+<!-- Event ID --><#>330
+<!-- Event Name --><#>
+<!-- Event ID --><#>331
+<!-- Event Name --><#>
+<!-- Event ID --><#>332
+<!-- Event Name --><#>
+<!-- Event ID --><#>333
+<!-- Event Name --><#>
+<!-- Event ID --><#>334
+<!-- Event Name --><#>
+<!-- Event ID --><#>335
+<!-- Event Name --><#>
+<!-- Event ID --><#>336
+<!-- Event Name --><#>
+<!-- Event ID --><#>337
+<!-- Event Name --><#>
+<!-- Event ID --><#>338
+<!-- Event Name --><#>
+<!-- Event ID --><#>339
+<!-- Event Name --><#>
+<!-- Event ID --><#>340
+<!-- Event Name --><#>
+<!-- Event ID --><#>341
+<!-- Event Name --><#>
+<!-- Event ID --><#>342
+<!-- Event Name --><#>
+<!-- Event ID --><#>343
+<!-- Event Name --><#>
+<!-- Event ID --><#>344
+<!-- Event Name --><#>
+<!-- Event ID --><#>345
+<!-- Event Name --><#>
+<!-- Event ID --><#>346
+<!-- Event Name --><#>
+<!-- Event ID --><#>347
+<!-- Event Name --><#>
+<!-- Event ID --><#>348
+<!-- Event Name --><#>
+<!-- Event ID --><#>349
+<!-- Event Name --><#>
+<!-- Event ID --><#>350
+<!-- Event Name --><#>
+<!-- Event ID --><#>351
+<!-- Event Name --><#>
+<!-- Event ID --><#>352
+<!-- Event Name --><#>
+<!-- Event ID --><#>353
+<!-- Event Name --><#>
+<!-- Event ID --><#>354
+<!-- Event Name --><#>
+<!-- Event ID --><#>355
+<!-- Event Name --><#>
+<!-- Event ID --><#>356
+<!-- Event Name --><#>
+<!-- Event ID --><#>357
+<!-- Event Name --><#>
+<!-- Event ID --><#>358
+<!-- Event Name --><#>
+<!-- Event ID --><#>359
+<!-- Event Name --><#>
+<!-- Event ID --><#>360
+<!-- Event Name --><#>
+<!-- Event ID --><#>361
+<!-- Event Name --><#>
+<!-- Event ID --><#>362
+<!-- Event Name --><#>
+<!-- Event ID --><#>363
+<!-- Event Name --><#>
+<!-- Event ID --><#>364
+<!-- Event Name --><#>
+<!-- Event ID --><#>365
+<!-- Event Name --><#>
+<!-- Event ID --><#>366
+<!-- Event Name --><#>
+<!-- Event ID --><#>367
+<!-- Event Name --><#>
+<!-- Event ID --><#>368
+<!-- Event Name --><#>
+<!-- Event ID --><#>369
+<!-- Event Name --><#>
+<!-- Event ID --><#>370
+<!-- Event Name --><#>
+<!-- Event ID --><#>371
+<!-- Event Name --><#>
+<!-- Event ID --><#>372
+<!-- Event Name --><#>
+<!-- Event ID --><#>373
+<!-- Event Name --><#>
+<!-- Event ID --><#>374
+<!-- Event Name --><#>
+<!-- Event ID --><#>375
+<!-- Event Name --><#>
+<!-- Event ID --><#>376
+<!-- Event Name --><#>
+<!-- Event ID --><#>377
+<!-- Event Name --><#>
+<!-- Event ID --><#>378
+<!-- Event Name --><#>
+<!-- Event ID --><#>379
+<!-- Event Name --><#>
+<!-- Event ID --><#>380
+<!-- Event Name --><#>
+<!-- Event ID --><#>381
+<!-- Event Name --><#>
+<!-- Event ID --><#>382
+<!-- Event Name --><#>
+<!-- Event ID --><#>383
+<!-- Event Name --><#>
+<!-- Event ID --><#>384
+<!-- Event Name --><#>
+<!-- Event ID --><#>385
+<!-- Event Name --><#>
+<!-- Event ID --><#>386
+<!-- Event Name --><#>
+<!-- Event ID --><#>387
+<!-- Event Name --><#>
+<!-- Event ID --><#>388
+<!-- Event Name --><#>
+<!-- Event ID --><#>389
+<!-- Event Name --><#>
+<!-- Event ID --><#>390
+<!-- Event Name --><#>
+<!-- Event ID --><#>391
+<!-- Event Name --><#>
+<!-- Event ID --><#>392
+<!-- Event Name --><#>
+<!-- Event ID --><#>393
+<!-- Event Name --><#>
+<!-- Event ID --><#>394
+<!-- Event Name --><#>
+<!-- Event ID --><#>395
+<!-- Event Name --><#>
+<!-- Event ID --><#>396
+<!-- Event Name --><#>
+<!-- Event ID --><#>397
+<!-- Event Name --><#>
+<!-- Event ID --><#>398
+<!-- Event Name --><#>
+<!-- Event ID --><#>399
+<!-- Event Name --><#>
+<!-- Event ID --><#>400
+<!-- Event Name --><#>
+<!-- Event ID --><#>401
+<!-- Event Name --><#>
+<!-- Event ID --><#>402
+<!-- Event Name --><#>
+<!-- Event ID --><#>403
+<!-- Event Name --><#>
+<!-- Event ID --><#>404
+<!-- Event Name --><#>
+<!-- Event ID --><#>405
+<!-- Event Name --><#>
+<!-- Event ID --><#>406
+<!-- Event Name --><#>
+<!-- Event ID --><#>407
+<!-- Event Name --><#>
+<!-- Event ID --><#>408
+<!-- Event Name --><#>
+<!-- Event ID --><#>409
+<!-- Event Name --><#>
+<!-- Event ID --><#>410
+<!-- Event Name --><#>
+<!-- Event ID --><#>411
+<!-- Event Name --><#>
+<!-- Event ID --><#>412
+<!-- Event Name --><#>
+<!-- Event ID --><#>413
+<!-- Event Name --><#>
+<!-- Event ID --><#>414
+<!-- Event Name --><#>
+<!-- Event ID --><#>415
+<!-- Event Name --><#>
+<!-- Event ID --><#>416
+<!-- Event Name --><#>
+<!-- Event ID --><#>417
+<!-- Event Name --><#>
+<!-- Event ID --><#>418
+<!-- Event Name --><#>
+<!-- Event ID --><#>419
+<!-- Event Name --><#>
+<!-- Event ID --><#>420
+<!-- Event Name --><#>
+<!-- Event ID --><#>421
+<!-- Event Name --><#>
+<!-- Event ID --><#>422
+<!-- Event Name --><#>
+<!-- Event ID --><#>423
+<!-- Event Name --><#>
+<!-- Event ID --><#>424
+<!-- Event Name --><#>
+<!-- Event ID --><#>425
+<!-- Event Name --><#>
+<!-- Event ID --><#>426
+<!-- Event Name --><#>
+<!-- Event ID --><#>427
+<!-- Event Name --><#>
+<!-- Event ID --><#>428
+<!-- Event Name --><#>
+<!-- Event ID --><#>429
+<!-- Event Name --><#>
+<!-- Event ID --><#>430
+<!-- Event Name --><#>
+<!-- Event ID --><#>431
+<!-- Event Name --><#>
+<!-- Event ID --><#>432
+<!-- Event Name --><#>
+<!-- Event ID --><#>433
+<!-- Event Name --><#>
+<!-- Event ID --><#>434
+<!-- Event Name --><#>
+<!-- Event ID --><#>435
+<!-- Event Name --><#>
+<!-- Event ID --><#>436
+<!-- Event Name --><#>
+<!-- Event ID --><#>437
+<!-- Event Name --><#>
+<!-- Event ID --><#>438
+<!-- Event Name --><#>
+<!-- Event ID --><#>439
+<!-- Event Name --><#>
+<!-- Event ID --><#>440
+<!-- Event Name --><#>
+<!-- Event ID --><#>441
+<!-- Event Name --><#>
+<!-- Event ID --><#>442
+<!-- Event Name --><#>
+<!-- Event ID --><#>443
+<!-- Event Name --><#>
+<!-- Event ID --><#>444
+<!-- Event Name --><#>
+<!-- Event ID --><#>445
+<!-- Event Name --><#>
+<!-- Event ID --><#>446
+<!-- Event Name --><#>
+<!-- Event ID --><#>447
+<!-- Event Name --><#>
+<!-- Event ID --><#>448
+<!-- Event Name --><#>
+<!-- Event ID --><#>449
+<!-- Event Name --><#>
+<!-- Event ID --><#>450
+<!-- Event Name --><#>
+<!-- Event ID --><#>451
+<!-- Event Name --><#>
+<!-- Event ID --><#>452
+<!-- Event Name --><#>
+<!-- Event ID --><#>453
+<!-- Event Name --><#>
+<!-- Event ID --><#>454
+<!-- Event Name --><#>
+<!-- Event ID --><#>455
+<!-- Event Name --><#>
+<!-- Event ID --><#>456
+<!-- Event Name --><#>
+<!-- Event ID --><#>457
+<!-- Event Name --><#>
+<!-- Event ID --><#>458
+<!-- Event Name --><#>
+<!-- Event ID --><#>459
+<!-- Event Name --><#>
+<!-- Event ID --><#>460
+<!-- Event Name --><#>
+<!-- Event ID --><#>461
+<!-- Event Name --><#>
+<!-- Event ID --><#>462
+<!-- Event Name --><#>
+<!-- Event ID --><#>463
+<!-- Event Name --><#>
+<!-- Event ID --><#>464
+<!-- Event Name --><#>
+<!-- Event ID --><#>465
+<!-- Event Name --><#>
+<!-- Event ID --><#>466
+<!-- Event Name --><#>
+<!-- Event ID --><#>467
+<!-- Event Name --><#>
+<!-- Event ID --><#>468
+<!-- Event Name --><#>
+<!-- Event ID --><#>469
+<!-- Event Name --><#>
+<!-- Event ID --><#>470
+<!-- Event Name --><#>
+<!-- Event ID --><#>471
+<!-- Event Name --><#>
+<!-- Event ID --><#>472
+<!-- Event Name --><#>
+<!-- Event ID --><#>473
+<!-- Event Name --><#>
+<!-- Event ID --><#>474
+<!-- Event Name --><#>
+<!-- Event ID --><#>475
+<!-- Event Name --><#>
+<!-- Event ID --><#>476
+<!-- Event Name --><#>
+<!-- Event ID --><#>477
+<!-- Event Name --><#>
+<!-- Event ID --><#>478
+<!-- Event Name --><#>
+<!-- Event ID --><#>479
+<!-- Event Name --><#>
+<!-- Event ID --><#>480
+<!-- Event Name --><#>
+<!-- Event ID --><#>481
+<!-- Event Name --><#>
+<!-- Event ID --><#>482
+<!-- Event Name --><#>
+<!-- Event ID --><#>483
+<!-- Event Name --><#>
+<!-- Event ID --><#>484
+<!-- Event Name --><#>
+<!-- Event ID --><#>485
+<!-- Event Name --><#>
+<!-- Event ID --><#>486
+<!-- Event Name --><#>
+<!-- Event ID --><#>487
+<!-- Event Name --><#>
+<!-- Event ID --><#>488
+<!-- Event Name --><#>
+<!-- Event ID --><#>489
+<!-- Event Name --><#>
+<!-- Event ID --><#>490
+<!-- Event Name --><#>
+<!-- Event ID --><#>491
+<!-- Event Name --><#>
+<!-- Event ID --><#>492
+<!-- Event Name --><#>
+<!-- Event ID --><#>493
+<!-- Event Name --><#>
+<!-- Event ID --><#>494
+<!-- Event Name --><#>
+<!-- Event ID --><#>495
+<!-- Event Name --><#>
+<!-- Event ID --><#>496
+<!-- Event Name --><#>
+<!-- Event ID --><#>497
+<!-- Event Name --><#>
+<!-- Event ID --><#>498
+<!-- Event Name --><#>
+<!-- Event ID --><#>499
+<!-- Event Name --><#>
+<!-- Event ID --><#>500
+<!-- Event Name --><#>
