@@ -1,2 +1,8 @@
-.rpgm-translation-gui
-Graphics
+/Graphics
+/node_modules
+/bun.lock
+/original
+/data
+/output
+/package.json
+/.rpgmtranslate/**/*
