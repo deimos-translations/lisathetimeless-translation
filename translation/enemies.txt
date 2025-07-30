@@ -87,7 +87,6 @@ Valner Bravebeard<#>Вальнер Храбробородый
 <!-- Event ID --><#>35
 <!-- Event Name --><#>Dorfan Saltrock
 Dorfan Saltrock<#>Дорфан "Солевой камень"
-On fire<#>
 <!-- Event ID --><#>36
 <!-- Event Name --><#>Frank Bombard
 Frank Bombard<#>Фрэнк Бомбард
@@ -135,7 +134,6 @@ Midnight Power<#>Полуночный боец
 Joe Crow<#>Джо Ворон
 <!-- Event ID --><#>52
 <!-- Event Name --><#>ferk bobard
-ferk bobard<#>
 <!-- Event ID --><#>53
 <!-- Event Name --><#>Lunatic Ted
 Lunatic Ted<#>Безумный Тед
@@ -160,11 +158,9 @@ Steak Slab Steven<#>Стивен "Кусок стейка"
 <!-- Event ID --><#>60
 <!-- Event Name --><#>Lone Coyote
 Lone Coyote<#>Одинокий койот
-Alone<#>
 <!-- Event ID --><#>61
 <!-- Event Name --><#>Coyote
 Coyote<#>Койот
-pack<#>
 <!-- Event ID --><#>62
 <!-- Event Name --><#>Slot Machine
 Slot Machine<#>Слот-машина
@@ -780,7 +776,6 @@ Batis Killington<#>Батис Киллингтон
 <!-- Event ID --><#>357
 <!-- Event Name --><#>Lunatic Trash
 Lunatic Trash<#>Безумная мусорка
-Solo<#>
 <!-- Event ID --><#>358
 <!-- Event Name --><#>Batis Killington
 Batis Killington<#>Батис Киллингтон
@@ -2070,7 +2065,6 @@ Teammate<#>Союзник
 Kirk Peach<#>Кирк Пич
 <!-- Event ID --><#>998
 <!-- Event Name --><#>Mr tester
-Mr tester<#>
 <!-- Event ID --><#>999
 <!-- Event Name --><#>Dave "Shark" Mack
 Dave "Shark" Mack<#>Дэйв "Акула" Мак

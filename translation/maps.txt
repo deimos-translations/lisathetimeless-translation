@@ -118,8 +118,6 @@ He told me this when we were at the bar.<#>Он сказал мне, когда 
 Oh.\| Oh!\| Yeah, that I remember.<#>А.\| А!\| Да, это я помню.
 He was uh... he was... wasn't he robbed\#by some jackass or something?<#>Его, э... его... разве его не\#ограбил какой-то мудак, или вроде того?
 Yes. When he was sleeping at the dam...<#>Да. Когда он спал у дамбы...
-\et[005]"Carlos Broll\#14 octubre 1910-29 julio 1956.<#>
-\et[005]Asesinado por asaltantes\#desconocidos."<#>
 <!-- Map --><#>6
 <!-- Order --><#>134
 <!-- Map Name --><#>Outside of the throat
@@ -237,76 +235,6 @@ The passage is blocked.<#>Проход заблокирован.
 <!-- Order --><#>2
 <!-- Map Name --><#>Debug room
 <!-- In-game Displayed Name:  --><#>
-\et[031]You wanna be crushed\#too? Mm..?<#>
-\et[125]People are getting killed\#all over the Olathe...<#>
-\et[125]And for what?<#>
-\et[125]For dirty magazines?<#>
-\et[125]I'm so confused...<#>
-\et[000]No, you @#*^@#:!<#>
-\et[014]Maybe you @#*^@#:?<#>
-\et[000]That's a shame!..<#>
-\et[00]Hold on Berny, it's getting\#really deep here again.<#>
-\et[00]Sit where you are, I'm moving on.<#>
-\et[36]Okay, man...<#>
-\et[00]Yell if you see anyone.<#>
-3\I[070] - - - \I[070]Bottle of Water<#>
-{\I[70]Bottle of Water}An extremely refreshing drink.\#Cures many aliments, including Scared,\#Weird and Hangover. (Sold for 3 Bottles\#of Dirty Water.)<#>
-Buy<#>
-Cancel<#>
-You got a Bottle of Water!<#>
-You don't have enough items.<#>
-2\I[000] - - - \I[064]Fancy Perfume<#>
-{\I[064]Fancy Perfume}Sweet scent revives\#an ally fully.<#>
-You got a Fancy Perfume!<#>
-1\I[070] 1\I[003] - \I[069]Domestic Jerky<#>
-1\I[003] - - - \I[009]Lucrative Tea<#>
-1\I[70] 1\I[04] - \I[511]Potato Chips<#>
-1\I[11] 1\I[04] - \I[70]Mystery Jerky<#>
-{\I[069]Domestic Jerky}Recovers 1000 HP.<#>
-You got a Domestic Jerky!<#>
-{\I[009]Lucrative Tea}An unsafe blend of tea.\#Revives TP and SP.<#>
-You got a Lucrative Tea!<#>
-{\I[511]Potato Chips}Recover 1000 hp. (Sold\#for a Mystery Jerky and\#a Potato Liquor.)<#>
-You got Potato chips!<#>
-{\I[70]Mystery Jerky}Dried meat of common Olathian\#animals. Recovers 300 HP. (Sold for\#a Bottle of Dirty Water and an\#Empty Bottle.)<#>
-You got a Mystery Jerky!<#>
-1\I[004] 1\I[003] - \I[000]Perfume<#>
-1\I[11] - - - \I[004]Onion Vodka<#>
-1\I[004] 1\I[003] - \I[091]Party Liquor<#>
-1\I[004] - - - \I[507]Chocolate Bar<#>
-{\I[000]Perfume}The sweet scent revives an ally.\#(Sold for an Onion Vodka and a Diet\#Cocola Cola.)<#>
-You got a Perfume!<#>
-{\I[004]Onion Vodka}Capable of getting you drunk.\#Recovers 300 HP. (Sold for a Bottle\#of Dirty Water.)<#>
-You got an Onion Vodka!<#>
-{\I[091]Party Liquor}Capable of getting you drunk. Recovers\#200 HP of each party member.\#(Sold for an Empty Bottle and a Diet\#Cocola Cola.)<#>
-You got a Party Liquor!<#>
-{\I[507]Chocolate Bar}An opened bar of chocolate. Recovers\#280 HP. (Crafting Material.)\#(Sold for a Potato Liquor.)<#>
-You got a Chocolate Bar!<#>
-1\I[419] 8\I[018] - \I[064]Fancy Perfume<#>
-1\I[003] 10\I[018] - \I[299]Doner<#>
-1\I[002] - - - 2\I[396]Tasers<#>
-{\I[064]Fancy Perfume}The sweet scent revives an ally Fully.\#(Sold for a Triple Horror Whiskey and\#8 Mags.)<#>
-{\I[299]Doner}Recovers 450 HP, temporarily\#increasing max. HP by 33% and decreasing max.\#SP by 33%. Makes you feel weird.\#(Sold for a Diet Cocola Cola and 10 Mags.)<#>
-You got a Doner!<#>
-{2\I[396]Tasers}A rare electroshock weapon.\#Paralyses the enemy.\#(Sold for a Cocola Cola.)<#>
-You got 2 Tasers!<#>
-1\I[008] - - - \I[003]Diet Cocola Cola, 1\I[018]<#>
-{\I[003]Diet Cocola Cola, 1\[018]}If you throw this can at someone\#it won't hurt, it's a soft drink!\#Recovers 200 SP.<#>
-You got a Fancy Perfume and a magazine!<#>
-1\I[008] 3\I[018] - \I[437]Exclusive Cigar<#>
-{\I[437]Exclusive Cigar}Cures wary, poison and depression.\#Makes you look Super Cool, but may\#make you winded.<#>
-you have HIV<#>
-3\I[462] - 1 \I[463]Plan B<#>
-2\I[462] - 1 \I[479]Flaccid Revolver<#>
-{\I[463]Plan B}A blast of flaming emotion. (WARNING:\#Does exactly what you think it does.) (Barter item)<#>
-You got the Plan B!<#>
-{\I[479]Flaccid Revolver}No matter how you shoot,\#you always hit your feet. (Barter item)<#>
-So. How'd it all happen?<#>
-You remember it, don't you?<#>
-It's been so long. Practically a blur at this point...<#>
-Well... it all started with...<#>
-He's...<#>
-Uuuughh...<#>
 <!-- Map --><#>16
 <!-- Order --><#>14
 <!-- Map Name --><#>Dam Well
@@ -2665,7 +2593,6 @@ He's dead<#>Он мёртв.
 \et[045]Wha-a?...<#>Что-о...?
 \et[045]No! I'm not dead!<#>Нет! Я не мёртв!
 \et[045]I'm just sleeping underwater.<#>Я просто сплю под водой.
-\et[016]\V[072]\I[462]<#>
 3\I[462] - 1 \I[463]Plan B<#>3\I[462] - 1 \I[463]План Б
 2\I[462] - 1 \I[479]Flaccid Revolver<#>2\I[462] - 1 \I[479]Вялый револьвер
 {\I[463]Plan B}A blast of flaming emotion. (WARNING:\#Does exactly what you think it does.) (Barter item)<#>{\I[463]План Б}Взрыв пылающих эмоций. ПРЕДУПРЕЖДЕНИЕ:\#Делает в точности то, что вы думаете. (Предмет для обмена)

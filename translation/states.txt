@@ -4,7 +4,6 @@ KO'ed<#>Нокаут
 has fallen!<#>нокаутирован!
 is out!<#>в ауте!
 revives!<#>приходит в себя!
-State #1 will be automatically added when\#HP reaches 0.\#\#<popup hide add>\#<popup hide rem>\#<popup hide dur><#>
 <!-- Event ID --><#>2
 <!-- Event Name --><#>Poison
 Poison<#>Отравление
@@ -49,7 +48,6 @@ regains focus!<#>вновь концентрируется!
 Guard<#>Защита
 <!-- Event ID --><#>10
 <!-- Event Name --><#>Alive
-Alive<#>
 <!-- Event ID --><#>11
 <!-- Event Name --><#>Cover
 Cover<#>Прикрытие
@@ -66,7 +64,6 @@ is hiding.<#>укрывается.
 was found!<#>обнаружен!
 <!-- Event ID --><#>14
 <!-- Event Name --><#>Bottle
-Bottle<#>
 <!-- Event ID --><#>15
 <!-- Event Name --><#>
 <!-- Event ID --><#>16
@@ -93,11 +90,9 @@ is immovable!<#>несдвигаем!
 lost his footing.<#>потерял равновесие.
 <!-- Event ID --><#>21
 <!-- Event Name --><#>Fire Force
-Fire Force<#>
 acquires the power of fire!<#>овладевает силой огня!
 <!-- Event ID --><#>22
 <!-- Event Name --><#>Ice Force
-Ice Force<#>
 acquires the power of ice!<#>овладевает силой льда!
 <!-- Event ID --><#>23
 <!-- Event Name --><#>Geared Up
@@ -107,10 +102,8 @@ is enraged!<#>наполнен яростью!
 calmed down.<#>успокаивается.
 <!-- Event ID --><#>24
 <!-- Event Name --><#>Ailment Guard
-Ailment Guard<#>
 <!-- Event ID --><#>25
 <!-- Event Name --><#>MP Cost Down
-MP Cost Down<#>
 <!-- Event ID --><#>26
 <!-- Event Name --><#>Burning
 Burning<#>Горение
@@ -230,24 +223,12 @@ Depression<#>Расстроенность
 is depressed.<#>расстроен.
 <!-- Event ID --><#>49
 <!-- Event Name --><#>Kat
-Kat<#>
-is wrestling Kat.<#>
-shook off Kat.<#>
 <!-- Event ID --><#>50
 <!-- Event Name --><#>Critter
-Critter<#>
-is wrestling a critter.<#>
-shook off the critter.<#>
 <!-- Event ID --><#>51
 <!-- Event Name --><#>Kat Gone
-Kat Gone<#>
-is wrestling Kat.<#>
-shook off Kat.<#>
 <!-- Event ID --><#>52
 <!-- Event Name --><#>Critter Gone
-Critter Gone<#>
-is wrestling a critter.<#>
-shook off the critter.<#>
 <!-- Event ID --><#>53
 <!-- Event Name --><#>Dead
 Dead<#>Мёртв
@@ -284,7 +265,6 @@ looms menacingly.<#>угрожающе нависает.
 lost relevance.<#>потерял значимость.
 <!-- Event ID --><#>59
 <!-- Event Name --><#>Bellow Threshold
-Bellow Threshold<#>
 <!-- Event ID --><#>60
 <!-- Event Name --><#>Fire Powered
 Fire Powered<#>Сила огня
@@ -356,10 +336,8 @@ is immovable!<#>несдвигаем!
 lost his footing.<#>потерял равновесие.
 <!-- Event ID --><#>74
 <!-- Event Name --><#>Secondary Threshold
-Secondary Threshold<#>
 <!-- Event ID --><#>75
 <!-- Event Name --><#>addstate
-addstate<#>
 <!-- Event ID --><#>76
 <!-- Event Name --><#>Armed
 Armed<#>Вооружён
@@ -370,10 +348,8 @@ was disarmed.<#>обезоружен.
 Disarmed<#>Безоружен
 <!-- Event ID --><#>78
 <!-- Event Name --><#>Tertiary Threshold
-Tertiary Threshold<#>
 <!-- Event ID --><#>79
 <!-- Event Name --><#>Untouchable
-Untouchable<#>
 <!-- Event ID --><#>80
 <!-- Event Name --><#>Deafened
 Deafened<#>Потеря слуха
@@ -382,10 +358,8 @@ is deaf.<#>глухой.
 's hearing comes back!<#>возвращает себе слух!
 <!-- Event ID --><#>81
 <!-- Event Name --><#>addstate1
-addstate1<#>
 <!-- Event ID --><#>82
 <!-- Event Name --><#>Quaternary Threshold
-Quaternary Threshold<#>
 <!-- Event ID --><#>83
 <!-- Event Name --><#>Dodged
 Dodged<#>Уклонение
@@ -417,13 +391,10 @@ Amphibious<#>Амфибия
 <!-- Event ID --><#>90
 <!-- Event Name --><#>Speedy
 Speedy<#>Скорость
-elton's<#>
 <!-- Event ID --><#>91
 <!-- Event Name --><#>Damage Up
-Damage Up<#>
 <!-- Event ID --><#>92
 <!-- Event Name --><#>Lucky bastard
-Lucky bastard<#>
 <!-- Event ID --><#>93
 <!-- Event Name --><#>Goldenbody
 Goldenbody<#>Золотое тело
@@ -450,7 +421,6 @@ is drunk.<#>пьян.
 sobered up.<#>протрезвел.
 <!-- Event ID --><#>99
 <!-- Event Name --><#>Do nothing
-Do nothing<#>
 <!-- Event ID --><#>100
 <!-- Event Name --><#>Shell-shocked
 Shell-shocked<#>Контузия
@@ -476,10 +446,8 @@ Regeneration<#>Регенерация
 Jackpot Mark<#>Отметка джекпота
 <!-- Event ID --><#>105
 <!-- Event Name --><#>FakeRevolver
-FakeRevolver<#>
 <!-- Event ID --><#>106
 <!-- Event Name --><#>No tp
-No tp<#>
 <!-- Event ID --><#>107
 <!-- Event Name --><#>Drunk
 Drunk<#>Опьянение
@@ -489,7 +457,6 @@ sobered up.<#>протрезвел.
 <!-- Event Name --><#>
 <!-- Event ID --><#>109
 <!-- Event Name --><#>Low tgr
-Low tgr<#>
 <!-- Event ID --><#>110
 <!-- Event Name --><#>Immortal
 Immortal<#>Бессмертие
@@ -519,13 +486,11 @@ is sleeping...<#>спит...
 wakes up!<#>просыпается!
 <!-- Event ID --><#>116
 <!-- Event Name --><#>Do nothing 1 turn
-Do nothing 1 turn<#>
 <!-- Event ID --><#>117
 <!-- Event Name --><#>Cursed
 Cursed<#>Проклятие
 <!-- Event ID --><#>118
 <!-- Event Name --><#>RealRevolver
-RealRevolver<#>
 <!-- Event ID --><#>119
 <!-- Event Name --><#>
 <!-- Event ID --><#>120
@@ -538,10 +503,8 @@ RealRevolver<#>
 <!-- Event Name --><#>
 <!-- Event ID --><#>124
 <!-- Event Name --><#>ChairIron
-ChairIron<#>
 <!-- Event ID --><#>125
 <!-- Event Name --><#>ChairWood
-ChairWood<#>
 <!-- Event ID --><#>126
 <!-- Event Name --><#>Wet
 Wet<#>Намокание
@@ -549,7 +512,6 @@ Wet<#>Намокание
 <!-- Event Name --><#>Dangerous
 Dangerous<#>Опасность
 will kill.<#>будет убивать.
-dangerous two<#>
 <!-- Event ID --><#>128
 <!-- Event Name --><#>Plan
 Plan<#>План

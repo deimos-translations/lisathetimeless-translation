@@ -15,7 +15,6 @@ Boring accountant turned aspiring mystic.\#His soul now burns bright as ever!<#>
 John<#>Джон
 Spin<#>Спин
 A WW1 vet with over 10 decades of regret weighing\#on his shoulders. Do not deny him his redemption.<#>Ветеран первой мировой, который несёт за собой\#сотню лет сожалений. Не отказывайте ему в его мести.
-<win quotes>\#\elb ...\#</win quotes>\#<level quotes>\#\elb ...\#</level quotes>\#<drops quotes>\#\elb ...\#</drops quotes><#>
 <!-- Event ID --><#>4
 <!-- Event Name --><#>Ern
 Ern<#>Эрн

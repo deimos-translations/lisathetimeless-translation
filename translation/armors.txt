@@ -64,8 +64,6 @@ Blue Shirt<#>Синяя майка
 A shirt that is blue. Not much else to say.<#>Синяя майка. Больше нечего сказать.
 <!-- Event ID --><#>18
 <!-- Event Name --><#>Sports Jersey
-Sports Jersey<#>
-Show your team support with this brown jersey.<#>
 <!-- Event ID --><#>19
 <!-- Event Name --><#>Blobfish hat
 Blobfish hat<#>Маска рыбы-капли
@@ -105,58 +103,32 @@ An effective tool for hair care. Resistance to\#Weird and Wary.<#>Эффекти
 <!-- Event Name --><#>
 <!-- Event ID --><#>30
 <!-- Event Name --><#>Rando Poncho
-Rando Poncho<#>
-A very well made poncho.<#>
 <!-- Event ID --><#>31
 <!-- Event Name --><#>Silk Poncho
-Silk Poncho<#>
-A very rare fabric in today's day and age.\#Who did this belong to?<#>
 <!-- Event ID --><#>32
 <!-- Event Name --><#>MANLY---------------
 <!-- Event ID --><#>33
 <!-- Event Name --><#>USA Flag
-USA Flag<#>
-It's rather disrespectful to be wearing\#this like a shirt...<#>
 <!-- Event ID --><#>34
 <!-- Event Name --><#>Nipple Patch
-Nipple Patch<#>
-Probably the only one ever made.\#Who loses a nipple?<#>
 <!-- Event ID --><#>35
 <!-- Event Name --><#>Football Pads
-Football Pads<#>
-Signed by John Freeway, but it's a mass\#produced signature. It's nothing special.<#>
 <!-- Event ID --><#>36
 <!-- Event Name --><#>Elite Pads
-Elite Pads<#>
-Made from thick plastic. Thick like your skull.<#>
 <!-- Event ID --><#>37
 <!-- Event Name --><#>Spiked Pads
-Spiked Pads<#>
-If you don't have these in the apocalypse\#you're seriously doing it wrong.<#>
 <!-- Event ID --><#>38
 <!-- Event Name --><#>Meaty Pads
-Meaty Pads<#>
-These sure can take a beating.<#>
 <!-- Event ID --><#>39
 <!-- Event Name --><#>Turquoise Pads
-Turquoise Pads<#>
-Dope western style pads.<#>
 <!-- Event ID --><#>40
 <!-- Event Name --><#>Devil's Pads
-Devil's Pads<#>
-The football pads of the world's most evil\#quaterback... Satan Manning.<#>
 <!-- Event ID --><#>41
 <!-- Event Name --><#>Skate Pads
-Skate Pads<#>
-Bright colored pads for roller blading.<#>
 <!-- Event ID --><#>42
 <!-- Event Name --><#>Wood Shield
-Wood Shield<#>
-A stiff shield.<#>
 <!-- Event ID --><#>43
 <!-- Event Name --><#>Metal Shield
-Metal Shield<#>
-This really... STOPS attacks.<#>
 <!-- Event ID --><#>44
 <!-- Event Name --><#>
 <!-- Event ID --><#>45
@@ -173,22 +145,14 @@ This really... STOPS attacks.<#>
 <!-- Event Name --><#>
 <!-- Event ID --><#>51
 <!-- Event Name --><#>Karate Belt
-Karate Belt<#>
-An authentic combat belt!<#>
 <!-- Event ID --><#>52
 <!-- Event Name --><#>Trash Bag Poncho
-Trash Bag Poncho<#>
-A poncho made out of a trash bag.\#It produces a stench.<#>
 <!-- Event ID --><#>53
 <!-- Event Name --><#>Lucky Feather
-Lucky Feather<#>
-Putting this in your cap makes you look\#super smart!<#>
 <!-- Event ID --><#>54
 <!-- Event Name --><#>
 <!-- Event ID --><#>55
 <!-- Event Name --><#>Locket
-Locket<#>
-A woman's picture is inside the locket.<#>
 <!-- Event ID --><#>56
 <!-- Event Name --><#>
 <!-- Event ID --><#>57
@@ -203,86 +167,46 @@ A woman's picture is inside the locket.<#>
 <!-- Event Name --><#>LUCHA MASKS-------------------
 <!-- Event ID --><#>62
 <!-- Event Name --><#>Red Skull Mask
-Red Skull Mask<#>
-A mask that represents the birth of Rando.<#>
 <!-- Event ID --><#>63
 <!-- Event Name --><#>Sparkly Mask
-Sparkly Mask<#>
-The glistening lets people know how\#cool you are.<#>
 <!-- Event ID --><#>64
 <!-- Event Name --><#>Worn Helmet
-Worn Helmet<#>
-Give it the old college try with this\#bad boy.<#>
 <!-- Event ID --><#>65
 <!-- Event Name --><#>Horrace's Hardhat
-Horrace's Hardhat<#>
-There is something written on it: "Dear son,\#don't drive bulldozers, you'll never succeed."<#>
 <!-- Event ID --><#>66
 <!-- Event Name --><#>ACCESORIES-----------
 <!-- Event ID --><#>67
 <!-- Event Name --><#>Diary Entries
-Diary Entries<#>
-An assortment of motivational quotes to help\#Terry get through the day...<#>
 <!-- Event ID --><#>68
 <!-- Event Name --><#>Old Sock
-Old Sock<#>
-Super comfy, but super smelly.<#>
 <!-- Event ID --><#>69
 <!-- Event Name --><#>Lucky Feather
-Lucky Feather<#>
-Putting this in your cap makes you look\#super smart!<#>
 <!-- Event ID --><#>70
 <!-- Event Name --><#>Stench
-Stench<#>
-A stench so strong, you can\#physically carry it around.<#>
 <!-- Event ID --><#>71
 <!-- Event Name --><#>Dead Flower
-Dead Flower<#>
-A personal keepsake.<#>
 <!-- Event ID --><#>72
 <!-- Event Name --><#>Cape
-Cape<#>
-It's really just an old towel...<#>
 <!-- Event ID --><#>73
 <!-- Event Name --><#>Cat Paw
-Cat Paw<#>
-Many people love cats...\#Many hate them...<#>
 <!-- Event ID --><#>74
 <!-- Event Name --><#>Denim Jeans
-Denim Jeans<#>
-Denim never goes out of style.<#>
 <!-- Event ID --><#>75
 <!-- Event Name --><#>Badass Belt Buckle
-Badass Belt Buckle<#>
-This mother fucker keeps those fucking\#pants secure as fuck.<#>
 <!-- Event ID --><#>76
 <!-- Event Name --><#>Glasses
-Glasses<#>
-Helps you hit things better. Reduces your coolness,\#regardless of your opinion on fashion.<#>
 <!-- Event ID --><#>77
 <!-- Event Name --><#>Eternal Title Belt
-Eternal Title Belt<#>
-The prestigious championship belt.<#>
 <!-- Event ID --><#>78
 <!-- Event Name --><#>Tag Team Title Belt
-Tag Team Title Belt<#>
-The prestigious tag team championship belt.<#>
 <!-- Event ID --><#>79
 <!-- Event Name --><#>Mike's Belt Buckle
-Mike's Belt Buckle<#>
-It's just a lonely trucker's belt...<#>
 <!-- Event ID --><#>80
 <!-- Event Name --><#>Nipple
-Nipple<#>
-A reminder of your choices.<#>
 <!-- Event ID --><#>81
 <!-- Event Name --><#>Old Sock
-Old Sock<#>
-Super comfy, but super smelly.<#>
 <!-- Event ID --><#>82
 <!-- Event Name --><#>Black Helmet
-Black Helmet<#>
-The official Black Ranger helmet.<#>
 <!-- Event ID --><#>83
 <!-- Event Name --><#>
 <!-- Event ID --><#>84
@@ -295,36 +219,20 @@ The official Black Ranger helmet.<#>
 <!-- Event Name --><#>BLOUSES-------------
 <!-- Event ID --><#>88
 <!-- Event Name --><#>Cheetah Jersey
-Cheetah Jersey<#>
-A very loud sports jersey.<#>
 <!-- Event ID --><#>89
 <!-- Event Name --><#>Drab Tank Top
-Drab Tank Top<#>
-An earthly colored tank top.<#>
 <!-- Event ID --><#>90
 <!-- Event Name --><#>Sports Jersey
-Sports Jersey<#>
-Show your team support with this\#over priced jersey.<#>
 <!-- Event ID --><#>91
 <!-- Event Name --><#>Cutoff Sweatshirt
-Cutoff Sweatshirt<#>
-Ideal for people with nice abs.\#Gives you a good chance at looking cool.<#>
 <!-- Event ID --><#>92
 <!-- Event Name --><#>Floral Shirt
-Floral Shirt<#>
-The coolest type of shirt ever.\#Only few can pull it off.<#>
 <!-- Event ID --><#>93
 <!-- Event Name --><#>Grandpa's Shirt
-Grandpa's Shirt<#>
-The legendary blouse of a retiree.\#This shirt has seen many games of golf...<#>
 <!-- Event ID --><#>94
 <!-- Event Name --><#>Lab Coat
-Lab Coat<#>
-A dirty lab coat.<#>
 <!-- Event ID --><#>95
 <!-- Event Name --><#>Sweaty Shirt
-Sweaty Shirt<#>
-This shirt is covered in cologne to mask\#the sweat smell.<#>
 <!-- Event ID --><#>96
 <!-- Event Name --><#>
 <!-- Event ID --><#>97
@@ -333,90 +241,48 @@ This shirt is covered in cologne to mask\#the sweat smell.<#>
 <!-- Event Name --><#>HEADWEAR--------
 <!-- Event ID --><#>99
 <!-- Event Name --><#>Turban
-Turban<#>
-Headwear created by cloth winding.<#>
 <!-- Event ID --><#>100
 <!-- Event Name --><#>Odd Helmet
-Odd Helmet<#>
-Origins unknown.<#>
 <!-- Event ID --><#>101
 <!-- Event Name --><#>Bird Mask
-Bird Mask<#>
-Quack, quack? What is this?<#>
 <!-- Event ID --><#>102
 <!-- Event Name --><#>Straw Hat
-Straw Hat<#>
-Something Grandmother would\#wear.<#>
 <!-- Event ID --><#>103
 <!-- Event Name --><#>Pink Helmet
-Pink Helmet<#>
-The official Pink Ranger helmet.<#>
 <!-- Event ID --><#>104
 <!-- Event Name --><#>Motorbike Helmet
-Motorbike Helmet<#>
-Belonged to the leader of the Gale\#Motorcycle Club.<#>
 <!-- Event ID --><#>105
 <!-- Event Name --><#>Businessy Hat
-Businessy Hat<#>
-This hat increases your office productivity.<#>
 <!-- Event ID --><#>106
 <!-- Event Name --><#>Fisherman's Hat
-Fisherman's Hat<#>
-This has no style whatsoever.\#It's impossible to look cool with this.<#>
 <!-- Event ID --><#>107
 <!-- Event Name --><#>Dandy Hat
-Dandy Hat<#>
-The ultimate in Southern headwear.<#>
 <!-- Event ID --><#>108
 <!-- Event Name --><#>Sunscreen
-Sunscreen<#>
-Ideal for bald heads.<#>
 <!-- Event ID --><#>109
 <!-- Event Name --><#>Deluxe Sunscreen
-Deluxe Sunscreen<#>
-The best sunscreen. Reduces burning.<#>
 <!-- Event ID --><#>110
 <!-- Event Name --><#>Hair-Gro
-Hair-Gro<#>
-A hair growth formula. These never\#work, but it helps to dream.<#>
 <!-- Event ID --><#>111
 <!-- Event Name --><#>Paint Can
-Paint Can<#>
-A paint can with a hole in it.<#>
 <!-- Event ID --><#>112
 <!-- Event Name --><#>Tiger Head
-Tiger Head<#>
-Is this even a mask...?<#>
 <!-- Event ID --><#>113
 <!-- Event Name --><#>Harvey
-Harvey<#>
-Sonny's best friend. The only one Sonny\#feels comfortable talking to...<#>
 <!-- Event ID --><#>114
 <!-- Event Name --><#>Winter Cap
-Winter Cap<#>
-A tiny hat made for Winter. Worn all year\#by homeless people.<#>
 <!-- Event ID --><#>115
 <!-- Event Name --><#>Hyper Hair-Gro
-Hyper Hair-Gro<#>
-A hair growth formula. These never\#work, but it helps to dream.<#>
 <!-- Event ID --><#>116
 <!-- Event Name --><#>Fish Head
-Fish Head<#>
-Is this a real fish head?\#Is this a real fishman?!<#>
 <!-- Event ID --><#>117
 <!-- Event Name --><#>Mid-Life Crisis Hat
-Mid-Life Crisis Hat<#>
-It's something we all go through at some point.<#>
 <!-- Event ID --><#>118
 <!-- Event Name --><#>NUDE-------------------------
 <!-- Event ID --><#>119
 <!-- Event Name --><#>Oiled Chest
-Oiled Chest<#>
-Makes you all slippery and sexy!<#>
 <!-- Event ID --><#>120
 <!-- Event Name --><#>Eye Patch
-Eye Patch<#>
-This looks boss as Hell.<#>
 <!-- Event ID --><#>121
 <!-- Event Name --><#>
 <!-- Event ID --><#>122
@@ -429,11 +295,8 @@ This looks boss as Hell.<#>
 <!-- Event Name --><#>
 <!-- Event ID --><#>126
 <!-- Event Name --><#>PONCHOS
-PONCHOS<#>
 <!-- Event ID --><#>127
 <!-- Event Name --><#>Football Helmet
-Football Helmet<#>
-Hike! Your way into proper safety!<#>
 <!-- Event ID --><#>128
 <!-- Event Name --><#>
 <!-- Event ID --><#>129
@@ -444,8 +307,6 @@ Hike! Your way into proper safety!<#>
 <!-- Event Name --><#>BUDDY MASKS-----------
 <!-- Event ID --><#>132
 <!-- Event Name --><#>Bandages
-Bandages<#>
-Bandages found to cover your wounds.\#Brad taught you how to apply them.<#>
 <!-- Event ID --><#>133
 <!-- Event Name --><#>
 <!-- Event ID --><#>134

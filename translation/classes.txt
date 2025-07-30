@@ -1,11 +1,9 @@
 <!-- Event ID --><#>1
 <!-- Event Name --><#>Conjurer
 Conjurer<#>Фокусник
-<command list>\#skill list\#defend\#items\#</command list><#>
 <!-- Event ID --><#>2
 <!-- Event Name --><#>Walking Corpse
 Walking Corpse<#>Ходячий труп
-<command list>\#<command name: skill 213>\#skill list\#defend\#items\#</command list><#>
 <!-- Event ID --><#>3
 <!-- Event Name --><#>
 <!-- Event ID --><#>4
@@ -41,7 +39,6 @@ Walking Corpse<#>Ходячий труп
 <!-- Event ID --><#>19
 <!-- Event Name --><#>Cart Master
 Cart Master<#>Тележный эксперт
-<command list>\#<command name: skill 503>\#skill list\#defend\#items\#</command list><#>
 <!-- Event ID --><#>20
 <!-- Event Name --><#>
 <!-- Event ID --><#>21
@@ -85,7 +82,6 @@ Cart Master<#>Тележный эксперт
 <!-- Event ID --><#>40
 <!-- Event Name --><#>Conjurer
 Conjurer<#>Фокусник
-<command list>\#skill list\#defend\#items\#</command list><#>
 <!-- Event ID --><#>41
 <!-- Event Name --><#>
 <!-- Event ID --><#>42
@@ -93,16 +89,12 @@ Conjurer<#>Фокусник
 <!-- Event ID --><#>43
 <!-- Event Name --><#>Ern Himself
 Ern Himself<#>Эрн, он самый
-<command list>\#<command name: skill 455>\#skill list\#defend\#items\#</command list><#>
 <!-- Event ID --><#>44
 <!-- Event Name --><#>Aged Vagrant
 Aged Vagrant<#>Пожилой бродяга
-<command list>\#<command name: skill 882>\#skill list\#defend\#items\#</command list><#>
 <!-- Event ID --><#>45
 <!-- Event Name --><#>Unassuming Warrior
 Unassuming Warrior<#>Скромный воин
-<command list>\#skill list\#defend\#items\#</command list><#>
 <!-- Event ID --><#>46
 <!-- Event Name --><#>Conjurer
 Conjurer<#>Фокусник
-<command list>\#skill list\#defend\#items\#</command list><#>

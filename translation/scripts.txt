@@ -45,8 +45,6 @@ Missed! %s took no damage!<#>Промах! %s не получает урона!
 %s's %s went down!<#>%s уменьшает %s!
 %s's %s returned to normal.<#>%s возвращает %s в нормальное состояние.
 There was no effect on %s!<#>%s игнорирует!
-Player's starting position is not set.<#>
-Common event calls exceeded the limit.<#>
 <!-- Script ID --><#>2
 <!-- Script Name --><#>Sound
 <!-- Script ID --><#>3
@@ -103,58 +101,6 @@ Common event calls exceeded the limit.<#>
 <!-- Script Name --><#>Game_Party
 <!-- Script ID --><#>29
 <!-- Script Name --><#>Game_Troop
- A<#>
- B<#>
- C<#>
- D<#>
- E<#>
- F<#>
- G<#>
- H<#>
- I<#>
- J<#>
- K<#>
- L<#>
- M<#>
- N<#>
- O<#>
- P<#>
- Q<#>
- R<#>
- S<#>
- T<#>
- U<#>
- V<#>
- W<#>
- X<#>
- Y<#>
- Z<#>
-Ａ<#>
-Ｂ<#>
-Ｃ<#>
-Ｄ<#>
-Ｅ<#>
-Ｆ<#>
-Ｇ<#>
-Ｈ<#>
-Ｉ<#>
-Ｊ<#>
-Ｋ<#>
-Ｌ<#>
-Ｍ<#>
-Ｎ<#>
-Ｏ<#>
-Ｐ<#>
-Ｑ<#>
-Ｒ<#>
-Ｓ<#>
-Ｔ<#>
-Ｕ<#>
-Ｖ<#>
-Ｗ<#>
-Ｘ<#>
-Ｙ<#>
-Ｚ<#>
 <!-- Script ID --><#>30
 <!-- Script Name --><#>Game_Map
 <!-- Script ID --><#>31
@@ -183,7 +129,6 @@ Common event calls exceeded the limit.<#>
 <!-- Script Name --><#>Sprite_Base
 <!-- Script ID --><#>43
 <!-- Script Name --><#>Sprite_Character
-Balloon<#>
 <!-- Script ID --><#>44
 <!-- Script Name --><#>Sprite_Battler
 <!-- Script ID --><#>45
@@ -194,33 +139,14 @@ Balloon<#>
 <!-- Script Name --><#>Spriteset_Weather
 <!-- Script ID --><#>48
 <!-- Script Name --><#>Spriteset_Map
-Shadow<#>
 <!-- Script ID --><#>49
 <!-- Script Name --><#>Spriteset_Battle
-Wasteland<#>
-DirtField<#>
-Desert<#>
-Lava1<#>
-Lava2<#>
-Snowfield<#>
-Clouds<#>
-PoisonSwamp<#>
-Forest1<#>
-Cliff<#>
-Lava<#>
-Grassland<#>
-Ship<#>
 <!-- Script ID --><#>50
 <!-- Script Name --><#>
 <!-- Script ID --><#>51
 <!-- Script Name --><#>▼ Windows
 <!-- Script ID --><#>52
 <!-- Script Name --><#>Window_Base
-\e<#>
-C<#>
-I<#>
-\e{<#>
-\e}<#>
 <!-- Script ID --><#>53
 <!-- Script Name --><#>Window_Selectable
 <!-- Script ID --><#>54
@@ -271,375 +197,8 @@ I<#>
 <!-- Script Name --><#>Window_ShopStatus
 <!-- Script ID --><#>77
 <!-- Script Name --><#>Window_NameEdit
-あ<#>
-A<#>
 <!-- Script ID --><#>78
 <!-- Script Name --><#>Window_NameInput
-A<#>
-B<#>
-C<#>
-D<#>
-E<#>
-a<#>
-b<#>
-c<#>
-e<#>
-F<#>
-G<#>
-H<#>
-I<#>
-J<#>
-f<#>
-g<#>
-h<#>
-i<#>
-j<#>
-K<#>
-L<#>
-M<#>
-N<#>
-O<#>
-k<#>
-l<#>
-m<#>
-n<#>
-o<#>
-P<#>
-Q<#>
-R<#>
-S<#>
-T<#>
-p<#>
-q<#>
-r<#>
-s<#>
-t<#>
-U<#>
-V<#>
-W<#>
-X<#>
-Y<#>
-u<#>
-v<#>
-w<#>
-x<#>
-y<#>
-Z<#>
-z<#>
-Page<#>
-OK<#>
-Á<#>
-É<#>
-Í<#>
-Ó<#>
-Ú<#>
-á<#>
-é<#>
-í<#>
-ó<#>
-ú<#>
-À<#>
-È<#>
-Ì<#>
-Ò<#>
-Ù<#>
-à<#>
-è<#>
-ì<#>
-ò<#>
-ù<#>
-Â<#>
-Ê<#>
-Î<#>
-Ô<#>
-Û<#>
-â<#>
-ê<#>
-î<#>
-ô<#>
-û<#>
-Ä<#>
-Ë<#>
-Ï<#>
-Ö<#>
-Ü<#>
-ä<#>
-ë<#>
-ï<#>
-ö<#>
-ü<#>
-Ā<#>
-Ē<#>
-Ī<#>
-Ō<#>
-Ū<#>
-ā<#>
-ē<#>
-ī<#>
-ō<#>
-ū<#>
-Ã<#>
-Å<#>
-Æ<#>
-Ç<#>
-Ð<#>
-ã<#>
-å<#>
-æ<#>
-ç<#>
-ð<#>
-Ñ<#>
-Õ<#>
-Ø<#>
-Š<#>
-Ŵ<#>
-ñ<#>
-õ<#>
-ø<#>
-š<#>
-ŵ<#>
-Ý<#>
-Ŷ<#>
-Ÿ<#>
-Ž<#>
-Þ<#>
-ý<#>
-ÿ<#>
-ŷ<#>
-ž<#>
-þ<#>
-Ĳ<#>
-Œ<#>
-ĳ<#>
-œ<#>
-ß<#>
-あ<#>
-い<#>
-う<#>
-え<#>
-お<#>
-が<#>
-ぎ<#>
-ぐ<#>
-げ<#>
-ご<#>
-か<#>
-き<#>
-く<#>
-け<#>
-こ<#>
-ざ<#>
-じ<#>
-ず<#>
-ぜ<#>
-ぞ<#>
-さ<#>
-し<#>
-す<#>
-せ<#>
-そ<#>
-だ<#>
-ぢ<#>
-づ<#>
-で<#>
-ど<#>
-た<#>
-ち<#>
-つ<#>
-て<#>
-と<#>
-ば<#>
-び<#>
-ぶ<#>
-べ<#>
-ぼ<#>
-な<#>
-に<#>
-ぬ<#>
-ね<#>
-の<#>
-ぱ<#>
-ぴ<#>
-ぷ<#>
-ぺ<#>
-ぽ<#>
-は<#>
-ひ<#>
-ふ<#>
-へ<#>
-ほ<#>
-ぁ<#>
-ぃ<#>
-ぅ<#>
-ぇ<#>
-ぉ<#>
-ま<#>
-み<#>
-む<#>
-め<#>
-も<#>
-っ<#>
-ゃ<#>
-ゅ<#>
-ょ<#>
-ゎ<#>
-や<#>
-ゆ<#>
-よ<#>
-わ<#>
-ん<#>
-～<#>
-☆<#>
-ら<#>
-り<#>
-る<#>
-れ<#>
-ろ<#>
-ゔ<#>
-を<#>
-カナ<#>
-決定<#>
-ア<#>
-イ<#>
-ウ<#>
-エ<#>
-オ<#>
-ガ<#>
-ギ<#>
-グ<#>
-ゲ<#>
-ゴ<#>
-カ<#>
-キ<#>
-ク<#>
-ケ<#>
-コ<#>
-ザ<#>
-ジ<#>
-ズ<#>
-ゼ<#>
-ゾ<#>
-サ<#>
-シ<#>
-ス<#>
-セ<#>
-ソ<#>
-ダ<#>
-ヂ<#>
-ヅ<#>
-デ<#>
-ド<#>
-タ<#>
-チ<#>
-ツ<#>
-テ<#>
-ト<#>
-バ<#>
-ビ<#>
-ブ<#>
-ベ<#>
-ボ<#>
-ナ<#>
-ニ<#>
-ヌ<#>
-ネ<#>
-ノ<#>
-パ<#>
-ピ<#>
-プ<#>
-ペ<#>
-ポ<#>
-ハ<#>
-ヒ<#>
-フ<#>
-ヘ<#>
-ホ<#>
-ァ<#>
-ィ<#>
-ゥ<#>
-ェ<#>
-ォ<#>
-マ<#>
-ミ<#>
-ム<#>
-メ<#>
-モ<#>
-ッ<#>
-ャ<#>
-ュ<#>
-ョ<#>
-ヮ<#>
-ヤ<#>
-ユ<#>
-ヨ<#>
-ワ<#>
-ン<#>
-ラ<#>
-リ<#>
-ル<#>
-レ<#>
-ロ<#>
-ヴ<#>
-ヲ<#>
-英数<#>
-Ａ<#>
-Ｂ<#>
-Ｃ<#>
-Ｄ<#>
-Ｅ<#>
-ａ<#>
-ｂ<#>
-ｃ<#>
-ｄ<#>
-ｅ<#>
-Ｆ<#>
-Ｇ<#>
-Ｈ<#>
-Ｉ<#>
-Ｊ<#>
-ｆ<#>
-ｇ<#>
-ｈ<#>
-ｉ<#>
-ｊ<#>
-Ｋ<#>
-Ｌ<#>
-Ｍ<#>
-Ｎ<#>
-Ｏ<#>
-ｋ<#>
-ｌ<#>
-ｍ<#>
-ｎ<#>
-ｏ<#>
-Ｐ<#>
-Ｑ<#>
-Ｒ<#>
-Ｓ<#>
-Ｔ<#>
-ｐ<#>
-ｑ<#>
-ｒ<#>
-ｓ<#>
-ｔ<#>
-Ｕ<#>
-Ｖ<#>
-Ｗ<#>
-Ｘ<#>
-Ｙ<#>
-ｕ<#>
-ｖ<#>
-ｗ<#>
-ｙ<#>
-Ｚ<#>
-＾<#>
-ｚ<#>
-｜<#>
-＄<#>
-＋<#>
-＜<#>
-＞<#>
-かな<#>
 <!-- Script ID --><#>79
 <!-- Script Name --><#>Window_ChoiceList
 <!-- Script ID --><#>80
@@ -674,8 +233,6 @@ OK<#>
 <!-- Script Name --><#>Window_GameEnd
 <!-- Script ID --><#>95
 <!-- Script Name --><#>Window_DebugLeft
-S [%04d-%04d]<#>
-V [%04d-%04d]<#>
 <!-- Script ID --><#>96
 <!-- Script Name --><#>Window_DebugRight
 <!-- Script ID --><#>97
@@ -740,31 +297,10 @@ V [%04d-%04d]<#>
 <!-- Script Name --><#>End Phase
 <!-- Script ID --><#>127
 <!-- Script Name --><#>Yanfly Core Engine
-YEA-CoreEngine<#>
-VCR OSD Mono<#>
-Impact<#>
-Arial<#>
-Courier<#>
-×%s<#>
 <!-- Script ID --><#>128
 <!-- Script Name --><#>Yami Engine
-YSE-BasicModule<#>
-cl<#>
-z8x8273ac<#>
-user32<#>
-MessageBox<#>
-L<#>
-P<#>
-I<#>
-abcdefghjkmnpqrstuvwxyzABCDEFGHJKLMNPQRSTUVWXYZ0123456789<#>
-#{dir}/#{filename}.#{ext}<#>
-YSE-PatchSystem<#>
-YSE - Basic Module<#>
-Salt must have at least 2 characters.<#>
-Unique phrase must have at least 1 character.<#>
 <!-- Script ID --><#>129
 <!-- Script Name --><#>Yanfly
-YEA-BattleEngine<#>
 All Foes<#>Все враги
 One Random Foe<#>Один случайный враг
 %d Random Foes<#>%d случайных врагов
@@ -772,144 +308,38 @@ All Allies<#>Все союзники
 All Dead Allies<#>Все мёртвые союзники
 One Random Ally<#>Один случайные союзник
 %d Random Allies<#>%d случайных союзников
--%s <#>
-+%s <#>
 -%s SP<#>-%s ОН
 +%s SP<#>+%s ОН
 -%s TP<#>-%s ОТ
 +%s TP<#>+%s ОТ
-DRAIN<#>
 CRITICAL!<#>КРИТ!
 MISS<#>ПРОМАХ
 EVADE!<#>УКЛОНЕНИЕ!
 FAILED<#>НЕУДАЧА
-+%s<#>
--%s<#>
-%s<#>
 WEAKPOINT<#>СЛАБОСТЬ
 RESIST<#>СОПРОТИВЛЕНИЕ
 IMMUNE<#>ИММУНИТЕТ
 ABSORB<#>ПОГЛОЩЕНИЕ
-vgasys<#>
-Impact<#>
-Verdana<#>
-Arial<#>
-Courier<#>
-DEFAULT<#>
-CRITICAL<#>
-ADDSTATE<#>
-REMSTATE<#>
-DURSTATE<#>
-POSITIVE<#>
-NEGATIVE<#>
-BUFF<#>
-DEBUFF<#>
-YEA-CoreEngine<#>
-YEA-BattleSystem-FTB<#>
-weakness<#>
-resistant<#>
-immune<#>
-absorbed<#>
-state<#>
-critical<#>
-buff<#>
-no zoom<#>
-down<#>
-up<#>
-YEA-BattleCommandList<#>
-YEA-CommandParty<#>
-YEA-LunaticObjects<#>
-YEA-CastAnimations<#>
-YEA-TargetManager<#>
 <!-- Script ID --><#>130
 <!-- Script Name --><#>Command List
-YEA-BattleCommandList<#>
-Custom Name<#>
-ATTACK<#>
-SKILL LIST<#>
-SUBCLASS LIST<#>
-DEFEND<#>
-ITEMS<#>
-EQUIP<#>
 Execute<#>Исполнить
-Custom Text<#>
-YEA-BattleSystem-FTB<#>
-YEA-CombatLogDisplay<#>
-YEA-CommandAutobattle<#>
-YEA-PartySystem<#>
-YEA-CommandParty<#>
-YEA-BattleEngine<#>
-YEA-CommandEquip<#>
-YEA-ClassSystem<#>
 <!-- Script ID --><#>131
 <!-- Script Name --><#>Combo skills
-YEA-InputComboSkills<#>
-Skill2<#>
-Skill3<#>
 Input Attacks<#>Ввод атак
-\eC[17]\eC[0] <#>
-\eC[7]<#>
-L<#>
-R<#>
-X<#>
-Y<#>
-Z<#>
-\eI[%d]<#>
 <!-- Script ID --><#>132
 <!-- Script Name --><#>Anti fail message
-YEA-AntiFailMessage<#>
 <!-- Script ID --><#>133
 <!-- Script Name --><#>Window opacity
-MK-WindowOpacity<#>
 <!-- Script ID --><#>134
 <!-- Script Name --><#>ATS: Message Options
-text<#>
-Chime2<#>
-Decision2<#>
-Chime1<#>
-Cancel2<#>
-%s<#>
-#{key}=<#>
-#{sym}=<#>
-A<#>
-X<#>
-YEA-MessageSystem<#>
-PX<#>
-\eANIMATION\[#{$1.upcase == <#>
- ? 0 : 1},#{$2},#{$3}\]<#>
-L<#>
-P<#>
-F<#>
-T<#>
-\e<#>
-\eATSMOSE\[#{num}\]<#>
-ATSMOSE<#>
-PLAYSOUND<#>
 <!-- Script ID --><#>135
 <!-- Script Name --><#>Galv's Character Effects 2.0
 <!-- Script ID --><#>136
 <!-- Script Name --><#>Galv's Move Route Extras
 <!-- Script ID --><#>137
 <!-- Script Name --><#>Galv's Region Effects
-Dirt<#>
-Knock<#>
-Water1<#>
-grass<#>
-Bow<#>
-slosh<#>
-squeak<#>
-squish step<#>
-bottle<#>
-dirt echo<#>
-wood echo<#>
-rope echo<#>
-bottle echo<#>
-squish echo<#>
-Damage3<#>
-Conrad huh<#>
 <!-- Script ID --><#>138
 <!-- Script Name --><#>Yanfly Engine Ace - Party System
-YEA-PartySystem<#>
 Change<#>Изменить
 Remove<#>Убрать
 Revert<#>Вернуть
@@ -918,27 +348,20 @@ Finish<#>Завершить
 -Remove-<#>- Убрать -
 - No Data -<#>- Нет данных -
 Equipment<#>Экипировка
-YEA-CoreEngine<#>
-YEA-AceMenuEngine<#>
 <!-- Script ID --><#>139
 <!-- Script Name --><#>MOG_Battler_Motion
 <!-- Script ID --><#>140
 <!-- Script Name --><#>MOG_Anti_Animation_Lag
 <!-- Script ID --><#>141
 <!-- Script Name --><#>Battle Results
-YEA-VictoryAftermath<#>
-text<#>
-bleep<#>
 New Skills<#>Новые навыки
 You<#>Вы
 %s won the battle.<#>%s победили в бою.
 %s has leveled up!<#>%s повышает уровень!
 Leftovers<#>Добыча
 +%sEXP<#>+%s ОПЫТА
-%1.2f%%<#>
 LEVEL UP!<#>НОВЫЙ УРОВЕНЬ!
 MAX LEVEL<#>МАКС. УРОВЕНЬ
-\e>\eC[6]%s\eC[0]\e<\elb<#>
 "We won! What an exciting fight!"<#>Мы победили! Какой захватывающий бой!
 "I didn\'t even break a sweat."<#>Я даже не вспотел.
 "That wasn\'t so tough."<#>Было не так тяжело.
@@ -951,303 +374,58 @@ MAX LEVEL<#>МАКС. УРОВЕНЬ
 "To the victor goes the spoils."<#>Добыча достаётся победителю.
 "The enemies dropped something!"<#>Враги что-то обронили!
 "Hey, what\'s this?"<#>О, что это?
-YEA-CoreEngine<#>
-YEA-CommandAutobattle<#>
-YEA-JPManager<#>
-NOTEXT<#>
  NOW<#>->
-YEA-AdjustLimits<#>
-:%s<#>
 <!-- Script ID --><#>142
 <!-- Script Name --><#>Options Menu
-YEA-SystemOptions<#>
 Options/Quit<#>Настройки/Выход
-Custom Switch 1<#>
 OFF<#>ВЫКЛ
 ON<#>ВКЛ
-Help description used for custom switch 1.<#>
-Custom Switch 2<#>
-Help description used for custom switch 2.<#>
-Custom Variable 1<#>
-Help description used for custom variable 1.<#>
-Custom Variable 2<#>
-Help description used for custom variable 2.<#>
-None<#>
-Window Red<#>
-Change the red colour tone for windows.\n<#>
-Hold SHIFT to change increment by 10.<#>
-Window Green<#>
-Change the green colour tone for windows.\n<#>
-Window Blue<#>
-Change the blue colour tone for windows.\n<#>
-BGM Volume<#>
-Change the volume used for background music.\n<#>
-BGS Volume<#>
-Change the volume used for background sound.\n<#>
-SFX Volume<#>
-Change the volume used for sound effects.\n<#>
-Auto-Dash<#>
-Walk<#>
-Dash<#>
-Automatically dash without holding the run button.<#>
-Instant Text<#>
-Normal<#>
-Instant<#>
-Set message text to appear one-by-one or instantly.<#>
-Battle Animations<#>
-Hide<#>
-Show<#>
-Hide animations during battle to speed up battles?<#>
-Return to Title Screen<#>
-Go back to the title screen.<#>
-Quit Game<#>
-Quit the game.<#>
 <!-- Script ID --><#>143
 <!-- Script Name --><#>title trans
-VCR OSD Mono<#>
-Impact<#>
-Verdana<#>
-Arial<#>
-Courier<#>
 <!-- Script ID --><#>144
 <!-- Script Name --><#>fullscreen
-user32<#>
-CreateWindowEx<#>
-ippiiiiiiiii<#>
-i<#>
-GetClientRect<#>
-ip<#>
-GetDC<#>
-GetSystemMetrics<#>
-GetWindowRect<#>
-FillRect<#>
-ipi<#>
-FindWindow<#>
-pp<#>
-ReleaseDC<#>
-ii<#>
-SendInput<#>
-SetWindowLong<#>
-iii<#>
-SetWindowPos<#>
-iiiiiii<#>
-ShowWindow<#>
-SystemParametersInfo<#>
-iipi<#>
-UpdateWindow<#>
-kernel32<#>
-GetPrivateProfileString<#>
-ppppip<#>
-WritePrivateProfileString<#>
-pppp<#>
-gdi32<#>
-CreateSolidBrush<#>
-DeleteObject<#>
-RGSS Player<#>
-Static<#>
-l4<#>
-LSx2Lx16<#>
-x256<#>
-Fullscreen++<#>
-./Game.ini<#>
-Fullscreen<#>
-FullscreenRatio<#>
-WindowedRatio<#>
 <!-- Script ID --><#>145
 <!-- Script Name --><#>REMOVE ALL ITEMS
 <!-- Script ID --><#>146
 <!-- Script Name --><#>Class Level Keep
 <!-- Script ID --><#>147
 <!-- Script Name --><#>Add States
-YEA-BattleEngine<#>
 <!-- Script ID --><#>148
 <!-- Script Name --><#>Vic Basic Module
-The script '%s' requires the script\n<#>
-'%s' v%s or higher above it to work properly\n<#>
-'%s' v%s or higher to work properly\n<#>
-Go to http://victorscripts.wordpress.com/ to download this script.<#>
-'%s' to be put bellow it\n<#>
-move the scripts to the proper position<#>
-VE<#>
-#{char} -<#>
-MAXHP<#>
-HP<#>
-MAXMP<#>
-MP<#>
-ATK<#>
-DEF<#>
-MAT<#>
-MDF<#>
-AGI<#>
-LUK<#>
-HIT<#>
-EVA<#>
-CRI<#>
-CEV<#>
-MEV<#>
-MRF<#>
-CNT<#>
-HRG<#>
-MRG<#>
-TRG<#>
-TGR<#>
-GRD<#>
-REC<#>
-PHA<#>
-MCR<#>
-TCR<#>
-PDR<#>
-MDR<#>
-FDR<#>
-EXR<#>
-HIGHER<#>
-LOWER<#>
-EQUAL<#>
-DIFFERENT<#>
-\r\n<#>
-MAXTP<#>
-self.#{text.downcase}<#>
-\e<#>
 <!-- Script ID --><#>149
 <!-- Script Name --><#>Vic Char Control
-[wlk]<#>
-[dsh]<#>
-[jmp]<#>
-The script '%s' requires the script\n<#>
-'VE - Basic Module' v%s or higher above it to work properly\n<#>
-Go to http://victorscripts.wordpress.com/ to download this script.<#>
-VE<#>
-#{char} -<#>
-EVENT<#>
-ACTOR<#>
-ADD POSE<#>
-CHANGE POSE<#>
-IDLE<#>
-WALK<#>
-DASH<#>
-JUMP<#>
-#{type} #{add}<#>
 <!-- Script ID --><#>150
 <!-- Script Name --><#>Dash Disable
 <!-- Script ID --><#>151
 <!-- Script Name --><#>Timed Hits
-A perfect hit!<#>
-Super effective!<#>
-A great block!<#>
-CUSTOM TEST!<#>
-Flash1<#>
-Cancel1<#>
-YEA-BattleEngine<#>
-YEA-CastAnimations<#>
 <!-- Script ID --><#>152
 <!-- Script Name --><#>HP BARS
-YEA-EnemyHPBars<#>
-YEA-BattleEngine<#>
-YEA-AreaofEffect<#>
 <!-- Script ID --><#>153
 <!-- Script Name --><#>UPDATE
-DoubleX RMVXA Percentage Addon to YEA-EnemyHPBars<#>
-YEA-BattleEngine<#>
-YEA-EnemyHPBars<#>
-YEA-CoreEngine<#>
 <!-- Script ID --><#>154
 <!-- Script Name --><#>Cover All Hp Fix
 <!-- Script ID --><#>155
 <!-- Script Name --><#>Delayed skills
 <!-- Script ID --><#>156
 <!-- Script Name --><#>Yanfly Engine Ace
-YEA-ButtonCommonEvents<#>
 <!-- Script ID --><#>157
 <!-- Script Name --><#>Lisa Core Movement
-Liam-LisaCoreMove<#>
-Earth5<#>
-Hammer<#>
-elton default<#>
-elton helmet<#>
-$Elton Walk 1<#>
-$Elton Jump<#>
-Rustle<#>
-$Elton Fall<#>
-$Elton Walk 5<#>
-$Diving Helmet Jump<#>
-$Diving Helmet Fall<#>
-elton helmet dark<#>
-$Diving Helmet Dark<#>
-$Diving Helmet Jump Dark<#>
-$Diving Helmet Fall Dark<#>
-elton drunk<#>
-$drunkelton<#>
-elton dark<#>
-$Elton Walk 2<#>
-$Elton jump 50 dark<#>
-$Elton Dark Fall<#>
-bernie basic<#>
-$BernyNoRacoon1<#>
-$BernyJump<#>
-bernie raccoon<#>
-$BernyWithRacoon<#>
-$BernyWithRacoonJump<#>
-none<#>
-lcmUseOutfitWalkSpeedToggle<#>
-lcmScriptToggle<#>
-lcmFollowerToggle<#>
-lcmPlatformEventsToggle<#>
-lcmSeparateDashingToggle<#>
-mapID- <#>
- eventID- <#>
-lcmGlobalDashDisableToggle<#>
-YEA-PartySystem<#>
 <!-- Script ID --><#>158
 <!-- Script Name --><#>Extra Save Data
-Liam-ExSaveData<#>
 <!-- Script ID --><#>159
 <!-- Script Name --><#>Stair Movement
 <!-- Script ID --><#>160
 <!-- Script Name --><#>VHS's Slope Script
 <!-- Script ID --><#>161
 <!-- Script Name --><#>Mystery HP
-Liam-MysteryHP<#>
-Global<#>
-global<#>
-include specific actors<#>
-YEA-AceMenuEngine<#>
-YEA-BattleEngine<#>
-YEA-JPManager<#>
 <!-- Script ID --><#>162
 <!-- Script Name --><#>Dead states
 <!-- Script ID --><#>163
 <!-- Script Name --><#>More Choices
 <!-- Script ID --><#>164
 <!-- Script Name --><#>Liam TP Like SP
-Liam-TPLikeMP<#>
-Begin<#>
-Actor Number<#>
-Number<#>
-rand * 25<#>
-Max<#>
-rand * 75<#>
-None<#>
-none<#>
-number<#>
-formula<#>
-actor number<#>
-actor formula<#>
-begin<#>
-end<#>
-max<#>
-YEA-BattleEngine<#>
-multiplier<#>
-YEA-AceMenuEngine<#>
-Liam-MysteryHP<#>
-tpdam<#>
-tprec<#>
-tpdrain<#>
-DRAIN<#>
 <!-- Script ID --><#>165
 <!-- Script Name --><#>State Skill Usability Refresh
-Liam-StateSkillUsabilityRefresh<#>
-new<#>
-none<#>
 <!-- Script ID --><#>166
 <!-- Script Name --><#>Liam Prevent SP Bars
 <!-- Script ID --><#>167

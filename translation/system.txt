@@ -1,83 +1,10 @@
 <!-- System Entry --><#>Armor Types
-Shawl<#>
-Blouse<#>
-Manly<#>
-Nude<#>
-Small Shield<#>
-Large Shield<#>
-Poncho<#>
-Accessory<#>
-Mask<#>
-Hat<#>
-Bald<#>
-Fish Head<#>
-Tiger Head<#>
-Odd Helmet<#>
-Bird Head<#>
-Belt<#>
-Belt Berny<#>
-Patch<#>
-Glasses<#>
 <!-- System Entry --><#>Elements
-Physical<#>
-Absorb<#>
-Fire<#>
-Heavy Armor<#>
-Pierce<#>
-Slice<#>
-Earth<#>
-Water<#>
-Holy<#>
-Dark<#>
-Gentle<#>
-Rough<#>
-Loving<#>
-Biting<#>
-Human<#>
-Unknown<#>
-Crushing<#>
-Slam<#>
-Thunder<#>
 <!-- System Entry --><#>Skill Types
 Skills<#>Навыки
 Powers<#>Силы
-Hints<#>
-Topics<#>
-Dozing<#>
-Seduction<#>
-Punjabi Poke<#>
-Songs<#>
-Peckings<#>
-Advisory<#>
-Blades<#>
-Dance<#>
 Magic<#>Магия
-Draw<#>
-Kat<#>
-Critters<#>
-Stances<#>
-Killer moves<#>
 <!-- System Entry --><#>Weapon Types
-Boomerang<#>
-Wristband<#>
-Spear<#>
-Sword<#>
-Katana<#>
-Bow<#>
-Knife<#>
-Hammer<#>
-Staff<#>
-Handgun<#>
-Six Shooter<#>
-Sub Machine Gun<#>
-Club<#>
-Guitars<#>
-Cards<#>
-Pencil<#>
-Whip<#>
-Duffel Bag<#>
-Box<#>
-Glove<#>
 <!-- System Entry --><#>Terms
 MaxHP<#>Макс. ОЗ
 MaxSP<#>Макс. ОН
