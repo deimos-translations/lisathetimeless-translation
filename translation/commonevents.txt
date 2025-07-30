@@ -297,10 +297,10 @@ Reduce to 0<#>
 <!-- Event ID --><#>104
 <!-- Event Name --><#>
 <!-- Event ID --><#>105
-<!-- Event Name --><#>CAS Die to sexualize 
+<!-- Event Name --><#>CAS Die to sexualize
 You can't use this right now.<#>Вы не можете использовать её сейчас.
 <!-- Event ID --><#>106
-<!-- Event Name --><#>CAS Orange LIghts 
+<!-- Event Name --><#>CAS Orange LIghts
 You can't use this right now.<#>Вы не можете использовать её сейчас.
 <!-- Event ID --><#>107
 <!-- Event Name --><#>CAS Welcome Home
@@ -315,7 +315,7 @@ You can't use this right now.<#>Вы не можете использовать 
 <!-- Event Name --><#>CAS Back to Kansas
 You can't use this right now.<#>Вы не можете использовать её сейчас.
 <!-- Event ID --><#>111
-<!-- Event Name --><#>CAS Sticks n stones 
+<!-- Event Name --><#>CAS Sticks n stones
 You can't use this right now.<#>Вы не можете использовать её сейчас.
 <!-- Event ID --><#>112
 <!-- Event Name --><#>CAS uh huh
@@ -489,7 +489,7 @@ Close<#>Закрыть
 Axioms<#>Аксиомы
 "Never trust those "There's a girl" posters."<#>"Никогда не доверяй постерам о том, что есть девушка."
 "Never trust guys in masks."<#>"Никогда не доверяй парням в масках."
-"Never trust signs that say "Not a cliff.""<#>
+"Never trust signs that say "Not a cliff.""<#>"Никогда не доверяй надписям, что, мол, дальше по дороге нет обрывов."
 "Never trust eye doctors."<#>"Никогда не доверяй окулистам."
 "All liquor, no matter how cheap."<#>"Выпивка есть выпивка, независимо от палёности."
 "Never trust fish."<#>"Никогда не доверяй рыбам."

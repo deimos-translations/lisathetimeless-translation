@@ -7,7 +7,7 @@ Sell<#>Продать
 Cancel<#>Отмена
 Possession<#>Имеется
 Current Exp<#>Текущий опыт
-To Next %s<#>До следующего уровня: %s
+To Next %s<#>До следующего уровня
 Save to which file?<#>В какой файл сохранить?
 Load which file?<#>Какой файл загрузить?
 File<#>Файл
@@ -28,7 +28,7 @@ You can't escape!<#>Вы не можете сбежать!
 An excellent hit!!<#>Отличный удар!
 A painful blow!!<#>Болезненный удар!
 %s took %s damage!<#>%s получает %s урона!
-%s recovered %s %s!<#>%s восстанавливает %s %s!
+%s recovered %s %s!<#>%s восстанавливает %s на %s!
 %s gained %s %s!<#>%s получает %s %s!
 %s lost %s %s!<#>%s теряет %s %s!
 %s was drained of %s %s!<#>Из %s высосали %s %s!

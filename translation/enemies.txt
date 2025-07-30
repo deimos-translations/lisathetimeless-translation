@@ -74,7 +74,7 @@ Goggog Gripfield<#>Гоггог Грипфилд
 Neg<#>Нег
 <!-- Event ID --><#>31
 <!-- Event Name --><#>Albus Grouchington
-Albus Grouchington<#>Альбус Гроучингтон
+Albus Grouchington<#>Альбус Ворчун
 <!-- Event ID --><#>32
 <!-- Event Name --><#>Percival Mayflower
 Percival Mayflower<#>Персиваль "Майский цветок"

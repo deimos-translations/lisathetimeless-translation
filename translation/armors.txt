@@ -1,7 +1,7 @@
 <!-- Event ID --><#>1
 <!-- Event Name --><#>Bare Chest
-Bare Chest<#>
-This makes a very bold statement.<#>
+Bare Chest<#>Голый торс
+This makes a very bold statement.<#>Очень сильное заявление.
 <!-- Event ID --><#>2
 <!-- Event Name --><#>
 <!-- Event ID --><#>3
@@ -20,8 +20,8 @@ Leather Jacket<#>Кожаная куртка
 Makes you feel protected. And cool as hell.<#>Даёт вам чувство защищённости. И крутости.
 <!-- Event ID --><#>7
 <!-- Event Name --><#>Leather Guards
-Leather Guards<#>
-A popular choice amongst muggers and raiders.\#They also chafe a bit.<#>
+Leather Guards<#>Кожаные наплечники
+A popular choice amongst muggers and raiders.\#They also chafe a bit.<#>Популярный выбор среди контрабандистов и рейдеров.\#Вызывают небольшой зуд.
 <!-- Event ID --><#>8
 <!-- Event Name --><#>Biker's goggles
 Biker's goggles<#>Очки байкера
@@ -56,7 +56,7 @@ Pencil Behind the Ear<#>Карандаш за ухом.
 Makes you look like a complete nerd. You nerd.\#Increases agility.<#>Превращает вас в тотального ботана. Вы и становитесь\#им. Повышает скорость.
 <!-- Event ID --><#>16
 <!-- Event Name --><#>Grey Beanie
-Grey Beanie<#>Серая шапочка
+Grey Beanie<#>Серая шапка
 A beanie made from 100% real imitation cotton.<#>Шапочка, сотканная на 100% из настоящей имитации хлопка.
 <!-- Event ID --><#>17
 <!-- Event Name --><#>Blue Shirt
@@ -294,7 +294,7 @@ The official Black Ranger helmet.<#>
 <!-- Event ID --><#>87
 <!-- Event Name --><#>BLOUSES-------------
 <!-- Event ID --><#>88
-<!-- Event Name --><#>Cheetah Jersey   
+<!-- Event Name --><#>Cheetah Jersey
 Cheetah Jersey<#>
 A very loud sports jersey.<#>
 <!-- Event ID --><#>89

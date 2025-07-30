@@ -191,7 +191,7 @@ Berny joined your party!<#>Бёрни вступил в вашу группу!
 {Steven}YOURFRIENDATTACKSANDTHEN\#YOUBOTHDODGEINTHESAMEMOMENT.\#UNDERSTOOD?<#>{Стивен}ТВОЙДРУГАТАКУЕТАЗАТЕМ\#ВЫОДНОВРЕМЕННОУКЛОНЯЕТЕСЬ.\#ПОНЯЛ?
 Incoming Dangerous attack.<#>Приближается опасная атака.
 You must dodge.<#>Вы должны уклонится.
-Look Out! skill learned.<#>Навык "Начеку!" изучен.
+Look Out! skill learned.<#>Навык "Берегись!" изучен.
 {Steven}\{TIMETOMEETYOURMAKER!<#>{Стивен}\{ВРЕМЯВСТРЕТИТСЯСОСВОИМСОЗДАТЕЛЕМ!
 {Steven}\{\{OOOOOOOOOOOOOOOOOOOO<#>{Стивен}\{\{УУУУУУУУУУУУ
 A long debuff has been inflicted on Elton.<#>Длительный статус был наложен на Элтона.

@@ -44,22 +44,22 @@ Wet Stick<#>
 A damp... Limp... Stick.<#>
 <!-- Event ID --><#>12
 <!-- Event Name --><#>Sweaty Wristbands
-Sweaty Wristbands<#>
-Sweaty from years of balling.<#>
+Sweaty Wristbands<#>Потные повязки
+Sweaty from years of balling.<#>Потные от многих лет драк.
 <!-- Event ID --><#>13
 <!-- Event Name --><#>Bare Fists
-Bare Fists<#>
-Your bare goddamn fists.\#Callused up from years of sockin' and rockin'.<#>
+Bare Fists<#>Кулаки
+Your bare goddamn fists.\#Callused up from years of sockin' and rockin'.<#>Сраные голые кулаки.\#Все в мозолях от постоянных драчек и срачек.
 <!-- Event ID --><#>14
 <!-- Event Name --><#>
 <!-- Event ID --><#>15
 <!-- Event Name --><#>Snake Wristbands
-Snake Wristbands<#>
-2 snakes were harmed in the making of these\#wristbands. Gives one extra TP point every turn.<#>
+Snake Wristbands<#>Змеиные браслеты
+2 snakes were harmed in the making of these\#wristbands. Gives one extra TP point every turn.<#>Две змеи пострадали при создании этих браслетов.\#Дают одно дополнительно очко ОТ каждый ход.
 <!-- Event ID --><#>16
 <!-- Event Name --><#>Studded Bands
-Studded Bands<#>
-Makes you look badass when shaking hands.<#>
+Studded Bands<#>Браслеты с шипами
+Makes you look badass when shaking hands.<#>Придаёт вам крутой вид, когда вы жмёте кому-нибудь руку.
 <!-- Event ID --><#>17
 <!-- Event Name --><#>Grandpa's Bag
 Grandpa's Bag<#>Дедовский мешок

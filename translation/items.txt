@@ -69,7 +69,7 @@ Press the SHIFT key to dismount.<#>
 <!-- Event ID --><#>18
 <!-- Event Name --><#>Empty Bottle
 Empty Bottle<#>Пустая бутылка
-An empty glass bottle.<#>
+An empty glass bottle.<#>Пустая стеклянная бутылка.
 <!-- Event ID --><#>19
 <!-- Event Name --><#>Doner
 Doner<#>Донер
@@ -415,7 +415,7 @@ Michael - Springer. Has that signature UFODs'\#"Made in a garage and with a limi
 <!-- Event ID --><#>110
 <!-- Event Name --><#>UFODs - Fighting with Sticks and Stones
 UFODs - Fighting with Sticks and Stones<#>
-Springer - Harris. A song perfect for every occasion!\#(As long as that occasion is a vintage ass-whoopin')<#>Springer - Harris. Песня, идеальная для любого случая!\#(Пока этот случай состоит из старинного мордобоя.)
+Springer - Harris. A song perfect for every occasion!\#(As long as that occasion is a vintage ass-whoopin')<#>Springer - Harris. Песня, идеальная для любого случая!\#(Пока этот случай заключается в старинном мордобое.)
 <!-- Event ID --><#>111
 <!-- Event Name --><#>W2D - Work Harder
 W2D - Work Harder<#>
@@ -469,7 +469,7 @@ No matter how you shoot, you always hit your feet.\#(Barter Item)<#>Как не 
 <!-- Event ID --><#>124
 <!-- Event Name --><#>Phone Book
 Phone Book<#>Телефонная книга
-Even though most conversations are physical,\#\#these yellow pages can still be of use. (Barter Item)<#>Хотя большинство разговоров сейчас ведутся вживую, этим жёлтым\#страницам ещё можно найти применение. (Предмет для обмена) 
+Even though most conversations are physical,\#\#these yellow pages can still be of use. (Barter Item)<#>Хотя большинство разговоров сейчас ведутся вживую, этим жёлтым\#страницам ещё можно найти применение. (Предмет для обмена)
 <!-- Event ID --><#>125
 <!-- Event Name --><#>Plan B
 Plan B<#>План Б

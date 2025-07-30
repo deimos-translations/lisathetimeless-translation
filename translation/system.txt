@@ -40,7 +40,7 @@ Slam<#>
 Thunder<#>
 <!-- System Entry --><#>Skill Types
 Skills<#>Навыки
-Powers<#>
+Powers<#>Силы
 Hints<#>
 Topics<#>
 Dozing<#>
@@ -51,7 +51,7 @@ Peckings<#>
 Advisory<#>
 Blades<#>
 Dance<#>
-Magic<#>
+Magic<#>Магия
 Draw<#>
 Kat<#>
 Critters<#>

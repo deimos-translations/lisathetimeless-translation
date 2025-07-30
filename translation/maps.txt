@@ -597,7 +597,7 @@ Added to the Journal.<#>Добавлено в журнал.
 \et[10]Peter Piper\#pecked a pick\#of pecker\#pickles...<#>На дворе трава,\#на траве дрова,\#не руби двора...
 \et[10]A pick of Peter\#Piper, pickled\#pecker pick...<#>На дворе трава,\#на траве двора...
 \et[10]Fuck,\| who\#comes up\#with this\#shit?!<#>Блять,\| кто\#этот бред\#придумывает?!
-\et[10]Shelly shells\#sally sells\#on the she\#sore...<#>Клара у Карла\#украла корралы...
+\et[10]Shelly shells\#sally sells\#on the she\#sore...<#>Клара у Карла\#украла кораллы...
 He's sleeping.<#>Он спит.
 \et[20]This landscape does\#no favors for us\#cripples.<#>Этот ландшафт\#вредит нам,\#инвалидам.
 \et[20]Can we get some\#'accessibility' ramps\#around here?<#>Разве тут не могут\#установить парочку\#спусков для инвалидов?
@@ -1848,7 +1848,6 @@ Cancel<#>Отмена
 \et[00]Always am, Sav.<#>Всегда, Сав.
 \et[001]See you boys around.<#>Увидимся, парни.
 \et[001]Don't be afraid to fling\#a bottle or two if need be.\#I'm not running out of stock\#anytime soon.<#>Не бойся швыряться\#бутылками, если придётся.\#У меня ассортимент не скоро\#кончится.
-<!-- Bookmark: 19 --><#>СОМНИТЕЛЬНО
 \et[001]Drink in moderation.\#You never know when you'll\#need a little pick-me-up\#when on the road.<#>Пей в меру.\#Когда захочется\#есть, в дороге\#закусить будет нечем.
 \et[001]Remember not to\#drink and drive.<#>И ещё не води\#пьяным.
 \et[0]We don't\#have a car.<#>У нас нет\#машины.
@@ -2621,7 +2620,7 @@ A Cheese of Endurance!<#>Сыр выносливости!
 \et[26]One man's trash is\#another man's\#treasure.<#>Мусор для одного -\#сокровище для\#другого.
 \et[26]And that treasure\#over there is my trash.<#>И это сокровище -\#мой мусор.
 \et[26]Get the fuck away\#from my trash!<#>Отвали нахер от\#моего мусора!
-\et[26]Fire in the hole!<#>
+\et[26]Fire in the hole!<#>Залп!
 He's dead.<#>Он мёртв.
 A Pickle of Agility!<#>Огурчик скорости!
 <!-- Map --><#>130
@@ -2641,7 +2640,7 @@ A Pearl of Trash!<#>Мусорная жемчужина!
 \et[26]One man's trash is\#another man's\#treasure.<#>Мусор для одного -\#сокровище для\#другого.
 \et[26]And that treasure\#over there is my trash.<#>И это сокровище -\#мой мусор.
 \et[26]Get the fuck away\#from my trash!<#>Отвали нахер от\#моего мусора!
-\et[26]Fire in the hole!<#>
+\et[26]Fire in the hole!<#>Залп!
 He's dead.<#>Он мёртв.
 You found a secret stash!<#>Вы нашли скрытый схрон!
 5 magazines!<#>5 журналов!
