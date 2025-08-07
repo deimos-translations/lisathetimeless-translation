@@ -209,7 +209,7 @@ stood up for it's beliefs.<#>остаётся верен своим принци
 <!-- Event Name --><#>Oiled Up
 Oiled Up<#>Масло
 is covered in oil!<#>покрыт маслом!
-is oiled up!<#>маслянный!
+is oiled up!<#>масленый!
 is no longer oiled up!<#>очищает себя от масла!
 <!-- Event ID --><#>47
 <!-- Event Name --><#>Party Mode
@@ -288,9 +288,9 @@ isn't alright...<#>не в порядке...
 no longer feels nauseous.<#>больше не чувствует тошноту.
 <!-- Event ID --><#>65
 <!-- Event Name --><#>Blue
-Blue<#>Синева
-is blue<#>синий.
-is no longer blue.<#>больше не синий.
+Blue<#>Грусть
+is blue<#>грустит.
+is no longer blue.<#>больше не грустит.
 <!-- Event ID --><#>66
 <!-- Event Name --><#>Nasty
 Nasty<#>Омерзение
@@ -405,9 +405,9 @@ Satiated<#>Насыщен
 <!-- Event ID --><#>95
 <!-- Event Name --><#>Hypnotized
 Hypnotized<#>Гипноз
-was hypnotized!<#>был загипнотизирован!
+was hypnotized!<#>поддаётся гипнозу!
 is hypnotized! Watch out!<#>загипнотизирован! Осторожно!
-came to his senses.<#>возвращается в чувство!
+came to his senses.<#>приходит в себя.
 <!-- Event ID --><#>96
 <!-- Event Name --><#>Dangerous
 Dangerous<#>Опасность
@@ -424,9 +424,9 @@ sobered up.<#>протрезвел.
 <!-- Event ID --><#>100
 <!-- Event Name --><#>Shell-shocked
 Shell-shocked<#>Контузия
-has gotten shellshocked!<#>был контужен!
+has gotten shellshocked!<#>подвергается контузии!
 is shellshocked!<#>контужен!
-is getting his senses back!<#>возвращается в чувство!
+is getting his senses back!<#>приходит в себя!
 <!-- Event ID --><#>101
 <!-- Event Name --><#>Broken Bones
 Broken Bones<#>Сломанные кости
@@ -475,9 +475,9 @@ is trying to get up!<#>пытается встать!
 is back to their feet!<#>снова на ногах!
 <!-- Event ID --><#>114
 <!-- Event Name --><#>Dissipating
-Dissipating<#>Рассеивание
-is losing mud!<#>избавляется от грязи!
-is no longer losing mud.<#>больше не избавляется от грязи.
+Dissipating<#>Чистка
+is losing mud!<#>счищает грязь!
+is no longer losing mud.<#>счистил грязь.
 <!-- Event ID --><#>115
 <!-- Event Name --><#>Sleep
 Sleep<#>Сон
@@ -520,8 +520,8 @@ Plan<#>План
 Plan B<#>План Б
 <!-- Event ID --><#>130
 <!-- Event Name --><#>Mud Covered
-Mud Covered<#>Покрыт грязью
-has been covered in mud!<#>был покрыт грязью!
+Mud Covered<#>В грязи
+has been covered in mud!<#>покрывается грязью!
 is covered in mud!<#>покрыт грязью!
 is trying to get rid of the mud!<#>пытается избавиться от грязи!
 gor rid of the mud!<#>избавился от грязи!
