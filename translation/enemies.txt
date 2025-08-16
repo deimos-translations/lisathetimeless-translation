@@ -123,7 +123,7 @@ Mosquito<#>Комар
 Mosquito<#>Комар
 <!-- Event ID --><#>48
 <!-- Event Name --><#>Rolling stone
-Rolling stone<#>Перекати-камень
+Rolling stone<#>Перекати-поле
 <!-- Event ID --><#>49
 <!-- Event Name --><#>
 <!-- Event ID --><#>50

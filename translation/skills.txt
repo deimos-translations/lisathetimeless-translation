@@ -1103,7 +1103,7 @@ gets pushy!<#>толкается!
 <!-- Event ID --><#>460
 <!-- Event Name --><#>Beatdown
 Beatdown<#>Мордобой
-(ASA) An uncoordinated assault on an enemy.<#>Рассеянные удары по врагу.
+(ASA) An uncoordinated assault on an enemy.<#>(ASA) Рассеянные удары по врагу.
 flails his arms!<#>размахивает руками!
 <!-- Event ID --><#>461
 <!-- Event Name --><#>Balloon Fist

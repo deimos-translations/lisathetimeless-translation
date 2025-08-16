@@ -188,7 +188,7 @@ An explosive capable of destroying\#certain objects.<#>Взрывчатка, с�
 <!-- Event Name --><#>Buddy's Mask
 <!-- Event ID --><#>51
 <!-- Event Name --><#>Nugget
-Nugget<#>Кусочек курицы
+Nugget<#>Самородок
 Try rubbing it on yourself in battle.\#Makes you stink.<#>Попробуйте потереть им себя в бою.\#Сделает вас вонючим.
 <!-- Event ID --><#>52
 <!-- Event Name --><#>Joy
