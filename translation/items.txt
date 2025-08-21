@@ -52,7 +52,7 @@ An extremely refreshing drink.\#Cures many aliments.<#>Чрезвычайно о
 <!-- Event ID --><#>14
 <!-- Event Name --><#>Potato Liquor
 Potato Liquor<#>Картофельный ликёр
-Capable of getting you drunk.\#Recovers 200 HP.<#>Способен опьянить.\#Восстанавливает 200 ОЗ.
+Capable of getting you drunk.\#Recovers 200 HP.<#>Может опьянить.\#Восстанавливает 200 ОЗ.
 <!-- Event ID --><#>15
 <!-- Event Name --><#>Bottle of Dirty Water
 Bottle of Dirty Water<#>Бутылка грязной воды
@@ -223,11 +223,11 @@ A strange record.<#>Странная запись.
 <!-- Event ID --><#>61
 <!-- Event Name --><#>Party Liquor
 Party Liquor<#>Праздничный ликёр
-Capable of getting you drunk.\#Recovers 200 HP of each party member.<#>Способен опьянить.\#Восстанавливает 200 ОЗ всем членам вашей группы.
+Capable of getting you drunk.\#Recovers 200 HP of each party member.<#>Может опьянить.\#Восстанавливает 200 ОЗ всем членам вашей группы.
 <!-- Event ID --><#>62
 <!-- Event Name --><#>Onion Vodka
 Onion Vodka<#>Луковая водка
-Capable of getting you drunk.\#Recovers 300 HP.<#>Способна опьянить.\#Восстанавливает 300 ОЗ.
+Capable of getting you drunk.\#Recovers 300 HP.<#>Может опьянить.\#Восстанавливает 300 ОЗ.
 <!-- Event ID --><#>63
 <!-- Event Name --><#>Olathian Whiskey
 Olathian Whiskey<#>Олейтский виски
@@ -243,7 +243,7 @@ A blanket made out of dense rags.<#>Одеяло, сотканное из пло
 <!-- Event ID --><#>66
 <!-- Event Name --><#>Triple Horror Whiskey
 Triple Horror Whiskey<#>Виски "Тройной ужас"
-Capable of getting you drunk and making you rage.\#Recovers 150 HP.<#>Способен опьянить и ввергнуть в ярость.\#Восстанавливает 150 ОЗ.
+Capable of getting you drunk and making you rage.\#Recovers 150 HP.<#>Может опьянить и ввергнуть в ярость.\#Восстанавливает 150 ОЗ.
 <!-- Event ID --><#>67
 <!-- Event Name --><#>Degrading Dress
 <!-- Event ID --><#>68
@@ -382,16 +382,16 @@ A popular choice of background noise\#for men taking a load off after a hard day
 <!-- Event Name --><#>W2D - Creepy Sax
 A song based on the artists childhood nightmares.<#>Песня, основанная на детских кошмарах автора.
 <!-- Event ID --><#>109
-<!-- Event Name --><#>UFODs - Boneyard March
-Michael - Springer. Has that signature UFODs'\#"Made in a garage and with a limited budget" feel<#>Майкл - Спрингер. Заключает в себе тот самый\#"гаражный" стиль группы UFODs.
+<!-- Event Name --><#>ПНЛО - Boneyard March
+Michael - Springer. Has that signature UFODs'\#"Made in a garage and with a limited budget" feel<#>Майкл - Спрингер. Заключает в себе тот самый\#"гаражный" стиль группы ПНЛО.
 <!-- Event ID --><#>110
-<!-- Event Name --><#>UFODs - Fighting with Sticks and Stones
+<!-- Event Name --><#>ПНЛО - Fighting with Sticks and Stones
 Springer - Harris. A song perfect for every occasion!\#(As long as that occasion is a vintage ass-whoopin')<#>Спрингер - Харрис. Песня, идеальная для любого случая!\#(Пока этот случай заключается в старинном мордобое.)
 <!-- Event ID --><#>111
 <!-- Event Name --><#>W2D - Work Harder
 No words can ever properly articulate\#just how manly this song makes you feel.<#>Пером не описать, как мужественно вы ощущаете\#себя, слушая эту песню.
 <!-- Event ID --><#>112
-<!-- Event Name --><#>UFODs - Stillwater
+<!-- Event Name --><#>ПНЛО - Stillwater
 Michael - Springer. An experimental track from\#UFO Drivers. Everyone preferred their earlier works.<#>Майкл - Спрингер. Экспериментальный трек от пилотов\#НЛО. Всем нравились их старые работы.
 <!-- Event ID --><#>113
 <!-- Event Name --><#>W2D - Satan's Call

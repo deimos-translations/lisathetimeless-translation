@@ -196,7 +196,7 @@ is back to their feet!<#>снова на ногах!
 Cool<#>Крутость
 <!-- Event ID --><#>43
 <!-- Event Name --><#>Super Cool
-Super Cool<#>Супер-крутость
+Super Cool<#>Суперкрутость
 <!-- Event ID --><#>44
 <!-- Event Name --><#>Defend
 Defend<#>Защита
