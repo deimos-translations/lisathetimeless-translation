@@ -65,7 +65,7 @@ Dumbass.<#>Дурачьё.
 <!-- Event ID --><#>29
 <!-- Event Name --><#>Trust Manual
 Trust for Suckers:<#>Доверие для сосунков:
-You're an idiot.<#>Дурачьё.
+You're an idiot.<#>Вы идиоты.
 The End.<#>Конец.
 <!-- Event ID --><#>30
 <!-- Event Name --><#>Creed

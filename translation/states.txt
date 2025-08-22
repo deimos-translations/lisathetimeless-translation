@@ -209,7 +209,7 @@ stood up for it's beliefs.<#>остаётся верен своим принци
 <!-- Event Name --><#>Oiled Up
 Oiled Up<#>Масло
 is covered in oil!<#>покрыт маслом!
-is oiled up!<#>масленый!
+is oiled up!<#>масленный!
 is no longer oiled up!<#>очищает себя от масла!
 <!-- Event ID --><#>47
 <!-- Event Name --><#>Party Mode
@@ -475,9 +475,9 @@ is trying to get up!<#>пытается встать!
 is back to their feet!<#>снова на ногах!
 <!-- Event ID --><#>114
 <!-- Event Name --><#>Dissipating
-Dissipating<#>Чистка
-is losing mud!<#>счищает грязь!
-is no longer losing mud.<#>счистил грязь.
+Dissipating<#>Отряхивание
+is losing mud!<#>стряхивает грязь!
+is no longer losing mud.<#>больше не в грязи.
 <!-- Event ID --><#>115
 <!-- Event Name --><#>Sleep
 Sleep<#>Сон

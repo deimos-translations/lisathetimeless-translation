@@ -29,7 +29,7 @@ Sweaty from years of balling.<#>Потные от многих лет драк.
 <!-- Event ID --><#>13
 <!-- Event Name --><#>Bare Fists
 Bare Fists<#>Кулаки
-Your bare goddamn fists.\#Callused up from years of sockin' and rockin'.<#>Просто голые кулаки.\#Все в мозолях от постоянных драчек и срачек.
+Your bare goddamn fists.\#Callused up from years of sockin' and rockin'.<#>Чёртовы голые кулаки.\#Все в мозолях от постоянных драчек и срачек.
 <!-- Event ID --><#>14
 <!-- Event Name --><#>
 <!-- Event ID --><#>15

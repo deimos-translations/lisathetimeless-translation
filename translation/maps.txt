@@ -279,7 +279,7 @@ He is dead.<#>Он мёртв.
 \et[046]Just do\#something!<#>Просто сделай\#что-нибудь!
 \et[046]He was a\#good friend...<#>Он был\#хорошим другом...
 \et[046]Da-aa-aamn!<#>Чё-ё-ё-ёрт!
-\et[046]You suck!<#>Ты - отстой!
+\et[046]You suck!<#>Ты мудак!
 \et[046]You've saved him!<#>Ты спас его!
 \et[046]Thank you!<#>Спасибо!
 \et[000]Uuughh...<#>Ууффф...
@@ -369,7 +369,7 @@ What a cruel death.<#>Какая жестокая смерть.
 \et[208]Come on! Rocks are\#good for digestion.<#>Ну же! Камни полезны\#для пищеварения.
 \et[000]Okay, okay! You got it.<#>Ладно, ладно! Понял.
 \et[000]I have problems with it.<#>У меня с ним проблемы.
-\et[208]Hey!..<#>Эй!..
+\et[208]Hey!..<#>Эй...!
 \et[000]I have no time\#for your moods.<#>У меня нет времени\#на твои игры.
 <!-- Map --><#>25
 <!-- Order --><#>22
@@ -417,7 +417,7 @@ He's dead.<#>Он мёртв.
 \et[002]We're fixing an\#unstable toilet,\#and it's a very\#dangerous job.<#>Мы чиним нестабильный\#туалет, и это очень\#опасная работа.
 \et[002]It might even explode\#within seconds.<#>Он может взорваться\#в считанные секунды.
 \et[00]Alright, I'd better go.<#>Ладно, я лучше пойду.
-\et[009]Uuugh... What's\#goin' on here?..<#>Ууухх... Что тут\#происходит?..
+\et[009]Uuugh... What's\#goin' on here?..<#>Ууухх... Что тут\#происходит...?
 \et[009]Why are they\#glaring at a toilet?<#>Почему они смотрят\#на туалет?
 \et[00]No idea.<#>Без понятия.
 \et[009]Hm...<#>Хм...
@@ -455,7 +455,7 @@ No<#>Нет
 <!-- Map Name --><#>Canyon
 <!-- In-game Displayed Name:  --><#>
 \et[017]Finally someone's\#here!<#>Наконец-то, здесь\#кто-то есть!
-\et[017]Your money or your life\^<#>Кошелёк или жизнь!\^
+\et[017]Your money or your life\^<#>Кошелёк или жизнь\^
 \et[01]Back off, wimp!<#>Отвали, слабак!
 He is dead.<#>Он мёртв.
 Take his pipe?<#>Взять его трубу?
@@ -792,7 +792,7 @@ A Cigarette and a Diet Cocola Cola!<#>Сигарета и диетическая
 \et[08]We're the TNT Team,<#>Мы - команда ТНТ,
 \et[08]the most dangerous\#and destructive group this side of Olathe!<#>самая опасная и разрушительная\#группа в этой части Олейта!
 \et[08]However, these days\#we're running low on\#good cannon fodder,<#>Хотя, у нас в последние\#дни недостаток пушечного\#мяса...
-\et[08]so we're offering you fellas\#the opportunity to join our ranks.<#>так что мы даём вам, ребята,\#возможность вступить в нашу группу.
+\et[08]so we're offering you fellas\#the opportunity to join our ranks.<#>Так что мы даём вам, ребята,\#возможность вступить в нашу группу.
 \et[00]You want us to join you?<#>Ты хочешь, чтобы\#мы вступили к вам?
 \et[08]Correct.<#>Верно.
 \et[08]But if you refuse our generous offer,\#I've got agents all over the area\.\#to make sure you ain't leaving alive.<#>Но если вы откажетесь от нашего\#щедрого предложения, я расставил\#агентов по всей округе,\. чтобы убедиться\#что вы никуда не уйдёте.
@@ -842,7 +842,7 @@ You found a secret stash!<#>Вы нашли скрытый схрон!
 \et[05](Would you like it\#to save your game?)<#>(Вы хотите\#сохранить игру?)
 Yes<#>Да
 No<#>Нет
-\et[05]A blank wanted poster.<#>Пустой разыскной постер.
+\et[05]A blank wanted poster.<#>Пустой разыскной плакат.
 \et[017]WANTED:<#>РАЗЫСКИВАЕТСЯ:
 \et[017]Aiwo Chervogorskiy.<#>Айво Червогорский.
 \et[017]Reward:\#200 mags.<#>Награда:\#200 журналов.
@@ -1392,8 +1392,8 @@ It's dead.<#>Он мёртв.
 \et[024]Then I'm afraid I haven't.<#>Тогда, боюсь, не видел.
 \et[024]All I know is fish.<#>Я знаю лишь рыб.
 \et[024]All I've seen is fish.<#>Я видел лишь рыб.
-\et[024]And all I'll\#continue to do.<#>И буду видеть\#лишь рыб.
-\et[024]Is fish.<#>Рыбачить.
+\et[024]And all I'll\#continue to do.<#>И я продолжу\#ловить...
+\et[024]Is fish.<#>Рыб.
 \et[024]I've been\#fishing in this\#here spot for three\#weeks straight now.<#>Я рыбачу в этом\#месте уже три\#недели подряд.
 \et[024]And it\#was almost\#starting to\#get dull.<#>И всё будто\#начало\#надоедать.
 \et[024]But now.<#>Но...
@@ -2369,8 +2369,8 @@ Potato Liquor!<#>Картофельный ликёр!
 \et[002]Then I'm afraid I haven't.<#>Тогда, боюсь, не видел.
 \et[02]All I know is fish.<#>Я знаю лишь рыб.
 \et[002]All I've seen is fish.<#>Я видел лишь рыб.
-\et[02]And all I'll continue to do.<#>И буду видеть лишь рыб.
-\et[002]Is fish.<#>Рыбачить.
+\et[02]And all I'll continue to do.<#>И я продолжу ловить...
+\et[002]Is fish.<#>Рыб.
 \et[02]I'm still fishing.<#>Я ещё рыбачу.
 \et[030]Hey man? Wanna warp\#to that Ironton Town?<#>Эй, мужик. Хочешь отправиться\#в Айронтон?
 Yes<#>Да
@@ -2764,7 +2764,7 @@ Uh, yeah. I found it.<#>А, да. Я нашёл его.
 I don't have it, sorry. (Lie)<#>У меня его нет, прости. (Ложь)
 \et[000]Uh, yeah.\#I found it.<#>А, да.\#Я нашёл его.
 You have lost Gasoline Can<#>Вы потеряли канистру с бензином.
-\et[007]Good.\. Here's\#your end\#of the\#bargain.<#>Отлично.\.\#Вот награда,\#как договаривались.
+\et[007]Good.\. Here's\#your end\#of the\#bargain.<#>Отлично.\.\#Вот твоя часть\#сделки.
 You got a Taser!<#>Вы получили шокер!
 \et[000]I don't\#have it, sorry.<#>У меня нет\#его, прости.
 \et[007]Is that\#how you\#thank friends?!<#>Вот так ты\#благодаришь\#друзей?!

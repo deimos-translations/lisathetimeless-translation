@@ -19,7 +19,7 @@ File<#>Файл
 You can't escape!<#>Вы не можете сбежать!
 %s was victorious!<#>%s одерживает победу!
 %s was defeated.<#>%s терпит поражение.
-%s EXP received!<#>%s ед. опыта!
+%s EXP received!<#>%s ед. опыта получено!
 %s\\Mags found!<#>%s журналов найдено!
 %s found!<#>Вы нашли %s!
 %s is now %s %s!<#>%s теперь %s %s!
