@@ -88,7 +88,7 @@ Conjurer<#>Фокусник
 <!-- Event Name --><#>
 <!-- Event ID --><#>43
 <!-- Event Name --><#>Ern Himself
-Ern Himself<#>Эрн, он самый
+Ern Himself<#>Тот самый Эрн
 <!-- Event ID --><#>44
 <!-- Event Name --><#>Aged Vagrant
 Aged Vagrant<#>Пожилой бродяга

@@ -2,7 +2,7 @@
 <!-- Event Name --><#>Elton
 Elton<#>Элтон
 Broll<#>Бролл
-An aged vagabond just trying to live out what\#little time he has left.<#>Пожилой бродяга, пытающийся пережить то\#немногое время, которое у него осталось.
+An aged vagabond just trying to live out what\#little time he has left.<#>Пожилой бродяга, пытающийся дожить\#свои деньки.
 <win quotes>\#\elb Serves ya right!\#[new quote]\#\elb My back is killing me...\#[new quote]\#\elb Ugh.. I need a drink...\#</win quotes>\#<level quotes>\#\elb I've still got it.\#[new quote]\#\elb Hey! My knees\#stopped popping!\#[new quote]\#\elb Tch, "past your\#prime" my ass...\#</level quotes>\#</drops quotes>\#\elb Back on the\#road again.\#[new quote]\#\elb Any Liqueur?\#[new quote]\#\elb Oh good, more\#crap to carry...\#</drops quotes><#><win quotes>\#\elb Так тебе и надо!\#[new quote]\#\elb Моя спина умирает...\#[new quote]\#\elb Ох... мне надо выпить...\#</win quotes>\#<level quotes>\#\elb Есть ещё порох в пороховницах.\#[new quote]\#\elb Эй! Мои колени перестали хрустеть!\#[new quote]\#\elb Тц, я ещё нахрен не "отжил своё"...\#</level quotes>\#</drops quotes>\#\elb Снова в путь.\#[new quote]\#\elb Есть выпивка?\#[new quote]\#\elb Господи, теперь носить ещё хлам...\#</drops quotes>
 <!-- Event ID --><#>2
 <!-- Event Name --><#>Berny
@@ -14,13 +14,13 @@ Boring accountant turned aspiring mystic.\#His soul now burns bright as ever!<#>
 <!-- Event Name --><#>John
 John<#>Джон
 Spin<#>Спин
-A WW1 vet with over 10 decades of regret weighing\#on his shoulders. Do not deny him his redemption.<#>Ветеран первой мировой, который несёт на своих плечах\#сотню лет сожалений. Не отказывайте ему в его мести.
+A WW1 vet with over 10 decades of regret weighing\#on his shoulders. Do not deny him his redemption.<#>Ветеран первой мировой, который несёт на своих плечах\#сотню лет сожалений. Не отказывайте ему в искуплении.
 <!-- Event ID --><#>4
 <!-- Event Name --><#>Ern
 Ern<#>Эрн
 Popwell<#>Попуэлл
-A bummy bum willing to help his friends in need.\#Known for his killer drunken haymaker.<#>Бомжеватый бомж, который желает помочь своим\#друзьям в беде. Известен за свой стиль пьяного сенокосца.
-<win quotes>\#\elb Huh? Is.. is it over..?\#[new quote]\#\elb ...we won? We won!\#[new quote]\#\elb You guys sure do get in alot of fights.\#</win quotes>\#<level quotes>\#\elb I'll sock em' real good next time!\#[new quote]\#\elb Good thing I've been doing my stretches.\#[new quote]\#\elb My callus thickens!\#</level quotes>\#<drops quotes>\#\elb So uhh... what now?\#[new quote]\#\elb You fellas mind if I keep some stuff for myself?\#[new quote]\#\elb Can't wait to tell the boys at the bar about this!\#</drops quotes><#><win quotes>\#\elb А? Всё... кончилось...?\#[new quote]\#\elb ...мы победили? Мы победили!\#[new quote]\#\elb Вы, ребята, ввязываетесь в кучу драк.\#</win quotes>\#<level quotes>\#\elb В следующий раз я им хорошенько всыплю!\#[new quote]\#\elb Хорошо, что я занимаюсь растяжками.\#[new quote]\#\elb Мозолей всё больше!\#</level quotes>\#<drops quotes>\#\elb Иии... что теперь?\#[new quote]\#\elb Ребята, не возражаете, если я кое-что себе заберу?\#[new quote]\#\elb Жду не дождусь рассказать об этом парням в баре!\#</drops quotes>
+A bummy bum willing to help his friends in need.\#Known for his killer drunken haymaker.<#>Бомжеватый бомж, который желает помочь своим\#друзьям в беде. Известен своим стилем пьяного сенокосца.
+<win quotes>\#\elb Huh? Is.. is it over..?\#[new quote]\#\elb ...we won? We won!\#[new quote]\#\elb You guys sure do get in alot of fights.\#</win quotes>\#<level quotes>\#\elb I'll sock em' real good next time!\#[new quote]\#\elb Good thing I've been doing my stretches.\#[new quote]\#\elb My callus thickens!\#</level quotes>\#<drops quotes>\#\elb So uhh... what now?\#[new quote]\#\elb You fellas mind if I keep some stuff for myself?\#[new quote]\#\elb Can't wait to tell the boys at the bar about this!\#</drops quotes><#><win quotes>\#\elb А? Всё... кончилось...?\#[new quote]\#\elb ...мы победили? Мы победили!\#[new quote]\#\elb Вы, ребята, ввязываетесь в кучу драк.\#</win quotes>\#<level quotes>\#\elb В следующий раз я им хорошенько всыплю!\#[new quote]\#\elb Хорошо, что я занимаюсь растяжкой.\#[new quote]\#\elb Мозолей всё больше!\#</level quotes>\#<drops quotes>\#\elb И-и-и... что теперь?\#[new quote]\#\elb Ребята, не возражаете, если я кое-что себе заберу?\#[new quote]\#\elb Жду не дождусь рассказать об этом парням в баре!\#</drops quotes>
 <!-- Event ID --><#>5
 <!-- Event Name --><#>
 <!-- Event ID --><#>6

@@ -5,21 +5,21 @@
 Buy<#>Купить
 Sell<#>Продать
 Cancel<#>Отмена
-Possession<#>Имеется
+Possession<#>В инвентаре
 Current Exp<#>Текущий опыт
 To Next %s<#>До следующего уровня
 Save to which file?<#>В какой файл сохранить?
 Load which file?<#>Какой файл загрузить?
 File<#>Файл
 %s's Party<#>Группа Элтона
-%s emerged!<#>%s появился!
-%s got the upper hand!<#>%s одержал верх!
-%s was surprised!<#>%s был удивлен!
+%s emerged!<#>%s появляется!
+%s got the upper hand!<#>%s одерживает верх!
+%s was surprised!<#>%s в удивлении!
 %s has started to escape!<#>%s пытается сбежать!
 You can't escape!<#>Вы не можете сбежать!
 %s was victorious!<#>%s одерживает победу!
 %s was defeated.<#>%s терпит поражение.
-%s EXP received!<#>%s опыта получено!
+%s EXP received!<#>%s ед. опыта получено!
 %s\\Mags found!<#>%s журналов найдено!
 %s found!<#>Вы нашли %s!
 %s is now %s %s!<#>%s теперь %s %s!
@@ -27,7 +27,7 @@ You can't escape!<#>Вы не можете сбежать!
 %s uses %s!<#>%s использует %s!
 An excellent hit!!<#>Отличный удар!
 A painful blow!!<#>Болезненный удар!
-%s took %s damage!<#>%s получает %s урона!
+%s took %s damage!<#>%s получает %s ед. урона!
 %s recovered %s %s!<#>%s восстанавливает %s на %s!
 %s gained %s %s!<#>%s получает %s %s!
 %s lost %s %s!<#>%s теряет %s %s!
@@ -306,7 +306,7 @@ One Random Foe<#>Один случайный враг
 %d Random Foes<#>%d случайных врагов
 All Allies<#>Все союзники
 All Dead Allies<#>Все мёртвые союзники
-One Random Ally<#>Один случайные союзник
+One Random Ally<#>Один случайный союзник
 %d Random Allies<#>%d случайных союзников
 -%s SP<#>-%s ОН
 +%s SP<#>+%s ОН
@@ -356,7 +356,7 @@ Equipment<#>Экипировка
 <!-- Script Name --><#>Battle Results
 New Skills<#>Новые навыки
 You<#>Вы
-%s won the battle.<#>%s победили в бою.
+%s won the battle.<#>%s побеждает в бою.
 %s has leveled up!<#>%s повышает уровень!
 Leftovers<#>Добыча
 +%sEXP<#>+%s ОПЫТА
