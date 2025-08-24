@@ -5,4 +5,5 @@
 /data
 /output
 /package.json
-/.rpgmtranslate/**/*
+/.rpgmtranslate/**/
+/.rpgmtranslate/replacement-log.json
