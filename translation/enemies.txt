@@ -56,7 +56,7 @@ Slot Machine<#>Слот-машина
 Leighton Astonata<#>Лейтон Астоната
 <!-- Event ID --><#>25
 <!-- Event Name --><#>Fridge's Door
-Fridge's Door<#>Дверь холодильника
+Fridge's Door<#>Дверца холодильника
 <!-- Event ID --><#>26
 <!-- Event Name --><#>Thrashing Trash
 Thrashing Trash<#>Бойцовская мусорка
@@ -65,7 +65,7 @@ Thrashing Trash<#>Бойцовская мусорка
 Mending Trash<#>Ремонтная мусорка
 <!-- Event ID --><#>28
 <!-- Event Name --><#>Shadowy Figure
-Shadowy Figure<#>Теневая фигура
+Shadowy Figure<#>Тёмный силуэт
 <!-- Event ID --><#>29
 <!-- Event Name --><#>Goggog Gripfield
 Goggog Gripfield<#>Гоггог Грипфилд

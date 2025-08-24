@@ -107,7 +107,7 @@ calmed down.<#>успокаивается.
 <!-- Event ID --><#>26
 <!-- Event Name --><#>Burning
 Burning<#>Горение
-is on fire!<#>в огне!
+is on fire!<#>горит!
 's flames went out!<#>тушит себя!
 <!-- Event ID --><#>27
 <!-- Event Name --><#>Deep Poison
