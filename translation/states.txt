@@ -401,7 +401,7 @@ Goldenbody<#>Золотое тело
 is buffed up!<#>напрягает мышцы!
 <!-- Event ID --><#>94
 <!-- Event Name --><#>Satiated
-Satiated<#>Насыщен
+Satiated<#>Сытость
 <!-- Event ID --><#>95
 <!-- Event Name --><#>Hypnotized
 Hypnotized<#>Гипноз
