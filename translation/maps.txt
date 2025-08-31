@@ -191,7 +191,7 @@ A can of Cocola Cola<#>Банка Кокола-колы!
 \et[010]What?<#>Что?
 \et[00]We're heading the exact\#opposite way.<#>Мы идём в другом\#направлении.
 \et[010]Hm?<#>А?
-Oh yeah. The "Am I Evil" billboard.<#>А, да. Биллборд "Зло ли я".
+Oh yeah. The "Am I Evil" billboard.<#>А, да. Билборд "Зло ли я".
 We should really turn back.<#>Нам правда нужно повернуть.
 Yes.<#>Да.
 Close<#>Закрыть
